@@ -84,6 +84,16 @@ admirātiō - почитание, учудване, изумление(?)
 scamnum - стол, стъпало
 sacerdōs - свещеник
 cāsus - падеж
+casa - колиба
+quercus - дъб
+dracō - дракон, змей
+āra - олтар
+arca - кутия
+rīma - дупка
+honōs - чест
+calanthus - кошница
+scēptrum - скиптър, жезъл
+cingulum - колан
 
 pōmum - плод
 mālum - якълка
@@ -114,6 +124,7 @@ corim - кора
 nucleus - зърно
 medulla - месеста част
 
+corvus - гарван
 gallus - петек
 gallīna - кокошка
 ōvum - яйце
@@ -124,6 +135,10 @@ vitulus - теле
 ariēs - овен
 ovis - овца 
 agnus - агне
+caper - козел
+capra - коза
+haedum - козле
+cervus - елен
 
 
 gallīnācea -пилешко
