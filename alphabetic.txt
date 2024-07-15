@@ -192,7 +192,6 @@ laedere - набия, пребия
 lardum - бекон
 largus - щедър
 latēre - крия се
-# latin-bulgarian-dictionarypārēre - подчинявам се (изпълнявам?)
 lēx - закон
 libere - харесвам, обичам
 licere - позволено е
@@ -264,6 +263,7 @@ ovis - овца
 ōvum permixta - бъркано яйце
 ōvum - яйце
 palmula. caryōta, dactylus - фурма
+pārēre - подчинявам се (изпълнявам?)
 parere - раждам
 parvus, minor, minimus - малък
 pāscere - наслаждавам се
