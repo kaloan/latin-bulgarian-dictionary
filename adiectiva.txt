@@ -1,0 +1,60 @@
+bonus, melior, optimus - добър
+malus, pēior, pessinus - лош
+magnus, māior, māximus - голям
+parvus, minor, minimus - малък
+tantus - толкова голям
+exiguus - малък, дребен
+calidus - топъл
+frīgidus - студен
+dīmidius - намаляващ, смаляващ се
+rēctus - прав, верен
+prāvus - грешен
+facilis - лесен
+difficilis - труден
+largus - щедър
+multī, plūrēs, plūrimī - многоброен
+multum, plūs plūris, plūrimum - много
+paulum, minus, minimum - малко 
+cautus - предпазлив, внимателен, мнителен(?)
+audāx - смел, решителен(?)
+temerārius - дързък
+caecus - сляп
+surdus - глух
+mūtus - ням
+claudus - съкат
+mortālis - смъртен
+tūtus - предпазен, защитен, в безопасност
+attentus - внимаващ
+vēlōx - бърз
+fēlīx - късметлив
+ignārus - неук
+nōtus - известен
+nōbilis - аристократ, известен, важен
+celsus - висок 
+fallāx - лъжлив, мамещ, грешен
+iūcundus - задоволяващ
+molestus - неприятен, болезнен, отврятителен
+īmus - долен
+summus -горен
+tardus - бавен, закъсняващ
+acerbus - кисел
+nimius - твърде голям
+dēbilis - болен, слаб
+ēbrius - пиян
+avārus - алчен
+fodus - верен
+fugitīvus - беглец
+sapiēns - умен, мъдър, разумен
+crūdēlis - жесток, див, освирепен
+vetus - вехт, стар, древен 
+cārus - прескъпо
+vīlis - преевтино
+idōneus - удобен, подходящ 
+posterus - следващ
+dīrus - ужасен
+incolumnis - невредим
+ācer - желаещ да действа
+perpetuus - вечен
+venustus - обичан
+passus - сушен
+glaber - гладък
