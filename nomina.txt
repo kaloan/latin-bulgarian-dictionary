@@ -94,6 +94,56 @@ honōs - чест
 calanthus - кошница
 scēptrum - скиптър, жезъл
 cingulum - колан
+radius - лъч
+sūdor - пот
+calculus - камъче
+fōns - извор, фонтан
+gutta - капка
+nepōs - внук, внучка, разпуснат човек, разпътник
+opecrulum - капак
+cāseus - сирене
+antrum - пещера
+unda - вълничка
+spēlunca - пещера
+cāligō - плътен облак
+vapor - пара
+nebula - мъгла
+unguis - нокът
+ratis - рафт, лодка
+lapis - камък
+pilus - козина
+scintilla - искра
+ferula - палма
+venēnum - отрова
+socius - съюзник
+anguis - змя, змей
+pharetra - колчан
+rādix - корен
+cortex - кора
+frōns - листа, зеленина, клонче с листа
+acus - игла
+venia - прошка, опрощение
+sūcus - сок, смола
+laqueus - примка, капан
+tēla -паяжина
+arānea - паяк
+pavō - фазан
+statuā - статуя
+līmen - праг
+sertum - венец
+tabernāculum - палатка
+vāgīna - ножница
+vātēs - пророк, ясновидец
+dūmus - храст
+latibulum - скривалище
+splendor - блясък
+gemitus - стон
+lympha - вода, прозрачна течност
+scāla - стълба
+solium - трон
+īnsidiae - засада, клопка
+pondus - тежест, бреме
+macula - петно
 
 pōmum - плод
 mālum - якълка
@@ -119,6 +169,8 @@ cucumeris - краставица
 olīva - маслина
 fīcus - смокиня
 palmula. caryōta, dactylus - фурма
+mālum pūnicum - нар
+spīca - жито
 
 corim - кора
 nucleus - зърно
@@ -139,7 +191,10 @@ caper - козел
 capra - коза
 haedum - козле
 cervus - елен
-
+aper - глиган
+ursus - мечок
+ursa - мечка
+olor - лебед
 
 gallīnācea -пилешко
 būbula - говеждо
@@ -163,3 +218,4 @@ viridis - зелено
 purpureus - пурпурно
 ruber - червено
 rutilus - оранжево
+crocinum - жълто (шафранено)

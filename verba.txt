@@ -132,7 +132,7 @@ currere - тичам, бягам
 experīrī (d) - откривам, тествам, доказвам, опитвам, пробвам
 tegere, tēxisse, tēctum - покривам, прикривам
 egēre (+abl) - нуждая се от
-latēre - прикривам се
+latēre - прикривам се, дебна, укривам
 contemnere - презирам
 respicere - поглеждам отново
 dēsīderāre - желая, жалея
@@ -140,3 +140,26 @@ dēsīderāre - желая, жалея
 spernere - презирам
 colligere - събирам
 parcāre - въздържам се
+fulgēre - блести, свети
+inspicere - наблюдавам
+tegere - прикривам
+plangere - бия се в гърдите от печал
+calefacere - стоплям, загрявам
+ērigere - възбуждам, издигам
+trānsfīgere - промуша
+flagrāre - пламтя
+pingere, pīnxisse, pictum - рисувам
+gestāre - нося
+consciscere - да реша
+consciscere (+sibi) - да си наплека
+taxere - плета
+cēlāre - скривам
+obdormīre - заспивам
+commovēre - разчуствам
+caelāre - правя резба, дялкам надпис в камък
+calcāre - тъпча, стъпвам
+paenitēre - разкайвам се, гризе ме съвестта
+īnsidāre - чакам в засада, заговорнича, поставям клопка, внимавам
+diffugere - разпръсквам
+venārī (d) - ловувам, диря, преследвам
+dīlacerāre -гърча се 

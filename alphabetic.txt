@@ -3,6 +3,7 @@ accendere - горя, блестя, бушувам
 accidere - случва се, сбъдва се, съвпадне (?)
 acerbus - кисел
 ācer - желаещ да действа
+acus - игла
 adhūc - засега, досега 
 admirātiō - почитание, учудване, изумление(?)
 ad - към (приближаване)
@@ -13,13 +14,19 @@ agere - действам, върша
 agnīna - агнешко
 agnus - агне
 allicere - привличам
+ambō - и двата
+āmens - неразумен, откачен, изперкал. не с всичкия си
 āmittere - губя, загубвам, давам (?)
 amnis - река
 ananāsa - ананас
+anguis - змя, змей
 animadvertere = забелязвам, отчитам, обръщам внимание на
+antrum - пещера
+aper - глиган
 appārēre - явявам се
 apprehendere - грабвам, държа се за
 apud - заедно с
+arānea - паяк
 āra - олтар
 arca - кутия
 ārdēre - горя, гневя се
@@ -42,10 +49,16 @@ bonus, melior, optimus - добър
 bōs, taurus - бик
 būbula - говеждо
 caecus - сляп
+caelāre - правя резба, дялкам надпис в камък
 caeruleās - синьо
 calanthus - кошница
+calcāre - тъпча, стъпвам
+calculus - камъче
+calefacere - стоплям, загрявам
 calidus - топъл
+cāligō - плътен облак
 cantus - песен
+capāx - голям, обемистnōn - не
 caper - козел
 capite pūnīre - екзекутирам
 capra - коза
@@ -54,8 +67,10 @@ carmen - песен
 carō - месо
 cārus - прескъпо
 casa - колиба
+cāseus - сирене
 cāsus - падеж
 cautus - предпазлив, внимателен, мнителен(?)
+cēlāre - скривам
 celsus - висок 
 cēnāre - вечерям
 cēna - вечеря
@@ -70,9 +85,12 @@ claudus - съкат
 cocus - готвач
 cōgere - принуждавам, насилвам
 colligere - събирам
+commovēre - разчуствам
 conāri (d) - опитвам се, прибвам
 cōnfidere - доверявам се
 confitērī (d) - признавам
+consciscere (+sibi) - да си наплека
+consciscere - да реша
 cōnsilium - съвет, решение, план
 cōnsistere - спирам, прекъсвам(?)
 cōnstāre - струва
@@ -84,11 +102,13 @@ convīvium - събиране, банкет, гост (!)
 coquere - готвя
 cōram - в присъствието на 
 corim - кора
+cortex - кора
 corvus - гарван
 cotīdiē - всеки ден
 crās - утре
 crēdere - вярвам, доверявам се 
 crēscere - раста, проявявам се, повишавам, засилвам
+crocinum - жълто (шафранено)
 cruciāre - мъча, измъчвам
 crūdēlis - жесток, див, освирепен
 crux - кръст
@@ -113,6 +133,9 @@ dēsistere - възпирам, прекратявам
 dēsperāre - отчайвам се
 dictum - слово, изказване, заповед
 difficilis - труден
+diffugere - разпръсквам
+dignus - заслужил
+dīlacerāre -гърча се 
 dīligere - обичам (роднина)
 dīmidius - намаляващ, смаляващ се
 dīrus - ужасен
@@ -123,13 +146,16 @@ donec - докато
 dracō - дракон, змей
 dubitāre - съмнявам се
 dumtaxat - само, единствено, точно
+dūmus - храст
 dum - докато
+dūrus - твърд (и в преносен смисъл)
 ēbrius - пиян
 ecce - ето
 egēre (+abl) - нуждая се от
 ēicere - изхвърлям
 ēlegere - избирам
 ēnsis - меч
+ērigere - възбуждам, издигам
 errāre - странствам, блуждая
 et - и
 ēvolāre - излитам, отлитам
@@ -148,22 +174,27 @@ famēs - глад
 fēlīx - късметлив
 ferē - около, горе-долу
 ferre - нося
+ferula - палма
 fīcus - смокиня
 fidēs (III) - лира, струннен инструмент
 fidēs (V) - вяра
 fidicen - лирист
 fieri - случва се, сбъдва се, създава се, подготвя се
+flagrāre - пламтя
 flectere - свивам
 fodus - верен
+fōns - извор, фонтан
 forte - незнайно защо, безцелно
 fortūna - съдба
 frāgum - ягода
 fretum - проток
 frīgidus - студен
+frōns - листа, зеленина, клонче с листа
 fruī (d) - радвам се на, удовлетворява ме
 frūstrā - напразно, неуспешно
 frūstum - пържола
 fugitīvus - беглец
+fulgēre - блести, свети
 funditus - напълно, изцяло
 fundus - дъно
 fūrtum - кражба
@@ -171,15 +202,19 @@ fūr - крадец
 gallīnācea -пилешко
 gallīna - кокошка
 gallus - петек
+gemitus - стон
 gerere  - нося (дрехи и т.н.)
+gestāre - нося
 glaber - гладък
 grātia - благодарност
 gustāre - вкуся
+gutta - капка
 habēre - имам, притежавам, задържам, смятам, състои се от, да владея,  
 haedum - козле
 haud - не, хич не
 heri - вчера
 hiems - зима
+hirsūtos - с много козина, дебелокосмест
 hodiē - днес
 honōs - чест
 iactūra - загуба, цена
@@ -197,7 +232,10 @@ inde ab - откакто
 inde - откъдето
 induere - обличам се
 ingenium - характер(?)
+īnsidāre - чакам в засада, заговорнича, поставям клопка, внимавам
 īnsidēre - язда
+īnsidiae - засада, клопка
+inspicere - наблюдавам
 interpellāre - прекъсвам
 interpellāre - прекъсвам (когато някойй говори)
 invidia - завист
@@ -215,21 +253,30 @@ labī (d) - падам, хлъзгам се
 lābī - хлъзгам се
 lacus - езеро
 laedere - набия, пребия
+lapis - камък
+laqueus - примка, капан
 lardum - бекон
 largus - щедър
 latēre - крия се
-latēre - прикривам се
+latēre - прикривам се, дебна, укривам
+latibulum - скривалище
+lentus - бавен, мързелив
 lēx - закон
+libenter - със щастие
 libere - харесвам, обичам
 licere - позволено е
+līmen - праг
 līmō viridis - лайм
 līmō - лимон
 lucrum - печалба
 lūgēre - оплаквам, жалея
 lycopersica - домат
+lympha - вода, прозрачна течност
+macula - петно
 magnus, māior, māximus - голям
 mālle - предпочитам
 mālum paradīsī - нар
+mālum pūnicum - нар
 mālum - якълка
 malus, pēior, pessinus - лош
 māne - утро
@@ -255,6 +302,9 @@ mundus - свят
 mūnus - 
 mūtus - ням
 nascī (d) - раждам се
+nebula - мъгла
+nepōs - внук, внучка, разпуснат човек, разпътник
+nequam (ind) - подъл, отвратителен, низък
 neque - нито, и не
 ...ne - ли
 nimis - прекалено, предостатъчно
@@ -268,11 +318,14 @@ nūgae - глупости, проститии
 num - ли
 nunc - сега (нещо се случва)
 nux - ядка, плод с черупка
+obdormīre - заспивам
 oboedīre - подчинявам се
 occidēns - запад
 occurere - срещам, изправен съм срещу, съвпадам
 offa - парче месо (и по общо парче храна)
 olīva - маслина
+olor - лебед
+opecrulum - капак
 opera - работа, грижи
 operīre - покривам, прикривам(?)
 oportāre - редно е
@@ -290,6 +343,7 @@ ovis - овца
 ōvum permixta - бъркано яйце
 ōvum - яйце
 paenitēre, -uisse - раззкайвам се, съжалявам
+paenitēre - разкайвам се, гризе ме съвестта
 palmula. caryōta, dactylus - фурма
 parcāre - въздържам се
 pārēre - подчинявам се (изпълнявам?)
@@ -299,23 +353,31 @@ pāscere - наслаждавам се
 passus - сушен
 paulisper - закратко
 paulum, minus, minimum - малко 
+pavō - фазан
 pāx - мир
 pecūlium -  
+penitus - далеч
 pepō, mēlopepō, citrullus lānātus - диня
 percutere - блисгам, тропам
 perferre - издържа
 perficere - завършвам, довършвам
 perīculum - беда
+perītus - вещ, опитен
 perna - шунка
 perpetuus - вечен
 persica - праскова
 pervenīre - стигам, достигам
 per - чрез
 phantasma - призрак
+pharetra - колчан
+pilus - козина
+pingere, pīnxisse, pictum - рисувам
 pirum - круща
 placēre - задоволявам
+plangere - бия се в гърдите от печал
 poena - наказание
 pōmum - плод
+pondus - тежест, бреме
 porcīna, sūina - свинско
 porcus. sūs - свиня
 portāre - нося
@@ -351,6 +413,9 @@ quid - какво
 quin - защо не
 quoque - също
 quō - накъде
+radius - лъч
+rādix - корен
+ratis - рафт, лодка
 rēctus - прав, верен
 redimere - откупя
 relinquere - оставям
@@ -359,7 +424,7 @@ rēmus - гребло
 reperīre - 
 requīrere - търся, питам
 respicere - поглеждам отново
-rigidus - здравnōn - не
+rigidus - здрав
 rīma - дупка
 ripa - речен бряг
 rogāre - питам
@@ -374,13 +439,16 @@ salūs - спасение
 salvāre - спасявам
 sapiēns - умен, мъдър, разумен
 satis - достатъчно
+scāla - стълба
 scamnum - стол, стъпало
 scelus - престъпление, извръщение
 scēptrum - скиптър, жезъл
+scintilla - искра
 secāre - сека, разсичам
 sed = но
 senex - старец
 septentriōnēs - север 
+sertum - венец
 servāre - спасявам 
 sīcut - като
 simul - по същото време
@@ -388,28 +456,43 @@ sine - без
 sīn - обаче, ако обаче, а пък ако 
 sitis - жажда
 sīve - или
+socius - съюзник
 solēre - свъкнал съм да
+solitus - свикнал
+solium - трон
 speculum - огледало
+spēlunca - пещера
 spērāre - надявам се
 spernere - презирам
 spēs - надежда
+spīca - жито
+splendor - блясък
 statim - веднага, на момента
+statuā - статуя
 stertere - хъркам
 subitō - внезапно
+sūcus - сок, смола
+sūdor - пот
 summus -горен
+superbus - надменен, арогантен
 supplicium - страдание, мъчение
 surdus - глух
+tabernāculum - палатка
 tamquam - както, като, сякаш
 tam - толкова
 tantum - само
 tantus - толкова голям
 tardus - бавен, закъсняващ
+taxere - плета
 tegere, tēxisse, tēctum - покривам, прикривам
+tegere - прикривам
+tēla -паяжина
 temerārius - дързък
 tenēre - поставям
 tergēre - избърсвам
 tībīcen - флейтист
 tollere - вдигам
+trānsfīgere - промуша
 tuēri (d) - закрилям
 tumultuārī (d) - обърквам, разбърквам 
 tunc - тогава
@@ -419,15 +502,26 @@ ubique - навсякъде
 ubi- къде?
 umerus - рамо
 una ... cum ... - едновременно с
+unda - вълничка
 unde - откъде
+undique - отвсякъде
+unguis - нокът
 ūrēre - горя
+ursa - мечка
+ursus - мечок
 ūsque ad - докато, чак до
 ūsque - все, винаги, изцяло
 vacca - крава
 vaccīnium, myrtillus  - боровинки
+vāgīna - ножница
+vapor - пара
+vātēs - пророк, ясновидец
 vehere - пренасям
 vēlōx - бърз
 vel - или
+venārī (d) - ловувам, диря, преследвам
+venēnum - отрова
+venia - прошка, опрощение
 venustus - обичан
 verō - но
 versāri (d) - въртя се, неспирно се движа
@@ -437,6 +531,7 @@ vesper - вечер
 vestīre - обличам се
 vetāre - забранявам, не допускам
 vetus - вехт, стар, древен 
+vīlis - пошъл
 vīlis - преевтино
 viridis - зелено
 vīta - живот
