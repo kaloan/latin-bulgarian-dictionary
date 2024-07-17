@@ -95,7 +95,14 @@ gelidus - хладен, хладък
 callidus - сръчен, хитър
 sērious - късен, забавен
 madidus - мокър
-
+benignus - добронамерен
+dōnātus - богат
+pūtidus - развален
+sollicitus - разтревожен
+tortuōsus - трудно понятен
+lepidus - красив
+particeps - участващ
+macer - слаб, хилав, недохранен
 
 pulus - тъмноцветен, черен
 prasinus - светло зелен

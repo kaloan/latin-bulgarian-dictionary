@@ -126,8 +126,6 @@ venia - прошка, опрощение
 sūcus - сок, смола
 laqueus - примка, капан
 tēla -паяжина
-arānea - паяк
-pavō - фазан
 statuā - статуя
 līmen - праг
 sertum - венец
@@ -199,6 +197,45 @@ pulvis - прах, пясък
 rūpēs - скала, канара
 mucrō - острие, връх
 rogus - погребална клада
+fūnis - въже
+incendium - пожар
+portiō - част
+meretrīx - проститутка
+supellex - мебел
+divīnus - ясновидец, гадател
+libīdō - желание, страст
+marmor - мрамор
+basilica - обществена сграда за различни дейности
+sēcrētum - тайна
+reus - грешник, защита в съда
+vitium - порок
+mentium - брадичка
+sodālis - приятел
+nūmen - провидение
+contāgiō - зараза
+victima - жертвено животно, жертва
+indulgentia - прошка
+ritus - ритуал, обред
+facultās (+gen) - способност, възможност, шанс
+ēdere - издавам (книга), създавам, раждам, произвеждам
+latrō - грабител, плячкосник
+iurgium - свада, кавга, раздяла
+liquor - течност
+fraus - лъжа
+culpa - вина, грешка
+effigiēs - образ, вид
+dolus - измама
+pellis - кожа, кожух
+cutis - кожа
+rūga - бръчка
+nātus - син, рожба
+nīsus - труд
+melos (ind) - песен
+augurium - ясновидство
+ōmen - поличба
+subsidium - подпомагане
+
+
 
 pōmum - плод
 mālum - якълка
@@ -226,13 +263,21 @@ fīcus - смокиня
 palmula. caryōta, dactylus - фурма
 mālum pūnicum - нар
 spīca - жито
+far - спелта
 
 corim - кора
 nucleus - зърно
 medulla - месеста част
 
 pecoris - добитък
+equus - кон
+asturcō - ат
+assinus - магаре
+pavō - фазан
+olor - лебед
+luscinia - врабче
 corvus - гарван
+cornīx - врана
 gallus - петек
 gallīna - кокошка
 ōvum - яйце
@@ -250,7 +295,10 @@ cervus - елен
 aper - глиган
 ursus - мечок
 ursa - мечка
-olor - лебед
+sīmius - маймуна
+arānea - паяк
+rāna - жаба
+
 
 gallīnācea -пилешко
 būbula - говеждо
