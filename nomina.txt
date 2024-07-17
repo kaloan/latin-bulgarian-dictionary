@@ -144,6 +144,34 @@ solium - трон
 īnsidiae - засада, клопка
 pondus - тежест, бреме
 macula - петно
+peregrīnus - чужденец
+cloāca - канализация
+prōdigium - учудване (?)
+classis - клас, класа
+cura - заседателна зала, сградата на сената
+coniūrātiō - заговор (?)
+exsilium - заточение
+obsidiō - обсада
+stipendium - заплата, надница
+turba - тълпа
+histriō - актьор
+discīmen - опасност
+coetus - събрание (?)
+sēcessiō - разкол, отцепване, сепаратизъм
+prex - жалба, молба
+turris - кула
+ebor - слонова кост
+clādēs - клане (?)
+occasiō - момент, възможност
+lōrīca - броня
+vadum - плитчини
+stagnum - мочурище
+tumulus - хълмче
+socer - тъст
+crūdēlitās - жестокост
+aerārium - държавна хазна
+hērēs - наследник
+
 
 pōmum - плод
 mālum - якълка
@@ -176,6 +204,7 @@ corim - кора
 nucleus - зърно
 medulla - месеста част
 
+pecoris - добитък
 corvus - гарван
 gallus - петек
 gallīna - кокошка
@@ -213,7 +242,8 @@ lardum - бекон
 
 rostrum - човка
 
-caeruleās - синьо
+venetus - тъмно синьо
+caeruleās - светло синьо
 viridis - зелено
 purpureus - пурпурно
 ruber - червено
