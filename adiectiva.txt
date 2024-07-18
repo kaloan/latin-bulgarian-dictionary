@@ -15,8 +15,8 @@ largus - щедър
 multī, plūrēs, plūrimī - многоброен
 multum, plūs plūris, plūrimum - много
 paulum, minus, minimum - малко 
-cautus - предпазлив, внимателен, мнителен(?)
-audāx - смел, решителен(?)
+cautus - предпазлив, внимателен, мнителен
+audāx - смел, решителен
 temerārius - дързък
 caecus - сляп
 surdus - глух
