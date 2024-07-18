@@ -103,6 +103,9 @@ tortuōsus - трудно понятен
 lepidus - красив
 particeps - участващ
 macer - слаб, хилав, недохранен
+assus - печен
+ineptus - глупав, недодялан
+hebes - глупав
 
 pulus - тъмноцветен, черен
 prasinus - светло зелен

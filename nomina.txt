@@ -219,7 +219,7 @@ ritus - ритуал, обред
 facultās (+gen) - способност, възможност, шанс
 ēdere - издавам (книга), създавам, раждам, произвеждам
 latrō - грабител, плячкосник
-iurgium - свада, кавга, раздяла
+iurgium - свада, кавга, раздяла, бой
 liquor - течност
 fraus - лъжа
 culpa - вина, грешка
@@ -234,8 +234,25 @@ melos (ind) - песен
 augurium - ясновидство
 ōmen - поличба
 subsidium - подпомагане
-
-
+prandium - обяд
+thēca - чанта
+exemplar - пример
+maacellum - месарница
+unguentum - масло, мазило
+porticus - колонада, стоа
+sēcessus - самотно, скришно място
+cella - стая, затворено място
+piscīna - басейн
+lutum - кал
+ēsca - храна
+ferculum - поднос
+placenta - кекс, торта
+facula - факла
+pulvīnus - възглавница
+fraudātor - мошеник
+iūdex - съдия
+praecō - вестител, глашатай
+pugnantiа (pl) - противоречие, несъответствие
 
 pōmum - плод
 mālum - якълка
@@ -264,6 +281,10 @@ palmula. caryōta, dactylus - фурма
 mālum pūnicum - нар
 spīca - жито
 far - спелта
+holus - зеленчук
+bēta - морков
+lactūca - маруля
+siliqua - боб
 
 corim - кора
 nucleus - зърно
@@ -298,6 +319,7 @@ ursa - мечка
 sīmius - маймуна
 arānea - паяк
 rāna - жаба
+lepus, -oris - заек
 
 
 gallīnācea -пилешко
