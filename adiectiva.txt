@@ -109,4 +109,9 @@ hebes - глупав
 
 pulus - тъмноцветен, черен
 prasinus - светло зелен
-
+viridis - зелен
+purpureus - пурпурен
+ruber - червен
+caerŭleus - светло син
+rutilus - оранжево
+crocinus - шафранено жълт
