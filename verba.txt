@@ -1,238 +1,313 @@
-pārēre - подчинявам се, изпълнявам
-agere - действам, върша
-facere - правя
+pārēre (+dat) - подчинявам се, изпълнявам
 portāre - нося
-vehere - пренасям
-tenēre - поставям
-tergēre - избърсвам
-cōnsistere - спирам, прекъсвам, заставам на място
-ostendere - показвам
-cōnstāre - струва
-convenīre - пасвам, събирам се, подхождам
+vehere, vēxisse, vectum - пренасям
+tenēre, tenuisse, tentum - поставям
+tergēre, tersisse, tersum - избърсвам
+ostendere, ostendisse - показвам
+cōnstāre, cōnstitisse  - струва
+convenīre, convēnisse  - пасвам, събирам се, подхождам
 errāre - странствам, блуждая
-quaerere - търся, издирвам
-reperīre - изобретя, намеря, получа
-parere - раждам
-incolere - живея, пребивавам 
-incipere - започвам
-operīre - покривам, прикривам
-ferre - нося
-afferre - донасям
-gerere  - нося (дрехи и т.н.)
-induere - обличам се
+quaerere, quaesīvisse, quaesītum - търся, издирвам
+reperīre,repperisse, repertum - изобретя, намеря, получа
+operīre, operuisse , opertum - покривам, прикривам
+gerere, gessisse, gestum - нося (дрехи и т.н.)
+induere, induisse, indūtum - обличам се
 vestīre - обличам се
-solēre - свъкнал съм да
-mergere - топя, потапям
-dēsinere - прекратявам, спирам
-licere - позволено е
+dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам
 exspectāre - чакам, очаквам
-tollere - вдигам
-interpellāre - прекъсвам (когато някойй говори)
-prōmere - обещавам
-oportāre - редно е
-carēre - липсва ми, нуждая се от
-debēre - длъжен съм да, би трябвало да
-occurere - срещам, изправен съм срещу, съвпадам
-animadvertere - забелязвам, отчитам, обръщам внимание на
+tollere, sustulisse, sublātum - вдигам
+interpellāre - прекъсвам (когато някой говори)
+prōmere, prōmpsisse, prōmptum - обещавам
+carēre, caruisse (+abl) - липсва ми, нуждая се от, въздържам се от
+dēbēre - длъжен съм да, би трябвало да
+animadvertere, animadvertisse, animadversum - забелязвам, отчитам, обръщам внимание на
 dīligere - обичам (роднина)
-mentīri (d) - лъжа
 dubitāre - съмнявам се
-fallere - греша, излъгвам се, бъркам се
-crēdere - вярвам, доверявам се 
+fallere, fefellisse, falsum - греша, излъгвам се, бъркам се
+crēdere, crēdidisse, crēditum - вярвам, доверявам се 
 monēre - предупреждавам
-conāri (d) - опитвам се, прибвам
-percutere - блисгам, тропам
-cupere - купнея, желая
-accidere - случва се, сбъдва се, съвпадне
-iuvāre - помагам
-relinquere - оставям
-ēvolāre - излитам, отлитам
-perficere - завършвам, довършвам
-ūrēre - горя
-cingere - заобикалям
+iuvāre, iūvisse, iūtum - помагам
+relinquere, relīquisse, relictum - оставям
+ūrere, ussisse, ustum - горя
+cingere, cīnxisse, cīnctum - заобикалям
 cessāre - бездействам, въздържам се, почивам, върша по-малко
 oboedīre - подчинявам се
-ēvolvere - отварям, разтварям
-pervenīre - стигам, достигам
-disiungere - разделям
+ēvolvere, ēvolvisse, ēvolūtum - отварям, разтварям
+pervenīre, pervēnisse, perventum - стигам, достигам
 rogāre - питам
-tumultuārī (d) - обърквам, разбърквам 
 salvāre - спасявам
-servāre - спасявам 
-ēicere - изхвърлям
-nascī (d) - раждам се
-morī (d) - умирам
-apprehendere - грабвам, държа се за
-habēre - имам, притежавам, задържам, смятам, състои се от, да владея,  
-versāri (d) - въртя се, неспирно се движа
-mālle - предпочитам
+apprehendere, apprehendisse, apprehēnsum - грабвам, държа се за
+habēre - имам, притежавам, задържам, смятам, състои се от, да владея
 spērāre - надявам се
 dēsperāre - отчайвам се
-dēsilīre - скачам
-allicere - привличам
-confitērī (d) - признавам
 dōnāre - подарявам, дарявам 
-āmittere - губя, загубвам, пускам, освобождавам (слуга)
-orīri (d) - изгрявам, появявам се
-precāri (d) - умолявам
-secāre - сека, разсичам
+secāre, secuisse, sectum - сека, разсичам
 appārēre - явявам се
-fruī (d) - радвам се на, удовлетворява ме
 praeesse - управлявам, ръководя
 cēnāre - вечерям
-perferre - издържа
-ēlegere - избирам
-coquere - готвя
+coquere, coxisse, coctum - готвя
 gustāre - вкуся
-aspergere - поръся, пръскам
-contrahere - сбръчквам
-placēre - задоволявам
-auferre - отмъквам, отнасям
-vetāre - забранявам, не допускам
-capite pūnīre - екзекутирам
-cōnfidere - доверявам се
+placēre, placuisse, placitum - задоволявам
+vetāre, vetuisse, vetitum/vetatum - забранявам, не допускам
 latēre - крия се, прикривам се, дебна, укривам
-tuēri (d) - закрилям
-flectere - свивам
+flectere, flexisse, flexum - свивам
 optāre - избирам, желая
-interpellāre - прекъсвам
-lābī - хлъзгам се
 premere - натискам, потискам
-minārī (d) (+dat) - заплашвам, действам страшно
-reminīscī (d) - спомням
-crēscere - раста, проявявам се, повишавам, засилвам
-redimere - откупя
-cōgere - принуждавам, насилвам
-circumdare - обкръжавам, ограждам
+crēscere, crevisse, cretum - раста, проявявам се, повишавам, засилвам
 properāre - бързам, забързвам се
-praestāre - изпълнявам
-dēsistere - възпирам, прекратявам
-affere - донасям
-laedere - набия, пребия
-lūgēre - оплаквам, жалея
-pāscere - наслаждавам се
-libere - харесвам, обичам
+laedere, laesisse, laesum - набия, пребия
+lūgēre, luxisse, luctum - оплаквам, жалея
 accendere - горя, блестя, бушувам
 turbāre - разбърквам, развълнувам
-requīrere - търся, питам
-cruciāre - мъча, измъчвам
-excruciāre - измъчвам
+requīrere, requisiisse/requisivisse, requisitum - търся, питам
 ōrdināre - подреждам
-fieri - случва се, сбъдва се, създава се, подготвя се
-stertere - хъркам
-praebēre - давам
+stertere, stetuisse - хъркам
 īnsidēre - язда
-labī (d) - падам, хлъзгам се
-delabī (d) - падам от, изпускам се
-expōnere - оставям
 saltāre - скачам, танцувам
-paenitēre, -uisse - разкайвам се, съжалявам
-convertere - превръщам, заменям, променям
-currere - тичам, бягам
-experīrī (d) - откривам, тествам, доказвам, опитвам, пробвам
+paenitēre, paenituisse - разкайвам се, съжалявам, гризе ме съвестта
 tegere, tēxisse, tēctum - покривам, прикривам
-egēre (+abl) - нуждая се от
-contemnere - презирам
-respicere - поглеждам отново
-dēsīderāre - желая, жалея
-ārdēre - горя, гневя се
-spernere - презирам
-colligere - събирам
-parcāre - въздържам се
-fulgēre - блести, свети
-inspicere - наблюдавам
-tegere - прикривам
-plangere - бия се в гърдите от печал
-calefacere - стоплям, загрявам
-ērigere - възбуждам, издигам
-trānsfīgere - промуша
+egēre, eguisse (+abl) - нуждая се от
+ārdēre, arsisse, arsum - горя, гневя се
+spernere, spēvisse, spētum - презирам
+colligere, collegisse, collectum - събирам в група, събирам богатство, заключавам
+parcāre, pepercisse/parsisse, parcitum/parsum - въздържам се
+fulgēre, fulsisse - блести, свети
+plangere, planxisse, planctum - бия се в гърдите от печал
 flagrāre - пламтя
 pingere, pīnxisse, pictum - рисувам
-gestāre - нося
-consciscere - да реша
-consciscere (+sibi) - да си наплека
-taxere - плета
-cēlāre - скривам
-obdormīre - заспивам
-commovēre - разчуствам
+gestāre - нося товар, нося облекло
+consciscere, consciisse/conscivisse, conscitum - да реша
+consciscere (+sibi) - да си навлека
+texere, texuisse, textum - плета
+cēlāre - крия, скривам
 caelāre - правя резба, дялкам надпис в камък
 calcāre - тъпча, стъпвам
-paenitēre - разкайвам се, гризе ме съвестта
-īnsidāre - чакам в засада, заговорнича, поставям клопка, внимавам
-diffugere - разпръсквам
-venārī (d) - ловувам, диря, преследвам
-dīlacerāre - гърча се
-praestāre - надминавам, участвам, доставям, отговорен съм
-invīsere - навестявам, посещавам
+īnsidēre - окупирам
+īnsidīre, īnsidiavisse - чакам в засада, заговорнича, поставям клопка, внимавам
 invadīre - навлизам, отнемам
 invadīre in - нападам
-dēficere ab - оставям
-praedārī (d) - грабя, плячкосвам
-iungulāre - убивам
-molere - стривам
+iugulāre - коля, убивам чрез разрязване на врата
+molere, moluisse, molitum - стривам
 maturāre - съзрявам, забързвам, движа се прибързано
-impedīre - забавям
-expedīre - забързвам
-concīdere - убивам
-perservāre - продължавам
-praecipere - ръководя, предвождам
-adamāre - жадувам, страстно обичам
-epulārī (d) - пирувам
+concīdere, concīdisse, concisum - убивам
 iterāre - повтарям
 vagāre - странствам
-innitī, innixum esse (d + abl) - облягам се
-devovēre - заклевам се, проклинам, кълна
 condīre - погребвам, заравям
 vītāre - избягвам
 ēvāgīnāre - вадя (меч, нож)
 tentāre - опитвам, подтиквам
-cēlāre - крия
-ānxiāre - тревожа се
-condonāre - прощавам
-blandīrī (d) - ухажвам, лаская, давам комплимент, очаровам
-querī (d) - оплаквам се, обжалвам
-statuere - решавам, поставям, изгражам
+ānxiāre - тревожа се, притеснявам се
+statuere, statuisse, statutum - решавам, поставям, изгражам
 spumāre - пеня
-compescere - въздържам се, преграждам, утолявам
-perēmere - убивам, унищожавам
-extinguere - убивам, угасвам, разрушавам
-pluere - вали
+pluere, pluisse - вали
 dissipāre - разпръсквам, унищожавам
-abundēre (+abl) - стига ми, имам повече от достатъчно
-īnsistere - настоявам
+abundāre (+abl) - стига ми, имам повече от достатъчно
 damnāre - осъждам
 praestingere - замижа
 mināre - заплашвам, бутам, водя животни
-incidere - появява се, случва се
 observāre - тача, почитам
-nocēre - вредя, ранявам, пакостя
-оpprimere - насилвам, надвивам
-dēcipere - мамя
-ingēmescere - стена, ридая
-extendere - разширявам
-intendere - опъвам
-ēlevāre - подценявам, принизявам
+nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
+ingēmescere, ingēmuisse - стена, ридая
 partuīre - бременна съм
-gemere - тъжа, стена
-ciēre - друсам, бъркам
-perpāscere - угоявам
-satiāre -да достига, задоволява
-satisfacere - задоволявам, извинявам се, обезщетявам
-fastīdīre - не понасям, не навиждам, отвращавам се от нещо
-ligāre - вризвам, сглобявам
-alligāre - завързвам, обвинявам, включвам
-prandere - обядвам
-ēdiscere - наизустявам
+gemere, gemuisse, gemitum - тъжа, стена
+ciēre, civisse, citum - друсам, бъркам
+satiāre - да достига, задоволява
+prandere, prandisse, pransum - обядвам
 vacāre - почивам
-sufficere - да е достатъчно
-ēvigilāre - разсънвам се, събуждам се
-luctārī (d) - боря се
-sitīre - жаден съм
+sufficere, suffecisse, suffectum - да е достатъчно
 mandūcāre - дъвча, смилам, глозгам
 propīnāre - вдигам тост, наздравица
 iūrāre - заклевам се
-adhibēre - допитвам се
-praedicāre - обявявам
-exōrāre - измоля
-convincere - убеждавам, показвам, доказвам
-ēdere - издавам (книга), създавам, раждам, произвеждам
+adhibēre, adhibuisse, adhibitum - допитвам се
+vincere, vīcisse, victum - побеждавам, завладявам, надвивам, надживявам
+  convincere - убеждавам, показвам, доказвам
+compescere, compescuisse - въздържам се, преграждам, утолявам
+dicere, dīxisse, dictum - казвам
+docere, docuisse, doctum - уча другиго, преподавам
+cadere, cecidisse - падам, умирам
+
+
+vovēre, vovisse, votum - заклевам се
+  devovēre - заклевам се, проклинам, кълна
+dare, dedisse, datum - давам
+  circumdare - обкръжавам, ограждам
+  ēdere, edidisse, editum - издавам (книга), създавам, раждам, произвеждам
+pellāre - бутам, удрям, пъдя
+  interpellāre - прекъсвам (в разговор), попречвам
+volāre - летя
+  ēvolāre - излитам, отлитам
+servāre - предпазвам, защитавам, спасявам 
+  perservāre - продължавам
+ligāre - вризвам, сглобявам
+  alligāre - завързвам, обвинявам, включвам
+cruciāre  - мъча, измъчвам
+  excruciāre - изтезавам, измъчвам
+sīderāre - понасям болест
+  dēsīderāre - желая, жалея
+lacerāre - режа, унищожавам
+  dīlacerāre - разкъсвам
+stāre, stetisse, statum - стоя, не мърдам, почивам
+  praestāre - надминавам, участвам, доставям, отговорен съм, изпълнявам
+amāre - обичам
+  adamāre - жадувам, страстно обичам
+donāre - подарявам
+  condonāre - прощавам
+levāre - дигам, олеквам
+  ēlevāre - облекчавам, вдигам, подценявам, принизявам
+dicāre, dicavisse, dicatum - посвещавам, показвам, назначавам
+  praedicāre - обявявам
+ōrāre - моля, прося, моля се
+  exōrāre - измоля, убеждавам
+bēre, beavisse, beatum - облагородявам, ощастливявам
+  praebēre - давам, предлагам, доставям, причинявам
+īre eō, iisse/ivisse, itum - пътувам, движа се
+  abīre - тръгвам
+  adīre - идвам, захващам се с, допитвам се до някого
+  exīre - излизам
+  perīre - да умре, да се унищожи, да се разпадне
+  redīre - връщам се
+  subīre - движа се под 
+  trānsīre - преминавам
+  impedīre impendiō - забавям
+  expedīre expendiō - забързвам
+  fastīdīre fastīdiō - не понасям, не навиждам, отвращавам се от нещо
+  sitīre sitiō, sitiisse/sitivisse - жаден съм
+salīre, sаluisse/saliisse, saltum - скачам
+  dēsilīre, dēsiluisse - скачам
+dormīre - спя
+  obdormīre - заспивам
+vigilāre - буден съм, бдя
+  ēvigilāre - разсънвам се, събуждам се 
+legere, legisse, lectum - чета
+  ēlegere, elegisse, electum - избирам
+spergere, spersisse, spersum - сея
+  aspergere, aspersisse, aspersum - поръся, пръскам
+colere, coluisse, cultum - грижа се, поддържам, развивам
+  incolere, incoluisse, incultum - живея, пребивавам 
+mergere, mersisse, mersum - топя (в течност), цопвам
+currere, cucurrisse, cursum - тичам, бягам
+  occurrere, occucurrisse/occurrisse, occursum - срещам, изправен съм срещу, съвпадам
+mittere, mīsisse, missum - изпращам, освобождавам, мятам
+  āmittere, āmīsisse, āmissum - губя, загубвам, пускам, освобождавам (слуга)
+ferre, tulisse, lātum - нося
+  affere - донасям
+  auferre - отмъквам, отнасям
+  perferre - издържа
+sistere, stitisse/stetisse, statum - спирам, проверявам
+  cōnsistere, cōnstitisse - спирам, прекъсвам, заставам на място
+  dēsistere, dēstitisse, destitum - възпирам, прекратявам
+  īnsistere, institisse - настоявам
+iungere, iūnxisse, iūnctum - свързвам, сглобявам, събирам, сдвоявам
+  disiungere, disiūnxisse, disiūnctum - разделям
+cadere, cecidisse - 
+  accidere, accidisse - случва се, сбъдва се, съвпадне
+  incidere, incidisse - появява се, случва се
+discere, didicisse -уча се  
+  ēdiscere, edidicisse - наизустявам
+rigere, rexisse, rectum - стоя, да съм твърд, да съм изтръпнал
+  ērigere, erexisse, erectum - възбуждам, издигам
+trahere, trāxisse, tractum - влача
+  contrahere - сбръчквам
+premere - надвивам, натискам, преследвам
+  оpprimere - насилвам, надвивам, затварям, прикривам, изнасилвам
+emere, ēmisse, ēmptum - купувам
+  peremere - убивам, унищожавам
+  redimere - откупя
+agere, ēgisse, āctum - действам, върша
+  cōgere, coēgisse, coāctum - принуждавам, насилвам
+pāscere, pāvisse, pāstum - паса, храня, насищам
+  perpāscere - угоявам
+vertere - обръщам, променям, унищожавам 
+  convertere - превръщам, заменям, променям
+temnere, tēmpsisse, tēmptum - мразя, презирам
+  contemnere - презирам, незачитам, отбягвам
+pōnere - поставям
+  expōnere - оставям, изоставям
+fīgere, fīxisse, fīxum/fictum - стягам, закачам, захващам
+  trānsfīgere - промуша, пробивам
+movēre, mōvisse, mōtum - местя 
+  commovēre - разчуствам, безпокоя, развълнувам
+  permovēre - разчуствам, влияя
+  removēre - махам, отстранявам, оттеглям се
+sīdere - сядам, потъвам
+  insidere - седя, населявам, чакам в засада
+vīsere - посещавам
+  invīsere - навестявам, посещавам
+tinguere, tinxisse, tinctum - намокрям, топвам, 
+  extinguere - убивам, угасвам, разрушавам
+tendere, tendisse, tentum - опъвам, дърпам, насочвам оръжие, напрягам се
+  extendere - разширявам, удължавам
+  intendere - опъвам
+dīcere, dīxisse, dictum - казвам
+  praedīcere - предсказвам, предупреждавам, препоръчвам
+
+allicere -iō, allēxisse, allectum - привличам
+facere -iō, fēcisse, fаctum - правя, върша
+  calefacere -iō - стоплям, загрявам
+  dēficere -iō, dēfēcisse, dēfectum  - провалям се, разочаровам
+  dēficere ab - оставям
+  perficere -iō, perfēcisse, perfectum - завършвам, довършвам
+  satisfacere iō - задоволявам, извинявам се, обезщетявам
+parere -iō, peperisse, partum - раждам, създавам
+percutere -iō, percussisse, percussum - блисгам, тропам
+cupere -iō, cupīvisse, cupitum - купнея, желая
+iacere -iō, iēcisse, iactum - хвърлям, мятам
+  ēicere -iō, ēiēcisse, ēiēctum - изхвърлям
+fugere -iō, fugisse, fugitum - бягам от някого/нещо, избягвам
+  diffugere -iō, diffugisse - разпръсквам
+spicere -iō, spexisse, spectum - виждам
+  circumspicere - оглеждам, диря
+  cōnspicere - забелязвам, наблюдавам, гледам
+  dēspicere - гледам надолу, презирам
+  īnspicere - наблюдавам, изследвам, обмислям
+  prōspicere - наблюдавам
+  respicere - поглеждам отново
+  suspicere - гледам нагоре, изследвам, наблюдавам
+capere -iō, cepisse, captum - хващам, грабвам, държа
+  dēcipere -iō, decepisse, deceptum - мамя
+  incipere -iō, incepisse, inceptum - започвам
+  praecipere, praecepisse, praeceptum - ръководя, предвождам
+
+
+fidere, fīssum (sd) - вярвам
+  cōnfidere (sd)- доверявам се
+solēre, solitum esse (sd) - свъкнал съм да
+
+mentīri (d) - лъжа
+cōnāri (d) - опитвам се, прибвам
+tumultuārī (d) - обърквам, разбърквам 
+nāscī, nātum (d) - раждам се
+morī, mortuum (d) - умирам
+versāri (d) - въртя се, неспирно се движа
+fatērī, fessum (d) - признавам
+  confitērī (d) - признавам
+orīri, ortum (d) - изгрявам, появявам се
+precāri (d) - умолявам
+fruī, fructum/fruitum (d) - радвам се на, удовлетворява ме
+tuēri, tutum/tuitum (d) - закрилям
+lābī, lāpsum (d) - падам, хлъзгам се
+  delabī (d) - падам от, изпускам се
+experīrī (d) - откривам, тествам, доказвам, опитвам, пробвам
+minārī (d) (+dat) - заплашвам, действам страшно
+reminīscī (d) - спомням
+venārī (d) - ловувам, диря, преследвам
+praedārī (d) - грабя, плячкосвам
+epulārī (d) - пирувам
+innitī, innixum esse (d + abl) - облягам се
+blandīrī (d) - ухажвам, лаская, давам комплимент, очаровам
+querī, questum (d) - оплаквам се, обжалвам
+luctārī (d) - боря се
+
+
+licere, licuisse (imp) - позволено е
+oportēre, opportuisse (imp) - редно е
+libēre, libuisse (imp) (+dat) - харесва се на, обича се от
+
+
+cedo. cette (def) - отстъпи!, освободи!, подчини се!, тръгни!
+
+
+esse - съм
+velle - искам
+mālle - предпочитам
+fieri - случва се, сбъдва се, създава се, подготвя се
