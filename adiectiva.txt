@@ -9,87 +9,86 @@ frīgidus - студен
 dīmidius - намаляващ, смаляващ се
 rēctus - прав, верен
 prāvus - грешен
-facilis - лесен
-difficilis - труден
+facilis -is - лесен
+difficilis -is - труден
 largus - щедър
-multī, plūrēs, plūrimī - многоброен
+multī, plūrēs, plūrimī pl - многоброен
 multum, plūs plūris, plūrimum - много
 paulum, minus, minimum - малко 
 cautus - предпазлив, внимателен, мнителен
-audāx - смел, решителен
+audāx -ācis - смел, решителен
 temerārius - дързък
 caecus - сляп
 surdus - глух
 mūtus - ням
 claudus - съкат
-mortālis - смъртен
+mortālis -is - смъртен
 tūtus - предпазен, защитен, в безопасност
 attentus - внимаващ
-vēlōx - бърз
-fēlīx - късметлив
+vēlōx -cis - бърз, пъргав
+fēlīx -cis - късметлив
 ignārus - неук
 nōtus - известен
-nōbilis - аристократ, известен, важен
+nōbilis -is - аристократ, известен, важен
 celsus - висок 
-fallāx - лъжлив, мамещ, грешен
-iūcundus - задоволяващ
+fallāx -cis - лъжлив, мамещ, грешен
+iūcundus - приятен, задоволяващ
 molestus - неприятен, болезнен, отврятителен
 īmus - долен
 summus -горен
 tardus - бавен, закъсняващ
 acerbus - кисел
 nimius - твърде голям
-dēbilis - болен, слаб
+dēbilis -is - болен, слаб, кекав
 ēbrius - пиян
 avārus - алчен
-fodus - верен
+fidus - верен
 fugitīvus - беглец
-sapiēns - умен, мъдър, разумен
-crūdēlis - жесток, див, освирепен
-vetus - вехт, стар, древен 
+sapiēns -ntis - умен, мъдър, разумен
+crūdēlis -is - жесток, див, освирепен
+vetus veteris - вехт, стар, древен 
 cārus - прескъпо
-vīlis - преевтино
+vīlis -is - малоценно, преевтино
 idōneus - удобен, подходящ 
 posterus - следващ
 dīrus - ужасен
 incolumnis - невредим, обезоръжен
-ācer - желаещ да действа
+ācer ācris - желаещ да действа
 perpetuus - вечен
 venustus - обичан
 passus - сушен
 glaber - гладък
 rigidus - здрав
 lentus - бавен, мързелив
-ambō - и двата
 superbus - надменен, арогантен
-nequam (ind) - подъл, отвратителен, низък
+nēquam (ind), nēquior, nēquissimus - подъл, отвратителен, низък
 dignus - заслужил
 perītus - вещ, опитен
 vīlis - пошъл
-āmens - неразумен, откачен, изперкал. не с всичкия си
+āmens -ntis - неразумен, откачен, изперкал. не с всичкия си
 dūrus - твърд (и в преносен смисъл)
 hirsūtos - с много козина, дебелокосмест
 solitus - свикнал
-capāx - голям, обемист
-ingēns - огромен, неестествен
-atrōx - див, жесток, страшен, свиреп
+capāx -cis - голям, обемист
+ingēns -ntis - огромен, неестествен
+atrōx -cis - див, жесток, страшен, свиреп
 pius - съвестен, праведен
-mendāx - лъжлив, фалшив
+mendāx -cis - лъжлив, фалшив
 tepidus - хладък
 scaevus - ляв
-supplex - молещ, коленичещ
+supplex supplicis - молещ, коленичещ
 vastus - обширен, огромен
-alacer - деятелен, щастлив, бърз, храбър
+alacer -cris - деятелен, щастлив, бърз, храбър
 opulentus - богат
 prīstinus - вехт
 novissimus - последен
 commodus - лесен
-perennis - вечен
+perennis -is - вечен
 odōrātus - ухащ
 ānxius - разтревожен
-recēns - пресен, скорошен, нов, млад
+recēns -ntis - пресен, скорошен, нов, млад
 continguus - слепен, съседен
-pruīnosus - заскрежен
+pruīnosus - заскрежен, заледен
 conterminus - съседен
 gelidus - хладен, хладък
 callidus - сръчен, хитър
@@ -101,17 +100,31 @@ pūtidus - развален
 sollicitus - разтревожен
 tortuōsus - трудно понятен
 lepidus - красив
-particeps - участващ
+particeps -pis - участващ
 macer - слаб, хилав, недохранен
 assus - печен
 ineptus - глупав, недодялан
-hebes - глупав
+hebes hebetis - глупав
+sēpār -is - отделен
+piger - мързелив
+industrius - работлив
+miser - нещастен
+dīves dīvitis, dīvitior, dīvitissimus - богат
+posterior - заден, следващ
+
+superior, summus - по-горен, по-висок, пръв
+īnferior, īnfimus - по-долен, по-нисък, последен
+ulterior, ultimus - по-далечен
+cirerior, citimus - по-близък
+propior, proximus - по-близък
 
 pulus - тъмноцветен, черен
 prasinus - светло зелен
-viridis - зелен
+viridis -is - зелен
 purpureus - пурпурен
 ruber - червен
 caerŭleus - светло син
 rutilus - оранжево
 crocinus - шафранено жълт
+
+ambō (num) - и двата

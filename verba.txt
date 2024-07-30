@@ -125,7 +125,8 @@ compescere, compescuisse - въздържам се, преграждам, уто
 dicere, dīxisse, dictum - казвам
 docere, docuisse, doctum - уча другиго, преподавам
 cadere, cecidisse - падам, умирам
-
+regere - валдея, управлявам, направлявам
+cavēre, cāvisse, cautum - внимавам, предпазвам се
 
 vovēre, vovisse, votum - заклевам се
   devovēre - заклевам се, проклинам, кълна

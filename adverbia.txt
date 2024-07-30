@@ -26,7 +26,7 @@ dēnique - накрая
 quasi - като
 inde - откъдето
 inde ab - откакто
-diu - задълго
+diū, diūtius, diūtissimē - задълго
 paulisper - закратко
 dēmum - най-сетне
 prīdem - одавна
@@ -68,5 +68,9 @@ sērō - със закъснение, по-късно
 nusquam - никъде
 prōtinus - веднага
 utrōque - от двете страни
+prope - близо
+propius - по-близо
+saepe, saepius, saepissimē - често
+rārō, rārius, rārissimē - рядко
 
 ubi - къде
