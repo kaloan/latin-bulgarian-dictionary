@@ -411,3 +411,44 @@ socer, -ī, m - тъст, свекър
 socrus, -ūs, f - тъща, свекърва
 
 
+
+Rōma, -ae, f - Рим
+Sparta, -ae, f - Спарта
+Delphī, -ōrum, m pl - Делфи
+Tūsculum, -ī, n - Тускулум
+Brundisium, -ī, n - Брундизи 
+
+Graecia, -ae, f - Гърция
+Carthagō, -inis, f - Картаген
+Persia, -ae, f - Персия
+Gallia, -ae, f - Галия
+Britannia, -ae, f - Британия
+Germānia, -ae, f - Германия
+Hispānia, -ae, f - Испания
+Italia, -ae, f - Италия
+Aegyptus, -ae, f - Египет
+Syria, -ae, f - Сирия
+Arabia, -ae, f - Арабия
+
+Eurōpa, -ae, f - Европа
+Asia, -ae, f - Азия
+Ãfrica, -ae, f - Африка
+
+Corsica, -ae, f - Корсика
+Sardinia, -ae, f - Сардиния
+Sicilia, -ae, f - Сицилия
+Melita, -ae, f - Малта
+Crēta, -ae, f - Крит 
+Rhodus, -ī, m - Родос
+Naxus, -ī, m - Наксос
+Samos, -ī, f - Самос
+Chios, -ī, f - Хиос
+Lesbos, -ī, f - Лесбос 
+Lēmnos, -ī, f - Лемнос
+Euboea, -ae, f - Евбeя, Негропонт
+
+
+Nīlus, -ī, m - Нил
+Rhēnus, -ī, m - Рейн
+Dānuvius, -ī, m - Дунав
+Tiberis, -ī, m - Тибър

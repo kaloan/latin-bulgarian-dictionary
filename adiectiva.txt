@@ -217,3 +217,7 @@ septingentēsimus - седемстотни
 octingentēsimus - осемстотни
 nōngentēsimus - деветстотни
 mīllēsimus - хилядни
+
+Graecus - гръцки
+Rōmānus - римски
+Latīnus - латински
