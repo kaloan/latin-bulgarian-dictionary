@@ -475,6 +475,15 @@ Nīlus, -ī, m - Нил
 Rhēnus, -ī, m - Рейн
 Dānuvius, -ī, m - Дунав
 Tiberis, -ī, m - Тибър
+
+
+liber, librī, m - книга
+titulus, -ī, m - заглавие
+capitulum, -ī, n - глава в книга
+pāgina, -ae, f - страница
+margo, marginis, m - край, граница
+
+
 vīlla, -ae, f - вила
 casa, -ae, f - колиба
 domus, -ūs, f - жилище, къща

@@ -724,7 +724,7 @@ māne - сутрин
   manus, -ūs, f - ръка (от киктата надолу)
 mare, -is, n - море
 margarīta, -ae, f - бисер, перла
-marginalium, -ī, n - празно място
+margo, marginis, m - край, граница
 marmor, -is, n - мрамор
 marsūpia, -ae, f - кесия
   masculīnum, masc./m. - мъжки род
