@@ -111,7 +111,36 @@ industrius - работлив
 miser - нещастен
 dīves dīvitis, dīvitior, dīvitissimus - богат
 posterior - заден, следващ
-
+antiquus - дрвен
+novus - нов
+cēterus - друг, останал
+laetus - радостен
+īrātus - бесен
+probus - послушен
+improbus - непослушен
+vacuus - празен
+pulcher - хубав, красив
+foedus - грозен
+amīcus - приятелски, полезен
+inimīcus - враждебем, вреден 
+longus - дълъг
+fessus - уморен, изморен
+fōrmōsus - красив
+plēnus (+gen) - пълен (с)
+pecūniōsus - богат
+gemmātus - украсен със скъпоценни камъни
+nitidus - бестящ
+vīvus - жив
+mortuus - мъртъв
+crassus - тебел, широк
+tenuis, -is - тънък
+pullus - малък, млад
+ferus - див, неопитомен
+stultus - глупав
+sānus - здрав, читав, психически добре
+insānus - луд, откачен
+aeger - болен, немощен
+hūmānus - човешки 
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -119,16 +148,19 @@ ulterior, ultimus - по-далечен
 cirerior, citimus - по-близък
 propior, proximus - по-близък
 
+candidus - бляскаво бял
+ablus - матово бял
+niger - бляскаво черен
+āter - матово черен
 pulus - тъмноцветен, черен
 prasinus - светло зелен
 viridis -is - зелен
 purpureus - пурпурен
 ruber - червен
 caerŭleus - светло син
-rutilus - оранжево
+rutilus - оранжев
 crocinus - шафранено жълт
 
-ambō (num) - и двата
 
 
 proprius - конкретен, собствено (съществително)
@@ -141,7 +173,11 @@ explētīvus - допълващ, запълващ
 causālis - причинен
 ratiōnālis - разумен
 
+sōlus - сам, единствен
+ambō - и двата
 
+
+nūllus - нула, без
 ūnus, -ī, m - един
 ūna, -ae, f - една
 ūnum, -ī, n - едно
@@ -221,3 +257,5 @@ mīllēsimus - хилядни
 Graecus - гръцки
 Rōmānus - римски
 Latīnus - латински
+
+necesse, indecl - необходимо, задължително

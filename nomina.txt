@@ -1,4 +1,3 @@
-mēnsa, -ae, f - маса (като работна маса)
 speculum, -ī, n - огледало
 umerus, -ī, m - рамо
 lacus, -ūs, m - езеро
@@ -246,7 +245,78 @@ kalendae, -ārum, f pl - първия ден в месеца
 kalendārium, -ī, n - календар 
 aciēs, aciēī, f - боен ред
 oblīvĭo - забвение
-
+oppidum, -ī, n - град
+imperium, -ī, n - империя
+prōvincia, -ae, f - провинция, административна единица при римляните
+numerus, -ī, m - число
+littera, -ae, f - буква
+vocābulum, -ī, n - дума
+syllaba, -ae, f - сричка
+exemplum, -ī, n - пример
+pēnsum, -ī, n - задача
+scaena, -ae, f - сцена
+vir, -ī, m - мъж
+fēmina, -ae, f - жена
+puer, -ī, m - момче, хлапе
+puella, -ae, f - момиче, хлапачка
+dominus, -ī, m - господар
+domina, -ae, f - господарка
+servus, -ī, m - роб, прислужник
+ancilla, -ae, f - робиня, прислужница
+līber, -ī, m - дете
+saccus, -ī, m - торба
+pecūnia, -ae, f - пари
+nummus, -ī, m - монета
+baculum, -ī, n - бастун, пръчка
+aqua, -ae, f - вода
+via, -ae, f - път
+mūrus, -ī, m - стена
+porta, -ae, f - порта, градска врата
+lectīca, -ae, f - носилка
+lacrima, -ae, f - сълза
+speculum, -ī, n - огледало
+specus, -ūs, m - пещера, скривалище
+ōstiārius, -ī, m - портиер
+ōsculum, -ī, n - целувка
+taberna, -ae, f - магазин
+pistrīna, -ae, f - пекарна
+thermopōlium, -ī, n - ресторанче
+gemma, -ae, f - скъпоценен камък
+margarīta, -ae, f - бисер, перла
+ōrnāmentum, -ī, n - украшения
+ānulus, -ī, m - пръстен
+līnea, -ae, f - колие, наниз, гердан, верижка
+pretium, -ī, n - цена
+crepida, -ae, f - чехла, сандал
+solea, -ae, f - сандал
+caliga, -ae, f - военен сандал
+crēpis, crepidis, f - тротоар
+pāstor, -ōris, m - пастир
+cibus, -ī, m - храна, питание
+herba, -ae, f - трева
+pānis, -is, m - хляб
+sōl, solis, m - слънце
+luna, -ae, f - луна
+caelum, -ī, n - небе
+nūbēs, nubis, f - облак
+umbra, -ae, f - сянка
+vestīgium, -ī, n - следа, диря, отпечатък
+timor, -is, m - страх
+clāmor, -is, m - вик
+cauda, -ae, f - опашка
+petasus, -ī, m - пета
+deus, -ī, m - бог
+dea, -ae, f - богиня
+mercātor, -is, m - търговец 
+āēr, āeris, m - въздух, небе
+nūntius, -ī, m - вестител
+anima, -ae, f - дъх, душа
+pila, -ae, f - топка
+vōx, vōcis, f - глас
+color, -ōris, m - цвят 
+pōculum, -ī, n - чаша
+culter, cultrī, m - нож
+medicus, -ī, m - лекар
 
 pōmum, -ī, n - плод
 mālum, -ī, n - якълка
@@ -343,9 +413,6 @@ offa, -ae, f - парче месо (и по общо парче храна)
 perna, -ae, f - шунка
 lardum, -ī, n - бекон
 ōvum, -ī, n - яйце
-ōvum frictum - яйце на очи
-ōvum dūrum - варено яйце
-ōvum permixta - бъркано яйце
 
 rostrum, -ī, n - човка
 
@@ -353,6 +420,7 @@ venetus, -ī, m - тъмно синьо
 caerŭleum, -ī, n - светло синьо
 crocinum, -ī, n - шафранено жълто
 
+grammatica, -ae, f - граматика
 nōmen, n. - съществително, име
   masculīnum, masc./m. - мъжки род
   feminīnum, fem./f. - женски род
@@ -382,14 +450,14 @@ verbum, v. - глагол, дума, слово
   dēpōnēns, dēp. - глагол с форма в страдателен залог, но извършва действие в деятелен
   singulāris, sing./sg. - единствено число
   plūrālis, plūr./pl. - множествено число
-  persōna - маска, лице (юридически), лице (граматически)
+  persōna - маска, роля, лице (юридически), лице (граматически)
   praesēns, praes. - сегашно време
   praeteritum, praet. - минало време
   futūrum, fut. - бъдеще време
   perfectum, perf. - свършено време
   imperfectum, imperf. - несвършено време
   plūsquamperfectum, pqp. - "повече от свършено" време, свършено спрямо свършеното
-  modus - наклонение
+  modus - наклонение, начин, метод
     indicatīvus, ind. - изявително наклонение
     imperatīvus, imp. - повелително наклонение
     coniūnctīvus, coni. - конюнктив, подчинително наклонение, което е смесица от условно, преизказно и (непряко) повелително
