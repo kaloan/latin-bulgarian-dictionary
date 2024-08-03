@@ -403,13 +403,17 @@ praepositiō, prp. - предлог
 coniūnctiō, con. - съюз
 interiectiō, int. - междуметие
 
-
+familia, -ae, f - фамилия
 mamma, -ae, f - мама
 pāpa, -ae, m - тати 
 māter, mātris, f - майка
 pater, patris, m - баща, татко
 fīlius, -ī, m - син
 fīlia, -ae, f - дъщеря
+frāter, fratris, m - брат
+sōror, -is, f - сестра
+consobrīnus, -ī, m - първи братовчед
+consobrīna, -ae, f - първа братовчедка
 avus, -ī, m - дядо
 avia, -ae, f - баба
 nepōs, -ōtis, m/f - внук, внучка, разпуснат човек, разпътник
