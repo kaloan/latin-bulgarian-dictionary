@@ -113,7 +113,6 @@ socius, -ī, m - съюзник
 anguis, -is, - змя, змей
 pharetra, -ae, f - колчан
 rādix, rācis, f - корен
-frōns, frōndis, f - листа, зеленина, клонче с листа
 acus, aceris, n - игла
 venia, -ae, f - прошка, опрощение
 sūcus, -ī, m - сок, смола
@@ -534,4 +533,10 @@ viscera, viscerum, n pl - вътрешни органи, вътрешности
 vēna, vēnae, f - кръвоносен съд
   sanguis, sanguinis, m - кръв
   cruor, -ōris, m - кръв
+
+
+arbor, -is, f - дърво
+rāmus, -ī, m - клон
+folium, -ī, n - листо
+frōns, frōndis, f - листа, зеленина, клонче с листа
 
