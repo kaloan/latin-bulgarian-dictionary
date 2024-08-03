@@ -72,5 +72,10 @@ prope - близо
 propius - по-близо
 saepe, saepius, saepissimē - често
 rārō, rārius, rārissimē - рядко
+quispiam - кой да е
+absque - без
+tam - толкова
+quam - колкото
+praetereā - също така, още повече, между другото
 
 ubi - къде
