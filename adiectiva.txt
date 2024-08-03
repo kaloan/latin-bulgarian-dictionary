@@ -140,3 +140,80 @@ disiūnctīvus - разделителен
 explētīvus - допълващ, запълващ
 causālis - причинен
 ratiōnālis - разумен
+
+
+ūnus, -ī, m - един
+ūna, -ae, f - една
+ūnum, -ī, n - едно
+duo, -ōrum, m pl - два
+duae, -ārum, f pl - две
+duo/dua, -ōrum, n pl - две
+trēs, trium, m/f pl - три
+tria, trium, n pl - три
+quattuor, indecl - четири
+quīnque, indecl - пет
+sex, indecl - шест
+septem, indecl - седем
+octō, indecl - осем
+novem, indecl - девет
+decem, indecl - десет
+ūndecim, indecl - единайсет
+duodecim, indecl - дванайсет
+trēdecim, indecl - тринайсет
+quattuordecim, indecl - четиринайсет
+quīndecim, indecl - петнайсет
+sēdecim, indecl - шеснайсет
+sepemdecim, indecl - седемнайсет
+duodēvīgintī, indecl - осемнайсет
+ūndēvīgintī, indecl - деветнайсет
+vīgintī, indecl - двайсет
+trīginta, indecl - трийсет
+quadrāginta, indecl - четирисет
+quīnquāginta, indecl - петдесет
+sexāginta, indecl - шейсет
+septuāginta, indecl - седемдесет
+octōginta, indecl - осемдесет
+nōnāginta, indecl - деветдесет
+centum, indecl - сто
+ducentī - двеста
+trecentī - триста
+quadringentī - четиристотин
+quīngentī - петстотин
+sescentī - шестотин
+septingentī - седемстотин
+octingentī - осемстотин
+nōngentī - деветстотин
+mīlle, indecl - хиляда
+
+prīmus - първи
+secundus - втори
+tertius - трети
+quārtus - четвърти
+quīntus - пети
+sextus - шести
+septimus - седми
+octāvus - осми
+nōnus - девети
+decimus - десети
+ūndecimus - единайсти
+duodecimus - дванайсти
+duodēvīcēsimus - осемнайсти
+ūndēvīcēsimus - деветнайсти
+vīcēsimus - двайсти
+trīcēsimus - трийсти
+quadrāgēsimus - четирийсти
+quīnquāgēsimus - петдесети
+sexāgēsimus - шейсети
+septuāgēsimus - седемдесети
+octōgēsimus - осемдесети
+nōnāgēsimis - деветдесети
+centēsimus - стотни
+duocentēsimus - двустотни
+trecentēsimus - тристотни
+quadringentēsimus - четиристотни
+quīngentēsimus - петстотни
+sescentēsimus - шестстотни
+septingentēsimus - седемстотни
+octingentēsimus - осемстотни
+nōngentēsimus - деветстотни
+mīllēsimus - хилядни

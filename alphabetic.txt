@@ -155,6 +155,7 @@ cella, -ae, f - стая, затворено място
 celsus - висок 
 cēna, -āe, f - вечеря
 cēnāre - вечерям
+centēsimus - стотни
 centum, indecl - сто
 cerasum, -ī, n - череша
 certāmen, -inis, n - бой, битка
@@ -253,6 +254,7 @@ dare, dedisse, datum - давам
 dēbēre - длъжен съм да, би трябвало да
 dēbilis -is - болен, слаб, кекав
 decem, indecl - десет
+decimus - десети
   dēcipere -iō, decepisse, deceptum - мамя
     dēclīnātiō, dēcl. - склонение
   dēficere ab - оставям
@@ -307,10 +309,13 @@ dūcere, dūxisse, ductum - водя, предвождам
 dumtaxat - само, единствено, точно
 dūmus, -ī, m - храст
 dum - докато
+duocentēsimus - двустотни
 duodecim, indecl - дванайсет
+duodecimus - дванайсти
+duodēvīcēsimus - осемнайсти
 duodēvīgintī, indecl - осемнайсет
 duo/dua, -ōrum, n pl - две
-duo, -ōrum, m pl - два, числото две
+duo, -ōrum, m pl - два
 dūrus - твърд (и в преносен смисъл)
 ēbrius - пиян
 ebur, eboris, n - слонова кост
@@ -593,6 +598,7 @@ meretrīx, -cis, f - проститутка
 mergere, mersisse, mersum - топя (в течност), цопвам
 merīdiēs, meridiēī, m - юг
 mīlle, indecl - хиляда
+mīllēsimus - хилядни
 mināre - заплашвам, бутам, водя животни
 minārī (d) (+dat) - заплашвам, действам страшно
 minister, -trī, m - сервитьор, келнер
@@ -639,8 +645,11 @@ nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
 noctū - нощно, през нощта, нощес
 nōmen, n. - съществително, име
     nominātīvus, nom. - именителен падеж 
+nōnāgēsimis - деветдесети
 nōnāginta, indecl - деветдесет
+nōngentēsimus - деветстотни
 nōngentī - деветстотин
+nōnus - девети
 nōtus - известен
 novem, indecl - девет
 novissimus - последен
@@ -664,7 +673,10 @@ occasiō, -ōnis, f - момент, възможност
 occidēns, -entis, m - запад
   occurrere, occucurrisse/occurrisse, occursum - срещам, изправен съм срещу, съвпадам
 ōceanus, -ī, m - океан
+octāvus - осми
+octingentēsimus - осемстотни
 octingentī - осемстотин
+octōgēsimus - осемдесети
 octōginta, indecl - осемдесет
 octō, indecl - осем
 odōrātus - ухащ
@@ -800,6 +812,7 @@ premere - натискам, потискам
 prex, precis, f - жалба, молба
 prīdem - одавна
 prīdiē - през предишния ден
+prīmus - първи
 prīstinus - вехт
   prōcēdere - навлизам, продължавам напред
 procul - далече
@@ -828,10 +841,13 @@ pulvis, pulveris, f - прах, пясък
 purpureus - пурпурен
 pūtidus - развален
 quācumque - където и да е, както и да е, по какъвто и да е начин
+quadrāgēsimus - четирийсти
 quadrāginta, indecl - четирисет
+quadringentēsimus - четиристотни
 quadringentī - четиристотин
 quaerere, quaesīvisse, quaesītum - търся, издирвам
 quam - колкото
+quārtus - четвърти
 quasi - като
 quattuordecim, indecl - четиринайсет
 quattuor, indecl - четири
@@ -841,9 +857,12 @@ querī, questum (d) - оплаквам се, обжалвам
 quia - защото
 quid - какво
 quīndecim, indecl - петнайсет
+quīngentēsimus - петстотни
 quīngentī - петстотин
+quīnquāgēsimus - петдесети
 quīnquāginta, indecl - петдесет
 quīnque, indecl - пет
+quīntus - пети
 quin - защо не
 quispiam - кой да е
 quō - накъде
@@ -914,6 +933,7 @@ sēcessiō, -ōnis, f - разкол, отцепване, сепаратизъм
 sēcessus, -ūs, m - самотно, скришно място
 sēcrētum, -ī, n - тайна
 secundum - след, зад
+secundus - втори
 sēdecim, indecl - шеснайсет
 sed = но
 senex, senis, m/f - старец, старица
@@ -922,15 +942,21 @@ sēpār -is - отделен
 sepemdecim, indecl - седемнайсет
 septem, indecl - седем
 septentriōnēs, -um, m pl - север 
+septimus - седми
+septingentēsimus - седемстотни
 septingentī - седемстотин
+septuāgēsimus - седемдесети
 septuāginta, indecl - седемдесет
 sērious - късен, забавен
 sērō - със закъснение, по-късно
 sertum, -ī, n - венец
 servāre - предпазвам, защитавам, спасявам 
+sescentēsimus - шестстотни
 sescentī - шестотин
+sexāgēsimus - шейсети
 sexāginta, indecl - шейсет
 sex, indecl - шест
+sextus - шести
 Sicilia, -ae, f - Сицилия
 sīcut - като
 sīderāre - понасям болест
@@ -1015,6 +1041,7 @@ tenēre, tenuisse, tentum - поставям
 tentāre - опитвам, подтиквам
 tepidus - хладък
 tergēre, tersisse, tersum - избърсвам
+tertius - трети
 texere, texuisse, textum - плета
 thēca, -ae, f - чанта
 Tiberis, -ī, m - Тибърad - към (приближаване)
@@ -1026,10 +1053,12 @@ trahere, trāxisse, tractum - влача
   trānsfīgere - промуша, пробивам
   trānsīre - преминавам
 trāns - през
+trecentēsimus - тристотни
 trecentī - триста
 trēdecim, indecl - тринайсет
-trēs, trium, m/f pl - три, числото три
+trēs, trium, m/f pl - три
 tria, trium, n pl - три
+trīcēsimus - трийсти
 trīginta, indecl - трийсет
 tuēri, tutum/tuitum (d) - закрилям
 tumultuārī (d) - обърквам, разбърквам 
@@ -1051,13 +1080,15 @@ umerus, -ī, m - рамо
 una ... cum ... - едновременно с
 unda, -ae, f - вълничка
 ūndecim, indecl - единайсет
+ūndecimus - единайсти
+ūndēvīcēsimus - деветнайсти
 ūndēvīgintī, indecl - деветнайсет
 unde - откъде
 undique - отвсякъде
 unguentum, -ī, n - масло, мазило
 unguis, -is, m - нокът
 ūnum, -ī, n - едно
-ūnus, -ī, m - един, числото едно
+ūnus, -ī, m - един
 ūrere, ussisse, ustum - горя
 ursa, -ae, f - мечка
 ursus, -ī, m - мечок
@@ -1094,6 +1125,7 @@ vestīre - обличам се
 vetāre, vetuisse, vetitum/vetatum - забранявам, не допускам
 vetus veteris - вехт, стар, древен 
 vicem - вместо, в следствие на
+vīcēsimus - двайсти
 vīcīnia, -ae, f - близост
 victima, -ae, f - жертвено животно, жертва
 vīcus, -ī, m - село, градче
