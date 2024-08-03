@@ -67,7 +67,6 @@ supplicium, -ī, n - страдание, мъчение
 senex, senis, m/f - старец, старица
 grātia, -ae, f - благодарност
 aetās, -ātis, f - част от живота, възраст, поколение
-amnis, -is, m - река
 ripa, -ae, f - речен бряг
 bellum, -ī, n - война
 pāx, pācis, f - мир, спокойствие
@@ -426,7 +425,19 @@ nurus, -ūs, f - снаха
 socer, -ī, m - тъст, свекър
 socrus, -ūs, f - тъща, свекърва
 
-
+campus, -ī, m - равнина
+mōns montis, m - планина
+īnsula, -ae, f - остров, жилищен блок
+silva, -ae, f - гора
+vallis, -is, f - долина
+collis, -is, m - хълм
+amnis, -is, m - река
+fluvius, -ī, m - река
+rīvus, -ī, m - река
+flūmen, flūminis, n - река
+ōceanus, -ī, m - океан
+mare, -is, n - море
+lācus, -ūs, m - езеро
 
 Rōma, -ae, f - Рим
 Sparta, -ae, f - Спарта
