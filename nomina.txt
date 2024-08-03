@@ -97,7 +97,6 @@ sūdor, -is, m - пот
 calculus, -ī, m - камъче
 fōns, fōntis, m - извор, фонтан, изтичник, първопричина
 gutta, -ae, f - капка
-nepōs, -ōtis, m/f - внук, внучка, разпуснат човек, разпътник
 opecrulum, -ī, n - капак
 cāseus, -ī, m - сирене
 antrum, -ī, n - пещера
@@ -391,3 +390,24 @@ adverbium, adv. - наречие
 praepositiō, prp. - предлог
 coniūnctiō, con. - съюз
 interiectiō, int. - междуметие
+
+
+mamma, -ae, f - мама
+pāpa, -ae, m - тати 
+māter, mātris, f - майка
+pater, patris, m - баща, татко
+fīlius, -ī, m - син
+fīlia, -ae, f - дъщеря
+avus, -ī, m - дядо
+avia, -ae, f - баба
+nepōs, -ōtis, m/f - внук, внучка, разпуснат човек, разпътник
+avunculus, -ī, m - вуйчо
+matertera, -ae, f - вуйна
+patruus, -ī, m - чичо
+amita, -ae, f - леля
+gener, -is, m - зет
+nurus, -ūs, f - снаха
+socer, -ī, m - тъст, свекър
+socrus, -ūs, f - тъща, свекърва
+
+

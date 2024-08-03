@@ -720,7 +720,7 @@ pāscere, pāvisse, pāstum - паса, храня, насищам
   passīvum, pass. - страдателен залог
 passīvus - в страдателен залог
 passus - сушен
-pater, patris, m - татко
+pater, patris, m - баща, татко
 patruus, -ī, m - чичо
 paulisper - закратко
 paulum, minus, minimum - малко 
