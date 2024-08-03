@@ -292,6 +292,9 @@ medulla, -ae, f - месеста част
 quercus, -ūs, f - дъб
 ferula, -ae, f - палма
 
+animal, -ālis, n - животно
+bēstia, -ae, f - твар, животно
+fera, -ae, f - звяр, диво животно
 pecus, pecoris, n - добитък
 equus, -ī, m - кон
 asturcō, -ōnis, m - ат
@@ -322,7 +325,16 @@ sīmius, -ī, m - маймуна
 arānea, -ae, f - паяк
 rāna, -ae, f; rubēta, -ae, f - жаба
 lepus, leporis, m - заек
-
+canis, -is, m/f - куче/кучка
+lupus, -ī, m - вълк
+lupa, -ae, f - вълчица, проститутка
+leō, leōnis, m - лъв
+homō, hominis, m - човек
+avis, -is, f - птица
+piscis, -is, m - риба
+aquilla, -ae, f - орел
+nīdus, -ī, m - гнездо
+pullus, -ī, n - младо животно
 
 gallīnācea, -ae, f - пилешко
 būbula, -ae, f - говеждо
