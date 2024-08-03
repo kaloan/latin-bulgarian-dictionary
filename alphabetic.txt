@@ -100,12 +100,12 @@ arcessere, arcessiisse/arcessivisse, arcessitum - извиквам, каня, п
 ariēs, arietis, m - овен
 armeniacum, -ī, n; praecoquium, -ī, n - дюля
 arvum, -ī, n - поле
+as, assis, m - ас, дребна медна монета с най-малка стойност
 ascendere, ascendisse, ascensum - изкачвам, качвам се
 Asia, -ae, f - Азия
 asinus, -ī, m - магаре
   aspergere, aspersisse, aspersum - поръся, пръскам
   aspicere - поглеждам
-assus - ас
 assus - печен
 astās, -ātis, f - лято
 asturcō, -ōnis, m - ат
@@ -121,7 +121,7 @@ audīre - чувам
 augurium, -ī, n - ясновидство
 aura, -ae, f - въздух, миризма, вятър
 aurantium, -ī, n - портокал
-aureus - аурейad - към (приближаване)
+aureus, -ī, m - аурей, златна монета с най-голяма стойност (приравнява се на 25 денария) ad - към (приближаване)
   auris, -is, n - ухо
 autumnus, -ī, m - есен
 aut - или (изключващо)
@@ -333,7 +333,7 @@ dēlectāre - задоволявам, развеселявам
 Delphī, -ōrum, m pl - Делфи
   dēmōnstrāre - показвам, отбелязвам, доказвам
 dēmum - най-сетне
-dēnarius - денарий
+dēnarius, -ī, m - денарий, сребърна монета, равняваща се на 4 сестерции
 dēnique - накрая
     dēns, dentis, m - зъб
   dēpōnēns, dēp. - глагол с форма в страдателен залог, но извършва действие в деятелен
@@ -556,6 +556,7 @@ homō, hominis, m - човек
 honōs, -ōris, m - чест
 horrēre, horruisse - изправям се, да ми се изправят космите (т.е. страхувам се)
 hortus, -ī, m - градина
+HS. - сестерция
 hūmānus - човешки 
 iacere -iō, iēcisse, iactum - хвърлям, мятам
 iactūra, -ae, f - загуба, цена
@@ -883,7 +884,8 @@ ovis, -is, f - овца
 ōvum dūrum - варено яйце
 ōvum frictum - яйце на очи
 ōvum, -ī, n - яйце
-ōvum permixta - бъркано яйцеō - оspeculum, -ī, n - огледало
+ōvum permixta - бъркано яйце
+ō - оspeculum, -ī, n - огледало
 paenitēre, paenituisse - разкайвам се, съжалявам, гризе ме съвестта
 pāgina, -ae, f - страница
 palmula, -ae, f; caryōta, -ae, f; dactylus, -ī, m - фурма
@@ -1178,7 +1180,7 @@ servāre - предпазвам, защитавам, спасявам
 servus, -ī, m - роб, прислужник
 sescentēsimus - шестстотни
 sescentī - шестотин
-sēstertius, -ī, m - сестерция
+sēstertius, -ī, m - сестерция, месингова монета на стойност 4 аса 
 sexāgēsimus - шейсети
 sexāginta, indecl - шейсет
 sex, indecl - шест
