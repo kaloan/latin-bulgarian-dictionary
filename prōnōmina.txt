@@ -1,0 +1,23 @@
+Nom., Acc., Gen., Dat., Abl., Nom., Acc., Gen., Dat., Abl.
+quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - кой, който
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus-  коя, която
+quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - кое, което
+
+hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този
+haec, hanc, huius, huic, hāc, hae, hās, hārum, hīs, hīs - тази
+hoc,  hoc, huius, huic, hōc, haec, haec, hōrum, hīs, hīs - това
+
+ille, illum, illius, illī, illō, illī, illōs, illōrum, illīs, illīs - онзи
+illa, illam, illius, illī, illā, illae, illās, illārum, illīs, illīs - онази
+illud, illud, illius, illī, illō, illa, illa, illōrum, illīs, illīs - онова
+
+is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs - той
+ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs - тя
+id, id, eius, eī, eō, ea, ea, eōrum, iīs, iīs  - то
+
+
+
+nihil/nil, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
+omnia, -ium - всичко
+quis - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
+quid - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
