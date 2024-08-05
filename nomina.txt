@@ -654,3 +654,23 @@ Catō. Catōnis, m - Катон
 
 
 praetor, -is, m - претор, длъжност даваща правомощия на военен командир и висш съдия 
+mīles, -itis, m - войник, воин, бранник, ратник
+pedes, pedites, m - пешак, пехотинец
+eques, equites, m - конник
+peditātus, -ūs, m - пехота
+equitātus, -ūs, m - конница
+castra, -ōrum, n pl - укрепление, военен лагер
+  vāllum, -ī, n - палисада
+  fossa, -ae, f - ров
+  praetōrium, -ī, n -  място където се помещавал претора
+arma, -ōrum, n pl - оръжие
+  gladius, -ī, m - меч
+  ēnsis, -is, m - меч
+  hasta, -ae, f - копие
+  pīlum, -ī, n - метателно копие с мек връх,който се огъвъл при удър, използвано от римските войници
+  arcus, -ūs, m - лък
+  sagitta, -ae, f - стрела
+  funda, -ae, f - прашка
+  scūtum, -ī, n - щит
+  lorīca, -ae, f - броня
+
