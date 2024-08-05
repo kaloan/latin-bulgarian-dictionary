@@ -19,9 +19,10 @@ dēbēre - длъжен съм да, би трябвало да
 animadvertere, animadvertisse, animadversum - забелязвам, отчитам, обръщам внимание на
 dīligere - обичам (роднина)
 dubitāre - съмнявам се
-fallere, fefellisse, falsum - греша, излъгвам се, бъркам се
-crēdere, crēdidisse, crēditum - вярвам, доверявам се 
-monēre - предупреждавам
+vērāre - казвам истината
+fallere, fefellisse, falsum - греша, лъжа, мамя, излъгвам се, бъркам се
+crēdere, crēdidisse, crēditum (+dat) - вярвам (на/в), доверявам се (на/в)
+monēre, monuisse, monitum - предупреждавам
 relinquere, relīquisse, relictum - оставям
 ūrere, ussisse, ustum - горя
 cingere, cīnxisse, cīnctum - заобикалям
@@ -148,7 +149,6 @@ lacrimāre - плаче
 aperīre, aperuisse, apertum - отварям
 claudere, clausisse, clausum - затварям
 ōrnāre - крася, украсявам
-clāmāre - викам, извиквам
 edere/ēsse, edisse, esum - ям
 bibere, bibisse, bibitum - пия
 lūcere, lūxisse - светя, излъчвам
@@ -173,7 +173,24 @@ sedēre, sedisse, sessum - седя, мирен съм (не мърдам)
 arcessere, arcessiisse/arcessivisse, arcessitum - извиквам, каня, призовавам
 dolēre, doluisse - боли ме, причинява ми болка, тъгувам
 palpitāre - удрям
-
+dīvidere, divīsisse, divīsum - деля, разделям, различавам
+metuere, metuisse, metutum - боя се, страхувам се
+mīlitāre - служа в армията, воювам
+dēfendere, dēfendisse, dēfensum - защитавам, отбранявам
+nōmināre - именовам, назовавам
+illūstrāre - осветявам
+hiemāre - зимувам, презимувам
+purāre - пречиствам се (религиозно-обредно)
+valēre - здравея, здрав съм
+excitāre - разсънвам, събуждам, развълнувам
+lavāre, lāvisse, lautum - мия, къпя
+poscere, poposcisse - питам, настоявам
+vestīre - обличам
+frīgēre, frīguisse, frīgitum - студувам
+frīgerāre - изстивам
+frīgescĕre, frixiisse - изстивам
+pūnīre - наказвам, отмастявам
+recitāre - чета на глас, рецитирам
 
 vovēre, vovisse, votum - заклевам се
   devovēre - заклевам се, проклинам, кълна
@@ -181,6 +198,7 @@ dare, dedisse, datum - давам
   addere, addidisse, additum - прибавям, увеличавам, вкарвам, закачам
   circumdare - обкръжавам, ограждам
   ēdere, edidisse, editum - издавам (книга), създавам, раждам, произвеждам
+  reddere, reddidisse, redditum - връщам
   vēndere, vēndidisse, vēnditum - продавам
 pellāre - бутам, удрям, пъдя
   interpellāre - прекъсвам (в разговор), попречвам
@@ -225,6 +243,11 @@ spīrāre - дишам, духам
 putāre - смятам, вярвам, мисля, оценявам, изчиствам
   opputāre - режа, кастря
   perputāre - обяснявам подробно, подрязвам изцяло
+pugnāre - бия се
+  oppugnāre - нападам, атакувам, щурмувам
+  expugnāre - завладявам, побеждавам в бой
+clāmāre - викам, извиквам
+  exclāmāre - възкицавам
 bēre, beavisse, beatum - облагородявам, ощастливявам
   praebēre - давам, предлагам, доставям, причинявам
 tenēre, tenuisse, tentum - държа, поддържам, продължавам
@@ -252,7 +275,8 @@ dormīre - спя
   obdormīre - заспивам
 venīre, vēnisse, ventum - идвам
   advenīre - пристигам
-  convenīre - пасвам, събирам се, подхождам
+  convenīre - събирам се (обикновено в множествено число)
+  covenīre (imp) (+dat, inf) - пасвам, подхождам
   invenīre - откривам
   pervenīre - стигам, достигам
   revenīre - връщам се
@@ -274,7 +298,7 @@ currere, cucurrisse, cursum - тичам, бягам
 mittere, mīsisse, missum - изпращам, освобождавам, мятам
   āmittere, āmīsisse, āmissum - губя, загубвам, пускам, освобождавам (слуга)
 ferre, tulisse, lātum - нося
-  affere - донасям
+  afferre - донасям
   auferre - отмъквам, отнасям
   perferre - издържа
 sistere, stitisse/stetisse, statum - спирам, проверявам
@@ -292,6 +316,8 @@ discere, didicisse -уча се
   ēdiscere, edidicisse - наизустявам
 rigere, rexisse, rectum - стоя, да съм твърд, да съм изтръпнал
   ērigere, erexisse, erectum - възбуждам, издигам
+  surgere, surrexisse, surrectum - ставам
+    resurgere, ressurrexisse, ressurectum - възкръсвам, повторно ставам 
 trahere, trāxisse, tractum - влача
   contrahere - сбръчквам
 premere - надвивам, натискам, преследвам
@@ -376,7 +402,7 @@ capere -iō, cepisse, captum - хващам, грабвам, държа
 fidere, fīssum (sd) - вярвам
   cōnfidere (sd)- доверявам се
 solēre, solitum esse (sd) - свъкнал съм да
-audēre, ausus esse (sd) - дерзая, усмелявам се 
+audēre, ausus esse (sd) - смея да, дерзая, усмелявам се 
 gaudēre, gavisus esse (sd) -  радвам се, доволен съм
 
 
@@ -408,12 +434,17 @@ mīrārī (d) - чудя се
   admīrārī (d) - учудвам се, уважавам
 ōsculārī (d) - целувам
 
-licere, licuisse (imp) - позволено е
+licēre, licuisse (imp) (+dat) - позволено е
 oportēre, opportuisse (imp) - редно е
 libēre, libuisse (imp) (+dat) - харесва се на, обича се от
 
 
 cedo. cette (def) - отстъпи!, освободи!, подчини се!, тръгни!
+ait, āiunt (деф) - казва
+inquit, inquiunt (def) - казва, използваа се при пряка реч
+ōdisse (def) - мразя, ненавиждам
+meminisse (def) (+acc) - спомням си
+meminisse (def) (+gen) - да внимавам за нещо, да имам нещо предвид
 
 
 esse - съм
@@ -421,6 +452,7 @@ esse - съм
   adesse - присъствам
   praeesse - управлявам, ръководя
   inesse - съм в, поместен съм в
+  posse - мога
 velle - искам
 mālle - предпочитам
 fieri - случва се, сбъдва се, създава се, подготвя се
