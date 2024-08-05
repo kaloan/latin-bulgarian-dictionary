@@ -1,4 +1,4 @@
-Nom., Acc., Gen., Dat., Abl., Nom., Acc., Gen., Dat., Abl.
+Sg. Nom., Sg. Acc., Sg. Gen., Sg. Dat., Sg. Abl., Pl. Nom., Pl. Acc., Pl. Gen., Pl. Dat., Pl. Abl.
 quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - кой, който
 quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus-  коя, която
 quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - кое, което
@@ -15,9 +15,37 @@ is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs - той
 ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs - тя
 id, id, eius, eī, eō, ea, ea, eōrum, iīs, iīs  - то
 
+uterque, utrumque, utrīusque, utrīque, utrōque, utrīque, utrōsque, utrōrumque, utrīsque, utrīsque - двата, двамата
+utraque, utramque, utrīusque, utrīque, utrāque, utraeque, utrāsque, utrārumque, utrīsque, utrīsque - двете
+utrumque, utrumque, utrīusque, utrīque, utrōque, utraque, utraque, utrōrumque, utrīsque, utrīsque - двете
+
+neuter, neutrum, neutrīus, neutrī, neutrō, neutrī, neutrōs, neutrōrum, neutrīs, neutrīs - нито двата 
+neutra, neutram, neutrīus, neutrī, neutrā, neutrae, neutrās, neutrārum, neutrīs, neutrīs - нито двете
+neutrum, neutrum, neutrīus, neutrī, neutrō, neutra, neutra, neutrōrum, neutrīs, neutrīs - нито двете
+
+alter, alterum, alterīus, alterī, aletrō, alterī, altrōs, alerōrum, alterīs, alterīs - единият/другият от двама
+altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едината/другата от две
+alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - единото/другото от две
+
+ipse, ipsum, ipsīus, ipsī, ipsō, ipsī, ipsōs, ipsōrum, ipsīs, ipsīs - самият
+ipsa, ipsam, ipsīus, ipsī, ipsā, ipsae, ipsās, ipsārum, ipsīs, ipsīs - самата
+ipsum, ipsum, ipsīus, ipsī, ipsō, ipsa, ipsa, ipsōrum, ipsīs, ipsīs - самото
+
+
+ego, mē, meī, mihi, mē - аз 
+egomet, mēmet, meīmet, mihimet, mēmet - аз (използвано понякога в мерената реч)
+tū, tē, tuī, tibi, tē - ти 
+tūte, tēte, tuīmet, tibimet, tēte - ти (използвано понякога в мерената реч)
+nōs, nōs, nostrī, nōbīs, nōbīs - ние 
+vōs, vōs, vestrī, vōbīs, vōbīs - вие
+
+
+quis - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
+quid - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
+uter, utrum, utrīus, utrī, utrō, utrī, utrōs, utrōrum, utrīs, utrīs - кой от двата
+utra, utram, utrīus, utrī, utrā, utrae, utrās, utrārum, utrīs, utrīs - коя от двете
+utrum, utrum, utrīus, utrī, utrō, utra, utra, utrōrum, utrīs, utrīs - кое от двете
 
 
 nihil/nil, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
 omnia, -ium - всичко
-quis - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
-quid - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
