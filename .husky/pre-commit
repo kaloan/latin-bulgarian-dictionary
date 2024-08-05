@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
 
-ls -p | grep -v / | grep -E "*.txt" | grep -vE "alphabetic\.txt" | xargs cat | sort | uniq | grep -v '^$'  > alphabetic.txt
+ls -p | grep -v / | grep -E "*.txt" | grep -vE "collatiō\.txt" | xargs cat | sort | uniq | grep -v '^$'  > collatiō.txt
 
-git update-index --add alphabetic.txt
+git update-index --add collatiō.txt
