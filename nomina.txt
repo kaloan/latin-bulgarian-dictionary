@@ -674,3 +674,23 @@ arma, -ōrum, n pl - оръжие
   scūtum, -ī, n - щит
   lorīca, -ae, f - броня
 
+tempus, -oris, n - време
+kalendārium, -ī, n - календар
+annus, -ī, m -  година
+vēr,vēris, n - пролет
+aestās, -ātis, f - лято
+autumnus, -ī, m - есен
+hiems, -is, f - зима
+mēnsis, -is, m - месец
+diēs, diēī, m - ден
+nox, nocis, f - нощ
+kalendae, -ārum, f pl - календи, първия ден в месеца
+īdūs, īduum, f pl - иди, тринайсетия или петнайсетия ден от месеца
+nōnae, -ārum, f pl - нони, деветият ден преди идите (бройки и тях), т.е. петият или седмият ден от месеца
+hōra, -ae, f - час
+mōmentum - миг
+māne. indecl, n - сутрин
+meridiēs, meridiēī, m - обед
+vesper, -is, m - вечер
+aequinoctium, -ī, n - равноденствие
+
