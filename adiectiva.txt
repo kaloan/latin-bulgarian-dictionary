@@ -110,7 +110,6 @@ piger - мързелив
 industrius - работлив
 miser - нещастен
 dīves dīvitis, dīvitior, dīvitissimus - богат
-posterior - заден, следващ
 antiquus - дрвен
 novus - нов
 cēterus - друг, останал
@@ -140,7 +139,38 @@ stultus - глупав
 sānus - здрав, читав, психически добре
 insānus - луд, откачен
 aeger - болен, немощен
-hūmānus - човешки 
+hūmānus - човешки
+mōrigerus - покорен, послушен
+tacitus - мълчалив
+glaciālis, -is - леден, вледенен
+trīstis, -is - тъжен, натъжен
+armātus - въоръжен
+brevis, -is - къс
+gravis, -is - тежък
+levis, -is - лек
+barbarus - варварски, нецивилизован, див
+altus - висок, дълбок
+lātus - широк
+fortis, -is - силен, могъщ, смел
+dīmidius - половин
+aequus - равен
+clārus - ясен, светъл, отличим, отличен, знаменит, бележит
+obscūrus - неясен, тъмен, потайнствен
+tōtus - цял, пълен, целокупен
+indēclīnābĭlis - неизменен (граматически се позлва за съществителни, които имат единствена падежна форма)
+indēclīnātus - непроменен
+vernus - пролетен
+aestĭfer, -is - зноен
+sordidus - мръсен
+pūrus - чист, изчистен, невинен, целомъдрен
+nūdus - гол
+togātus - облечен в тога, цивилен, римлянин
+sinister - ляв
+dexter - десен
+sevērus - строг, суров, сериозен
+vērus - истинен
+falsus - грешен, лъжлив, объркан
+candĭdātus - облечен в избелена тога
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -220,6 +250,8 @@ septingentī - седемстотин
 octingentī - осемстотин
 nōngentī - деветстотин
 mīlle, indecl - хиляда
+mīllia, indecl - хиляди
+omnis, -is - всички, цял
 
 prīmus - първи
 secundus - втори
@@ -253,9 +285,21 @@ septingentēsimus - седемстотни
 octingentēsimus - осемстотни
 nōngentēsimus - деветстотни
 mīllēsimus - хилядни
+postrēmus - последен
 
 Graecus - гръцки
 Rōmānus - римски
 Latīnus - латински
 
 necesse, indecl - необходимо, задължително
+
+
+meus - мой
+tuus - твой
+suus - свой
+noster - наш
+vester - ваш
+
+prior, -is - преден, предишен
+posterior, -is - заден, по-заден, следващ
+īnferior, -is - долен, по-долен, по-млад, по-дребен
