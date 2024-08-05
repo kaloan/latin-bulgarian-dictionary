@@ -3,10 +3,6 @@ umerus, -ī, m - рамо
 lacus, -ūs, m - езеро
 māne, indecl, n - утро
 vesper, -erī, m - вечер
-hiems, -is, f - зима
-vēr,vēris, n - пролет
-astās, -ātis, f - лято
-autumnus, -ī, m - есен
 oriēns, -entis, m - изток
 occidēns, -entis, m - запад
 septentriōnēs, -um, m pl - север 
@@ -70,7 +66,6 @@ ripa, -ae, f - речен бряг
 bellum, -ī, n - война
 pāx, pācis, f - мир, спокойствие
 vulnus, -eris, n - рана
-ēnsis, -is, m - меч
 opera, -ae, f - работа, грижи
 certāmen, -inis, n - бой, битка
 ingenium, -ī, n - характер, ествество
@@ -79,11 +74,9 @@ bāsium, -ī, n - целувка
 ōrdō, -inis, m - ред
 īra, -ae, f - гняв, яд
 admirātiō, -ōnis, f - почитание, учудване, изумление
-scamnum, -ī, n - стол, стъпало
 sacerdōs, -ōtis, m/f - свещеник
 dracō, -ōnis, m - дракон, змей
 āra, -ae, f - олтар
-arca, -ae, f - кутия
 rīma. -ae, f - дупка, процеп
 honōs, -ōris, m - чест
 calanthus, -ī, m - кошница
@@ -230,7 +223,7 @@ unguentum, -ī, n - масло, мазило
 porticus, -ūs, f - колонада, стоа
 sēcessus, -ūs, m - самотно, скришно място
 cella, -ae, f - стая, затворено място
-piscīna, -ae, f - басейн
+piscīna, -ae, f - басейн, рибарник
 lutum, -ī, n - кал
 ēsca, -ae, f - храна
 ferculum, -ī, n - поднос
@@ -241,15 +234,11 @@ fraudātor, -is, m - мошеник
 iūdex, iūdicis, m - съдия
 praecō, -ōnis, m - вестител, глашатай
 pugnantiа, -ārum, f pl - противоречие, несъответствие
-kalendae, -ārum, f pl - първия ден в месеца
-kalendārium, -ī, n - календар 
 aciēs, aciēī, f - боен ред
 oblīvĭo - забвение
 oppidum, -ī, n - град
 imperium, -ī, n - империя
 prōvincia, -ae, f - провинция, административна единица при римляните
-numerus, -ī, m - число
-littera, -ae, f - буква
 vocābulum, -ī, n - дума
 syllaba, -ae, f - сричка
 exemplum, -ī, n - пример
@@ -263,7 +252,6 @@ dominus, -ī, m - господар
 domina, -ae, f - господарка
 servus, -ī, m - роб, прислужник
 ancilla, -ae, f - робиня, прислужница
-līber, -ī, m - дете
 saccus, -ī, m - торба
 pecūnia, -ae, f - пари
 nummus, -ī, m - монета
@@ -287,9 +275,6 @@ margarīta, -ae, f - бисер, перла
 ānulus, -ī, m - пръстен
 līnea, -ae, f - колие, наниз, гердан, верижка
 pretium, -ī, n - цена
-crepida, -ae, f - чехла, сандал
-solea, -ae, f - сандал
-caliga, -ae, f - военен сандал
 crēpis, crepidis, f - тротоар
 pāstor, -ōris, m - пастир
 cibus, -ī, m - храна, питание
@@ -297,6 +282,7 @@ herba, -ae, f - трева
 pānis, -is, m - хляб
 sōl, solis, m - слънце
 luna, -ae, f - луна
+stēlla, -ae, f - звезда
 caelum, -ī, n - небе
 nūbēs, nubis, f - облак
 umbra, -ae, f - сянка
@@ -317,6 +303,68 @@ color, -ōris, m - цвят
 pōculum, -ī, n - чаша
 culter, cultrī, m - нож
 medicus, -ī, m - лекар
+luxuria, -ae, f - лукс
+luxus, -ī, m - лукс, излишък
+stuprum, -ī, n - разврат, прелюбодейство 
+thēsaūrūs, -ī, m - съкровище, имане, хранилище
+vēnātiō, -ōnis, f - лов
+septimāna, -ae, f - седмица
+omnе, omnis, n - всичко
+omnēs, -ium, m pl - всички
+lūcūbrātiō, -ōnis, f - среднощна работа (буквално 'работа на лампа')
+sinistra, -ae, f - лява ръка
+dextra, -ae, f - дясна ръка
+praenōmen, -inis, n - собствено име, което само мъжете имали, често се запазвали в семейството чрез предаване на идното поколение
+nōmen, -inis, n - родствено/фамилно име, оригинално било име на някой от основопокагащите родове
+cognōmen, -inis, n - допълнително име, което мъжете получавали като резултат от заслуги. прякори и т.н и служело спомагателно за различаване на личности със съвпадащи други имена
+pugnus, -ī, m - юмрук
+pars, partis, f - част
+fīnis, -is, m - граница
+patria, -ae, f - родина, отечество
+hostis, -is, m - враг
+exercitus, -ūs, n - войска, армия
+dux, dūcis, м - предводител, главнокомандващ
+passus, -ūs, m - мярка за дължина, равляваща се н пет крака (т.е. 148см)
+impetus, -ūs, m - атака, настъпление
+metus, -ūs, m - страх
+lūx, lūcis, f - светлина
+fōrma, -ae, f - вид, изглед
+initium, -ī, n - начало
+imber, imbris, m - дъжд
+nix, nivis, f - сняг
+glaciēs, glaciēī, f - лед
+urbs, urbis, f - град
+rēs  rеī, f - нещо, вещ, дело
+frīgida, -ae, f - студена вода
+tepida, -ae, f - хладка вода
+calida, -ae, f - топла вода
+virga, -ae, f - пръчка 
+vērum, -ī, n - истина
+vēritās, -ātis, f - истина
+ōrātio, -ōnis, f - красноречие, молитва
+ars, artis, f - изкуство, занаят, умение, начин, подход
+candĭdātus - кандидат, идва от факта, че борещите се за обществени позиции лица се обличали с избелени тоги (което в съвременен еквивалент е обличане в скъп черен костюм)
+lībertus, -ī, m - освободен роб 
+līberta, -ae, f - освободена робиня
+cliens, clientis, m - клиент, посетител
+
+
+lūdus, -ī, m - училище
+magister, magistrī, m - учител
+magistra, -ae, f - учителка 
+  litterātus, -ī, m - учител, който преподавал най-основното, четене, писане и елементарно смятане
+  grammaticus, -ī, m - учител, който преподавал граматика, литература, поезия
+  rhētor, rethoris, m - учител, който преподавал реторика, т.е. ораторство, красноречие
+discipulus, -ī, m - ученик
+discipula, -ae, f - ученичка
+
+
+paedagōgus, -ī, m - роб, грижещ се за децата
+custos, -oris, m - роб, грижещ се за децата
+ōrnātrīx, ōrnātrīcis, f - робиня фризьорка
+pedisequus, -ī, m - роб, който е постоянно наличен  (буквално следващ стъпките)
+nōmenclātor, -is, m - роб, помнещ имена и представящ гости   
+
 
 pōmum, -ī, n - плод
 mālum, -ī, n - якълка
@@ -366,7 +414,10 @@ asturcō, -ōnis, m - ат
 asinus, -ī, m - магаре
 pavō, -ōnis, m - паун
 olor, -ōris, m - лебед
+cycnus, -ī, m - лебед
 luscinia, -ae, f - славей
+passer, -is, m -  врабче
+psittacus, -ī, m - папагал
 corvus, -ī, m - гарван
 cornīx, -cis, f - врана
 gallus, -ī, m - петек
@@ -400,6 +451,14 @@ piscis, -is, m - риба
 aquilla, -ae, f - орел
 nīdus, -ī, m - гнездо
 pullus, -ī, n - младо животно
+apis, -is, f - пчела
+vespa, -ae, f - оса
+formica, -ae, f - мравка
+pāpiliō, -ōnis, m - пеперуда, молец
+musca, -ae, f - муха
+culex, culicis, m - комар
+pūlex, pūlicis, m - бълха
+scarabæus, -ī, m - скарабей, бръмбар
 
 gallīnācea, -ae, f - пилешко
 būbula, -ae, f - говеждо
@@ -421,7 +480,7 @@ caerŭleum, -ī, n - светло синьо
 crocinum, -ī, n - шафранено жълто
 
 grammatica, -ae, f - граматика
-nōmen, n. - съществително, име
+nōmen, n. - съществително име
   masculīnum, masc./m. - мъжки род
   feminīnum, fem./f. - женски род
   neutrum, neutr./n. - среден род
@@ -467,6 +526,8 @@ coniūnctiō, con. - съюз
 interiectiō, int. - междуметие
 
 familia, -ae, f - фамилия
+parentēs, -ium, m pl - родители, прадеди
+līberī, -ōrum, m pl - деца
 mamma, -ae, f - мама
 pāpa, -ae, m - тати 
 māter, mātris, f - майка
@@ -501,7 +562,7 @@ rīvus, -ī, m - река
 flūmen, flūminis, n - река
 ōceanus, -ī, m - океан
 mare, -is, n - море
-lācus, -ūs, m - езеро
+lacus, -ūs, m - езеро
 
 Rōma, -ae, f - Рим
 Sparta, -ae, f - Спарта
@@ -545,22 +606,32 @@ Dānuvius, -ī, m - Дунав
 Tiberis, -ī, m - Тибър
 
 
-liber, librī, m - книга
+scrīnum, -ī, n - малък преносим сандък за помещаване на свитъци
+capsa, -ae, f - предпазен цилиндър, в който се държи свитък
+liber, librī, m - книга, свитък
 titulus, -ī, m - заглавие
 capitulum, -ī, n - глава в книга
 pāgina, -ae, f - страница
 margo, marginis, m - край, граница
-
+versus, -ūs, m - ред, стих
+tabula, -ae, f - дъска, табула, т.е. дъска с восък за писане 
+stilus, -ī, m - подострена пръчка за писане на табула
+rēgula, -ae, f - линия
+hieroglyphicus, -ī, m - йероглиф
+littera, -ae, f - буква
+numerus, -ī, m - число
 
 vīlla, -ae, f - вила
 casa, -ae, f - колиба
 domus, -ūs, f - жилище, къща
 aedificium, -ī, n - сграда
 ōstia, -ae, f - врата
+iānua, -ae, f - врата, вход
 fenestra, -ae, f - прозорец
 cubiculum, -ī, n - стая, спалня
 vestibulum, -ī, n - антре
 ātrium, -ī, n - входна зала, фоайе
+larārium, -ī, n - място, където се помещавали статуи на ларите
 āla, -ae, f - ниша без покрив
 impluvium, -ī, n - малък басейн, който типично се помещавал в атриума
 compluvium, -ī, n - отвор в покрива над имплувиума
@@ -568,8 +639,17 @@ peristylum, -ī, n - взаимствано от гръцката архитек
 tablīnum, -ī, n - стая, изпълняваща ролята на библиотека, писалище, работен кабинет
 hortus, -ī, m - градина
 culīna, -ae, f - кухня
-mēnsa, -ae, f - маса (като работна маса)
+mēnsa, -ae, f - маса (като трапеза, работна маса)
 lectus, -ī, m - легло
+sella, -ae, f - стол с гръб
+scamnum, -ī, n - малък стол, стъпало
+ammārium, -ī, n - шкаф
+arca, -ae, f - сандък, кутия
+cista, -ae, f - плетена кошница
+lucerna, -ae, f - маслена лампа
+lychnūchus, -ī, m - поставка за маслена лампа
+mappa, -ae, f - кърпичка, салфетка
+mantēle, -is, n - кърпа
 
 corpus, corporis, n - тяло
 membrum, -ī, n - крайник, полов член
@@ -600,7 +680,7 @@ gaster - корем
 umerus, -ī, m - рамо
 tergum, -ī, n - гръб, задна част
 crūs, crūris, n - крак
-  pēs, pedis - крак (от глезена надолу)
+  pēs, pedis, m - крак (от глезена надолу), мярка за дължина, равняваще се на 29,6см
 viscera, viscerum, n pl - вътрешни органи, вътрешности 
   venter, ventris, m - стомах
   cor, cordis - сърце
