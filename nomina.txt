@@ -694,3 +694,13 @@ meridiēs, meridiēī, m - обед
 vesper, -is, m - вечер
 aequinoctium, -ī, n - равноденствие
 
+vestīmentum, -ī, n - облекло
+vestis, -is, f - дреха
+tunica, -ae, f - туника
+toga, -ae, f - тога
+calceus, -ī, m - обувка
+crepida, -ae, f - чехла, сандал
+solea, -ae, f - сандал
+caliga, -ae, f - военен сандал
+bulla, -ae, f - кръгъл амулет носен от момчетата
+lūnula, -ae, f - амулет с полумесечна форма, носен от момичетата
