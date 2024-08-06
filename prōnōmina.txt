@@ -27,6 +27,19 @@ alter, alterum, alterīus, alterī, aletrō, alterī, altrōs, alerōrum, alter�
 altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едината/другата от две
 alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - единото/другото от две
 
+quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque - всеки 
+quaque, quamque, cuisque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque - всяка
+quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко 
+
+quispiam,, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой да е
+quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя да е
+quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quaspiam, quōrumpiam, quibuspiam, quibuspiam - кое да е
+
+
+īdem, eundem, eiusdem, eīdem, eōdem, iīdem, eōsdem, eōrundem, iīsdem, iīsdem  - същият
+eadem, eandem, eiusdem, eīdem, eādem, eaedem, eāsdem, eārundem, iīsdem, iīsdem  - същата
+idem, idem, eiusdem, eīdem, eōdem, eadem, eadem, eōrundem, iīsdem, iīsdem - същото
+
 ipse, ipsum, ipsīus, ipsī, ipsō, ipsī, ipsōs, ipsōrum, ipsīs, ipsīs - самият
 ipsa, ipsam, ipsīus, ipsī, ipsā, ipsae, ipsās, ipsārum, ipsīs, ipsīs - самата
 ipsum, ipsum, ipsīus, ipsī, ipsō, ipsa, ipsa, ipsōrum, ipsīs, ipsīs - самото
