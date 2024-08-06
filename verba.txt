@@ -10,7 +10,6 @@ operīre, operuisse , opertum - покривам, прикривам
 gerere, gessisse, gestum - нося (дрехи и т.н.)
 induere, induisse, indūtum - обличам се
 vestīre - обличам се
-dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам
 tollere, sustulisse, sublātum - вдигам
 interpellāre - прекъсвам (когато някой говори)
 prōmere, prōmpsisse, prōmptum - обещавам
@@ -130,7 +129,6 @@ cantāre - пея
 pulsāre - удрям
 plōrāre - рева
 vidēre, vīdisse, vīsum - виждам
-vocāre - викам, призовавам
 respondēre, respondisse, responsum - откиквам, отговарям
 audīre - чувам
 verberāre - бия
@@ -162,7 +160,7 @@ lūdere, lusisse, lusum - играя
 occultāre - скривам, покривам
 ascendere, ascendisse, ascensum - изкачвам, качвам се
 dēscendere, dēscendisse, dēscensum - слизам
-fluere, fluxisse, fluxum - тече
+cōnscendere, cōnscendisse, cōnscensum - изкачвам се
 sānāre - лекувам
 tangere, tetigisse, tactum - докосвам, пипам, допирам
 iubēre, iussisse, iussum - нареждам, указвам, умолявам
@@ -191,6 +189,18 @@ frīgerāre - изстивам
 frīgescĕre, frixiisse - изстивам
 pūnīre - наказвам, отмастявам
 recitāre - чета на глас, рецитирам
+appellāre - назовавам
+nāvigāre - плавам
+flāre - духам
+turbāre - обърквам, обезпокоявам, предизвиквам, раздразням, стресвам
+implēre - запълвам
+gubernāre - управлявам, насочквам
+occidere, occidisse, occasum  - залязвам, умирам
+occīdere, occidisse, occisum (+acc) - убивам някого
+cernere, crevisse, cretum - различавам, отличавам, определям
+iactāre - мятам
+servāre  - спасявам
+
 
 vovēre, vovisse, votum - заклевам се
   devovēre - заклевам се, проклинам, кълна
@@ -248,6 +258,10 @@ pugnāre - бия се
   expugnāre - завладявам, побеждавам в бой
 clāmāre - викам, извиквам
   exclāmāre - възкицавам
+vocāre - викам, зова
+  invocāre - призовавам
+vigilāre - буден съм, бдя
+  ēvigilāre - разсънвам се, събуждам се 
 bēre, beavisse, beatum - облагородявам, ощастливявам
   praebēre - давам, предлагам, доставям, причинявам
 tenēre, tenuisse, tentum - държа, поддържам, продължавам
@@ -280,8 +294,8 @@ venīre, vēnisse, ventum - идвам
   invenīre - откривам
   pervenīre - стигам, достигам
   revenīre - връщам се
-vigilāre - буден съм, бдя
-  ēvigilāre - разсънвам се, събуждам се 
+haurīre, hausisse, haustum - точа, празня
+  exhaurīre - източа, изпразня
 legere, legisse, lectum - чета
   ēlegere, elegisse, electum - избирам
 spergere, spersisse, spersum - сея
@@ -364,6 +378,10 @@ cēdere, cecisse - движа се, местя се
   recēdere - отстъпвам, оттеглям се, връщам се
 vīvere, vīxisse, victum - живея
   pervīvere - надживявам
+sinere, sivisse/sisse, situm - позволявам, разрешвавам
+  dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам
+fluere, fluxisse, fluxum - тече
+  īnfluere - наводнява
 cumbere - 
   accumbere -
 
@@ -422,7 +440,7 @@ lābī, lāpsum (d) - падам, хлъзгам се
   delabī (d) - падам от, изпускам се
 experīrī (d) - откривам, тествам, доказвам, опитвам, пробвам
 minārī (d) (+dat) - заплашвам, действам страшно
-reminīscī (d) - спомням
+reminīscī (d) - спомням си
 venārī (d) - ловувам, диря, преследвам
 praedārī (d) - грабя, плячкосвам
 epulārī (d) - пирувам
@@ -433,6 +451,19 @@ luctārī (d) - боря се
 mīrārī (d) - чудя се 
   admīrārī (d) - учудвам се, уважавам
 ōsculārī (d) - целувам
+mētīrī, mensum esse (d) - меря
+opperīri, oppertus esse (d) - чакам, изчаквам
+ēgredī, ,egressus esse (d) - пристъпвам
+profīcīscī, profectum esse (d) - заминавам, тръгвам си
+sequī, secutum esse (д) - следвам
+  persequī (d) - преследвам
+laetārī (d) - радвам се
+verēri, veritum esse (d) - страхувам се
+intuēri, intuitum esse (d) - виждам, гледам, обследвам
+complectī, complexus esse (d) - прегръщам
+cōnsōlārī (д) - утешавам
+loquī, locutum esse (d) - говоря
+cōnārī (д) - опитвам да
 
 licēre, licuisse (imp) (+dat) - позволено е
 oportēre, opportuisse (imp) - редно е
@@ -452,7 +483,11 @@ esse - съм
   adesse - присъствам
   praeesse - управлявам, ръководя
   inesse - съм в, поместен съм в
+  interesse - съм между, намирам се между
   posse - мога
+  prōdesse - в полза съм на, спомагам за
+  subesse - съм под, намирам се под
+  superesse - оставам, оцелявам, в повече съм
 velle - искам
 mālle - предпочитам
 fieri - случва се, сбъдва се, създава се, подготвя се

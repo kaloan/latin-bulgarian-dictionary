@@ -9,8 +9,6 @@ frīgidus - студен
 dīmidius - намаляващ, смаляващ се
 rēctus - прав, верен
 prāvus - грешен
-facilis -is - лесен
-difficilis -is - труден
 largus - щедър
 multī, plūrēs, plūrimī pl - многоброен
 multum, plūs plūris, plūrimum - много
@@ -171,6 +169,9 @@ sevērus - строг, суров, сериозен
 vērus - истинен
 falsus - грешен, лъжлив, объркан
 candĭdātus - облечен в избелена тога
+trux, trucis - див, свиреп
+sēmis, -is - половин
+frequēns, frequentis - чест
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -190,8 +191,12 @@ ruber - червен
 caerŭleus - светло син
 rutilus - оранжев
 crocinus - шафранено жълт
-
-
+superus - горен
+īnferus - долен
+maritimus -  морски
+tranquillus - спокоен
+turbidus - бурен, бушуващ
+contrārius - противостоящ
 
 proprius - конкретен, собствено (съществително)
 appellātīvus - нарицателен, нарицателно (съществително)
@@ -303,3 +308,11 @@ vester - ваш
 prior, -is - преден, предишен
 posterior, -is - заден, по-заден, следващ
 īnferior, -is - долен, по-долен, по-млад, по-дребен
+
+
+facilis, -is - лесен
+difficilis, -is - труден
+gracilis, -is - слаб, изпит
+humilis, -is - нисък, низък, неизвестен
+similis, -is - подобен, сходен
+dissimilis, -is - различен, инакъв

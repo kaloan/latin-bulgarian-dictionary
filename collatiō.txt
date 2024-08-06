@@ -1,3 +1,4 @@
+  
 A. (Aulus) - Авел
   abdūcere - отвличам
   aberrāre - отклонявам се, губя се, греша
@@ -440,7 +441,7 @@ discipulus, -ī, m - ученик
 discrīmen, -inis, n - опасност
 disiūnctīvus - разделителен
   disiungere  - разделям
-dissimilis, -is - различенtam - толкова
+dissimilis, -is - различен, инакъвtam - толкова
 dissipāre - разпръсквам, унищожавам
 diū, diūtius, diūtissimē - задълго
 dīves dīvitis, dīvitior, dīvitissimus - богат
@@ -1532,7 +1533,7 @@ sīderāre - понасям болест
 sīdere, sedisse/sidisse, sessum - сядам, потъвам
 siliqua. -ae, f - боб
 silva, -ae, f - гора
-similis, -is - подобен
+similis, -is - подобен, сходен
 sīmius, -ī, m - маймуна
 simul - по същото време
 sinere, sivisse/sisse, situm - позволявам, разрешвавам

@@ -3,7 +3,6 @@ lapis albus - мрамор
 sēnsus commūnis - common sense
 capite pūnīre - екзекутирам
 fratris filius, sorōris fīlius - племенник
-HS. - сестерция
 ōvum frictum - яйце на очи
 ōvum dūrum - варено яйце
 ōvum permixta - бъркано яйце
@@ -13,3 +12,18 @@ salvē , salvēte- здравей, здравейте
 valē, valēte - чао (букв. здравей, здравейте)
 larēs familiārēs - домашни лари
 larēs pūblicī - обществени лари, лари на града
+multum (+gen) - предоволство
+suum cuique - всекиму своето
+
+A. (Aulus) - Авел
+C. (Gāius) - Гай
+D. (Decimus) - Деций
+L. (Lūcius) - Луций
+M. (Mārcus) - Марк
+R (Pūblius) - Публий
+Q.(Quīntus) - Квинт
+Sex.(Sextus) - Секст
+T.(Titus) - Тит
+HS. (IIS., II sēmisque) - сестерция
+COS (consul) - консул
+AUG (Augustus) - август
