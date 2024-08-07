@@ -205,8 +205,6 @@ fraus, fraudis, f - лъжа
 culpa, -ae, f - вина, грешка
 effigiēs, effigiēī, f - образ, вид
 dolus, -ī, m - измама
-pellis, -is, f - кожа, кожух
-cutis, -is, f - кожа
 rūga, -ae, f - бръчка
 nātus, -ī, m - син, рожба
 nīsus, -ūs, m - труд
@@ -495,6 +493,10 @@ lardum, -ī, n - бекон
 ōvum, -ī, n - яйце
 
 rostrum, -ī, n - човка
+cornū, -ūs, n - рог
+āla, -ae, f - крило (на птица), крило (в смисъл на фланк) 
+
+
 
 venetus, -ī, m - тъмно синьо
 caerŭleum, -ī, n - светло синьо
@@ -682,24 +684,44 @@ mantēle, -is, n - кърпа
 
 corpus, corporis, n - тяло
 membrum, -ī, n - крайник, полов член
+pellis, -is, f - кожа, кожух
+cutis, -is, f - кожа
+tāctus, -ūs, m - допир
+tempus, temporis, n - слепоочие
 caput, capitis, n - глава
+  cranium - череп
   faciēs, faciēī, f - лице, предна част
+  vultus, -ūs, m - лице, израз
   capillus, -ī, m - коса
   frōns, frontis, m - чело
   oculus, -ī, n - око 
+  vīsus, -ūs, m - зрение
   nāsus, -ī, m - нос
+  odōrātus, -ūs, m - обоняние
   auris, -is, n - ухо
+  auditus, -ūs, m - слух
   gena, -ae, f - буза
+  maxilla, -ae, f - скула
   rictus, -ūs, m - челюст
+  mandĭbula, -ae, f - челюстна кост
   ōs, ōris, n - уста
     labrum, -ī, n - устна 
     dēns, dentis, m - зъб
     lingua, -ae, f - език
+    palātum, -ī, n - небце, вкус (сетиво)
   mentium, -ī, n - брадичка
   cerebrum, -ī, n - мозък
-collum, -ī, n - шия, врат 
+faux, faucis, f - гуша
+guttur, -is, m - гърло
+cervix, cervicis, f - врат, тил
+collum, -ī, n - шия
+vertеbra, -ae, f - прешлен
+clavicula, -ae, f - ключе, ключица 
 pectus, pectoris, n - гръд, гърди
+  costae, -ārum, f pl - ребра
 braccium, -ī, n - ръка
+  āla, -ae, f - подмишница
+  cubitum, -ī, n - лакът, предмишница, мерна единица за дължина
   manus, -ūs, f - ръка (от киктата надолу)
     digitum, -ī, n - пръст
     pollex, -icis, m - палец
@@ -708,7 +730,15 @@ braccium, -ī, n - ръка
 gaster - корем
 umerus, -ī, m - рамо
 tergum, -ī, n - гръб, задна част
+coxa, -ae, f - ханш
+coxendix, -icis, f - ханш
+  pelvis, -is, f - таз
 crūs, crūris, n - крак
+  femur, femoris, n - бедро 
+  genū, -ūs, n - коляно
+  poples, poplitis, m - коляно
+  tībia, -ae, f - пищял, свирка
+  tālus, -ī, m - глезен/пета, ашик
   pēs, pedis, m - крак (от глезена надолу), мярка за дължина, равняваще се на 29,6см
 viscera, viscerum, n pl - вътрешни органи, вътрешности 
   venter, ventris, m - стомах
