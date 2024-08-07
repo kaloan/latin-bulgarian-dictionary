@@ -1,17 +1,11 @@
-bonus, melior, optimus - добър
-malus, pēior, pessinus - лош
-magnus, māior, māximus - голям
-parvus, minor, minimus - малък
 tantus - толкова голям
 exiguus - малък, дребен
 calidus - топъл
 frīgidus - студен
 dīmidius - намаляващ, смаляващ се
-rēctus - прав, верен
+rēctus - верен, прав (в смисъл на истинен), прав (в смисъл на права линия) 
 prāvus - грешен
 largus - щедър
-multī, plūrēs, plūrimī pl - многоброен
-multum, plūs plūris, plūrimum - много
 paulum, minus, minimum - малко 
 cautus - предпазлив, внимателен, мнителен
 audāx -ācis - смел, решителен
@@ -60,7 +54,7 @@ rigidus - здрав
 lentus - бавен, мързелив
 superbus - надменен, арогантен
 nēquam (ind), nēquior, nēquissimus - подъл, отвратителен, низък
-dignus - заслужил
+dignus - достоен, заслужил
 perītus - вещ, опитен
 vīlis - пошъл
 āmens -ntis - неразумен, откачен, изперкал. не с всичкия си
@@ -106,7 +100,7 @@ hebes hebetis - глупав
 sēpār -is - отделен
 piger - мързелив
 industrius - работлив
-miser - нещастен
+miser - нещастен, болезнено влюбен
 dīves dīvitis, dīvitior, dīvitissimus - богат
 antiquus - дрвен
 novus - нов
@@ -116,7 +110,7 @@ laetus - радостен
 probus - послушен
 improbus - непослушен
 vacuus - празен
-pulcher - хубав, красив
+pulcher, -rī - хубав, красив
 foedus - грозен
 amīcus - приятелски, полезен
 inimīcus - враждебем, вреден 
@@ -154,7 +148,6 @@ dīmidius - половин
 aequus - равен
 clārus - ясен, светъл, отличим, отличен, знаменит, бележит
 obscūrus - неясен, тъмен, потайнствен
-tōtus - цял, пълен, целокупен
 indēclīnābĭlis - неизменен (граматически се позлва за съществителни, които имат единствена падежна форма)
 indēclīnātus - непроменен
 vernus - пролетен
@@ -171,7 +164,30 @@ falsus - грешен, лъжлив, объркан
 candĭdātus - облечен в избелена тога
 trux, trucis - див, свиреп
 sēmis, -is - половин
-frequēns, frequentis - чест
+frequēns, frequentis - чест, честосрещан
+rārus - рядък, рядкосрещан
+varius - различен
+tālis - такъв
+turpis - противен
+mollis - мек, гъвкав, ковък
+dūrus - твърд, здрав
+pauper - беден
+bcātus - блажен, щастлив
+necessārius - нужен, необходим
+aliēnus - чужд
+ūmidus - мокър, подгизнал
+mundus - изчистен
+angustus - тесен
+falsus - грешен, лъжлив
+validus - здрав, силен
+ferōx - див, свиреп
+ferreus - железен
+aureus - златен
+ligneus - дървен
+faber, fabrī - изкусен
+integer, intergī - цял
+plānus - ясен
+dēbitus - дължим
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -197,6 +213,7 @@ maritimus -  морски
 tranquillus - спокоен
 turbidus - бурен, бушуващ
 contrārius - противостоящ
+pallidus - блед, жълтеникав
 
 proprius - конкретен, собствено (съществително)
 appellātīvus - нарицателен, нарицателно (съществително)
@@ -208,17 +225,18 @@ explētīvus - допълващ, запълващ
 causālis - причинен
 ratiōnālis - разумен
 
-sōlus - сам, единствен
 ambō - и двата
 
-
-nūllus - нула, без
-ūnus, -ī, m - един
-ūna, -ae, f - една
-ūnum, -ī, n - едно
-duo, -ōrum, m pl - два
+tōtus, -īus - цял, пълен, целокупен
+sōlus,-īus - сам, единствен
+ūllus,-īus - някой, но винаги се използва с отрицание за получаване на никой/нито един
+nūllus,-īus - нула, без
+ūnus, -īus, m - един
+ūna, -īus, f - една
+ūnum, -īus, n - едно
+duo, -ōrum, m/n pl - два
 duae, -ārum, f pl - две
-duo/dua, -ōrum, n pl - две
+dua, -ōrum, n pl - две
 trēs, trium, m/f pl - три
 tria, trium, n pl - три
 quattuor, indecl - четири
@@ -316,3 +334,11 @@ gracilis, -is - слаб, изпит
 humilis, -is - нисък, низък, неизвестен
 similis, -is - подобен, сходен
 dissimilis, -is - различен, инакъв
+
+
+bonus, melior, optimus - добър
+malus, pēior, pessinus - лош
+magnus, māior, māximus - голям
+parvus, minor, minimus - малък
+multī, plūrēs, plūrimī pl - многоброен
+multum, plūs plūris, plūrimum - много
