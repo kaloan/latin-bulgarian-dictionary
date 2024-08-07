@@ -7,9 +7,9 @@ hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този
 haec, hanc, huius, huic, hāc, hae, hās, hārum, hīs, hīs - тази
 hoc,  hoc, huius, huic, hōc, haec, haec, hōrum, hīs, hīs - това
 
-ille, illum, illius, illī, illō, illī, illōs, illōrum, illīs, illīs - онзи
-illa, illam, illius, illī, illā, illae, illās, illārum, illīs, illīs - онази
-illud, illud, illius, illī, illō, illa, illa, illōrum, illīs, illīs - онова
+ille, illum, illīus, illī, illō, illī, illōs, illōrum, illīs, illīs - онзи
+illa, illam, illīus, illī, illā, illae, illās, illārum, illīs, illīs - онази
+illud, illud, illīus, illī, illō, illa, illa, illōrum, illīs, illīs - онова
 
 is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs - той
 ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs - тя
@@ -35,10 +35,18 @@ quispiam,, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrump
 quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя да е
 quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quaspiam, quōrumpiam, quibuspiam, quibuspiam - кое да е
 
+aliquis, aliquem, alicuis, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой 
+aliqua, aliquam, alicuis, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя
+aliquod, aliquod, alicuis, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus - някое
+
 
 īdem, eundem, eiusdem, eīdem, eōdem, iīdem, eōsdem, eōrundem, iīsdem, iīsdem  - същият
 eadem, eandem, eiusdem, eīdem, eādem, eaedem, eāsdem, eārundem, iīsdem, iīsdem  - същата
 idem, idem, eiusdem, eīdem, eōdem, eadem, eadem, eōrundem, iīsdem, iīsdem - същото
+
+iste, istum, istīus, istī, istō, istī, istōs, istōrum, istīs, istīs - тоз/онз
+ista, istam, istīus, istī, istā, istae, istās, istārum, istīs, istīs - таз/оназ
+istud, istud, istīus, istī, istō, ista, ista, istōrum, istīs, istīs - туй/онуй
 
 ipse, ipsum, ipsīus, ipsī, ipsō, ipsī, ipsōs, ipsōrum, ipsīs, ipsīs - самият
 ipsa, ipsam, ipsīus, ipsī, ipsā, ipsae, ipsās, ipsārum, ipsīs, ipsīs - самата

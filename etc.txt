@@ -6,7 +6,8 @@ fratris filius, sorōris fīlius - племенник
 ōvum frictum - яйце на очи
 ōvum dūrum - варено яйце
 ōvum permixta - бъркано яйце
-necesse est (+dat, inf) - необходимо е да, задължително е да
+necesse est (+dat, inf) - нужно е, необходимо е да, задължително е да
+opus est (+dat, inf) - нужно е
 mōs māiōrum - нещо като традиция (буквално 'нрави/привички на по-старите')
 salvē , salvēte- здравей, здравейте
 valē, valēte - чао (букв. здравей, здравейте)
@@ -14,6 +15,16 @@ larēs familiārēs - домашни лари
 larēs pūblicī - обществени лари, лари на града
 multum (+gen) - предоволство
 suum cuique - всекиму своето
+
+vertebrae cervicalēs - шийни прешлени
+vertebrae throciacea - гръден прешлени
+vertebrae lumbalēs - поясни прешлени
+vertebrae sacralēs - кръсцови прешлени
+vertebrae caudalēs (coccygeae) - опашни прешлени
+
+lūdus lātrunculōrum - вид шах
+duodecim scrīpta, lūdus duodecim scrīptōrum - вид табла
+pīla trigōnālis - игра за трима с подаване на топка
 
 A. (Aulus) - Авел
 C. (Gāius) - Гай
