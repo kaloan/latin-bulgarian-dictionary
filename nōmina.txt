@@ -1,30 +1,15 @@
-speculum, -ī, n - огледало
-umerus, -ī, m - рамо
-lacus, -ūs, m - езеро
-māne, indecl, n - утро
-vesper, -erī, m - вечер
-oriēns, -entis, m - изток
-occidēns, -entis, m - запад
-septentriōnēs, -um, m pl - север 
-merīdiēs, meridiēī, m - юг
 mora, -ae, f - прекъсване, забавяне
 auxilium, -ī, n - помощ
 opus, -eris, n - дело, труд
-fretum, -ī, n - проток
 dictum, -ī, n - слово, изказване, заповед
 tībīcen, -inis, m - флейтист
-potestās, -ātis, f - сила, възможност
 mundus, ī, m - свят
 phantasma, -ae, f - призрак
 vorāgō, -inis, f - бездна
 perīculum, -ī, n - беда
 praedō, -ōnis, m - пират
-pecūlium, -ī, n - заплащане, лична вещ
 fundus, -ī, m - дъно
 vīta, -ae, f - живот
-lucrum, -ī, n - печалба
-spēs, spēī, f - надежда
-iactūra, -ae, f - загуба, цена
 fidēs, -is, f - лира, струннен инструмент
 fidicen, -inis, m - лирист
 cantus, -ūs, m - песен
@@ -32,19 +17,12 @@ carmen, -inis, n - песен
 salūs, -ūtis, f - спасение
 fūr, is, m - крадец
 fūrtum, -ī, n - кражба
-invidia, -ae, f - завист
 fortūna, -ae, f - съдба
 rēmus, -ī, m - гребло
 cōnsilium, -ī, n - съвет, решение, план
 cēna, -āe, f - вечеря
-famēs, -is, f - глад
-sitis, -is, f - жажда
-cocus, -ī, m - готвач
 culīna, -ae, f - кухня
-minister, -trī, m - сервитьор, келнер
 convīvium, -ī, n - събиране, банкет, гост (!)
-nux, nucis, f - ядка, плод с черупка
-carō, carnis, f - месо
 scelus, -eris, n - престъпление, извръщение
 mōs, mőris, m - морал, ценност
 pōtiō, -ōnis, f - напитка
@@ -52,8 +30,6 @@ rūmor, -is, m - слух (като несигурна новина)
 mūnus, -eris, n - подарък, услуга, данък, задължение
 fidēs, fidēī, f - вяра
 crux, crucis, f - кръст
-iuvenis, -is, m - млад (около 30-ка)
-praemium, -ī, n - награда, награждение, подарък
 poena, -ae, f - наказание
 iūs, iūris, n - справедливост, правосъдие
 lēx, lēgis, f - закон
@@ -62,132 +38,59 @@ supplicium, -ī, n - страдание, мъчение
 senex, senis, m/f - старец, старица
 grātia, -ae, f - благодарност
 aetās, -ātis, f - част от живота, възраст, поколение
-ripa, -ae, f - речен бряг
-bellum, -ī, n - война
 pāx, pācis, f - мир, спокойствие
 vulnus, -eris, n - рана
 opera, -ae, f - работа, грижи
-certāmen, -inis, n - бой, битка
 ingenium, -ī, n - характер, ествество
 mēns, mentis, f - ум, разум
 bāsium, -ī, n - целувка
 ōrdō, -inis, m - ред
-īra, -ae, f - гняв, яд
-admirātiō, -ōnis, f - почитание, учудване, изумление
 sacerdōs, -ōtis, m/f - свещеник
-dracō, -ōnis, m - дракон, змей
-āra, -ae, f - олтар
-rīma. -ae, f - дупка, процеп
 honōs, -ōris, m - чест
-calanthus, -ī, m - кошница
-scēptrum, -ī, n - скиптър, жезъл
-cingulum, -ī, n - колан
 radius, -ī, m - лъч
 sūdor, -is, m - пот
-calculus, -ī, m - камъче
-fōns, fōntis, m - извор, фонтан, изтичник, първопричина
-gutta, -ae, f - капка
-opecrulum, -ī, n - капак
 cāseus, -ī, m - сирене
-antrum, -ī, n - пещера
-unda, -ae, f - вълничка
-spēlunca, -ae, f - пещера
-cāligō, -inis, f - плътен облак
 vapor, -is, m - пара
-nebula, -ae, f - мъгла
-unguis, -is, m - нокът
-lapis, -idis, m - камък
-pilus, -ī, m - козина
-scintilla, -ae, f - искра
-venēnum, -ī, n - отрова
 socius, -ī, m - съюзник
-anguis, -is, - змя, змей
-pharetra, -ae, f - колчан
-rādix, rācis, f - корен
-acus, aceris, n - игла
 venia, -ae, f - прошка, опрощение
-sūcus, -ī, m - сок, смола
 laqueus, -ī, m - примка, капан
 tēla, -ae, f - паяжина
-statua, -ae, f - статуя
-līmen, -inis, n - праг
 sertum, -ī, n - венец
-tabernāculum, -ī, n - палатка
-vāgīna, -ae, f - ножница
 vātēs, -is, m/f - пророк, ясновидец
-dūmus, -ī, m - храст
 latibulum, -ī, n - скривалище
 splendor, -ōris, m - блясък
 gemitus, -ūs, m - стон
-lympha, -ae, f - вода, прозрачна течност
-scāla, -ae, f - стълба
-solium, -ī, n - трон
-īnsidiae, -ārum, f pl - засада, клопка
 pondus, -eris, n - тежест, бреме
 macula, -ae, f - петно
 peregrīnus, -ī, m - чужденец
-cloāca, -ae, f - канализация
 prōdigium, -ī, n - предзнаменование, чудо
 classis, -is, n - клас, класа
-cura, -ae, f - заседателна зала, сградата на сената
 coniūrātiō, -ōnis, f - съзаклятие, заговор 
 exsilium, -ī, n - заточение
-obsidiō, -ōnis, f - обсада
-stipendium, -ī, n - заплата, надница
 turba, -ae, f - тълпа
 histriō, -ōnis, m - актьор
 discrīmen, -inis, n - опасност
 coetus, -ūs, m - събрание, шайка, секс
 sēcessiō, -ōnis, f - разкол, отцепване, сепаратизъм
 prex, precis, f - жалба, молба
-turris, -is, f - кула
-ebur, eboris, n - слонова кост
 clādēs, -is, f - клане, опустошение
 occasiō, -ōnis, f - момент, възможност
-lōrīca, -ae, f - броня
-vadum, -ī, n - плитчини
-stagnum, -ī, n - мочурище
-tumulus, -ī, m - хълмче
-socer, -ī, m - тъст
 crūdēlitās, -ātis, f - жестокост
 aerārium, -ī, n - държавна хазна
 hērēs, heredis, m/f - наследник
-vīcus, -ī, m - село, градче
 farīna, -ae, f - брашно
 necessarius, -ī, m - приятел
 obses, -idis, m/f - заложник, залог
 calamitās, -ātis, f - нещастие, бедствие
 sarcinae, -ārum, f pl - товар, снаряжение, екипировка
-aura, -ae, f - въздух, миризма, вятър
-prōlēs, -is, f - чадо, рожба
 harundō, -inis, f - въдица
-stīva, -ae, f - дръжка
 vīcīnia, -ae, f - близост
-tellus, -ūs, f - земя (като елемента), Земята, земя (като на каквото стъпваме)
-caupōna, -ae, f - странноприемница
-marsūpia, -ae, f - кесия
 onus, oneris, n - тежест, тегоба, трудност
 nēquitia, -ae, f - несправедливост, мерзост
-pariēs, parietis, m - стена
 blanditia, -ae, f - комплимент, лъскание
 murmur, -is, n - шепот, тих звук
 anhelitus, -ūs, m - дъх, дишане
-tumulus, -ī, m - гробница
-arvum, -ī, n - поле
-amicitus, -ī, m - наметало
-pulvis, pulveris, f - прах, пясък
-rūpēs, -is, f - скала, канара, урва
-mucrō, -ōnis, m - острие, връх
-rogus, -ī. m - погребална клада
-fūnis, -is, m - въже
-incendium, -ī, n - пожар
-portiō, -ōnis, f - част
-meretrīx, -cis, f - проститутка
-supellex, -ctilis, f - мебел
 divīnus, -ī, m - ясновидец, гадател
-libīdō, -inis, f - желание, страст
-marmor, -is, n - мрамор
-basilica, -ae, f - обществена сграда за различни дейности
 sēcrētum, -ī, n - тайна
 reus, -ī, m - грешник, защита в съда
 vitium, -ī, n - порок
@@ -200,43 +103,29 @@ ritus, -ūs, m - ритуал, обред
 facultās, -ātis, f (+gen) - способност, възможност, шанс
 latrō, -ōnis, m - грабител, плячкосник
 iurgium, -ī, n - свада, кавга, раздяла, бой
-liquor, -is, m - течност
 fraus, fraudis, f - лъжа
 culpa, -ae, f - вина, грешка
 effigiēs, effigiēī, f - образ, вид
 dolus, -ī, m - измама
 rūga, -ae, f - бръчка
-nātus, -ī, m - син, рожба
 nīsus, -ūs, m - труд
 melos, indecl, n - песен
 augurium, -ī, n - ясновидство
 ōmen, -inis, n - поличба
 subsidium, -ī, n - подпомагане
 prandium, -ī, n - обяд
-thēca, -ae, f - чанта
 exemplar, -is, n - пример
-macellum, -ī, n - месарница
 unguentum, -ī, n - масло, мазило
-porticus, -ūs, f - колонада, стоа
 sēcessus, -ūs, m - самотно, скришно място
-cella, -ae, f - стая, затворено място
 piscīna, -ae, f - басейн, рибарник
-lutum, -ī, n - кал
 ēsca, -ae, f - храна
-ferculum, -ī, n - поднос
 placenta, -ae, f - кекс, торта
 facula, -ae, f - факла
-pulvīnus, -ī, n - възглавница
 fraudātor, -is, m - мошеник
 iūdex, iūdicis, m - съдия
-praecō, -ōnis, m - вестител, глашатай
 pugnantiа, -ārum, f pl - противоречие, несъответствие
-aciēs, aciēī, f - боен ред
 oblīvĭo - забвение
-oppidum, -ī, n - град
-imperium, -ī, n - империя
 prōvincia, -ae, f - провинция, административна единица при римляните
-vocābulum, -ī, n - дума
 exemplum, -ī, n - пример
 pēnsum, -ī, n - задача
 scaena, -ae, f - сцена
@@ -249,60 +138,26 @@ dominus, -ī, m - господар
 domina, -ae, f - господарка
 servus, -ī, m - роб, прислужник
 ancilla, -ae, f - робиня, прислужница
-saccus, -ī, m - торба
-pecūnia, -ae, f - пари
-nummus, -ī, m - монета
 baculum, -ī, n - бастун, пръчка
-aqua, -ae, f - вода
-via, -ae, f - път
-mūrus, -ī, m - стена
-porta, -ae, f - порта, градска врата
 lectīca, -ae, f - носилка
 lacrima, -ae, f - сълза
 speculum, -ī, n - огледало
-specus, -ūs, m - пещера, скривалище
 ōsculum, -ī, n - целувка
-taberna, -ae, f - магазин
-pistrīna, -ae, f - пекарна
-thermopōlium, -ī, n - ресторанче
-gemma, -ae, f - скъпоценен камък
-margarīta, -ae, f - бисер, перла
-ōrnāmentum, -ī, n - украшения
-ānulus, -ī, m - пръстен
-līnea, -ae, f - колие, наниз, гердан, верижка
-pretium, -ī, n - цена
-crēpis, crepidis, f - тротоар
 pāstor, -ōris, m - пастир
 cibus, -ī, m - храна, питание
-herba, -ae, f - трева
 pānis, -is, m - хляб
-sōl, solis, m - слънце
-luna, -ae, f - луна
-stēlla, -ae, f - звезда
-caelum, -ī, n - небе
-nūbēs, nubis, f - облак
 umbra, -ae, f - сянка
 vestīgium, -ī, n - следа, диря, отпечатък
-timor, -is, m - страх
 clāmor, -is, m - вик
-cauda, -ae, f - опашка
-petasus, -ī, m - пета
 mercātor, -is, m - търговец 
-āēr, āeris, m - въздух, небе
-nūntius, -ī, m - вестител
 anima, -ae, f - дъх, душа
-pila, -ae, f - топка
 vōx, vōcis, f - глас
-color, -ōris, m - цвят 
-pōculum, -ī, n - чаша
-culter, cultrī, m - нож
+color, -ōris, m - цвят
 medicus, -ī, m - лекар
 luxuria, -ae, f - лукс
 luxus, -ī, m - лукс, излишък
-stuprum, -ī, n - разврат, прелюбодейство 
-thēsaūrūs, -ī, m - съкровище, имане, хранилище
+stuprum, -ī, n - разврат, прелюбодейство
 vēnātiō, -ōnis, f - лов
-septimāna, -ae, f - седмица
 omnе, omnis, n - всичко
 omnēs, -ium, m pl - всички
 lūcūbrātiō, -ōnis, f - среднощна работа (буквално 'работа на лампа')
@@ -316,22 +171,12 @@ pars, partis, f - част
 fīnis, -is, m - граница
 patria, -ae, f - родина, отечество
 hostis, -is, m - враг
-exercitus, -ūs, n - войска, армия
-dux, dūcis, м - предводител, главнокомандващ
 passus, -ūs, m - мярка за дължина, равляваща се н пет крака (т.е. 148см)
-impetus, -ūs, m - атака, настъпление
-metus, -ūs, m - страх
 lūx, lūcis, f - светлина
 fōrma, -ae, f - вид, изглед
 initium, -ī, n - начало
-imber, imbris, m - дъжд
-nix, nivis, f - сняг
-glaciēs, glaciēī, f - лед
 urbs, urbis, f - град
 rēs  rеī, f - нещо, вещ, дело
-frīgida, -ae, f - студена вода
-tepida, -ae, f - хладка вода
-calida, -ae, f - топла вода
 virga, -ae, f - пръчка 
 vērum, -ī, n - истина
 vēritās, -ātis, f - истина
@@ -342,32 +187,17 @@ lībertus, -ī, m - освободен роб
 līberta, -ae, f - освободена робиня
 cliens, clientis, m - клиент, посетител
 rōbur, ruboris, n - здравина, твърдост, крепост
-aes, aeris, n - мед, бронз
-pelagus, -ī, m - открито море
 collēgĭum, -ī, n - гилдия, сдружение, братство
 horreum, -ī, n - склад
 uncia, -ae, f - унция, една дванайста
 sēmis, -is, m - половина, шестунциева медна монета
 lībra, -ae, f - везни, кантар, мярка за тегло, деляща се на дванайсет унции
-scrība. -ae, m - писар
 locus, -ī, m - място
 merx, mercis, f - стока
-ventus, -ī, m - вятър
 ventus, -ūs, m - пристигане
-tempestās, -atis, f - буря
-flūctus, -ūs, m - вълна
-altum, -ī, n - 
-tonitrus, -ī, m - гръмотевица, тътен
-fulgur, -is, n - светкавица
-pelvis, -is, f - паница
 zephyrus, -ī, m - Зефир, западният вятър
 erus, -ī, m - господар
-ferrum, -ī, n - желязо
-mercēs, mercēdis, f - заплащане, надница
 mendum, -ī, n - грешка
-cēra, -ae, f - восък
-māteria, -ae, f - вещество, естество
-amor, amoris, m - любов, привързаност
 pulchritūdō, -inis, f - красота, хубост
 dōnum, -ī, n - дар, подарък
 somnus, -ī, n - сън
@@ -377,21 +207,106 @@ sermō, -ōnis, n - реч, говор, слова
 rumor, -is, m - мълва, слух
 silentium, -ī, n - тишина, безмълвие
 officium, -ī, n - задължение, отговорност
-humus, -ī, m - земя, почва
-pugna, -ae, f - бой, битка
-sordēs, -ium, f pl - кал, мръсотия
 causa, -ae, f - причина
 catēna, -ae, f - верига 
-aurum, -ī, n - злато
 faber, fabrī, m - занаятчия, ковач
 imāgō, imaginis, f - образ, картина
 salūs, salūtis, f - поздрав
 laus, laudis, f - похвала, хвалба
 factum, -ī, m - дело, деяние
-pudor, pudōris, m - срам, срамота, позор
 prōmissum, -ī, n - обещание
 verbera, -um, n pl - бой
 comes, comitis, m - придружител
+temperātus, -ūs, m - въздържание
+causātĭo, -ōnis, f - извинение
+latus, lateris, n - страна, дял
+currus, -ūs, m - колесница, двуколка, талига
+fābula, -ae, f - разказ, приказка
+venēnum, -ī, n - отрова
+mōnstrum, -ī, n - чудовище
+rēx, rēgis - цар, крал, управител
+glōria, -ae, f - слава, почест
+cīvis, -is, m/f - гражданин
+exitus, -ūs, m - изход
+cōnspectus, -ūs, m - поглед
+nārrātiō, -ōnis, f - разказ
+portiō, -ōnis, f - част
+rīma. -ae, f - дупка, процеп
+
+mors, mortis, f - смърт
+nex, necis, f - смърт
+  rogus, -ī. m - погребална клада
+
+
+potestās, -ātis, f - сила, възможност
+libīdō, -inis, f - желание, страст
+cupiditās, -ātis, f - желание
+spēs, spēī, f - надежда
+invidia, -ae, f - завист
+famēs, -is, f - глад
+sitis, -is, f - жажда
+admirātiō, -ōnis, f - почитание, учудване, изумление
+amor, amoris, m - любов, привързаност
+dolor, dolōris, m - болка
+pudor, pudōris, m - срам, срамота, позор
+timor, -is, m - страх
+īra, -ae, f - гняв, яд
+metus, -ūs, m - страх
+
+sonus, -ī, m - звук
+  strepitus, - кънтеж, тътен, бучене, ечене
+  tumultus, -ūs, m - какофония, шумотевица 
+
+
+māteria, -ae, f - вещество, естество
+liquor, -is, m - течност
+marmor, -is, n - мрамор
+aes, aeris, n - мед, бронз
+aurum, -ī, n - злато
+ferrum, -ī, n - желязо
+ebur, eboris, n - слонова кост
+cēra, -ae, f - восък
+
+ōrnāmentum, -ī, n - украшения
+  gemma, -ae, f - скъпоценен камък
+  margarīta, -ae, f - бисер, перла
+  ānulus, -ī, m - пръстен
+  līnea, -ae, f - колие, наниз, гердан, верижка
+
+
+āēr, āeris, m - въздух, небе
+aura, -ae, f - въздух, миризма, вятър
+  ventus, -ī, m - вятър
+tellus, -ūs, f - земя (като елемента), Земята, земя (като на каквото стъпваме)
+humus, -ī, m - земя, почва
+  sordēs, -ium, f pl - кал, мръсотия
+  lutum, -ī, n - кал
+  rūpēs, -is, f - скала, канара, урва
+  lapis, -idis, m - камък
+  calculus, -ī, m - камъче
+  pulvis, pulveris, f - прах, пясък
+aqua, -ae, f - вода
+lympha, -ae, f - вода, прозрачна течност
+  glaciēs, glaciēī, f - лед
+  frīgida, -ae, f - студена вода
+  tepida, -ae, f - хладка вода
+  calida, -ae, f - топла вода
+ignis, -is, m - огън
+  scintilla, -ae, f - искра
+  incendium, -ī, n - пожар
+
+gutta, -ae, f - капка
+flūctus, -ūs, m - вълна
+  unda, -ae, f - вълничка
+nebula, -ae, f - мъгла
+nūbēs, nubis, f - облак
+cāligō, -inis, f - плътен облак
+imber, imbris, m - дъжд
+  nix, nivis, f - сняг
+tempestās, -atis, f - буря
+  tonitrus, -ī, m - гръмотевица, тътен
+  fulgur, -is, n - светкавица
+
 
 lūdus, -ī, m - училище
 magister, magistrī, m - учител
@@ -416,6 +331,12 @@ nūtrīx - дойка
 ōstiārius, -ī, m - портиер
 iānitor, -ōris, m - портиер
 tabellārius, -ī, m - пощальон
+nūntius, -ī, m - вестител
+praecō, -ōnis, m - вестител, глашатай
+scrība. -ae, m - писар
+cocus, -ī, m - готвач
+minister, -trī, m - сервитьор, келнер
+meretrīx, -cis, f - проститутка
 
 pōmum, -ī, n - плод
   mālum, -ī, n - якълка
@@ -449,17 +370,22 @@ pōmum, -ī, n - плод
 holus, holeris, n - зеленчук
   bēta, -ae, f - морков
   lactūca, -ae, f - маруля
+nux, nucis, f - ядка, плод с черупка
 
 arbor, -is, f - дърво
+dūmus, -ī, m - храст
 rāmus, -ī, m - клон
 folium, -ī, n - листо
 frōns, frōndis, f - листа, зеленина, клонче с листа
 cortex, -icis , m - кора, черупка, обвивка
 lignum, -ī, n - дървесина, дърво
+rādix, rācis, f - корен
+sūcus, -ī, m - сок, смола
 nucleus, -ī, m - зърно
 medulla, -ae, f - месеста част
 quercus, -ūs, f - дъб
 ferula, -ae, f - палма
+herba, -ae, f - трева
 
 animal, -ālis, n - животно
 bēstia, -ae, f - твар, животно
@@ -515,7 +441,12 @@ musca, -ae, f - муха
 culex, culicis, m - комар
 pūlex, pūlicis, m - бълха
 scarabæus, -ī, m - скарабей, бръмбар
+anguis, -is, - змя, змей
+serpentēns, -entis - змия, влечуго
+dracō, -ōnis, m - дракон, змей
 
+
+carō, carnis, f - месо
 gallīnācea, -ae, f - пилешко
 būbula, -ae, f - говеждо
 vitulina, -ae, f - телешко
@@ -532,6 +463,9 @@ lardum, -ī, n - бекон
 rostrum, -ī, n - човка
 cornū, -ūs, n - рог
 āla, -ae, f - крило (на птица), крило (в смисъл на фланк) 
+unguis, -is, m - нокът
+pilus, -ī, m - козина
+cauda, -ae, f - опашка
 
 
 flōs, floris, m - цвете
@@ -600,6 +534,8 @@ mamma, -ae, f - мама
 pāpa, -ae, m - тати 
 māter, mātris, f - майка
 pater, patris, m - баща, татко
+nātus, -ī, m - син, рожба
+prōlēs, -is, f - чадо, рожба
 fīlius, -ī, m - син
 fīlia, -ae, f - дъщеря
 frāter, fratris, m - брат
@@ -622,32 +558,53 @@ marītus, -ī, m - съпруг
 coniunx, coniugis, m/f - съпруг, съпруга
 mātrōna - омъжена жена, мадам
 virgō, virginis, f - девица
-iuvenis, -is, m/f - млад мъж, млада жена
+iuvenis, -is, m/f - млад мъж, млада жена (??според едната книга около 30-ка??)
 adulēscēns, adulēscentis, m/f - юноша
 infāns, infantis, m/f - бебе
 
-campus, -ī, m - равнина
-mōns montis, m - планина
-īnsula, -ae, f - остров, жилищен блок
-silva, -ae, f - гора
+
+caelum, -ī, n - небе
+  sōl, solis, m - слънце
+  luna, -ae, f - луна
+  stēlla, -ae, f - звезда
+xmōns montis, m - планина
+saxum, -ī, n - скала, канара
+antrum, -ī, n - пещера
+spēlunca, -ae, f - пещера
+specus, -ūs, m - пещера, скривалище
 vallis, -is, f - долина
 collis, -is, m - хълм
+tumulus, -ī, m - могила, хълмче
+campus, -ī, m - равнина, поле
+arvum, -ī, n - поле
+silva, -ae, f - гора
+silva, -ae, f - гора
+īnsula, -ae, f - остров, жилищен блок
+fōns, fōntis, m - извор, фонтан, изтичник, първопричина
 amnis, -is, m - река
 fluvius, -ī, m - река
 rīvus, -ī, m - река
 flūmen, flūminis, n - река
-rīpa, -ae, f - речен бряг 
-ōceanus, -ī, m - океан
-mare, -is, n - море
-ōra, ōrae, f - морски бряг
+rīpa, -ae, f - речен бряг
 lacus, -ūs, m - езеро
+stagnum, -ī, n - мочурище
+mare, -is, n - море
+vadum, -ī, n - плитчини
+pelagus, -ī, m - открито море
+ōra, ōrae, f - морски бряг
+lītus, litoris, n - плаж, бряг
+fretum, -ī, n - проток
+ōceanus, -ī, m - океан
+altum, -ī, n - дълбини
 
 
 Rōma, -ae, f - Рим
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
 Tūsculum, -ī, n - Тускулум
-Brundisium, -ī, n - Брундизи 
+Brundisium, -ī, n - Брундизи
+Athē­nae, -ārum, f pl - Атина
+Trōia, -ae, f - Троя
 
 Graecia, -ae, f - Гърция
 Carthagō, -inis, f - Картаген
@@ -696,9 +653,10 @@ margo, marginis, m - край, граница
 versus, -ūs, m - ред, стих
 littera, -ae, f - буква
 numerus, -ī, m - число
-charta, -ae, f - лист хартия, метален лист 
+charta, -ae, f - лист хартия, метален лист
 papȳrus, -ī, f - растението папирус, папирус (хартията, произведена от растението папирус)
 membrāna, -ae, f - кожа, пергамент
+palimpsestus, -ī, m - преизползван папирус
 ātrāmentum, -ī, n - мастило (букв. чернило)
 calamus, -ī, m - тръстика, тръстикова писалка
 penna, -ae, f - перо, перо за писане
@@ -710,48 +668,89 @@ hieroglyphicus, -ī, m - йероглиф
 vīlla, -ae, f - вила
 casa, -ae, f - колиба
 domus, -ūs, f - жилище, къща
-aedificium, -ī, n - сграда
 fenestra, -ae, f - прозорец
+cella, -ae, f - стая, затворено място
 cubiculum, -ī, n - стая, спалня
-vestibulum, -ī, n - преддверие, антре
-  līmen, līminis, n - праг
-  ōstia, -ae, f - врата
-  iānua, -ae, f - врата, вход
-    foris, -is, f - крило на врата
-    cardō, cardinis, m - панта
-ātrium, -ī, n - входна зала, фоайе
-larārium, -ī, n - място, където се помещавали статуи на ларите
-āla, -ae, f - ниша без покрив
-impluvium, -ī, n - малък басейн, който типично се помещавал в атриума
-compluvium, -ī, n - отвор в покрива над имплувиума
-peristylum, -ī, n - взаимствано от гръцката архитектура отворено помещение, заградено с колони 
-tablīnum, -ī, n - стая, изпълняваща ролята на библиотека, писалище, работен кабинет
+  vestibulum, -ī, n - преддверие, антре
+    līmen, līminis, n - праг
+    ōstia, -ae, f - врата
+    iānua, -ae, f - врата, вход
+      foris, -is, f - крило на врата
+      cardō, cardinis, m - панта
+  ātrium, -ī, n - входна зала, фоайе
+    impluvium, -ī, n - малък басейн, който типично се помещавал в атриума
+    compluvium, -ī, n - отвор в покрива над имплувиума
+  culīna, -ae, f - кухня, мангали можели да се пренесат в атриумът и да се сготви там
+  triclīnium, -ī, n - триклиниум, разположение на три кревата с маса
+    ferculum, -ī, n - поднос
+    pelvis, -is, f - паница
+    operculum, -ī, n - капак
+    pōculum, -ī, n - чаша
+    culter, cultrī, m - нож
+  larārium, -ī, n - място, където се помещавали статуи на ларите
+  āla, -ae, f - ниша без покрив
+  peristylum, -ī, n - взаимствано от гръцката архитектура отворено помещение, заградено с колони 
+  tablīnum, -ī, n - стая, изпълняваща ролята на библиотека, писалище, работен кабинет
 hortus, -ī, m - градина
-culīna, -ae, f - кухня
-mēnsa, -ae, f - маса (като трапеза, работна маса)
-lectus, -ī, m - легло
-cūnae, -ārum, f pl - бебешко креватче
-sella, -ae, f - стол с гръб
-scamnum, -ī, n - малък стол, стъпало
-ammārium, -ī, n - шкаф
-arca, -ae, f - сандък, кутия
+  sphaeristērium, -ī, n - поле за игра с топка
+supellex, -ctilis, f - мебел
+  stīva, -ae, f - дръжка
+  mēnsa, -ae, f - маса (като трапеза, работна маса)
+  lectus, -ī, m - легло
+  cūnae, -ārum, f pl - бебешко креватче
+  pulvīnus, -ī, n - възглавница
+  solium, -ī, n - трон
+  sella, -ae, f - стол с гръб
+  scamnum, -ī, n - малък стол, стъпало
+  ammārium, -ī, n - шкаф
+  arca, -ae, f - сандък, кутия
+  lucerna, -ae, f - маслена лампа
+  lychnūchus, -ī, m - поставка за маслена лампа
+  signum, -ī, n - статуя, знак
+saccus, -ī, m - торба
+calanthus, -ī, m - кошница
 cista, -ae, f - плетена кошница
-lucerna, -ae, f - маслена лампа
-lychnūchus, -ī, m - поставка за маслена лампа
+thēca, -ae, f - чанта
 mappa, -ae, f - кърпичка, салфетка
 mantēle, -is, n - кърпа
 clāvis, -is, f - ключ 
 columna, -ae, f - колона
-signum, -ī, n - статуя, знак
 tēctum, -ī, n - покрив
 solum, -ī, n - под
-sphaeristērium, -ī, n - поле за игра с топка
 crepundia, -ōrum, n pl - залагалка
 pupa, -ae, f - кукла
+pila, -ae, f - топка
+scāla, -ae, f - стълба
+fūnis, -is, m - въже
 
 
+imperium, -ī, n - империя
+via, -ae, f - път
+  crēpis, crepidis, f - тротоар
+urbs, urbis f - град, градът Рим
+oppidum, -ī, n - град
+vīcus, -ī, m - село, градче
+mūrus, -ī, m - градска стена
+moenia, -ium, n pl - градски стени, укрепление
+  turris, -is, f - кула
+porta, -ae, f - порта, градска врата
+labyrinthus, -ī, m - лабиринт
+aedificium, -ī, n - здание, сграда, постройка
+  pariēs, parietis, m - стена
+  cloāca, -ae, f - канализаци
+  basilica, -ae, f - обществена сграда за различни дейности
+  cura, -ae, f - заседателна зала, сградата на сената
+  porticus, -ūs, f - колонада, стоа
+  templum, -ī, n - храм
+    āra, -ae, f - олтар
+  tumulus, -ī, m - гробница, могила
+  taberna, -ae, f - магазин
+    caupōna, -ae, f - странноприемница
+    thermopōlium, -ī, n - ресторанче
+    pistrīna, -ae, f - пекарна
+    macellum, -ī, n - месарница
 forum, -ī, n - мегдан
-templum, -ī, n - храм
+statua, -ae, f - статуя
 
 
 corpus, corporis, n - тяло
@@ -810,8 +809,9 @@ crūs, crūris, n - крак
   genū, -ūs, n - коляно
   poples, poplitis, m - коляно
   tībia, -ae, f - пищял, свирка
-  tālus, -ī, m - глезен/пета, ашик
   pēs, pedis, m - крак (от глезена надолу), мярка за дължина, равняваще се на 29,6см
+    tālus, -ī, m - глезен, ашик
+    petasus, -ī, m - пета
 viscera, viscerum, n pl - вътрешни органи, вътрешности 
   venter, ventris, m - стомах
   cor, cordis - сърце
@@ -823,6 +823,18 @@ vēna, vēnae, f - кръвоносен съд
   cruor, -ōris, m - кръв
 
 
+pretium, -ī, n - цена
+thēsaūrūs, -ī, m - съкровище, имане, хранилище
+mercēs, mercēdis, f - заплащане, надница
+stipendium, -ī, n - заплата, надница
+praemium, -ī, n - награда, награждение, подарък
+lucrum, -ī, n - печалба
+iactūra, -ae, f - загуба, цена
+pecūnia, -ae, f - пари
+pecūlium, -ī, n - заплащане, лична вещ
+saccŭlus, -ī, n - кесия, торбичка за изцеждане/филтриране (както сиренето) (!!!)
+marsūpia, -ae, f - кесия
+nummus, -ī, m - монета
 as, assis, m - ас, дребна медна монета с най-малка стойност
 sēstertius, -ī, m - сестерция, месингова монета на стойност 4 аса 
 dēnarius, -ī, m - денарий, сребърна монета, равняваща се на 4 сестерции
@@ -847,6 +859,7 @@ Bacchus, -ī, m - Бакхус, бох на виното, плодовете, п
 Mercurius, -ī, m - Меркурий, бог вестител и бог на търговците, крадците, красноречието
 Vulcānus, -ī, m - Вулкан, бог на унищожителния огън и ковачите
 Minerva, -ae, f - Минерва, богиня на занаятите, мъдростта и войната
+Sōl, Sōlis, m - Сол, бог на слънцето
 Diāna, -ae, f - Диана, богиня на нощта, лова и природата
 Apollō, -inis, m - Аполон, бог на слънцето, образоваността и изкуствата
 Phoebus, -ī, m - друго име на Аполон
@@ -855,6 +868,15 @@ Grātia, -ae, f - 3 богини на красотата, природата, т
 Mūsa, Mūsae, f - 9 богини, покровителки на изкуствата, литературата и астрономията
 Lar, Laris, m - лар, божество/дух на място (дома, сграда, кръстовище), обикновено се използва в множествено число
 
+Achillēs, -is, m - Ахил
+Hector, -oris, m - Хектор
+Rōmulus, -ī, m - Ромул
+Thēseu, -ī, m - Тезей
+Mīnōtaurus, -ī, m - Минотавър
+Daedalus, -ī, m - Дедал
+Icarus, -ī, m - Икар
+Mīnōs, -ōis, m - Минос
+Aegeus, -ī, m - Егей
 
 Galēnus, -ī, m - Гален, древен изследовател по медицина
 Antōnius Mūsa, m  - лекар на император Август
@@ -865,7 +887,18 @@ Decimus Iūnius Iūvenālis - Ювенал, известен сатиричен 
 Hadriānus Augustus - император Адриан Август
 
 
+impetus, -ūs, m - атака, настъпление
+pugna, -ae, f - бой, битка
+bellum, -ī, n - война
+certāmen, -inis, n - бой, битка
+expugnātiō, -ōnis, f - превземане
+obsidiō, -ōnis, f - обсада
+īnsidiae, -ārum, f pl - засада, клопка
+exercitus, -ūs, n - войска, армия
+aciēs, aciēī, f - боен ред
+dux, dūcis, м - предводител, главнокомандващ
 praetor, -is, m - претор, длъжност даваща правомощия на военен командир и висш съдия 
+  scēptrum, -ī, n - скиптър, жезъл
 mīles, -itis, m - войник, воин, бранник, ратник
 pedes, pedites, m - пешак, пехотинец
 eques, equites, m - конник
@@ -875,16 +908,21 @@ castra, -ōrum, n pl - укрепление, военен лагер
   vāllum, -ī, n - палисада
   fossa, -ae, f - ров
   praetōrium, -ī, n -  място където се помещавал претора
+  tabernāculum, -ī, n - палатка
 arma, -ōrum, n pl - оръжие
+  mucrō, -ōnis, m - острие, връх
   gladius, -ī, m - меч
   ēnsis, -is, m - меч
+  vāgīna, -ae, f - ножница
   hasta, -ae, f - копие
   pīlum, -ī, n - метателно копие с мек връх,който се огъвъл при удър, използвано от римските войници
   arcus, -ūs, m - лък
   sagitta, -ae, f - стрела
+  pharetra, -ae, f - колчан
   funda, -ae, f - прашка
   scūtum, -ī, n - щит
   lorīca, -ae, f - броня
+  
 
 tempus, -oris, n - време
 kalendārium, -ī, n - календар
@@ -897,6 +935,7 @@ mēnsis, -is, m - месец
 diēs, diēī, m - ден
 nox, nocis, f - нощ
 kalendae, -ārum, f pl - календи, първия ден в месеца
+septimāna, -ae, f - седмица
 īdūs, īduum, f pl - иди, тринайсетия или петнайсетия ден от месеца
 nōnae, -ārum, f pl - нони, деветият ден преди идите (бройки и тях), т.е. петият или седмият ден от месеца
 hōra, -ae, f - час
@@ -905,6 +944,11 @@ māne. indecl, n - сутрин
 meridiēs, meridiēī, m - обед
 vesper, -is, m - вечер
 aequinoctium, -ī, n - равноденствие
+
+oriēns, -entis, m - изток
+occidēns, -entis, m - запад
+septentriōnēs, -um, m pl - север 
+merīdiēs, meridiēī, m - юг
 
 vestīmentum, -ī, n - облекло
 vestis, -is, f - дреха
@@ -918,6 +962,10 @@ bulla, -ae, f - кръгъл амулет носен от момчетата
 lūnula, -ae, f - амулет с полумесечна форма, носен от момичетата
 pilleus, -ī, m - шапка, носена по време на Сатурналия или на от освоободените роби, символ на свободата
 pallium, -ī, n - наметало
+amicitus, -ī, m - наметало
+acus, aceris, n - игла
+fīlum, -ī, n - нишка
+cingulum, -ī, n - колан
 
 
 portus, -ūs, m - пристан, пристанище
