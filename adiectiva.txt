@@ -188,6 +188,20 @@ faber, fabrī - изкусен
 integer, intergī - цял
 plānus - ясен
 dēbitus - дължим
+amplus - голям, обемен
+temperātus - подготвен, с мярка
+aegrōtus - боледуващ
+laevus - ляв
+pār, paris - равен
+subitus - внезапен, неочакван
+cruentus - окървавен
+sotdidus - мръсен, кален
+timidus - страхлив
+terribilis, -is - страховит
+mīrābilis, -is - чуден
+saevus - свиреп, яростен
+cupidus - желаещ
+arbitrātus - решен, преценен 
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -340,5 +354,6 @@ bonus, melior, optimus - добър
 malus, pēior, pessinus - лош
 magnus, māior, māximus - голям
 parvus, minor, minimus - малък
-multī, plūrēs, plūrimī pl - многоброен
+multī, plūrēs, plūrimī pl - многобройни
+complūrēs, -ēs - изобилни, несчетни 
 multum, plūs plūris, plūrimum - много

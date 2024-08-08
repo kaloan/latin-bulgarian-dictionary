@@ -15,6 +15,8 @@ larēs familiārēs - домашни лари
 larēs pūblicī - обществени лари, лари на града
 multum (+gen) - предоволство
 suum cuique - всекиму своето
+vix umquam - почти никога
+bene/male velle (+dat) - желая доброто/лошото някому
 
 vertebrae cervicalēs - шийни прешлени
 vertebrae throciacea - гръден прешлени
