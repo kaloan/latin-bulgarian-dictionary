@@ -1,6 +1,6 @@
 mora, -ae, f - прекъсване, забавяне
 auxilium, -ī, n - помощ
-opus, -eris, n - дело, труд
+opus, -eris, n - дело, труд, изделие
 dictum, -ī, n - слово, изказване, заповед
 tībīcen, -inis, m - флейтист
 mundus, ī, m - свят
@@ -227,16 +227,33 @@ mōnstrum, -ī, n - чудовище
 rēx, rēgis - цар, крал, управител
 glōria, -ae, f - слава, почест
 cīvis, -is, m/f - гражданин
-exitus, -ūs, m - изход
+initus, -ūs, m - вход, начало
+exitus, -ūs, m - изход, завършек
 cōnspectus, -ūs, m - поглед
 nārrātiō, -ōnis, f - разказ
 portiō, -ōnis, f - част
 rīma. -ae, f - дупка, процеп
+fuga, -ae, f - бягство
+precēs, -um, f pl - молба, просба
+pābulum, -ī, n - сено
+vīnum, -ī, n - вино
+vīnea, -ae, f - лозя
+praedium, -ī, n - имот, имение
+loca, -ōrum, n pl - местност
+orbis, -is, f - окръжност, орбита
+nātūra, -ae, f - естество, природа
+lībertās, -ātis, f - свобода
+multitūdō, -inis, f - множество
+fascis, -is, m - сноп, сноп дърва символ на авторитета на обществено лице
 
 mors, mortis, f - смърт
 nex, necis, f - смърт
   rogus, -ī. m - погребална клада
 
+īnstrūmentum, -ī, n - уред, оръдие, средство
+  falx, falcis, f - сърп 
+  malleus, -ī, n - чук
+  arātrum, -ī, n - рало, плуг
 
 potestās, -ātis, f - сила, възможност
 libīdō, -inis, f - желание, страст
@@ -252,6 +269,10 @@ pudor, pudōris, m - срам, срамота, позор
 timor, -is, m - страх
 īra, -ae, f - гняв, яд
 metus, -ūs, m - страх
+labor, labōris, m - труд, усилие
+ōtium, -ī, n - спокойствие, безгрижие, свободно време
+negōtium, -ī, n - задължение, действане
+patientia, -ae, f - търпение
 
 sonus, -ī, m - звук
   strepitus, - кънтеж, тътен, бучене, ечене
@@ -277,8 +298,11 @@ cēra, -ae, f - восък
 āēr, āeris, m - въздух, небе
 aura, -ae, f - въздух, миризма, вятър
   ventus, -ī, m - вятър
+  calor, calōris, m - жега
+  frīgus, frīgoris, n - студ
 tellus, -ūs, f - земя (като елемента), Земята, земя (като на каквото стъпваме)
 humus, -ī, m - земя, почва
+solum, -ī, n - почва
   sordēs, -ium, f pl - кал, мръсотия
   lutum, -ī, n - кал
   rūpēs, -is, f - скала, канара, урва
@@ -337,6 +361,9 @@ scrība. -ae, m - писар
 cocus, -ī, m - готвач
 minister, -trī, m - сервитьор, келнер
 meretrīx, -cis, f - проститутка
+agricola, -ae, m - земеделец (букв. земегрижец)
+colōnus, -ī, m - ратай
+cōpia, -ae, f - изобилие
 
 pōmum, -ī, n - плод
   mālum, -ī, n - якълка
@@ -362,7 +389,9 @@ pōmum, -ī, n - плод
   cŭcŭmis, -eris, m - краставица
   olīva, -ae, f - маслина
   fīcus, -ūs, m - смокиня
+  ūva, -ae, f - грозде
   palmula, -ae, f; caryōta, -ae, f; dactylus, -ī, m - фурма
+  frūgēs, -um, f pl - реколта
   frūmentum, -ī, n - жито
     far, farris, n - спелта
     spīca, -ae, f - житен клас
@@ -372,6 +401,7 @@ holus, holeris, n - зеленчук
   lactūca, -ae, f - маруля
 nux, nucis, f - ядка, плод с черупка
 
+sēmen, sēminis, n - семе
 arbor, -is, f - дърво
 dūmus, -ī, m - храст
 rāmus, -ī, m - клон
@@ -384,6 +414,7 @@ sūcus, -ī, m - сок, смола
 nucleus, -ī, m - зърно
 medulla, -ae, f - месеста част
 quercus, -ūs, f - дъб
+vītis, -is, f - лоза
 ferula, -ae, f - палма
 herba, -ae, f - трева
 
@@ -391,6 +422,7 @@ animal, -ālis, n - животно
 bēstia, -ae, f - твар, животно
 fera, -ae, f - звяр, диво животно
 pecus, pecoris, n - добитък
+grex, gregis, m - стадо
 equus, -ī, m - кон
 asturcō, -ōnis, m - ат
 asinus, -ī, m - магаре
@@ -466,6 +498,7 @@ cornū, -ūs, n - рог
 unguis, -is, m - нокът
 pilus, -ī, m - козина
 cauda, -ae, f - опашка
+lāna, -ae, f - вълна
 
 
 flōs, floris, m - цвете
@@ -575,11 +608,13 @@ specus, -ūs, m - пещера, скривалище
 vallis, -is, f - долина
 collis, -is, m - хълм
 tumulus, -ī, m - могила, хълмче
-campus, -ī, m - равнина, поле
+campus, -ī, m - равнина
 arvum, -ī, n - поле
+ager, agrī, m - поле, имение
 silva, -ae, f - гора
 silva, -ae, f - гора
 īnsula, -ae, f - остров, жилищен блок
+paenīnsula, -ae, f - полуостров (букв. почти остров)
 fōns, fōntis, m - извор, фонтан, изтичник, първопричина
 amnis, -is, m - река
 fluvius, -ī, m - река
@@ -593,6 +628,7 @@ vadum, -ī, n - плитчини
 pelagus, -ī, m - открито море
 ōra, ōrae, f - морски бряг
 lītus, litoris, n - плаж, бряг
+isthmus, -ī, m - провлак, проток
 fretum, -ī, n - проток
 ōceanus, -ī, m - океан
 altum, -ī, n - дълбини
@@ -605,6 +641,7 @@ Tūsculum, -ī, n - Тускулум
 Brundisium, -ī, n - Брундизи
 Athē­nae, -ārum, f pl - Атина
 Trōia, -ae, f - Троя
+Corinthus, -ī, f - Коринт
 
 Graecia, -ae, f - Гърция
 Carthagō, -inis, f - Картаген
@@ -634,6 +671,8 @@ Chios, -ī, f - Хиос
 Lesbos, -ī, f - Лесбос 
 Lēmnos, -ī, f - Лемнос
 Euboea, -ae, f - Евбeя, Негропонт
+
+Isthmus, -ī, m - Коринтски провлак
 
 
 Nīlus, -ī, m - Нил
@@ -725,6 +764,8 @@ fūnis, -is, m - въже
 
 
 imperium, -ī, n - империя
+regiō, regiōnis, f - област, район, околия
+rūs, rūris, n - провинцията
 via, -ae, f - път
   crēpis, crepidis, f - тротоар
 urbs, urbis f - град, градът Рим
@@ -738,6 +779,7 @@ labyrinthus, -ī, m - лабиринт
 aedificium, -ī, n - здание, сграда, постройка
   pariēs, parietis, m - стена
   cloāca, -ae, f - канализаци
+  carcer, -eris, m - затвор
   basilica, -ae, f - обществена сграда за различни дейности
   cura, -ae, f - заседателна зала, сградата на сената
   porticus, -ūs, f - колонада, стоа
@@ -789,9 +831,10 @@ collum, -ī, n - шия
 vertеbra, -ae, f - прешлен
 clavicula, -ae, f - ключе, ключица 
 pectus, pectoris, n - гръд, гърди
+  āla, -ae, f - подмишница
   costae, -ārum, f pl - ребра
 braccium, -ī, n - ръка
-  āla, -ae, f - подмишница
+  lacertus, -ī, m - мишница
   cubitum, -ī, n - лакът, предмишница, мерна единица за дължина
   manus, -ūs, f - ръка (от киктата надолу)
     digitum, -ī, n - пръст
@@ -877,6 +920,7 @@ Daedalus, -ī, m - Дедал
 Icarus, -ī, m - Икар
 Mīnōs, -ōis, m - Минос
 Aegeus, -ī, m - Егей
+Īcarus, -ī, m - Икар
 
 Galēnus, -ī, m - Гален, древен изследовател по медицина
 Antōnius Mūsa, m  - лекар на император Август

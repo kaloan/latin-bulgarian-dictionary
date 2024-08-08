@@ -53,7 +53,7 @@ glaber - гладък
 rigidus - здрав
 lentus - бавен, мързелив
 superbus - надменен, арогантен
-nēquam (ind), nēquior, nēquissimus - подъл, отвратителен, низък
+nēquam (ind), nēquior, nēquissimus - подъл, отвратителен, низък, безполезен
 dignus - достоен, заслужил
 perītus - вещ, опитен
 vīlis - пошъл
@@ -176,6 +176,7 @@ bcātus - блажен, щастлив
 necessārius - нужен, необходим
 aliēnus - чужд
 ūmidus - мокър, подгизнал
+siccus - сух
 mundus - изчистен
 angustus - тесен
 falsus - грешен, лъжлив
@@ -201,7 +202,20 @@ terribilis, -is - страховит
 mīrābilis, -is - чуден
 saevus - свиреп, яростен
 cupidus - желаещ
-arbitrātus - решен, преценен 
+arbitrātus - решен, преценен
+gravidus - утежнен, подут
+gravidа - бременна
+mātūrus - зрял, съзрял
+amoenus - великолепно, прекрасно, любителен
+rūsticus - провинциален, селяндурски, пошъл
+urbanus - градски, възпитан, с вкус
+suburbānus - крайградски
+rudis, -is - неук
+patiēns - търпящ
+neglegēns - небрежен
+līber, -rī - свободен
+studiōsus - любопѝтен, заинтересован, заинтригуван
+propinquus - близък, близолежащ
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -357,3 +371,5 @@ parvus, minor, minimus - малък
 multī, plūrēs, plūrimī pl - многобройни
 complūrēs, -ēs - изобилни, несчетни 
 multum, plūs plūris, plūrimum - много
+
+celer, celeris, celere - бърз
