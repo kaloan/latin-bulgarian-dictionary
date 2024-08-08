@@ -3,13 +3,17 @@ quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - кой, к�
 quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus-  коя, която
 quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - кое, което
 
-hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този
-haec, hanc, huius, huic, hāc, hae, hās, hārum, hīs, hīs - тази
-hoc,  hoc, huius, huic, hōc, haec, haec, hōrum, hīs, hīs - това
+hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този, намиращ се близо до говорителя/писателя
+haec, hanc, huius, huic, hāc, hae, hās, hārum, hīs, hīs - тази, намираща се близо до говорителя/писателя
+hoc,  hoc, huius, huic, hōc, haec, haec, hōrum, hīs, hīs - това, намиращо се близо до говорителя/писателя
 
-ille, illum, illīus, illī, illō, illī, illōs, illōrum, illīs, illīs - онзи
-illa, illam, illīus, illī, illā, illae, illās, illārum, illīs, illīs - онази
-illud, illud, illīus, illī, illō, illa, illa, illōrum, illīs, illīs - онова
+iste, istum, istīus, istī, istō, istī, istōs, istōrum, istīs, istīs - тоз/онз, намиращ се близо до слишателя/читателя
+ista, istam, istīus, istī, istā, istae, istās, istārum, istīs, istīs - таз/оназ, намираща се близо до слишателя/читателя
+istud, istud, istīus, istī, istō, ista, ista, istōrum, istīs, istīs - туй/онуй, намиращо се близо до слишателя/читателя
+
+ille, illum, illīus, illī, illō, illī, illōs, illōrum, illīs, illīs - онзи, намиращ се близо до трето лице
+illa, illam, illīus, illī, illā, illae, illās, illārum, illīs, illīs - онази, намираща се близо до трето лице
+illud, illud, illīus, illī, illō, illa, illa, illōrum, illīs, illīs - онова, намиращо се близо до трето лице
 
 is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs - той
 ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs - тя
@@ -33,20 +37,24 @@ quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibus
 
 quispiam,, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой да е
 quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя да е
-quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quaspiam, quōrumpiam, quibuspiam, quibuspiam - кое да е
+quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое да е
 
 aliquis, aliquem, alicuis, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой 
 aliqua, aliquam, alicuis, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя
 aliquod, aliquod, alicuis, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus - някое
+
+quisquam, quemquam, cuisquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
+quidquam/quicquam, quidquam/quicquam, cuisquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
+
+quīdam, quemdam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam, quibusdam, quibusdam - един, определен
+quaedam, quamdam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam, quibusdam, quibusdam-  една, определена
+quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam, quibusdam, quibusdam - едно, определено
 
 
 īdem, eundem, eiusdem, eīdem, eōdem, iīdem, eōsdem, eōrundem, iīsdem, iīsdem  - същият
 eadem, eandem, eiusdem, eīdem, eādem, eaedem, eāsdem, eārundem, iīsdem, iīsdem  - същата
 idem, idem, eiusdem, eīdem, eōdem, eadem, eadem, eōrundem, iīsdem, iīsdem - същото
 
-iste, istum, istīus, istī, istō, istī, istōs, istōrum, istīs, istīs - тоз/онз
-ista, istam, istīus, istī, istā, istae, istās, istārum, istīs, istīs - таз/оназ
-istud, istud, istīus, istī, istō, ista, ista, istōrum, istīs, istīs - туй/онуй
 
 ipse, ipsum, ipsīus, ipsī, ipsō, ipsī, ipsōs, ipsōrum, ipsīs, ipsīs - самият
 ipsa, ipsam, ipsīus, ipsī, ipsā, ipsae, ipsās, ipsārum, ipsīs, ipsīs - самата
