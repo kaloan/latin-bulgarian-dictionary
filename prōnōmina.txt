@@ -61,6 +61,11 @@ ipsa, ipsam, ipsīus, ipsī, ipsā, ipsae, ipsās, ipsārum, ipsīs, ipsīs - с
 ipsum, ipsum, ipsīus, ipsī, ipsō, ipsa, ipsa, ipsōrum, ipsīs, ipsīs - самото
 
 
+nōnnūllī, nōnnūllōs, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
+nōnnūllae, nōnnūllās, nōnnūāōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
+nōnnūlla, nōnnūlla, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
+
+
 ego, mē, meī, mihi, mē - аз 
 egomet, mēmet, meīmet, mihimet, mēmet - аз (използвано понякога в мерената реч)
 tū, tē, tuī, tibi, tē - ти 
