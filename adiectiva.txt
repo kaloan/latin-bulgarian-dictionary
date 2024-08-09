@@ -28,10 +28,12 @@ fallāx -cis - лъжлив, мамещ, грешен
 iūcundus - приятен, задоволяващ
 molestus - неприятен, болезнен, отврятителен
 īmus - долен
+medius - среден
 summus -горен
 tardus - бавен, закъсняващ
 acerbus - кисел
-nimius - твърде голям
+dulcis, -is - сладък
+nimius - преголям, твърде голям
 dēbilis -is - болен, слаб, кекав
 ēbrius - пиян
 avārus - алчен
@@ -39,7 +41,6 @@ fidus - верен
 fugitīvus - беглец
 sapiēns -ntis - умен, мъдър, разумен
 crūdēlis -is - жесток, див, освирепен
-vetus veteris - вехт, стар, древен 
 cārus - прескъпо
 vīlis -is - малоценно, преевтино
 idōneus - удобен, подходящ 
@@ -160,7 +161,7 @@ sinister - ляв
 dexter - десен
 sevērus - строг, суров, сериозен
 vērus - истинен
-falsus - грешен, лъжлив, объркан
+falsus - грешен, лъжлив, объркан, неверен
 candĭdātus - облечен в избелена тога
 trux, trucis - див, свиреп
 sēmis, -is - половин
@@ -228,6 +229,21 @@ pretiōsus - скъп, скъпоценен
 mīrus - чуден
 maestus - тъжен, опечален
 rapidus - бърз, пъргав, чевръст
+inexspectātus - неочакван
+dīligēns, dīligentis - усърден 
+argenteus - сребърен
+glōriōsus - преславен
+acūtus - остър
+absēns, absentis - присъстващ
+praesēns, praesentis - отсъстващ
+asinīnus - магарешки
+fugitīvus - беглец
+clēmēns, clēmentis - благ, щадящ, мек
+iūstus - справедлив
+iniūstus - несправедлив
+scelestus - извратен, престъпен
+crūdēlis, -is - жесток, безчовечен, брутален
+christiānus - християнин
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -350,6 +366,10 @@ nōngentēsimus - деветстотни
 mīllēsimus - хилядни
 postrēmus - последен
 
+singulī - един по един, по едно, по единици
+bīnī - два по два, по две, по двойки
+ternī - три по три, по три, по тройки
+
 Graecus - гръцки
 Rōmānus - римски
 Latīnus - латински
@@ -386,3 +406,5 @@ multum, plūs plūris, plūrimum - много
 nēquam (indecl),nēquior, nēquissimus - подъл, отвратителен, низък, безполезен
 
 celer, celeris, celere - бърз
+
+vetus veteris - вехт, стар, древен 

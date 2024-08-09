@@ -18,7 +18,11 @@ suum cuique - всекиму своето
 vix umquam - почти никога
 bene/male velle (+dat) - желая доброто/лошото някому
 orbis terrārum - Земното кълбо
+sententia mea - моето мнение е, аз смятам
+inter sē aspiciunt - споглеждат се
 
+
+secuna mēnsa - десерт
 
 aequus animus - равнодушен
 
@@ -44,3 +48,6 @@ T.(Titus) - Тит
 HS. (IIS., II sēmisque) - сестерция
 COS (consul) - консул
 AUG (Augustus) - август
+
+
+"abstrahit (me) sermonis egestas" = the poorness of the language stops me

@@ -20,15 +20,14 @@ fūrtum, -ī, n - кражба
 fortūna, -ae, f - съдба
 rēmus, -ī, m - гребло
 cōnsilium, -ī, n - съвет, решение, план
-cēna, -āe, f - вечеря
 culīna, -ae, f - кухня
-convīvium, -ī, n - събиране, банкет, гост (!)
-scelus, -eris, n - престъпление, извръщение
+convīvium, -ī, n - вечерно събиране, банкет
+scelus, sceleris, n - престъпление, изстъпление, извращение, зло
 mōs, mőris, m - морал, ценност
 pōtiō, -ōnis, f - напитка
-rūmor, -is, m - слух (като несигурна новина)
+rūmor, -is, m - мълва, слух
 mūnus, -eris, n - подарък, услуга, данък, задължение
-fidēs, fidēī, f - вяра
+fīdēs, fideī, f - вяра
 crux, crucis, f - кръст
 poena, -ae, f - наказание
 iūs, iūris, n - справедливост, правосъдие
@@ -250,7 +249,7 @@ prīnceps, prīncipis, m - главатар, първенец
 phantasma, -ae, f - призрак, привидение, дух
 fēlīcitās, -ātis, f - късмен
 nāvigātiō, -ōnis, f - плаване, корабоплаване
-maleficium, -ī, n - злодеяние, вреда, престъпление
+maleficium, -ī, n - злодеяние, вреда, престъпление, злочинство
 beneficium, -ī, n - добро дело, полза, услуга
 salūs, -ūiis, f - спасение, оцеляване
 fūr. fūris, m - крадец
@@ -259,6 +258,20 @@ tyrannus, -ī. m - тиран
 piscātor, -ōris, m - рибар
 fortūna, -ae, f - съдба
 rēmus, -ī, m - гребло
+hospes, hospitis, m - гост, стопанин 
+iter, itineris, n - път
+bonum, -ī, n - добро
+malum, -ī, n - зло, лошо
+convīva, -ae, m/f - вечерен гост
+merum, -ī, n - неразредено вино
+genus, generis, n - вид, сорт
+plērōma, pleromatis, n - пълнота, запълненост
+lībertīnus, -ī, m - освободен роб
+lībertīna, -ae, f - освободена робиня
+gustātiō, -ōnis, f - разядка
+cēna, -āe, f - вечеря
+scnex, senis, m - старец
+īnscriptiō, -ōnis, f - надпис
 
 mors, mortis, f - смърт
 nex, necis, f - смърт
@@ -303,9 +316,12 @@ liquor, -is, m - течност
 marmor, -is, n - мрамор
 aes, aeris, n - мед, бронз
 aurum, -ī, n - злато
+argentum, -ī, n - сребро
 ferrum, -ī, n - желязо
 ebur, eboris, n - слонова кост
 cēra, -ae, f - восък
+sāl, salis, m - сол
+mel, mellis, n - мед 
 
 ōrnāmentum, -ī, n - украшения
   gemma, -ae, f - скъпоценен камък
@@ -672,6 +688,7 @@ Britannia, -ae, f - Британия
 Germānia, -ae, f - Германия
 Hispānia, -ae, f - Испания
 Italia, -ae, f - Италия
+  Campānia, -ae, f - Кампания 
 Aegyptus, -ae, f - Египет
 Syria, -ae, f - Сирия
 Arabia, -ae, f - Арабия
@@ -744,7 +761,7 @@ cubiculum, -ī, n - стая, спалня
     impluvium, -ī, n - малък басейн, който типично се помещавал в атриума
     compluvium, -ī, n - отвор в покрива над имплувиума
   culīna, -ae, f - кухня, мангали можели да се пренесат в атриумът и да се сготви там
-  triclīnium, -ī, n - триклиниум, разположение на три кревата с маса
+  triclīnium, -ī, n - триклиниум, разположение на три кревата с маса, практически изпълнява функция на трапезария
     ferculum, -ī, n - поднос
     pelvis, -is, f - паница
     operculum, -ī, n - капак
@@ -754,6 +771,8 @@ cubiculum, -ī, n - стая, спалня
   āla, -ae, f - ниша без покрив
   peristylum, -ī, n - взаимствано от гръцката архитектура отворено помещение, заградено с колони 
   tablīnum, -ī, n - стая, изпълняваща ролята на библиотека, писалище, работен кабинет
+  lavātrīna/lātrīna, -ae, f - баня
+  balneum, -ī, n - баня
 hortus, -ī, m - градина
   sphaeristērium, -ī, n - поле за игра с топка
 supellex, -ctilis, f - мебел
@@ -785,7 +804,7 @@ pupa, -ae, f - кукла
 pila, -ae, f - топка
 scāla, -ae, f - стълба
 fūnis, -is, m - въже
-
+vās, vāsis, n - ваза
 
 imperium, -ī, n - империя
 regiō, regiōnis, f - област, район, околия
@@ -799,11 +818,20 @@ mūrus, -ī, m - градска стена
 moenia, -ium, n pl - градски стени, укрепление
   turris, -is, f - кула
 porta, -ae, f - порта, градска врата
-labyrinthus, -ī, m - лабиринт
 aedificium, -ī, n - здание, сграда, постройка
   pariēs, parietis, m - стена
-  cloāca, -ae, f - канализаци
+  cloāca, -ae, f - канализация
+  thermae, -ārum, f - терми, големи градски бани, които по-скоро наподобявали 
+    calidārium/caldārium, -ī, n - гореща баня
+    tepidārium, -ī, n - топла баня
+    sūdātōrium, -ī, n - сауна
+    lacōnicum, -ī - сауна
+    frīgidārium, -ī, n - студена баня
+    apodȳtērium, -ī, n - съблекалня
+    hypocaustum, -ī, n - подоотоплителна система
+  balneae, -ārum, f - малки градски бани
   carcer, -eris, m - затвор
+  labyrinthus, -ī, m - лабиринт
   basilica, -ae, f - обществена сграда за различни дейности
   cura, -ae, f - заседателна зала, сградата на сената
   porticus, -ūs, f - колонада, стоа
@@ -938,7 +966,11 @@ Lar, Laris, m - лар, божество/дух на място (дома, сг�
 Īnferī, -ōrum, m - подземното царство на мъртвите
 
 Achillēs, -is, m - Ахил
+Pahs, Paridis, m - Парис
 Hector, -oris, m - Хектор
+Priamus, -ī, m - Приам
+Menelāus, -ī, m - Менелай
+Nestor, -oris, m - Нестор
 Rōmulus, -ī, m - Ромул
 Thēseu, -ī, m - Тезей
 Mīnōtaurus, -ī, m - Минотавър
@@ -958,9 +990,12 @@ Mārcus Decimus Brūtus - Брут, който участва в убийств�
 Decimus Iūnius Iūvenālis - Ювенал, известен сатиричен поет от I-II век след Христа 
 Hadriānus Augustus - император Адриан Август
 Polycratēs, -is, m -  Поликрат, тиран на Самос
+Midās, Midae, m - Мидас
+Solō, Solōnis, m - Солон
+Ovidius, -ī, m - Овидий
 
 Quīntus Septimius Flōrens Tertulliānus - Тертулиан, хирстиянски апологет живял края на II-началото на III век сл. Хр. 
-Iēsūs, -ū, m - Иисус
+Iēsūs, -ū, m - Иисус, Ису̀с
 Matthaeu, -ī, m - Матей
 Petrus, -ī, m - Петър
 
