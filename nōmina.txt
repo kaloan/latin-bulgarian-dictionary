@@ -5,9 +5,9 @@ dictum, -ī, n - слово, изказване, заповед
 tībīcen, -inis, m - флейтист
 mundus, ī, m - свят
 phantasma, -ae, f - призрак
-vorāgō, -inis, f - бездна
-perīculum, -ī, n - беда
-praedō, -ōnis, m - пират
+vorāgō, -inis, f - бездна, водовъртеж
+perīculum, -ī, n - беда, опасност
+praedō, -ōnis, m - пират, грабител
 fundus, -ī, m - дъно
 vīta, -ae, f - живот
 fidēs, -is, f - лира, струннен инструмент
@@ -206,7 +206,6 @@ gradus, -īs, m - стъпка
 sermō, -ōnis, n - реч, говор, слова
 rumor, -is, m - мълва, слух
 silentium, -ī, n - тишина, безмълвие
-officium, -ī, n - задължение, отговорност
 causa, -ae, f - причина
 catēna, -ae, f - верига 
 faber, fabrī, m - занаятчия, ковач
@@ -245,6 +244,21 @@ nātūra, -ae, f - естество, природа
 lībertās, -ātis, f - свобода
 multitūdō, -inis, f - множество
 fascis, -is, m - сноп, сноп дърва символ на авторитета на обществено лице
+animus, -ī, m - ум, душа, въодушевление
+fāma, -ae, f - реноме, слава, слух 
+prīnceps, prīncipis, m - главатар, първенец
+phantasma, -ae, f - призрак, привидение, дух
+fēlīcitās, -ātis, f - късмен
+nāvigātiō, -ōnis, f - плаване, корабоплаване
+maleficium, -ī, n - злодеяние, вреда, престъпление
+beneficium, -ī, n - добро дело, полза, услуга
+salūs, -ūiis, f - спасение, оцеляване
+fūr. fūris, m - крадец
+fūrtum, -ī, n - кражба
+tyrannus, -ī. m - тиран
+piscātor, -ōris, m - рибар
+fortūna, -ae, f - съдба
+rēmus, -ī, m - гребло
 
 mors, mortis, f - смърт
 nex, necis, f - смърт
@@ -255,10 +269,10 @@ nex, necis, f - смърт
   malleus, -ī, n - чук
   arātrum, -ī, n - рало, плуг
 
-potestās, -ātis, f - сила, възможност
+potestās, -ātis, f - сила, възможност, мощ
 libīdō, -inis, f - желание, страст
 cupiditās, -ātis, f - желание
-spēs, spēī, f - надежда
+spēs, speī, f - надежда
 invidia, -ae, f - завист
 famēs, -is, f - глад
 sitis, -is, f - жажда
@@ -270,13 +284,18 @@ timor, -is, m - страх
 īra, -ae, f - гняв, яд
 metus, -ūs, m - страх
 labor, labōris, m - труд, усилие
+officium, -ī, n - задължение, отговорност (букв. какво е редно да се направи)
 ōtium, -ī, n - спокойствие, безгрижие, свободно време
-negōtium, -ī, n - задължение, действане
+negōtium, -ī, n - заетост, действане
 patientia, -ae, f - търпение
+tranquillitās, -ātis, f - спокойствие
+laetitia, -ae, f - радост
+tristitia, -ae, f - тъга
+invidia, -ae, f - завист
 
 sonus, -ī, m - звук
   strepitus, - кънтеж, тътен, бучене, ечене
-  tumultus, -ūs, m - какофония, шумотевица 
+  tumultus, -ūs, m - какофония, шумотевица, олелия
 
 
 māteria, -ae, f - вещество, естество
@@ -476,7 +495,7 @@ scarabæus, -ī, m - скарабей, бръмбар
 anguis, -is, - змя, змей
 serpentēns, -entis - змия, влечуго
 dracō, -ōnis, m - дракон, змей
-
+delphinus, -ī, m - делвин
 
 carō, carnis, f - месо
 gallīnācea, -ae, f - пилешко
@@ -499,6 +518,7 @@ unguis, -is, m - нокът
 pilus, -ī, m - козина
 cauda, -ae, f - опашка
 lāna, -ae, f - вълна
+dorsum, -ī, n - гръб
 
 
 flōs, floris, m - цвете
@@ -642,6 +662,7 @@ Brundisium, -ī, n - Брундизи
 Athē­nae, -ārum, f pl - Атина
 Trōia, -ae, f - Троя
 Corinthus, -ī, f - Коринт
+Bcthlthem, indecl, n - Витлеем
 
 Graecia, -ae, f - Гърция
 Carthagō, -inis, f - Картаген
@@ -654,6 +675,7 @@ Italia, -ae, f - Италия
 Aegyptus, -ae, f - Египет
 Syria, -ae, f - Сирия
 Arabia, -ae, f - Арабия
+Iūdaea, -ae, f - Юдея
 
 Eurōpa, -ae, f - Европа
 Asia, -ae, f - Азия
@@ -672,6 +694,8 @@ Lesbos, -ī, f - Лесбос
 Lēmnos, -ī, f - Лемнос
 Euboea, -ae, f - Евбeя, Негропонт
 
+Scyllа, -ae, f - Сцила
+Charybdis, -is, f - Харибда
 Isthmus, -ī, m - Коринтски провлак
 
 
@@ -872,7 +896,8 @@ mercēs, mercēdis, f - заплащане, надница
 stipendium, -ī, n - заплата, надница
 praemium, -ī, n - награда, награждение, подарък
 lucrum, -ī, n - печалба
-iactūra, -ae, f - загуба, цена
+iactūra, -ae, f - мятане, загуба, цена
+dīvitiae, -ārum, f - богатство
 pecūnia, -ae, f - пари
 pecūlium, -ī, n - заплащане, лична вещ
 saccŭlus, -ī, n - кесия, торбичка за изцеждане/филтриране (както сиренето) (!!!)
@@ -910,6 +935,7 @@ Aesculapius, -ī, m - Аскелепий, бог на медицината, ле
 Grātia, -ae, f - 3 богини на красотата, природата, творчеството
 Mūsa, Mūsae, f - 9 богини, покровителки на изкуствата, литературата и астрономията
 Lar, Laris, m - лар, божество/дух на място (дома, сграда, кръстовище), обикновено се използва в множествено число
+Īnferī, -ōrum, m - подземното царство на мъртвите
 
 Achillēs, -is, m - Ахил
 Hector, -oris, m - Хектор
@@ -921,6 +947,8 @@ Icarus, -ī, m - Икар
 Mīnōs, -ōis, m - Минос
 Aegeus, -ī, m - Егей
 Īcarus, -ī, m - Икар
+Ariōn, Arionis, m - Арион
+Orpheus, -ī, m - Орфей
 
 Galēnus, -ī, m - Гален, древен изследовател по медицина
 Antōnius Mūsa, m  - лекар на император Август
@@ -929,6 +957,12 @@ Catō. Catōnis, m - Катон
 Mārcus Decimus Brūtus - Брут, който участва в убийството на Гай Юлий Цезар
 Decimus Iūnius Iūvenālis - Ювенал, известен сатиричен поет от I-II век след Христа 
 Hadriānus Augustus - император Адриан Август
+Polycratēs, -is, m -  Поликрат, тиран на Самос
+
+Quīntus Septimius Flōrens Tertulliānus - Тертулиан, хирстиянски апологет живял края на II-началото на III век сл. Хр. 
+Iēsūs, -ū, m - Иисус
+Matthaeu, -ī, m - Матей
+Petrus, -ī, m - Петър
 
 
 impetus, -ūs, m - атака, настъпление
@@ -982,6 +1016,7 @@ kalendae, -ārum, f pl - календи, първия ден в месеца
 septimāna, -ae, f - седмица
 īdūs, īduum, f pl - иди, тринайсетия или петнайсетия ден от месеца
 nōnae, -ārum, f pl - нони, деветият ден преди идите (бройки и тях), т.е. петият или седмият ден от месеца
+vigilia, -ae, f - стража, четвърт нощ (от това че имало четири смени за нощната стража)
 hōra, -ae, f - час
 mōmentum - миг
 māne. indecl, n - сутрин

@@ -15,13 +15,14 @@ surdus - глух
 mūtus - ням
 claudus - съкат
 mortālis -is - смъртен
-tūtus - предпазен, защитен, в безопасност
-attentus - внимаващ
-vēlōx -cis - бърз, пъргав
-fēlīx -cis - късметлив
+tūtus - безопасен, сигурен, предпазен, защитен, в безопасност
+attentus - внимателен, осторожен, внимаващ
+vēlōx, -cis - бърз, пъргав
+fēlīx, -cis - късметлив
 ignārus - неук
-nōtus - известен
-nōbilis -is - аристократ, известен, важен
+nōtus - знаен, известен
+ignōtus - незнаен, неизвестен
+nōbilis -is - известен, важен, аристократ
 celsus - висок 
 fallāx -cis - лъжлив, мамещ, грешен
 iūcundus - приятен, задоволяващ
@@ -53,7 +54,6 @@ glaber - гладък
 rigidus - здрав
 lentus - бавен, мързелив
 superbus - надменен, арогантен
-nēquam (ind), nēquior, nēquissimus - подъл, отвратителен, низък, безполезен
 dignus - достоен, заслужил
 perītus - вещ, опитен
 vīlis - пошъл
@@ -216,6 +216,18 @@ neglegēns - небрежен
 līber, -rī - свободен
 studiōsus - любопѝтен, заинтересован, заинтригуван
 propinquus - близък, близолежащ
+ūniversus - цял, пълнен
+mor­tālis, -is - смъртен
+immortālis, -is - безсмъртен
+contrārius - насрещен, преден
+secundus - попътен, заден
+cōnstāns - спокоен
+salvus - спасен
+perīculōsus - опасен, бедствен
+pretiōsus - скъп, скъпоценен
+mīrus - чуден
+maestus - тъжен, опечален
+rapidus - бърз, пъргав, чевръст
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -371,5 +383,6 @@ parvus, minor, minimus - малък
 multī, plūrēs, plūrimī pl - многобройни
 complūrēs, -ēs - изобилни, несчетни 
 multum, plūs plūris, plūrimum - много
+nēquam (indecl),nēquior, nēquissimus - подъл, отвратителен, низък, безполезен
 
 celer, celeris, celere - бърз
