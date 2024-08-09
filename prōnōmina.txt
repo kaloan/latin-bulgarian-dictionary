@@ -1,7 +1,7 @@
 Sg. Nom., Sg. Acc., Sg. Gen., Sg. Dat., Sg. Abl., Pl. Nom., Pl. Acc., Pl. Gen., Pl. Dat., Pl. Abl.
-quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - кой, който
-quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus-  коя, която
-quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - кое, което
+quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - какъв, кой, който
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus-  каква, коя, която
+quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - какво, кое, което
 
 hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този, намиращ се близо до говорителя/писателя
 haec, hanc, huius, huic, hāc, hae, hās, hārum, hīs, hīs - тази, намираща се близо до говорителя/писателя
@@ -35,9 +35,13 @@ quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quib
 quaque, quamque, cuisque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque - всяка
 quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко 
 
-quispiam,, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой да е
-quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя да е
-quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое да е
+quisquis, -, -, -, quōquō - какъв да е
+quidquid/quicquid, quidquid/quicquid, -, -, quōquō - какво да е
+
+quispiam, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой-годе, кой да е
+quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя-годе, коя да е
+quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое-годе, кое да е
+
 
 aliquis, aliquem, alicuis, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой 
 aliqua, aliquam, alicuis, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя
@@ -46,9 +50,9 @@ aliquod, aliquod, alicuis, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliqui
 quisquam, quemquam, cuisquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
 quidquam/quicquam, quidquam/quicquam, cuisquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
 
-quīdam, quemdam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam, quibusdam, quibusdam - един, определен
-quaedam, quamdam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam, quibusdam, quibusdam-  една, определена
-quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam, quibusdam, quibusdam - едно, определено
+quīdam, quemdam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam, quibusdam, quibusdam - еди-кой, един определен
+quaedam, quamdam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam, quibusdam, quibusdam-  еди-коя, една определена
+quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam, quibusdam, quibusdam - еди-кое, едно определено
 
 
 īdem, eundem, eiusdem, eīdem, eōdem, iīdem, eōsdem, eōrundem, iīsdem, iīsdem  - същият
