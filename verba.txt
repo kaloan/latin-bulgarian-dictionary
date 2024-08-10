@@ -222,9 +222,11 @@ stupēre, stupuisse - вцепенявам, зашеметявам, изумяв
 nūntiāre - оповестявам, съобщавам, осведомявам
 sternere, strāvisse, strātum - стеля, разстилам, покривам
 fundere, fūdisse, fūsum - пълня
-līberāre - освобождавам
+līberāre (+abl) - освобождавам (от)
 pōtāre, potāvisse, pōtum/potātum - пия
-
+ēducāre - образовам, обучавам, отглеждам
+rēmigāre - греба
+armāre - въоръжавам
 
 -scendere
   ascendere, ascendisse, ascensum - изкачвам, качвам се
@@ -267,7 +269,7 @@ volāre - летя
   advolāre - долитам
   circumvolāre - кръжа
   ēvolāre - излитам, отлитам
-  transvolāre - прелитам
+  trānsvolāre - прелитам
   pervolāre - прелитам
   prōvolāre - летя напред, хуквам
 servāre - предпазвам, защитавам, спасявам 
@@ -300,7 +302,7 @@ cubāre, cubuisse, cubitum - лежа
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
   recumbere - облягам се на легло 
 iuvāre, iūvisse, iūtum - помагам
-  adiuvāre - подпомагам, подкрепям
+  adiuvāre - спомагам, подпомагам, подкрепям
 rogāre - питам
   iterrogāre - питам, разпитвам
 spectāre - гледам, наблюдавам
@@ -315,6 +317,7 @@ putāre - смятам, вярвам, мисля, оценявам, изчист
 pugnāre - бия се
   oppugnāre - нападам, атакувам, щурмувам
   expugnāre - завладявам, побеждавам в бой
+  repugnāre - противоборя се
 clāmāre - викам, извиквам
   exclāmāre - възкицавам
 vocāre - викам, зова
@@ -367,6 +370,7 @@ habēre, habuisse, habitum - имам, притежавам, задържам, �
   inhibēre, inhibuisse, inhibitum - удържам, ограничавам, налагам наказание
   prohibēre, prohibuisse, prohibitum - задържам, възпрепятствам, предотвратявам
 suādēre, suāsisse - убеждавам
+  dissuādēre - да разубедя
   persuādēre - да убедя
 manēre, mansisse, mansum  - оставам
   remanēre - оставам
@@ -382,10 +386,19 @@ parāre - готвя, подготвям, осигурявам
 
 
 ferre, tulisse, lātum - нося
-  afferre - донасям
-  auferre - отмъквам, отнасям
-  perferre - издържа
+  afferre, attulisse, allātum - донасям
+  auferre, abstulisse, ablātum - отмъквам, отнасям
+  cōnferre - стягам, събирам, обсъждам 
+  dēferre - занасям, продавам, препредавам
+  disferre - разнасям, забавям
+  ēferre - изнасям, обявявам
+  inferre - внесям, причиня, погребвам
+  offerre, obtulisse, oblātum - предлагам
+  praeferre - предпочитам
+  perferre - издържа, изпълнявам
   prōferre - извадя, извеждам
+  referre - връщам, отвръщам, препращам
+  trānsferre - пренасям
 legere, lēgisse, lēctum - чета
   allicere -iō (!), allēxisse, allēctum - привличам
   colligere, collēgisse, collēctum - събирам в група, събирам богатство, заключавам, заключавам
@@ -435,6 +448,7 @@ trahere, trāxisse, tractum - влача, тегля, мъкна
   attrahere - довлача, дотегля, домъкна
   contrahere - притеглям, придърпвам, увличам, сбръчквам, свивам
   dētrahere - свличам, повличам, свалям, изключвам, омаловажавам
+  distrahere - разтягам, разчеквам, разкъсвам, 
   extrahere - завличам, спасявам
   intrahere - въвличам, вмъквам
   pertrahere - премъквам
@@ -463,6 +477,7 @@ pōnere, posuisse, positum - поставям
   depōnere - пускам, оставям, отказвам се
   expōnere - оставям, изоставям
   impōnere - поставям на
+  praepōnere (+dat) - ръководя, положен съм на чело на
 fīgere, fīxisse, fīxum/fictum - стягам, закачам, захващам
   trānsfīgere - промуша, пробивам
 movēre, mōvisse, mōtum - местя 
@@ -482,9 +497,26 @@ tendere, tendisse, tentum - опъвам, дърпам, насочвам оръ�
   ostendere - показвам, представям
 dīcere, dīxisse, dictum - казвам
   praedīcere - предсказвам, предупреждавам, препоръчвам
-dūcere, dūxisse, ductum - водя, предвождам
-  abdūcere - отвличам
-  redūcere - завръщам, водя обратно
+dūcere, dūxisse, ductum - водя, 
+  addūcere - довеждам, убеждавам
+  abdūcere - отвличам, отчуждавам, разделям
+  circumdūcere - развеждам
+  condūcere - обединявам, наемам
+  dēdūcere - отвеждам, разстягам, извеждам
+  dīducere - разделям, разпръсквам, разнасям
+  ēdūcere - извеждам
+  indūcere - въвеждам, вкарвам, показвам, осиновявам
+  intrōdūcere - въвеждам
+  obdūcere - потулвам, притаявам, прикривам, затварям, обграждам
+  praedūcere - предвождам
+  perdūcere - развеждам, донасям, изтривам, разстилям
+  prōdūcere - произвеждам, представям, водя напред, привеждам
+  redūcere - завръщам, отстъпвам, възстановявам водя обратно
+  sēcūcere - подвеждам, съблазнявам
+  subdūcere - повеждам, влача
+  subterdūcere - крада
+  superdūcere - превеждам над, покривам
+  trādūcere - превеждам, преминавам
 cēdere, cecisse - движа се, местя се 
   accēdere - идвам, приближавам се
   discēdere - тръгвам, излизам
@@ -633,7 +665,8 @@ lābī, lāpsum esse (d) - падам, хлъзгам се
   delabī (d) - падам от, изпускам се
 experīrī (d) - откривам, тествам, доказвам, опитвам, пробвам
 minārī (d) (+dat) - заплашвам, действам страшно
-reminīscī (d) - спомням си
+reminīscī, - (!) (d) (+acc) - спомням си
+reminīscī, - (!) (d) (+gen) - да внимавам за нещо, да имам нещо предвид
 venārī (d) - ловувам, диря, преследвам
 praedārī (d) - грабя, плячкосвам
 epulārī (d) - пирувам
@@ -664,7 +697,8 @@ arbitrārī (d) - реша, смятам, на мнение съм
 comitārī (d) - придружавам
 philosophārī (d) - философствам
 causāri (d) - извинявам се, търся си извинение
-intuērī, intuitum esse (d) - гледам, наблюдавам
+tuērī (d) - обезопасявам, подсигурявам, защитавам
+  intuērī, intuitum esse (d) - гледам, наблюдавам
 patī, passum esse (d) - понасям
 pollicērī, pollicitum esse (d) - вричам се, обещавам
 ūtī, ūsum (d) (+abl) - ползвам, използвам
@@ -674,6 +708,7 @@ hortārī (d) - увещавам, придумвам, увещавам, скла
   dēhortārī (d) - раздумвам, разубеждавам 
   exhortārī (d) - предумвам
 fabulārī (d) - приказвам, разказвам
+
 
 licēre, licuisse (imp) (+dat) - позволено е да
 libēre, libuisse (imp) (+dat) - харесва се на, обича се от
@@ -697,7 +732,9 @@ meminisse (def) (+gen) - да внимавам за нещо, да имам не
 esse - съм
   abesse - няма ме
   adesse - присъствам
+  adesse (+dat) - помагам (някому)
   deesse - липсвам, отсъствам
+  deesse (+dat) - не помагам (някому)
   inesse - съм в, поместен съм в
   interesse - съм между, намирам се между
   praeesse - управлявам, ръководя

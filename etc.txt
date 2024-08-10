@@ -20,7 +20,10 @@ bene/male velle (+dat) - желая доброто/лошото някому
 orbis terrārum - Земното кълбо
 sententia mea - моето мнение е, аз смятам
 inter sē aspiciunt - споглеждат се
-
+haud sciō an/nesciō an/dubitō an - предполагам че
+sēstertium (sēstertiōrum) - сестерции
+adversa fortūna - зла съдба
+nāvis longa - боен кораб
 
 secuna mēnsa - десерт
 
