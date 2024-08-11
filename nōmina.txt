@@ -18,7 +18,6 @@ salūs, -ūtis, f - спасение
 fūr, is, m - крадец
 fūrtum, -ī, n - кражба
 fortūna, -ae, f - съдба
-rēmus, -ī, m - гребло
 cōnsilium, -ī, n - съвет, решение, план
 culīna, -ae, f - кухня
 convīvium, -ī, n - вечерно събиране, банкет
@@ -30,16 +29,16 @@ mūnus, -eris, n - подарък, услуга, данък, задължени�
 fīdēs, fideī, f - вяра
 crux, crucis, f - кръст
 poena, -ae, f - наказание
-iūs, iūris, n - справедливост, правосъдие
+iūs, iūris, n - справедливост, правосъдие, съд, съдебна зала/сграда
 lēx, lēgis, f - закон
 nūgae, -ārum, f pl - глупости, проститии, празни приказки, дреболии
 supplicium, -ī, n - страдание, мъчение
 senex, senis, m/f - старец, старица
 grātia, -ae, f - благодарност
-aetās, -ātis, f - част от живота, възраст, поколение
+aetās, -ātis, f - възраст, поколение
 pāx, pācis, f - мир, спокойствие
 vulnus, -eris, n - рана
-opera, -ae, f - работа, грижи
+opera, -ae, f - работа, грижи, труд, усилие
 ingenium, -ī, n - характер, ествество
 mēns, mentis, f - ум, разум
 bāsium, -ī, n - целувка
@@ -240,6 +239,7 @@ vīnum, -ī, n - вино
 vīnea, -ae, f - лозя
 praedium, -ī, n - имот, имение
 orbis, -is, f - окръжност, орбита
+circus - кръг, орбита, цирк
 nātūra, -ae, f - естество, природа
 lībertās, -ātis, f - свобода
 multitūdō, -inis, f - множество
@@ -288,6 +288,36 @@ poēta, -ae, m/f - поет
 pīrātа, -ae, f - морски грабител, разбойник нападащ кораби, пират
 condiciō, -ōnis, f - договор, договорка, разбиране 
 cursus, -ūs, m - ход, направление, посока
+caedēs, caedis, f - клане, сеч
+virtūs, virtrūtis, f - мъжество, храброст, благодетел
+studium, -ī, n - учение
+lēgātus, -ī, m - легат, общестен вестител/пощальон
+aurīga, -ae, m - шофьор на колесница, водач, 
+prīncipium, ‑ī, n - начало
+scalpellum, ‑ī, n - скалпел
+anus, -ūs, f - старица
+rīsus, -ūs, m - смях
+sinus, -ūs, m - сгъвка, процеп, залив
+gladiātor, ‑ōris, m - гладиатор
+ratiō, ratiōnis, f - обяснение
+rēte, rētis, n - мрежа
+spectātor, -ōris, m - зрител, наблюдател
+testis, ‑is,  m - свидетел
+decretum, -ī, n - указ, указание, възглед, присъда
+ōrātiō,-ōnis, f - реч
+sacerdōs, sacerdōtis, m/f - свещеник, жрец, жрица
+comparātiō, -ōnis, f - сравнение
+quālitās, -ātis, f - качество
+quantitās, -ātis, f - количество
+significātiō, -ōnis, f - значение
+speciēs, -ēī, f - род, сорт, външен вид
+emptor, -ōris, m - купувач
+ēmptiō, -ōnis, f - покупка
+venditor, -ōris, m - продавач
+venditiō, -ōnis, f - продажба
+cōmoedia, -ae, f - комедия
+tribus, -ūs, m - триба, едно от няколкото административни деления на населението; племе
+mentiō, -ōnis, f - споменаване
 
 mors, mortis, f - смърт
 nex, necis, f - смърт
@@ -326,6 +356,16 @@ audācia, -ae, f - смелост
 voluntās, -ātis, f - воля
 grātia, -ae, f - благодарност
 amīcitia, -ae, f - приятелство
+valētūdō, -inis, f - здраве
+gaudium, -ī, n - веселие, радост
+dēliciae, -ārum, f pl - наслада, удоволствия
+tenebrae, -ārum, f pl - тъма, тъмнина
+cachinnus, ‑ī, m - кикот
+fātum, ‑ī, m - съдба
+odium, ‑ī, n - омраза
+admīrātiō, -ōnis, f - почуда, възхищение
+affectus, -ūs, m - настроение, чувство
+grammaticus - граматически
 
 sonus, -ī, m - звук
   strepitus, - кънтеж, тътен, бучене, ечене
@@ -388,7 +428,7 @@ tempestās, -atis, f - буря
   fulgur, -is, n - светкавица
 
 
-lūdus, -ī, m - училище
+lūdus, -ī, m - училище, игра
 magister, magistrī, m - учител
 magistra, -ae, f - учителка 
   litterātus, -ī, m - учител, който преподавал най-основното, четене, писане и елементарно смятане
@@ -420,7 +460,7 @@ meretrīx, -cis, f - проститутка
 agricola, -ae, m - земеделец (букв. земегрижец)
 colōnus, -ī, m - ратай
 fugitīvārius, -ī, m - ловец на избягали роби
-
+appāritōr, -is, m - чиновник
 
 pōmum, -ī, n - плод
   mālum, -ī, n - якълка
@@ -472,6 +512,7 @@ nucleus, -ī, m - зърно
 medulla, -ae, f - месеста част
 quercus, -ūs, f - дъб
 vītis, -is, f - лоза
+palma, -ae, f - палма 
 ferula, -ae, f - палма
 herba, -ae, f - трева
 
@@ -483,11 +524,13 @@ grex, gregis, m - стадо
 equus, -ī, m - кон
 asturcō, -ōnis, m - ат
 asinus, -ī, m - магаре
+aquila, -ae, f - орел
+columba, -ae, f - гълъб
 pavō, -ōnis, m - паун
 olor, -ōris, m - лебед
 cycnus, -ī, m - лебед
 luscinia, -ae, f - славей
-passer, -is, m -  врабче
+passer, -is, m - врабче
 psittacus, -ī, m - папагал
 corvus, -ī, m - гарван
 cornīx, -cis, f - врана
@@ -509,10 +552,11 @@ aper, aprī, m - глиган
 ursus, -ī, m - мечок
 ursa, -ae, f - мечка
 sīmius, -ī, m - маймуна
-arānea, -ae, f - паяк
+arānea, -ae, f - паяк, паяжина
 rāna, -ae, f; rubēta, -ae, f - жаба
 lepus, leporis, m - заек
 canis, -is, m/f - куче/кучка
+catulus, -ī, m - кученце
 lupus, -ī, m - вълк
 lupa, -ae, f - вълчица, проститутка
 leō, leōnis, m - лъв
@@ -568,12 +612,16 @@ caerŭleum, -ī, n - светло синьо
 crocinum, -ī, n - шафранено жълто
 
 grammatica, -ae, f - граматика
+synōnymum - синоним
+antonymum - антоним
 sententia, -ae, f - изречение, мисъл, идея
   vocābulum, -ī, n - дума
     syllaba, -ae, f - сричка
       vōcālis, -is, f - гласна
       cōnsonāns, -antis, f - съгласна
 nōmen, n. - съществително име
+  appellātīvum - нарицателно име
+  proprium - собствено име
   masculīnum, masc./m. - мъжки род
   feminīnum, fem./f. - женски род
   neutrum, neutr./n. - среден род
@@ -587,11 +635,18 @@ nōmen, n. - съществително име
     locātīvus, loc. - местен падеж
     vocātīvus, voc. - звателен падеж
 prōnōmen, prōn. - местоимение
+  persōnālium - лично
+  possesslvum - притежателно
+  dēmōnstrātīvum - показателно
+  relātīvum - относително
+  interrogātīvum - въпросително
+  indēfinītum - неопределено
 adiectīvum, adi. - прилагателно
   positīvus, pos. - положителна степен
   comparātīvus, comp. - сравнителна степен
   superlātīvus, sup. - превъзходна степен
 verbum, v. - глагол, дума, слово
+  coniugātiō - спрежение
   īnfinītīvus, īnf. - инфинитив, нелична глаголна форма, която не се среща в българския
   supin - супин, нелична глаголна форма, която не се среща в българския
   gerundium, ger. - отглаголно съществително, уточнява се чрез наречия и преки допълнения, може да се ползва като деепричастие в аблативна форма
@@ -613,10 +668,26 @@ verbum, v. - глагол, дума, слово
     indicatīvus, ind. - изявително наклонение
     imperatīvus, imp. - повелително наклонение
     coniūnctīvus, coni. - конюнктив, подчинително наклонение, което е смесица от условно, преизказно и (непряко) повелително
+    optātīvus, opt. - оптатив, наклонение, което се ползва при изказване на желания
 adverbium, adv. - наречие
 praepositiō, prp. - предлог
 coniūnctiō, con. - съюз
+  cōpulātīva - съединителен
+  disiūnctīva - разделителен
+  explētīva - допълнителен
+  causālis - причинен
+  ratiōnālis - обяснителен
 interiectiō, int. - междуметие
+
+dactylus, ‑ī, m - дактил
+dipthongus, ‑ī, m - дифтонга
+epigramma, epigrammatis, n - епиграма
+hendecasyllabus, ‑ī, m - стих от единайсет срички
+hexameter, hexametrī, m - хекзаметър
+iambus, ‑ī, m - ямб
+pentameter, pentametrī, m - пентаметър
+spondēus, ‑ī, m - спондей
+trochaeus, ‑ī, m - трохей
 
 gēns, gentis, f - род, племе, народ
 familia, -ae, f - фамилия
@@ -747,18 +818,25 @@ Rhēnus, -ī, m - Рейн
 Dānuvius, -ī, m - Дунав
 Tiberis, -ī, m - Тибър
 
+Alpēs, -ium, f pl - Алпите
+Albānum, -ī, n - 
+
 epistula, -ae, f - писмо
 litterae,-ārum, f pl - писмо, написано
 scrīnum, -ī, n - малък преносим сандък за помещаване на свитъци
 capsa, -ae, f - предпазен цилиндър, в който се държи свитък
 liber, librī, m - книга, свитък
+cōdex, cōdicis, f - книга в съвременна форма(т.е. множество страници между корици), стъбло, ствол
 titulus, -ī, m - заглавие
 capitulum, -ī, n - глава в книга
 pāgina, -ae, f - страница
 margo, marginis, m - край, граница
 versus, -ūs, m - ред, стих
-littera, -ae, f - буква
-numerus, -ī, m - число
+versiculus, ‑ī, m	- стихче
+nota, -ae, f - знак
+  hieroglyphicus, -ī, m - йероглиф
+  littera, -ae, f - буква
+  numerus, -ī, m - число
 charta, -ae, f - лист хартия, метален лист
 papȳrus, -ī, f - растението папирус, папирус (хартията, произведена от растението папирус)
 membrāna, -ae, f - кожа, пергамент
@@ -769,7 +847,6 @@ penna, -ae, f - перо, перо за писане
 tabula, -ae, f - дъска, табула, т.е. дъска с восък за писане 
 stilus, -ī, m - подострена пръчка за писане на табула
 rēgula, -ae, f - линия
-hieroglyphicus, -ī, m - йероглиф
 
 vīlla, -ae, f - вила
 casa, -ae, f - колиба
@@ -855,6 +932,7 @@ aedificium, -ī, n - здание, сграда, постройка
     frīgidārium, -ī, n - студена баня
     apodȳtērium, -ī, n - съблекалня
     hypocaustum, -ī, n - подоотоплителна система
+  theātrum, ‑ī, n - театър
   amphitheātrum, -ī, n - амфитятър, място на което се провеждали развлекателни боеве и смъртни наказания
   balneae, -ārum, f - малки градски бани
   carcer, -eris, m - затвор
@@ -887,6 +965,7 @@ caput, capitis, n - глава
   capillus, -ī, m - коса
   frōns, frontis, m - чело
   oculus, -ī, n - око
+  ocellus, ‑ī, m - оченце
   vīsus, -ūs, m - зрение
   nāsus, -ī, m - нос
   odōrātus, -ūs, m - обоняние
@@ -928,6 +1007,7 @@ coxendix, -icis, f - ханш
   pelvis, -is, f - таз
 crūs, crūris, n - крак
   femur, femoris, n - бедро 
+  gremium, ‑ī, n - скут 
   genū, -ūs, n - коляно
   poples, poplitis, m - коляно
   tībia, -ae, f - пищял, свирка
@@ -953,6 +1033,7 @@ praemium, -ī, n - награда, награждение, подарък
 lucrum, -ī, n - печалба
 iactūra, -ae, f - мятане, загуба, цена
 dīvitiae, -ārum, f - богатство
+opēs, opum, f pl - състояние, богатство
 pecūnia, -ae, f - пари
 pecūlium, -ī, n - заплащане, лична вещ
 saccŭlus, -ī, n - кесия, торбичка за изцеждане/филтриране (както сиренето) (!!!)
@@ -992,6 +1073,8 @@ Grātia, -ae, f - 3 богини на красотата, природата, т
 Mūsa, Mūsae, f - 9 богини, покровителки на изкуствата, литературата и астрономията
 Lar, Laris, m - лар, божество/дух на място (дома, сграда, кръстовище), обикновено се използва в множествено число
 Īnferī, -ōrum, m - подземното царство на мъртвите
+Orcus, -ī, m - Оркус, етруски бог на подземното царство
+
 
 Achillēs, -is, m - Ахил
 Pahs, Paridis, m - Парис
@@ -1007,8 +1090,10 @@ Icarus, -ī, m - Икар
 Mīnōs, -ōis, m - Минос
 Aegeus, -ī, m - Егей
 Īcarus, -ī, m - Икар
-Ariōn, Arionis, m - Арион
+Ariōn, Arionis, m - Арион, легендарен музикант със сходни качества на Орфей
 Orpheus, -ī, m - Орфей
+Amphitryōn, -ōnis, m - Амфитрион, герой от комедия на Плавт
+Herculēs, -is, m - Херкулес, Херакъл
 
 Galēnus, -ī, m - Гален, древен изследовател по медицина
 Antōnius Mūsa, m  - лекар на император Август
@@ -1017,10 +1102,22 @@ Catō. Catōnis, m - Катон
 Mārcus Decimus Brūtus - Брут, който участва в убийството на Гай Юлий Цезар
 Decimus Iūnius Iūvenālis - Ювенал, известен сатиричен поет от I-II век след Христа 
 Hadriānus Augustus - император Адриан Август
-Polycratēs, -is, m -  Поликрат, тиран на Самос
+Polycratēs, -is, m - Поликрат, тиран на Самос
 Midās, Midae, m - Мидас
 Solō, Solōnis, m - Солон
-Ovidius, -ī, m - Овидий
+Pūblius Ovidius Nāsō - Овидий
+Gāius Valerius Catullus - Катул
+Mārcus ­Valerius Mārtiālis - Марциал
+Pūblius Terentius Āfer - Теренций
+Mārcus Terentius Varrō - Варон Реатински
+Pūblius Terentius Varrō Atacinus - Варон Атацин
+Pūblius Vergilius Marō - Вергилий
+Licinius Calvus - Лициний Калв, поет от средата на I век пр. Хр.
+Tibullus, -ī, m - Тибул
+Sextus Iūlius Frontīnus
+Plautus - Плавт
+Gāius Sallūstius Crispus - Салустий
+Dōnātus - Донат, живял IV век сл. Хр.
 
 Quīntus Septimius Flōrens Tertulliānus - Тертулиан, хирстиянски апологет живял края на II-началото на III век сл. Хр. 
 Iēsūs, -ū, m - Иисус, Ису̀с
@@ -1036,8 +1133,12 @@ expugnātiō, -ōnis, f - превземане
 obsidiō, -ōnis, f - обсада
 īnsidiae, -ārum, f pl - засада, клопка
 exercitus, -ūs, n - войска, армия
-aciēs, aciēī, f - боен ред
+agmen, agminis, n - боен строй колона, използван по време на път
+aciēs, aciēī, f - боен строй редица, използва по време на битка
+imperātor, -ōris, m - генерал, император
 dux, dūcis, м - предводител, главнокомандващ
+centuriō, -ōnis, m - центурион, офицер, командващ центурия
+decuriō, -ōnis, n - декурион, офицерм конандващ декурия
 praetor, -is, m - претор, длъжност даваща правомощия на военен командир и висш съдия 
   scēptrum, -ī, n - скиптър, жезъл
 mīles, -itis, m - войник, воин, бранник, ратник
@@ -1048,7 +1149,7 @@ equitātus, -ūs, m - конница
 castra, -ōrum, n pl - укрепление, военен лагер
   vāllum, -ī, n - палисада
   fossa, -ae, f - ров
-  praetōrium, -ī, n -  място където се помещавал претора
+  praetōrium, -ī, n - място където се помещавал претора
   tabernāculum, -ī, n - палатка
 arma, -ōrum, n pl - оръжие
   mucrō, -ōnis, m - острие, връх
@@ -1063,11 +1164,17 @@ arma, -ōrum, n pl - оръжие
   funda, -ae, f - прашка
   scūtum, -ī, n - щит
   lorīca, -ae, f - броня
-  
+auxilia, -ōrum, n pl - спомагателни части
+legiō, -ōnis, f - легион, бойна единица, състояща се от шест хиляди души, делища се на десет кохорти
+cohors, cohortis, f - кохорта, бойна единица, състояща се от шестстотин души, деляща се на шест центурии
+centuria, -ae, f - центурия, бойна единица, състояща се от сто души, деляща се на десет декурии
+decuria, -ae, f - декурия, бойна единица, състояща се от десет души
+legiōnārius, -ī, m - легионер, редовен войник в римската армия 
+
 
 tempus, -oris, n - време
 kalendārium, -ī, n - календар
-annus, -ī, m -  година
+annus, -ī, m - година
 vēr,vēris, n - пролет
 aestās, -ātis, f - лято
 autumnus, -ī, m - есен
@@ -1118,3 +1225,4 @@ gubernātor, -ōris, m - капитан, командир
 naufragiumm, -ī, n - корабокрушение
 vēlum, -ī, n - платно
 puppis, -is, f - кърма на кораб
+rēmus, -ī, m - гребло

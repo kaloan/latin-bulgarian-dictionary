@@ -24,6 +24,9 @@ haud sciō an/nesciō an/dubitō an - предполагам че
 sēstertium (sēstertiōrum) - сестерции
 adversa fortūna - зла съдба
 nāvis longa - боен кораб
+etiam atque etiam - пак и пак, отново и отново
+sanguinem mittere - пускане на кръв, древна практика (предложена поне от времето на Херодот) за "лечение" на различни състояния и заболявания
+mentiōnem facere - споменавам
 
 secuna mēnsa - десерт
 
@@ -52,5 +55,6 @@ HS. (IIS., II sēmisque) - сестерция
 COS (consul) - консул
 AUG (Augustus) - август
 
+s. d. (salutem dīcit) - поздравявам
 
 "abstrahit (me) sermonis egestas" = the poorness of the language stops me

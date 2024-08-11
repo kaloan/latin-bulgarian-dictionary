@@ -48,10 +48,10 @@ vīlis -is - евтин, малоценен
 idōneus - удобен, подходящ 
 posterus - следващ
 dīrus - ужасен
-incolumnis - невредим, обезоръжен
+incolumis - невредим, обезоръжен (!!!)
 ācer ācris - деен, действен, деятелен
 perpetuus - вечен
-venustus - обичан
+venustus - обичан, очарователен
 passus - сушен
 glaber - гладък
 rigidus - здрав
@@ -218,7 +218,7 @@ patiēns, patientis - търпелив
 impatiēns, impatientis - нетърпелив
 neglegēns - небрежен
 līber, -rī - свободен
-studiōsus - любопѝтен, заинтересован, заинтригуван
+studiōsus - любопитен, заинтересован, заинтригуван
 propinquus - близък, близолежащ
 ūniversus - цял, пълнен
 mor­tālis, -is - смъртен
@@ -235,7 +235,7 @@ rapidus - бърз, пъргав, чевръст
 inexspectātus - неочакван
 dīligēns, dīligentis - усърден 
 argenteus - сребърен
-glōriōsus - преславен
+glōriōsus - славен, преславен
 acūtus - остър
 absēns, absentis - присъстващ
 praesēns, praesentis - отсъстващ
@@ -256,13 +256,36 @@ adversus - насрещен
 inermis - невъоръжен, обезоръжен
 mūtuus - зает, взет назаем
 mercātōrius - търговски
+arduus - стръмен
+horrendus - страховит
+ōtiōsus - почиващ, лежерен
+prīvātus - частен
+pūblicus - обществен
+rīdiculus - смешен, смехотворен
+mīlitāris - военен
+circēnsis, -is - цирков
+bellus - красив, хубав
+dubius - съмнителен (!!!)
+geminus - близнашки
+gladiātōrius - гладиаторски
+iocōsus - забавен
+mellītus - сладък
+misellus - горък
+poēticus - поетичен
+scaenicus - театрален, сценичен
+sērius - сериозен, строг
+tenebricōsus - тъмен
+turgidus/turgidulus - оточен, набъбнал 
+emāx - обичащ пазаруването
+inconditus - груб, недодялан
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
-ulterior, ultimus - по-далечен
-cirerior, citimus - по-близък
+ulterior/ulterius, ultimus - по-далечен
+citerior/citerius, citimus - по-близък
 propior, proximus - по-близък
 
+niveus - снежно бял
 candidus - бляскаво бял
 ablus - матово бял
 niger - бляскаво черен
@@ -277,7 +300,7 @@ rutilus - оранжев
 crocinus - шафранено жълт
 superus - горен
 īnferus - долен
-maritimus -  морски
+maritimus - морски
 tranquillus - спокоен
 turbidus - бурен, бушуващ
 contrārius - противостоящ
@@ -379,8 +402,14 @@ mīllēsimus - хилядни
 postrēmus - последен
 
 singulī - един по един, по едно, по единици
+ūnī - един по един, по едно, по единици (използва се за чисто множествени съществителни)
 bīnī - два по два, по две, по двойки
 ternī - три по три, по три, по тройки
+trīnī - три по три, по три, по тройки (използва се за чисто множествени съществителни)
+quaternī - чретири по четири, по четири, по четворки
+quīnī - пет по пет, по пет, по петици 
+sēnī - шест по шест, по шест, по шестици
+dēnī - десет по десет, по десет, по десетки
 
 Graecus - гръцки
 Rōmānus - римски
