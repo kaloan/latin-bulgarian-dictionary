@@ -1,4 +1,3 @@
-  
 A. (Aulus) - Авел
   abdūcere - отвличам, отчуждавам, разделям
   aberrāre - отклонявам се, губя се, греша
@@ -28,7 +27,7 @@ accūsārе (+gen) - обвинявам (в)
 ācer ācris - деен, действен, деятелен
 acerbus - кисел
 Achillēs, -is, m - Ахил
-aciēs, aciēī, f - боен ред
+aciēs, aciēī, f - боен строй редица, използва по време на битка
 ācriter - ожесточено, силно, жизнено
   āctīvum, āct. - деятелен залог
 actīvus - в деятелен залог
@@ -52,8 +51,10 @@ adiectīvum, adi. - прилагателно
   adiuvāre - спомагам, подпомагам, подкрепям
   admīrārī (d) - учудвам се, уважавам
 admirātiō, -ōnis, f - почитание, учудване, изумление
+admīrātiō, -ōnis, f - почуда, възхищение
   admiscēre - добавям, включвам, омеся
   admittere - допускам, получавам
+  adnectere - вплитам, заплитам
   adōrāre - почитам
 adulēscēns, adulēscentis, m/f - юноша
   advehere - донасям
@@ -83,12 +84,15 @@ aestās, -ātis, f - лято
 aestĭfer, -is - зноен
 aestimāre - оценявам, преценявам
 aestuāre - топло ми е, жега ми е
-aetās, -ātis, f - част от живота, възраст, поколение
+aetās, -ātis, f - възраст, поколение
+affectus, -ūs, m - настроение, чувство
   afferre, attulisse, allātum - донасям
+  affirmāre - потвърждавам
   affrangere - счуквам, смазвам
 Ãfrica, -ae, f - Африка
 ager, agrī, m - поле, имение
 agere, ēgisse, āctum - действам, върша
+agmen, agminis, n - боен строй колона, използван по време на път
 agnīna, -ae, f - агнешко
 agnus, -ī, m - агне
 agricola, -ae, m - земеделец (букв. земегрижец)
@@ -97,6 +101,7 @@ ait, āiunt (деф) - казва
   āla, -ae, f - ниша без покрив
   āla, -ae, f - подмишница
 alacer -cris - деятелен, щастлив, бърз, храбър
+Albānum, -ī, n - 
 alere, aluisse, altum/alitum - кърмя, изхранвам
 algēre - студувам
 aliēnus - чужд
@@ -109,6 +114,7 @@ aliquot - няколко
 aliter - иначе, инак, другак, другояче
   allicere -iō (!), allēxisse, allēctum - привличам
   alligāre - завързвам, обвинявам, включвам
+Alpēs, -ium, f pl - Алпите
 altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едината/другата от две
 alter, alterum, alterīus, alterī, aletrō, alterī, altrōs, alerōrum, alterīs, alterīs - единият/другият от двама
 alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - единото/другото от две
@@ -129,6 +135,7 @@ amnis, -is, m - река
 amoenus - великолепно, прекрасно, любителен
 amor, amoris, m - любов, привързаност
   amphitheātrum, -ī, n - амфитятър, място на което се провеждали развлекателни боеве и смъртни наказания
+Amphitryōn, -ōnis, m - Амфитрион, герой от комедия на Плавт
 amplius - повече
 amplus - голям, обемен
 anagnōstēs, anagnōstae, m - роб, който чете на глас
@@ -148,8 +155,10 @@ antequam - преди да, преди което, до сбъдването н�
 ante - пред
 antiquus - дрвен
 Antōnius Mūsa, m  - лекар на император Август
+antonymum - антоним
 antrum, -ī, n - пещера
   ānulus, -ī, m - пръстен
+anus, -ūs, f - старица
 ānxiāre - тревожа се, притеснявам се
 ānxius - разтревожен
 aper, aprī, m - глиган
@@ -158,7 +167,9 @@ apis, -is, f - пчела
     apodȳtērium, -ī, n - съблекалня
 Apollō, -inis, m - Аполон, бог на слънцето, образоваността и изкуствата
   appārēre - явявам се, появявам се
+appāritōr, -is, m - чиновник
 appellāre - назовавам
+  appellātīvum - нарицателно име
 appellātīvus - нарицателен, нарицателно (съществително)
   appōnere - припоставям, донасям, добавям
   apportāre - донасям
@@ -166,10 +177,11 @@ appellātīvus - нарицателен, нарицателно (съществ�
   appropinquāre - приближавам
 apud - заедно с
 aqua, -ae, f - вода
+aquila, -ae, f - орел
 aquilla, -ae, f - орел
     āra, -ae, f - олтар
 Arabia, -ae, f - Арабия
-arānea, -ae, f - паяк
+arānea, -ae, f - паяк, паяжина
 arāre - ора
   arātrum, -ī, n - рало, плуг
 arbitrārī (d) - реша, смятам, на мнение съм
@@ -179,10 +191,11 @@ arbor, -is, f - дърво
 arcessere, arcessiisse/arcessivisse, arcessitum - извиквам, каня, призовавам
   arcus, -ūs, m - лък
 ārdēre, arsisse, arsum - горя, гневя се
+arduus - стръмен
 argenteus - сребърен
 argentum, -ī, n - сребро
 ariēs, arietis, m - овен
-Ariōn, Arionis, m - Арион
+Ariōn, Arionis, m - Арион, легендарен музикант със сходни качества на Орфей
 arma, -ōrum, n pl - оръжие
 armāre - въоръжавам
 armātus - въоръжен
@@ -204,6 +217,7 @@ atque - и
 ātrāmentum, -ī, n - мастило (букв. чернило)
   ātrium, -ī, n - входна зала, фоайе
 atrōx -cis - див, жесток, страшен, свиреп
+attat - ах, ох, ух, ех
 attentus - внимателен, осторожен, внимаващ
   attrahere - довлача, дотегля, домъкна
 audācia, -ae, f - смелост
@@ -220,10 +234,12 @@ aura, -ae, f - въздух, миризма, вятър
   aurantium, -ī, n - портокал
 aureus, -ī, m - аурей, златна монета с най-голяма стойност (приравнява се на 25 денария) 
 aureus - златен
+aurīga, -ae, m - шофьор на колесница, водач, 
   auris, -is, n - ухо
 aurum, -ī, n - злато
 autumnus, -ī, m - есен
 aut - или (изключващо)
+auxilia, -ōrum, n pl - спомагателни части
 auxilium, -ī, n - помощ
 avārus - алчен
   āvertere - обръщам се с гръб към някого, отвръщам се
@@ -245,6 +261,7 @@ bāsium, -ī, n - целувка
 bcātus - блажен, щастлив
 Bcthlthem, indecl, n - Витлеем
 bellum, -ī, n - война
+bellus - красив, хубав
 beneficium, -ī, n - добро дело, полза, услуга
 bene/male velle (+dat) - желая доброто/лошото някому
 benignus - добронамерен
@@ -267,9 +284,11 @@ Britannia, -ae, f - Британия
 Brundisium, -ī, n - Брундизи
 būbula, -ae, f - говеждо
 bulla, -ae, f - кръгъл амулет носен от момчетата
+cachinnus, ‑ī, m - кикот
 cadere, cecidisse - падам, умирам
 caecus - сляп
-caedere, - разрязвам, порязвам, убивам
+caedere, - разрязвам, порязвам, убивам, коля, сека
+caedēs, caedis, f - клане, сеч
 caelāre - правя резба, дялкам надпис в камък
 caelum, -ī, n - небе
 caerŭleum, -ī, n - светло синьо
@@ -341,12 +360,15 @@ cēnāre - вечерям
 cēnsēre, censuisse, censum - мисля, на мнение съм, смята, броя 
 centēsimus - стотни
 centum, indecl - сто
+centuria, -ae, f - центурия, бойна единица, състояща се от сто души, деляща се на десет декурии
+centuriō, -ōnis, m - центурион, офицер, командващ центурия
 cēra, -ae, f - восък
   cerasum, -ī, n - череша
   cerebrum, -ī, n - мозък
 Cerēs. Cereris, f - Церера, богиня на житото и плодородието 
 cernere, crevisse, cretum - различавам, отличавам, определям
 certāmen, -inis, n - бой, битка
+certāre - бия се, боря се, съревновам се
 certē - със сигурнос
 cervix, cervicis, f - врат, тил
 cervus, -ī, m - елен
@@ -363,18 +385,22 @@ ciēre, civisse, citum - друсам, бъркам
 cingere, cīnxisse, cīnctum - заобикалям, увивам се
 cingulum, -ī, n - колан
 circā - около, близо до, приблизително (за време)
+circēnsis, -is -  цирков
 circiter - около, приблизително
   circumdare - обкръжавам, ограждам
   circumdūcere - развеждам
+  circumsilīre. circumsiluisse - подскачам 
   circumspicere - оглеждам, диря
   circumvolāre - кръжа
 circum - около
-cirerior, citimus - по-близък
+circus - кръг, орбита, цирк
 cista, -ae, f - плетена кошница
 cis - близо, от тази страна
 -citāre
+citerior/citerius, citimus - по-близък
 citō - бързо
 citrā - близо, от тази страна
+citrā - от тази страна
 cīvis, -is, m/f - гражданин
 clādēs, -is, f - клане, опустошение
 clāmāre - викам, извиквам
@@ -390,11 +416,13 @@ clēmēns, clēmentis - благ, щадящ, мек
 cliens, clientis, m - клиент, посетител
   cloāca, -ae, f - канализация
 cocus, -ī, m - готвач
+cōdex, cōdicis, f - книга в съвременна форма(т.е. множество страници между корици), стъбло, ствол
 coetus, -ūs, m - събрание, шайка, секс
   cōgere, coēgisse, coāctum - принуждавам, насилвам
 cōgitāre - мисля
 cognōmen, -inis, n - допълнително име, което мъжете получавали като резултат от заслуги. прякори и т.н и служело спомагателно за различаване на личности със съвпадащи други имена
   cognōscere, cognosse/ccognōvisse, cognitum  - научавам, разбирам, разпознавам
+cohors, cohortis, f - кохорта, бойна единица, състояща се от шестстотин души, деляща се на шест центурии
 colere, coluisse, cultum - грижа се, поддържам, развивам
 collēgĭum, -ī, n - гилдия, сдружение, братство
   colligere, collēgisse, collēctum - събирам в група, събирам богатство, заключавам, заключавам
@@ -403,15 +431,19 @@ collis, -is, m - хълм
 collum, -ī, n - шия
 colōnus, -ī, m - ратай
 color, -ōris, m - цвят
+columba, -ae, f - гълъб
 columna, -ae, f - колона
 comes, comitis, m - придружител
 comitārī (d) - придружавам
 cōmiter - добронамерено
+  commemorāre - споменавам 
   commiscēre - смеся
 commodus - лесен
   commovēre - разчуствам, безпокоя, развълнувам
 commūnis, -is - споделен, всеобщ
+cōmoedia, -ae, f - комедия
   comparāre - събирам, сравнявам
+comparātiō, -ōnis, f - сравнение
   comparātīvus, comp. - сравнителна степен
 compescere, compescuisse - въздържам се, преграждам, утолявам
 complectī, complexus esse (d) - прегръщам
@@ -431,6 +463,7 @@ condīre - погребвам, заравям
   cōnfīdere (+dat) - доверявам се (на)
   cōnfidere (sd)- доверявам се
   cōnfitērī (d) - признавам
+  coniugātiō - спрежение
 coniūnctiō, con. - съюз
     coniūnctīvus, coni. - конюнктив, подчинително наклонение, което е смесица от условно, преизказно и (непряко) повелително
   coniungere - свързвам, свъзвам с брак, прилепям, слепям
@@ -453,7 +486,7 @@ cōnspectus, -ūs, m - поглед
 cōnstāns - спокоен
 cōnstāre, cōnstitisse  - струвам
   cōnstituere, cōnstituisse, cōnstitutum - съграждам, реша се на, издигам, основавам
-  cōnsūmere - използвам, употребявам, изяждам, унищожавам
+    cōnsūmere - използвам, употребявам, изяждам, унищожавам
 contāgiō, -ōnis, f - зараза
   contemnere - презирам, незачитам, отбягвам
 conterminus - съседен
@@ -464,12 +497,16 @@ continuō - немедлено, тутакси, веднага, завчас
 contrārius - насрещен, преден
 contrārius - противостоящ
 contrā - срещу
+  conturbāre - сбърквам
   convenīre - събирам се (обикновено в множествено число)
   convertere - превръщам, заменям, променям
   convincere - убеждавам, показвам, доказвам
 convīva, -ae, m/f - вечерен гост
 convīvium, -ī, n - вечерно събиране, банкет
+  convocāre - свиквам
 cōpia, -ae, f - изобилие
+cōpulāre - свързвам, сдвоявам, обвързвам
+  cōpulātīva -
 cōpulātīvus - съединителен
 coquere, coxisse, coctum - сготвям
 cōram - лице в лице, в присъствието на, пред 
@@ -538,6 +575,7 @@ custos, -oris, m - роб, грижещ се за децата
 cutis, -is, f - кожа
 cycnus, -ī, m - лебед
   cоnspīrāre - заговорнича
+dactylus, ‑ī, m - дактил
 Daedalus, -ī, m - Дедал
 damnāre - осъждам
 Dānuvius, -ī, m - Дунав
@@ -556,6 +594,9 @@ Decimus Iūnius Iūvenālis - Ювенал, известен сатиричен 
 decimus - десети
   dēcipere -iō, decepisse, deceptum - мамя
     dēclīnātiō, dēcl. - склонение
+decretum, -ī, n - указ, указание, възглед, присъда
+decuria, -ae, f - декурия, бойна единица, състояща се от десет души
+decuriō, -ōnis, n - декурион, офицерм конандващ декурия
   dēdūcere - отвеждам, разстягам, извеждам
   deesse (+dat) - не помагам (някому)
   deesse - липсвам, отсъствам
@@ -566,15 +607,19 @@ dēfendere, dēfendisse, dēfensum - защитавам, отбранявам
   dēfīnīre - ограждам, определям, уточнявам, задържам
   dēhortārī (d) - раздумвам, разубеждавам 
 deinde - после, след това
+dein - после, след това
   delabī (d) - падам от, изпускам се
 dēlectāre - задоволявам, развеселявам
 dēlēre - премахвам, трия
+dēliciae, -ārum, f pl - наслада, удоволствия
 delphinus, -ī, m - делвин
 Delphī, -ōrum, m pl - Делфи
+  dēmere, dēmpsisse, dēmptum - отнемам
   dēmōnstrāre - показвам, отбелязвам, доказвам
 dēmum - най-сетне, най-накрая, разгеле, съвсем точно
 dēnarius, -ī, m - денарий, сребърна монета, равняваща се на 4 сестерции
 dēnique - накрая
+dēnī - десет по десет, по десет, по десетки
     dēns, dentis, m - зъб
 dēnuō - наново
 deorsum - надолу
@@ -596,6 +641,7 @@ dēsperāre - отчайвам се
   dēterrēre - сплашвам, възпирам
   dētrahere - свличам, повличам, свалям, изключвам, омаловажавам
 deus, -ī, m - бог
+  dēvorāre - нагълтвам, изгълтвам
   devovēre - заклевам се, проклинам, кълна
 dexter - десен
 dextra, -ae, f - дясна ръка
@@ -618,6 +664,7 @@ dīligere - обичам (роднина)
 dīmidius - намаляващ, смаляващ се
 dīmidius - половин
   dīmittere - отпращам
+dipthongus, ‑ī, m - дифтонга
 dīrus - ужасен
   discēdere - тръгвам, излизам
 discere, didicisse -уча се  
@@ -625,6 +672,7 @@ discipula, -ae, f - ученичка
 discipulus, -ī, m - ученик
 discrīmen, -inis, n - опасност
   disferre - разнасям, забавям
+  disiūnctīva -
 disiūnctīvus - разделителен
   disiungere  - разделям
   dissecāre - разсичам, разрязвам
@@ -656,10 +704,13 @@ dracō, -ōnis, m - дракон, змей
 duae, -ārum, f pl - две
 dua, -ōrum, n pl - две
 dubitāre - съмнявам се
+dubius - съмнителен (!!!)
 ducentī - двеста
 dūcere, dūxisse, ductum - водя, 
 dulcis, -is - сладък
+dummodo - стига да, само ако
 dumtaxat - само, единствено, точно
+dumtaxat - тъкмо, тамън
 dūmus, -ī, m - храст
 dum - докато
 duocentēsimus - двустотни
@@ -686,18 +737,26 @@ edere/ēsse, edisse, esum - ям
   efficere -iō, effēcisse, effectum- изработвам, извършвам, изпълнявам
 effigiēs, effigiēī, f - образ, вид
   effugere -iō, effugisse - да избягам, избягвам
+  effundere - изливам, изпразвам
 egēre, eguisse (+abl) - нуждая се от
 ego, mē, meī, mihi, mē - аз 
 egomet, mēmet, meīmet, mihimet, mēmet - аз (използвано понякога в мерената реч)
-ēgredī, ,egressus esse (d) - пристъпвам
+  ēgredī -ior, ,ēgressus esse (d) - пристъпвам
 ēgregius - превъзходен, възхитителен, изключителен, извънреден, особен
+eia - айде
   ēicere -iō, ēiēcisse, ēiēctum - изхвърлям
   ēlevāre - облекчавам, вдигам, подценявам, принизявам
+  ēlīdere, ēlīsisse, ēlīsum - троша, премахвам
   ēligere, ēlēgisse, ēlēctum - избирам
-emere, ēmisse, ēmptum - купувам
+emāx - обичащ пазаруването
+emere, ēmisse, ēmptum - купувам, придобивам
+ēmptiō, -ōnis, f - покупка
+emptor, -ōris, m - купувач
 ... enim - понеже, защото, тъй като
   ēnsis, -is, m - меч
+ēn - въй
 eō - натам, накъдето
+epigramma, epigrammatis, n - епиграма
 epistula, -ae, f - писмо
 epulārī (d) - пирувам
 eques, equites, m - конник
@@ -708,13 +767,17 @@ ergā - към
   ērigere, erexisse, erectum - възбуждам, издигам
   ēripere - ограбя, отнемам
 errāre - странствам, блуждая
+  ērubēscere - изчервявам се
 erus, -ī, m - господар
 ēsca, -ae, f - храна
 esse - съм
+etenim - и наистина
+etiam atque etiam - пак и пак, отново и отново
 etiamnunc - дори сега
 etiam - също, както
 etsī - ако ще, дори ако, дори и, въпреки че
 et - и
+euax - охоmora, -ae, f - прекъсване, забавяне
 Euboea, -ae, f - Евбeя, Негропонт
 Eurōpa, -ae, f - Европа
 ēvāgīnāre - вадя (меч, нож)
@@ -742,7 +805,8 @@ exitus, -ūs, m - изход, завършек
   exōrnāre - разкрасявам
 expedīre - забързвам
 experīrī (d) - откривам, тествам, доказвам, опитвам, пробвам
-explānāre - разяснявам
+  explānāre - разяснявам, изглаждам
+  explētīva -
 explētīvus - допълващ, запълващ
   expōnere - оставям, изоставям
   exportāre - изнасям
@@ -778,7 +842,10 @@ farīna, -ae, f - брашно
 fascis, -is, m - сноп, сноп дърва символ на авторитета на обществено лице
 fastīdīre - не понасям, не навиждам, отвращавам се от нещо
 fatērī, fessum esse (d) - потвърждавам, признавам  
+fatīgāre - изморявам
+fātum, ‑ī, m - съдба
 faux, faucis, f - гуша
+favēre (+dat) - подкрепям (някого), поддържам (някого)
 fēlīcitās, -ātis, f - късмен
 fēlīx, -cis - късметлив
 fēmina, -ae, f - жена
@@ -787,7 +854,7 @@ fēmina, -ae, f - жена
 fenestra, -ae, f - прозорец
 fera, -ae, f - звяр, диво животно
     ferculum, -ī, n - поднос
-ferē - около, горе-долу
+ferē - около, горе-долу, почти
 ferōx - див, свиреп
 ferre, tulisse, lātum - нося
 ferreus - железен
@@ -802,16 +869,17 @@ fīdēs, fideī, f - вяра
 fidēs, -is, f - лира, струннен инструмент
 fidicen, -inis, m - лирист
 fīdus - верен, доверен 
-fieri - случва се, сбъдва се, създава се, подготвя се
+fierī - случва се, сбъдва се, създава се, подготвя се
 fīgere, fīxisse, fīxum/fictum - стягам, закачам, захващам
 fīlia, -ae, f - дъщеря
 fīlius, -ī, m - син
 fīlum, -ī, n - нишка
 fīnīre - ограничавам, приключвам, свършвам, довършвам
 fīnis, -is, m - граница
+firmāre - втвърдявам
 flagrāre - пламтя
 flāre - духам
-flectere, flexisse, flexum - свивам
+flectere, flexisse, flexum - вия, свивам
 flēre, flevisse, fletum - плача
 flōs, floris, m - цвете
 flūctus, -ūs, m - вълна
@@ -822,11 +890,13 @@ foedus - грозен
 folium, -ī, n - листо
 fōns, fōntis, m - извор, фонтан, изтичник, първопричина
 forās (+acc) - (в посока) навън
+fore - ще стане
 forīs (+abl) - (на място) навън
       foris, -is, f - крило на врата
 fōrma, -ae, f - вид, изглед
 formica, -ae, f - мравка
 fōrmōsus - красив
+forsitan - може би
 fortasse - може би, вероятно, възможно
 forte - случайно, по случайност
 fortis, -is - силен, могъщ, смел
@@ -875,15 +945,19 @@ fūrtum, -ī, n - кражба
   futūrum, fut. - бъдеще време
 fū - иу, йък
 Gāius Plīnius Secundus, m - Плиний стари, автор на различни трудове и енциклопедията "Nātūrālis Historia"
+Gāius Sallūstius Crispus - Салустий
+Gāius Valerius Catullus - Катул
 Galēnus, -ī, m - Гален, древен изследовател по медицина
 Gallia, -ae, f - Галия
 gallīna, -ae, f - кокошка
 gallīnācea, -ae, f - пилешко
 gallus, -ī, m - петек
 gaster - корем
-gaudēre, gavisus esse (sd) -  радвам се, доволен съм
+gaudēre, gavisus esse (sd) -  радвам се, доволен съм, веселя се
+gaudium, -ī, n - веселие, радост
 gelidus - хладен, хладък
 gemere, gemuisse, gemitum - тъжа, стена
+geminus - близнашки
 gemitus, -ūs, m - стон
   gemma, -ae, f - скъпоценен камък
 gemmātus - украсен със скъпоценни камъни
@@ -893,7 +967,7 @@ gener, -is, m - зет
 gēns, gentis, f - род, племе, народ
 genus, generis, n - вид, сорт
   genū, -ūs, n - коляно
-gerere, gessisse, gestum - нося (дрехи и т.н.)
+gerere, gessisse, gestum - нося (дрехи и т.н.), извършвам
 Germānia, -ae, f - Германия
   gerundium, ger. - отглаголно съществително, уточнява се чрез наречия и преки допълнения, може да се ползва като деепричастие в аблативна форма
   gerundīvum - отглаголно прилагателно, показващо очакван резултат, сходен до страдателен залог
@@ -901,10 +975,13 @@ gestāre - нося товар, нося облекло
 glaber - гладък
 glaciālis, -is - леден, вледенен
   glaciēs, glaciēī, f - лед
+gladiātōrius - гладиаторски
+gladiātor, ‑ōris, m - гладиатор
   gladius, -ī, m - меч
 glōria, -ae, f - слава, почест
-glōriōsus - преславен
+glōriōsus - славен, преславен
 gracilis, -is - слаб, изпит
+gradī -ior, gressum esse (d) - стъпвам
 gradus, -īs, m - стъпка
 Graecia, -ae, f - Гърция
 Graecus - гръцки
@@ -916,6 +993,7 @@ grātus - приятен, благодарствен, благ
 gravidus - утежнен, подут
 gravidа - бременна
 gravis, -is - тежък
+  gremium, ‑ī, n - скут 
 grex, gregis, m - стадо
 gubernāre - управлявам, насочквам
 gubernātor, -ōris, m - капитан, командир
@@ -937,27 +1015,31 @@ haud - не, хич не
 haurīre, hausisse, haustum - точа, празня
 hebes hebetis - глупав
 Hector, -oris, m - Хектор
+hendecasyllabus, ‑ī, m - стих от единайсет срички
 herba, -ae, f - трева
+Herculēs, -is, m - Херкулес, Херакъл
 hērēs, heredis, m/f - наследник
 herī - вчера
-heus - ей, хейmora, -ae, f - прекъсване, забавяне
+heus - ей, хей
+hexameter, hexametrī, m - хекзаметър
 hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този, намиращ се близо до говорителя/писателя
 hicine - тови ли
 hic - тук
 hiemāre - зимувам, презимувам
 hiems, -is, f - зима
-hieroglyphicus, -ī, m - йероглиф
+  hieroglyphicus, -ī, m - йероглиф
 hinc - оттук
 hirsūtos - с много козина, дебелокосмест
 Hispānia, -ae, f - Испания
 histriō, -ōnis, m - актьор
 hoc,  hoc, huius, huic, hōc, haec, haec, hōrum, hīs, hīs - това, намиращо се близо до говорителя/писателя
-hocine - това лиsed = но
+hocine - това ли
 hodiē - днес
 holus, holeris, n - зеленчук
 homō, hominis, m - човек
 honōs, -ōris, m - чест
 hōra, -ae, f - час
+horrendus - страховит
 horrēre, horruisse - изправям се, да ми се изправят космите (т.е. страхувам се)
 horreum, -ī, n - склад
 hortārī (d) - увещавам, придумвам, увещавам, скланям, подтиквам, подбуждам, хортувам
@@ -973,6 +1055,7 @@ humus, -ī, m - земя, почва
 iacere -iō, iēcisse, iactum - хвърлям, мятам
 iactāre - мятам
 iactūra, -ae, f - мятане, загуба, цена
+iambus, ‑ī, m - ямб
 iam - вече, сега (вече нещо се е случило, нещо е така)
 iānitor, -ōris, m - портиер
     iānua, -ae, f - врата, вход
@@ -1011,10 +1094,12 @@ impendēre, impendisse, impensum (+dat) - заплашвам, надвисвам
   impendere, impendisse, impensum - изразходвамм, посвещавам
 imperāre - заповядвам, управлявам, властвам 
     imperatīvus, imp. - повелително наклонение
+imperātor, -ōris, m - генерал, император
   imperfectum, imperf. - несвършено време
 imperium, -ī, n - империя
 impetus, -ūs, m - атака, настъпление
   implēre - запълвам
+  implicāre - сгъвам, увивам
     impluvium, -ī, n - малък басейн, който типично се помещавал в атриума
   impōnere - поставям на
   importāre - внасям
@@ -1027,7 +1112,8 @@ improbus - непослушен
   inclūdere, inclusisse, inclusum - заключвам
 incola, -ae, m/f - обитател, жител
   incolere, incoluisse, incultum - живея, пребивавам 
-incolumnis - невредим, обезоръжен
+incolumis - невредим, обезоръжен (!!!)
+inconditus - груб, недодялан
 incondonābile - непростимо
 inde ab (+abl) - откакто
 indēclīnābĭlis - неизменен (граматически се позлва за съществителни, които имат единствена падежна форма)
@@ -1052,6 +1138,7 @@ infāns, infantis, m/f - бебе
 īnferus - долен
 īnfēstus - опасен
   īnfinītīvus, īnf. - инфинитив, нелична глаголна форма, която не се среща в българския
+  īnflectere - свивам, сколявам (граматически)
   īnfluere - наводнявам
 īnfrā - под, надолу от
 ingēmescere, ingēmuisse - стена, ридая
@@ -1076,12 +1163,14 @@ insānus - луд, откачен
 īnsidīre, īnsidiavisse - чакам в засада, заговорнича, поставям клопка, внимавам
   īnsistere, institisse - настоявам
   īnspicere - наблюдавам, изследвам, обмислям
+īnstruere, īnstrūxisse, īnstrūctum - подреждам
 īnstrūmentum, -ī, n - уред, оръдие, средство
 īnsula, -ae, f - остров, жилищен блок
 integer, intergī - цял
   intellegere, intellēxisse, intellēctum - разбирам
   intendere - опъвам, обтягам
 interdiū - дневно, през деня
+interdum - отреме-навреме
 intereā - по същото време
   interesse - съм между, намирам се между
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
@@ -1109,6 +1198,7 @@ invidia, -ae, f - завист
   invīsere - навестявам, посещавам
   invocāre - призовавам
 in - в, над
+iocōsus - забавен
 ipsa, ipsam, ipsīus, ipsī, ipsā, ipsae, ipsās, ipsārum, ipsīs, ipsīs - самата
 ipse, ipsum, ipsīus, ipsī, ipsō, ipsī, ipsōs, ipsōrum, ipsīs, ipsīs - самият
 ipsum, ipsum, ipsīus, ipsī, ipsō, ipsa, ipsa, ipsōrum, ipsīs, ipsīs - самото
@@ -1129,7 +1219,7 @@ item - също, по същия начин
 iterāre - повтарям
 iter, itineris, n - път
   iterrogāre - питам, разпитвам
-iterum - повторно, отново
+iterum - пак, повторно, отново
 iubēre, iussisse, iussum - нареждам, указвам, умолявам
 iūcundus - приятен, задоволяващ
 Iūdaea, -ae, f - Юдея
@@ -1144,7 +1234,7 @@ iūre - редно
 iurgium, -ī, n - свада, кавга, раздяла, бой
 iūs, iūris, n - справедливост, правосъдие
 iūstus - справедлив
-iuvāre, iūvisse, iūtum - помагам
+iuvāre, iūvisse, iūtum - помагам, удовлетворявам
 iuvenis, -is, m/f - млад мъж, млада жена (??според едната книга около 30-ка??)
 iūxtā - до, близо, с
 kalāre - разхлабвам, оставам нещо да виси
@@ -1190,7 +1280,10 @@ lavāre, lāvisse, lautum/lōtum/lavātum - мия, къпя
   lavātrīna/lātrīna, -ae, f - баня
 lectīca, -ae, f - носилка
   lectus, -ī, m - легло
+lēgātus, -ī, m - легат, общестен вестител/пощальон
 legere, lēgisse, lēctum - чета
+legiōnārius, -ī, m - легионер, редовен войник в римската армия 
+legiō, -ōnis, f - легион, бойна единица, състояща се от шест хиляди души, делища се на десет кохорти
 Lēmnos, -ī, f - Лемнос
 lentus - бавен, мързелив
 leō, leōnis, m - лъв
@@ -1200,7 +1293,7 @@ Lesbos, -ī, f - Лесбос
 levāre - дигам, олеквам
 levis, -is - лек
 lēx, lēgis, f - закон
-libenter - със щастие
+libenter - с удоволствие, със щастие 
 līberāre (+abl) - освобождавам (от)
 libēre, libuisse (imp) (+dat) - харесва се на, обича се от
 līberī, -ōrum, m pl - деца
@@ -1216,6 +1309,7 @@ lībra, -ae, f - везни, кантар, мярка за тегло, деля�
 librāria, -ae, f - секретарка
 librārius, -ī, m - секретар
 licēre, licuisse (imp) (+dat) - позволено е да
+Licinius Calvus - Лициний Калв, поет от средата на I век пр. Хр.
 ligāre - вризвам, сглобявам
 ligneus - дървен
 lignum, -ī, n - дървесина, дърво
@@ -1227,7 +1321,7 @@ lilium, -ī, n - лилиум
     lingua, -ae, f - език
 linquere, līquisse, lictum - тръгвам, напускам, оставям някого 
 liquor, -is, m - течност
-littera, -ae, f - буква
+  littera, -ae, f - буква
 litterae,-ārum, f pl - писмо, написано
   litterātus, -ī, m - учител, който преподавал най-основното, четене, писане и елементарно смятане
 lītus, litoris, n - плаж, бряг
@@ -1242,10 +1336,10 @@ loquī, locutum esse (d) - говоря
 lūcere, lūxisse - светя, излъчвам
   lucerna, -ae, f - маслена лампа
 lucrum, -ī, n - печалба
-luctārī (d) - боря се
+luctārī (d) - боря се, играя борба
 lūcūbrātiō, -ōnis, f - среднощна работа (буквално 'работа на лампа')
 lūdere, lūsisse, lusum - играя
-lūdus, -ī, m - училище
+lūdus, -ī, m - училище, игра
 lūdus lātrunculōrum - вид шах
 lūgēre, luxisse, luctum - оплаквам, жалея
   luna, -ae, f - луна
@@ -1260,6 +1354,7 @@ luxus, -ī, m - лукс, излишък
   lychnūchus, -ī, m - поставка за маслена лампа
   lycopersica, -ae, f - домат
 lympha, -ae, f - вода, прозрачна течност
+lаеdere. laesisse, laesum - удрям, ранявам, обиждам 
     macellum, -ī, n - месарница
 macer - слаб, хилав, недохранен
 macula, -ae, f - петно
@@ -1287,6 +1382,8 @@ mantēle, -is, n - кърпа
   manus, -ūs, f - ръка (от киктата надолу)
 mappa, -ae, f - кърпичка, салфетка
 Mārcus Decimus Brūtus - Брут, който участва в убийството на Гай Юлий Цезар
+Mārcus Terentius Varrō - Варон Реатински
+Mārcus ­Valerius Mārtiālis - Марциал
 mare, -is, n - море
   margarīta, -ae, f - бисер, перла
 margo, marginis, m - край, граница
@@ -1309,6 +1406,7 @@ medicus, -ī, m - лекар
 medius - среден
 medulla, -ae, f - месеста част
 Melita, -ae, f - Малта
+mellītus - сладък
 mel, mellis, n - мед 
 melos, indecl, n - песен
 membrāna, -ae, f - кожа, пергамент
@@ -1344,6 +1442,7 @@ meus - мой
 Midās, Midae, m - Мидас
 mīles, -itis, m - войник, воин, бранник, ратник
 mīlitāre - служа в армията, воювам
+mīlitāris - военен
 mīlle, indecl - хиляда
 mīllēsimus - хилядни
 mīllia, indecl - хиляди
@@ -1359,6 +1458,7 @@ mīrābilis, -is - чуден
 mīrārī (d) - чудя се 
 mīrus - чуден
 miscēre, miscuisse, mixtum - меся
+misellus -  
 miserēre, miseruisse (imp) (+acc) (+gen, inf) - (някой) съжалява/съчувсвтва (някого/нещо)
 miser - нещастен, болезнено влюбен
 mittere, mīsisse, missum - изпращам, освобождавам, мятам
@@ -1396,6 +1496,7 @@ multum (+gen) - предоволство
 multum, plūs plūris, plūrimum - много
 mundus, ī, m - свят
 mundus - изчистен
+mūnīre - укрепвам
 mūnus, -eris, n - подарък, услуга, данък, задължение
 murmur, -is, n - шепот, тих звук
 mūrus, -ī, m - градска стена
@@ -1427,6 +1528,7 @@ necessārius - нужен, необходим
 necesse est (+dat, inf) - нужно е, необходимо е да, задължително е да
 necesse, indecl - необходимо, задължително
 necnōn - а също и
+nectere, nexuisse, nexum - плета
 nec - нито, и не, но не
 negāre (+dat) - отказвам да дам
 negāre - отричам
@@ -1451,7 +1553,7 @@ nex, necis, f - смърт
 nē - че не, да не, за да не
 nīdus, -ī, m - гнездо
 niger - бляскаво черен
-nihil/nil, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
+nihil/nīl, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
 Nīlus, -ī, m - Нил
 nimis - прекалено, предостатъчно
 nimium - предостатъчно, твърде много
@@ -1459,6 +1561,7 @@ nimius - преголям, твърде голям
 nisi - освен, ако не
 nīsus, -ūs, m - труд
 nitidus - бестящ
+niveus - снежно бял
   nix, nivis, f - сняг
 nōbilis -is - известен, важен, аристократ
 nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
@@ -1486,12 +1589,14 @@ nōscere, nōvisse, notum - знам
 nōs, nōs, nostrī, nōbīs, nōbīs - ние 
 noster - наш
 Nostrum -
+nota, -ae, f - знак
 nōtus - знаен, известен
 novem, indecl - девет
 noviēs - девет пъти
 novissimus - последен
 novus - нов
 nox, nocis, f - нощ
+nūbere, nūpsisse (+dat) - забулвам се, омъжвам се (от древно римската практика младоженката да се забулва, по-късно се използва и разширено в смисъл "влизам в брак")
 nūbēs, nubis, f - облак
 nūbilus - облачен
 nucleus, -ī, m - зърно
@@ -1500,7 +1605,7 @@ nūgae, -ārum, f pl - глупости, проститии, празни при
 nūllus,-īus - нула, без
 nūmen, -inis, n - провидение
 numerāre - броя
-numerus, -ī, m - число
+  numerus, -ī, m - число
 nummus, -ī, m - монета
 num - ли
 num - ли (очаква се отрицателен отговор)
@@ -1531,6 +1636,7 @@ occīdere, occidisse, occisum (+acc) - убивам някого
 occultāre - скривам, покривам
   occurrere, occucurrisse/occurrisse, occursum - срещам, изправен съм срещу, съвпадам
 ōceanus, -ī, m - океан
+ocellus, ‑ī, m - очо
 octāvus - осми
 octiēs - осем пъти
 octingentēsimus - осемстотни
@@ -1540,6 +1646,7 @@ octōginta, indecl - осемдесет
 octō, indecl - осем
   oculus, -ī, n - око
 ōdisse (def) - мразя, ненавиждам
+odium, ‑ī, n - омраза
   odōrātus, -ūs, m - обоняние
 odōrātus - ухащ
 offa, -ae, f - парче месо (и по общо парче храна)
@@ -1556,16 +1663,18 @@ omnis, -is - всички, цял
 omnе, omnis, n - всичко
   ōnscrībere - надписвам
 onus, oneris, n - тежест, тегоба, трудност
-opera, -ae, f - работа, грижи
+opera, -ae, f - работа, грижи, труд, усилие
     operculum, -ī, n - капак
 operīre, operuisse , opertum - покривам, прикривам
+opēs, opum, f pl - състояние, богатство
 oportēre, opportuisse (imp) - редно е да, правилно е да
-opperīri, oppertus esse (d) - чакам, изчаквам
+opperīri, oppertun esse (d) - чакам, изчаквам
 oppidum, -ī, n - град
   oppugnāre - нападам, атакувам, щурмувам
   opputāre - режа, кастря
 Ops, Opis, f - Опс, богиня на плодородието и изобилието, сестра и съпруга на Сатурн
 optāre - избирам, желая, предпочитам
+      optātīvus
 optimē - точно навреме
 opulentus - богат
 opus, -eris, n - дело, труд, изделие
@@ -1573,6 +1682,7 @@ opus est (+dat, inf) - нужно е
 ōra, ōrae, f - морски бряг
 ōrāre - моля, прося, моля се
 ōrātio, -ōnis, f - красноречие, молитва
+ōrātiō,-ōnis, f - реч
 orbis, -is, f - окръжност, орбита
 orbis terrārum - Земното кълбо
 ōrdināre - подреждам
@@ -1583,6 +1693,7 @@ orīri, ortum (d) - изгрявам, появявам се
 ōrnāre - крася, украсявам
 ōrnātrīx, ōrnātrīcis, f - робиня фризьорка
 Orpheus, -ī, m - Орфей
+ōscitāre - зея, прозявам се
 ōsculārī (d) - целувам
 ōsculum, -ī, n - целувка
   ōs, ōris, n - уста
@@ -1590,8 +1701,8 @@ Orpheus, -ī, m - Орфей
   ostendere - показвам, представям
     ōstia, -ae, f - врата
 ōstiārius, -ī, m - портиер
+ōtiōsus - почиващ, лежерен
 ōtium, -ī, n - спокойствие, безгрижие, свободно време
-Ovidius, -ī, m - Овидий
 ovilla, -ae, f - овче
 ovis, -is, f - овца 
 ōvum dūrum - варено яйце
@@ -1611,10 +1722,12 @@ Palēs, Palis, f - Палес, богиня на пастирите и стад�
 palimpsestus, -ī, m - преизползван папирус
 pallidus - блед, жълтеникав
 pallium, -ī, n - наметало
+palma, -ae, f - палма 
   palmula, -ae, f; caryōta, -ae, f; dactylus, -ī, m - фурма
 palpitāre - удрям
 pānis, -is, m - хляб
 pāpa, -ae, m - тати 
+papae - мале
 pāpiliō, -ōnis, m - пеперуда, молец
 papȳrus, -ī, f - растението папирус, папирус (хартията, произведена от растението папирус)
 parāre - готвя, подготвям, осигурявам
@@ -1670,13 +1783,13 @@ pendēre, pependisse - вися, провисвам отпуснат съм
 penitus - далеч
 penna, -ae, f - перо, перо за писане
 pēnsum, -ī, n - задача
+pentameter, pentametrī, m - пентаметър
   pepō, -ōnis, m; mēlopepō, -ōnis, m; citrullus lānātus - диня
   percurrere, percucurisse/percurrisse, percursum - пробягвам, обхождам
 percutere -iō, percussisse, percussum - блисгам, тропам
   perdere, perdidisse, perditum - унищожавам, разршавам
   perdūcere - развеждам, донасям, изтривам, разстилям
 peregrīnus, -ī, m - чужденец
-  peremere - убивам, унищожавам
 perennis -is - вечен
   perfectum, perf. - свършено време
   perferre - издържа, изпълнявам
@@ -1684,6 +1797,7 @@ perennis -is - вечен
   pergere, perrexisse, perrectum  - продължавам
 perīculōsus - опасен, бедствен
 perīculum, -ī, n - беда, опасност
+  perimere - убивам, унищожавам
   perīre - да умре, да се унищожи, да се разпадне
   peristylum, -ī, n - взаимствано от гръцката архитектура отворено помещение, заградено с колони 
 perītē - изкусно
@@ -1725,6 +1839,7 @@ pilleus, -ī, m - шапка, носена по време на Сатурнал
   pīlum, -ī, n - метателно копие с мек връх,който се огъвъл при удър, използвано от римските войници
 pilus, -ī, m - козина
 pingere, pīnxisse, pictum - рисувам
+pīpiāre - пиукам
 pīrātа, -ae, f - морски грабител, разбойник нападащ кораби, пират
   pirum, -ī, n - круша
 piscātor, -ōris, m - рибар
@@ -1734,11 +1849,19 @@ piscis, -is, m - риба
 pius - съвестен, праведен
 placenta, -ae, f - кекс, торта
 placēre, placuisse, placitum - задоволявам
+plānāre - равнявам, заглаждам
 plangere, planxisse, planctum - бия се в гърдите от печал
 plānus - ясен
+plaudere, plausisse, plausum (+dat) - пляскам, ръкопляскам
+Plautus - Плавт
 plēnus (+gen) - пълен (с)
+plēraeque, plērāsque, plērārumque, plerīsque, plerīsque - почти/близо всички
+plēraque, plēraque, plerōrumque, plerīsque, plerīsque - почти/близо всички
 -plēre
+plērīque, plērōsque, plerōrumque, plerīsque, plerīsque - почти/близо всички
 plērōma, pleromatis, n - пълнота, запълненост
+plērumque - 
+plicāre - гъна, вия
 plōrāre - рева
 pluere, pluisse - вали
   plūrālis, plūr./pl. - множествено число
@@ -1747,6 +1870,7 @@ Plūtō, -ōnis, m - Плутон, бог на подземното царств
     pōculum, -ī, n - чаша
 poena, -ae, f - наказание
 poēta, -ae, m/f - поет
+poēticus - поетичен
     pollex, -icis, m - палец
 pollicērī, pollicitum esse (d) - вричам се, обещавам
 Polycratēs, -is, m -  Поликрат, тиран на Самос
@@ -1771,7 +1895,7 @@ posteā - след това, после, след време
 posterior, -is - заден, по-заден, следващ
 posterus - следващ
 posthāc - отсега, натам (за време), оттък натам (за време)
-postquam - след като, след което 
+postquam - след като, след което
 postrēmus - последен
 postrīdiē - на следващия ден
 postulāre - настоявам
@@ -1782,6 +1906,7 @@ pōtiō, -ōnis, f - напитка
 potius - по-точно, по-скоро, по-удачно, за предпочитане, даже, може би
   praebēre - давам, предлагам, доставям, причинявам
   praecipere -iō, praecepisse, praeceptum - ръководя, предвождам
+praecipuē - особено
 praecō, -ōnis, m - вестител, глашатай
 praedārī (d) - грабя, плячкосвам
   praedicāre - обявявам
@@ -1824,10 +1949,12 @@ prīmō - първо
 prīmum -първо
 prīmus - първи
 prīnceps, prīncipis, m - главатар, първенец
+prīncipium, ‑ī, n - начало
 prior, -is - преден, предишен
 prīstinus - вехт
 priusquam - преди да
 prius - първо, в първо време
+prīvātus - частен
 probus - послушен
   prōcēdere - навлизам, продължавам напред
 procul - далеч, далеко
@@ -1840,10 +1967,11 @@ prōdigium, -ī, n - предзнаменование, чудо
 profectō - със сигурност
   prōferre - извадя, извеждам
 profīcīscī, profectum esse (d) - заминавам, тръгвам си
+  prōgredī -ior, prōgressus esse (d) - вървя напред
   prohibēre, prohibuisse, prohibitum - задържам, възпрепятствам, предотвратявам
   prōicere -iō, prōiēcisse, prōiectum - хвърлям напред, падам пред
 prōlēs, -is, f - чадо, рожба
-prōmere, prōmpsisse, prōmptum - обещавам
+  prōmere, prōmpsisse, prōmptum - обещавам
 prōmissum, -ī, n - обещание
 prōnōmen, prōn. - местоимение
 properāre - бързам, забързвам се
@@ -1854,8 +1982,11 @@ propinquāre - доближавам
 propinquus - близък, близолежащ
 propior, proximus - по-близък
 propius - по-близо, по-близко
+  proprium - собствено име
 proprius - конкретен, собствено (съществително)
+proptereā - затова, заради това
 propter - заради, поради
+  prōsilīre - изскачам
   prōspicere - наблюдавам
 prōtinus - веднага, немедлено
   prōtrahere - откривам, удължавам
@@ -1865,6 +1996,11 @@ prō - вместо
 pruīnosus - заскрежен, заледен
   prūnum, -ī, n - слива
 psittacus, -ī, m - папагал
+pūblicus - обществен
+Pūblius Ovidius Nāsō - Овидий
+Pūblius Terentius Āfer - Теренций
+Pūblius Terentius Varrō Atacinus - Варон Атацин
+Pūblius Vergilius Marō - Вергилий
 pudēre, puduisse, puditum (imp) (+acc) (+gen, inf) - срам (го) е (от), срамува
 pudor, pudōris, m - срам, срамота, позор
 puella, -ae, f - момиче, хлапачка
@@ -1885,7 +2021,7 @@ pulus - тъмноцветен, черен
   pulvis, pulveris, f - прах, пясък
 pūnīre - наказвам, отмастявам
 pupa, -ae, f - кукла
-puppis, -is, f - кърма на корабad - към (приближаване)
+puppis, -is, f - кърма на кораб
 purāre - пречиствам се (религиозно-обредно)
 purpureus - пурпурен
 pūrus - чист, изчистен, невинен, целомъдрен
@@ -1898,15 +2034,20 @@ quadrāginta, indecl - четирисет
 quadringentēsimus - четиристотни
 quadringentī - четиристотин
 quaedam, quamdam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam, quibusdam, quibusdam-  еди-коя, една определена
+quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam-  че коя
 quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus-  каква, коя, която
 quaerere, quaesīvisse, quaesītum - търся, издирвам
 quālis - какъв
+quālitās, -ātis, f - качество
+quamdiū - колкото дълго
 quamobrem - защо, заради какво, каква е причината
 quam - колкото
 quandō - кога
+quantitās, -ātis, f - количество
 quantum - колкого много
 quantum - колко (интензивно), какво количество
 quantus - колкото голям
+quāpropter - защо, заради какво
 quaque, quamque, cuisque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque - всяка
 quāre - защо
     quārtus, -ī, m - безименен пръст
@@ -1914,6 +2055,7 @@ quārtus - четвърти
 quasi - като, като че, подобно на
 quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя-годе, коя да е
 quatere iō, , quassum - клатя, треса, друсам
+quaternī - чретири по четири, по четири, по четворки
 quatter - четири пъти
 quattuordecim, indecl - четиринайсет
 quattuor, indecl - четири
@@ -1933,6 +2075,7 @@ quiēscere, quiēvisse - почивам
 quīndecim, indecl - петнайсет
 quīngentēsimus - петстотни
 quīngentī - петстотин
+quīnī - пет по пет, по пет, по петици 
 quīnquāgēsimus - петдесети
 quīnquāginta, indecl - петдесет
 quīnque, indecl - пет
@@ -1942,13 +2085,14 @@ quīntus - пети
 quin - защо не
 quīn - защо не
 quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - какъв, кой, който
-quisnam
+quisnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam - че кой
 quispiam, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой-годе, кой да е
 quisquam, quemquam, cuisquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
 quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque - всеки 
 quisquis, -, -, -, quōquō - какъв да е
 quis - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
 quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam, quibusdam, quibusdam - еди-кое, едно определено
+quodnam, quodnam, cuiusnam, cuinam, quōnam, quaenam, quaenam, quōrumnam, quibusnam, quibusnam - че кое
 quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое-годе, кое да е
 quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко 
 quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - какво, кое, което
@@ -1969,7 +2113,9 @@ rapere, rapuisse, raptum - грабя, отмъквам
 rapidus - бърз, пъргав, чевръст
 rārō, rārius, rārissimē - рядко
 rārus - рядък, рядкосрещан
+  ratiōnālis -
 ratiōnālis - разумен
+ratiō, ratiōnis, f - обяснение
 ratis, -is, f - рафт, лодка
   recēdere - отстъпвам, оттеглям се, връщам се
 recēns -ntis - пресен, скорошен, нов, млад
@@ -1998,20 +2144,23 @@ reminīscī, - (!) (d) (+gen) - да внимавам за нещо, да има
   remittere - връщам, мятам обратно
   removēre - махам, отстранявам, оттеглям се
 rēmus, -ī, m - гребло
+rēmus, -ī, m - греблоad - към (приближаване)
 repente - изведнъж, тутакси
 reperīre,repperisse, repertum - изобретя, намеря, получа
   reprehendere - задържам, виня, обвинявам
   repugnāre - противоборя се
   requiēscere - отпочина
-requīrere, requisiisse/requisivisse, requisitum - търся, питам
+  requīrere, requīsiisse/requīsivisse, requīsitum - търся, питам
   resistere, restitisse - не помръдвам, спирам да се движа
   respicere - поглеждам отново
 respondēre, respondisse, responsum - откиквам, отговарям
 rēs  rеī, f - нещо, вещ, дело
     resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам 
+rēte, rētis, n - мрежа
   retinēre, retinuisse, retentum - задържам 
   retrahere - повличам обратно, оттеглям
 reus, -ī, m - грешник, защита в съда
+    revēndere - препродавам
   revenīre - връщам се
 revertī, reversum esse/revertisse (d) - връщам се
   revocāre - приканвам повторно, викам някого да се върне
@@ -2021,11 +2170,13 @@ Rhēnus, -ī, m - Рейн
 Rhodus, -ī, m - Родос
   rictus, -ūs, m - челюст
 rīdēre, risisse, risum - смея се
+rīdiculus - смешен, смехотворен
 rigāre - поливам, напоявам
 rigere, rexisse, rectum - изправен съм, стоя, да съм твърд, да съм изтръпнал
 rigidus - здрав
 rīma. -ae, f - дупка, процеп
 rīpa, -ae, f - речен бряг
+rīsus, -ūs, m - смях
 ritus, -ūs, m - ритуал, обред
 rīvus, -ī, m - река
 rōbur, ruboris, n - здравина, твърдост, крепост
@@ -2040,6 +2191,7 @@ rostrum, -ī, n - човка
 R (Pūblius) - Публий
 rubēre - червя се, червенея
 ruber - червен
+rubēscere, rubuisse - почервенявам
 rudis, -is - неук
 rūga, -ae, f - бръчка
 rumor, -is, m - мълва, слух
@@ -2053,6 +2205,7 @@ rutilus - оранжев
 saccŭlus, -ī, n - кесия, торбичка за изцеждане/филтриране (както сиренето) (!!!)
 saccus, -ī, m - торба
 sacerdōs, -ōtis, m/f - свещеник
+sacerdōs, sacerdōtis, m/f - свещеник, жрец, жрица
 saepe, saepius, saepissimē - често
 saevus - свиреп, яростен
   sagitta, -ae, f - стрела
@@ -2069,8 +2222,10 @@ salvus - спасен
 Samos, -ī, f - Самос
 sānāre - лекувам
 sānē - опредеделено, със сигурност
+sanguinem mittere - пускане на кръв, древна практика (предложена поне от времето на Херодот) за "лечение" на различни състояния и заболявания
   sanguis, sanguinis, m - кръв
 sānus - здрав, читав, психически добре
+sapere, sapīvisse - мъдрувам
 sapiēns -ntis - умен, мъдър, разумен
 sarcinae, -ārum, f pl - товар, снаряжение, екипировка
 Sardinia, -ae, f - Сардиния
@@ -2080,8 +2235,10 @@ satis - достатъчно
 Saturnus, -ī, m - Сатурн, бог на времето, баща на Юпитер, Нептун, Плутон, Юнона, Церера и Веста
 saxum, -ī, n - скала, канара
 scaena, -ae, f - сцена
+scaenicus - театрален, сценичен
 scaevus - ляв
 scāla, -ae, f - стълба
+scalpellum, ‑ī, n - скалпел
   scamnum, -ī, n - малък стол, стъпало
 scarabæus, -ī, m - скарабей, бръмбар
 scelestus - извратен, престъпен
@@ -2097,13 +2254,15 @@ scrībere, scripsisse, scriptum - пиша
 scrīnum, -ī, n - малък преносим сандък за помещаване на свитъци
   scūtum, -ī, n - щит
 Scyllа, -ae, f - Сцила
+s. d. (salutem dīcit) - поздравявам
 secāre, secuisse, sectum - сека, режа
 sēcessiō, -ōnis, f - разкол, отцепване, сепаратизъм
 sēcessus, -ūs, m - самотно, скришно място
 sēcrētum, -ī, n - тайна
   sēcūcere - подвеждам, съблазнявам
 secuna mēnsa - десерт
-secundum - след, зад
+secundum - 
+secundum - по, след, зад, до, по дължината на
 secundus - втори
 secundus - попътен, заден
 sēdecim, indecl - шеснайсет
@@ -2115,6 +2274,7 @@ sēmis, -is, m - половина, шестунциева медна монет�
 sēmis, -is - половин
 semper - винаги
 senex, senis, m/f - старец, старица
+sēnī - шест по шест, по шест, по шестици
 sēnsus commūnis - common sense
 sententia, -ae, f - изречение, мисъл, идея
 sententia mea - моето мнение е, аз смятам
@@ -2134,6 +2294,7 @@ sequī, secutum esse (д) - следвам
 serere, seruisse, sertum - правя венец, преплитам, свързвам
 serere, sēvisse, satum - сея
 sērious - късен, забавен
+sērius - сериозен, строг
 sermō, -ōnis, n - реч, говор, слова
 sērō - със закъснение, по-късно
 serpentēns, -entis - змия, влечуго
@@ -2154,6 +2315,7 @@ sexāginta, indecl - шейсет
 sexiēs - шест пъти
 sex, indecl - шест
 Sex.(Sextus) - Секст
+Sextus Iūlius Frontīnus
 sextus - шести
 Sg. Nom., Sg. Acc., Sg. Gen., Sg. Dat., Sg. Abl., Pl. Nom., Pl. Acc., Pl. Gen., Pl. Dat., Pl. Abl.
 siccus - сух
@@ -2163,6 +2325,7 @@ sīc - така, тъй
 sīderāre - понасям болест
 sīdere, sedisse/sidisse, sessum - сядам, потъвам
 signāre - означавам, отбелязвам, поставям знак
+significātiō, -ōnis, f - значение
   signum, -ī, n - статуя, знак
 silentium, -ī, n - тишина, безмълвие
 silēre, siluisse - мълча, притихвам
@@ -2177,7 +2340,9 @@ sine - без
 singulī - един по един, по едно, по единици
 sinister - ляв
 sinistra, -ae, f - лява ръка
+sinus, -ūs, m - сгъвка, процеп, залив
 sīn - обаче, ако обаче, ако пък, а пък ако
+sīquidem - понеже, с оглед на 
 sistere, stitisse/stetisse, statum - спирам, проверявам
 sitīre - жаден съм
 sitis, -is, f - жажда
@@ -2208,7 +2373,9 @@ sōror, -is, f - сестра
 sotdidus - мръсен, кален
 spargere, sparsisse, sparsum - ръся, сипя
 Sparta, -ae, f - Спарта
+speciēs, -ēī, f - род, сорт, външен вид
 spectāre - гледам, наблюдавам
+spectātor, -ōris, m - зрител, наблюдател
 speculum, -ī, n - огледало
 specus, -ūs, m - пещера, скривалище
 spēlunca, -ae, f - пещера
@@ -2221,6 +2388,7 @@ spēs, speī, f - надежда
 spicere -iō, spexisse, spectum - виждам
 spīrāre - дишам, духам
 splendor, -ōris, m - блясък
+spondēus, ‑ī, m - спондей
 spumāre - пеня
 stagnum, -ī, n - мочурище
 stāre, stetisse, statum - стоя, не мърдам, почивам
@@ -2235,7 +2403,9 @@ stipendium, -ī, n - заплата, надница
   stīva, -ae, f - дръжка
 strenuē - храбро
   strepitus, - кънтеж, тътен, бучене, ечене
-studiōsus - любопѝтен, заинтересован, заинтригуван
+studēre (+dat) - целя се (да постигна), заинтересован съм (от), уча се (на), свиквам (на), отдавам се (на)
+studiōsus - любопитен, заинтересован, заинтригуван
+studium, -ī, n - учение
 stultus - глупав
 stupēre, stupuisse - вцепенявам, зашеметявам, изумявам
 stuprum, -ī, n - разврат, прелюбодейство
@@ -2256,7 +2426,7 @@ sūcus, -ī, m - сок, смола
     sūdātōrium, -ī, n - сауна
 sūdor, -is, m - пот
   sufficere -iō, suffēcisse, suffectum - да е достатъчно
-sūmere, sūmpsisse, sūmptum - вдигам, взимам
+  sūmere, sūmpsisse, sūmptum - вдигам, взимам
 summus -горен
 supellex, -ctilis, f - мебел
 superbus - надменен, арогантен
@@ -2281,6 +2451,7 @@ sūrsum - нагоре
 suum cuique - всекиму своето
 suus - свой
     syllaba, -ae, f - сричка
+synōnymum - синоним
 Syria, -ae, f - Сирия
 tabellārius, -ī, m - пощальон
   taberna, -ae, f - магазин
@@ -2294,6 +2465,7 @@ taedēre, taesum/pertaesum (imp) (+acc) (+gen, inf) - (на някой му) д�
 talentum, -ī, n - талант, гръцка мярка за тегло (в златен еквивалент се изоплзва и като номинална единица - 24 хиляди сестерции)
 tālis - такъв
     tālus, -ī, m - глезен, ашик
+tamdiū - толкова дълго
 tamen - все пак
 tamen - въпреки това, но все пак
 tamquam - както, като, сякаш
@@ -2303,6 +2475,7 @@ tandem - накрая, най-накрая
 tangere, tetigisse, tāctum - докосвам, пипам, допирам
 tantum - само
 tantum - толкова много
+tantundem - точно колкотоsed = но
 tantus - толкова голям
 tardus - бавен, закъсняващ
 taurus, -ī, m - бик
@@ -2321,6 +2494,8 @@ tempestās, -atis, f - буря
 tempus, -oris, n - време
 tempus, temporis, n - слепоочие
 tendere, tendisse, tentum - опъвам, дърпам, насочвам оръжие, напрягам се
+tenebrae, -ārum, f pl - тъма, тъмнина
+tenebricōsus - тъмен
 tenēre, tenuisse, tentum - държа, поддържам, продължавам
 tentāre - опитвам, подтиквам
 tenuis, -is - тънък
@@ -2335,8 +2510,10 @@ terrēre, terтuisse, terтitum - плаша
 terribilis, -is - страховит
 tertius - трети
 ter - триж, трижди, три пъти
+testis, ‑is,  m - свидетел
 texere, texuisse, textum - плета
 TGscum - 
+  theātrum, ‑ī, n - театър
 thēca, -ae, f - чанта
   thermae, -ārum, f - терми, големи градски бани, които по-скоро наподобявали 
     thermopōlium, -ī, n - ресторанче
@@ -2345,6 +2522,7 @@ Thēseu, -ī, m - Тезей
 Tiberis, -ī, m - Тибър
   tībia, -ae, f - пищял, свирка
 tībīcen, -inis, m - флейтист
+Tibullus, -ī, m - Тибул
 timēre, timuisse - страхувам се
 timidus - страхлив
 timor, -is, m - страх
@@ -2377,8 +2555,10 @@ tria, trium, n pl - три
 trīcēsimus - трийсти
   triclīnium, -ī, n - триклиниум, разположение на три кревата с маса, практически изпълнява функция на трапезария
 trīginta, indecl - трийсет
+trīnī - три по три, по три, по тройки (използва се за чисто множествени съществителни)
 trīstis, -is - тъжен, натъжен
 tristitia, -ae, f - тъга
+trochaeus, ‑ī, m - трохей
 Trōia, -ae, f - Троя
 trux, trucis - див, свиреп
 T.(Titus) - Тит
@@ -2394,6 +2574,7 @@ tunica, -ae, f - туника
 turba, -ae, f - тълпа
 turbāre - обърквам, обезпокоявам, предизвиквам, раздразням, стресвам, разбърквам, развълнувам
 turbidus - бурен, бушуващ
+turgidus/turgidulus - оточен, набъбнал 
 turpis - противен
   turris, -is, f - кула
 Tūsculum, -ī, n - Тускулум
@@ -2406,8 +2587,9 @@ ubīque - навсякъде
 ubi - когато
 ubi - къде
 ūllus,-īus - някой, но винаги се използва с отрицание за получаване на никой/нито един
-ulterior, ultimus - по-далечен
+ulterior/ulterius, ultimus - по-далечен
 ultrā - извън
+ultrā - от другата страна
 ululāre - вия
 umbra, -ae, f - сянка
 umerus, -ī, m - рамо
@@ -2426,6 +2608,7 @@ undique - отвсякъде
 unguentum, -ī, n - масло, мазило
 unguis, -is, m - нокът
 ūniversus - цял, пълнен
+ūnī - един по един, по едно, по единици (използва се за чисто множествени съществителни)
 ūnum, -īus, n - едно
 ūnus, -īus, m - един
 urbanus - градски, възпитан, с вкус
@@ -2458,6 +2641,7 @@ vagāre - странствам
 vāgīre - цивря
 valdē, magis, māximē - силно, здраво
 valēre - здравея, здрав съм
+valētūdō, -inis, f - здраве
 valē, valēte - чао (букв. здравей, здравейте)
 validus - здрав, силен
 vallis, -is, f - долина
@@ -2477,6 +2661,8 @@ venārī (d) - ловувам, диря, преследвам
 vēnātiō, -ōnis, f - лов
 vēna, vēnae, f - кръвоносен съд
   vēndere, vēndidisse, vēnditum - продавам
+venditiō, -ōnis, f - продажба
+venditor, -ōris, m - продавач
 venēnum, -ī, n - отрова
 venetus, -ī, m - тъмно синьо
 venia, -ae, f - прошка, опрощение
@@ -2484,7 +2670,7 @@ venīre, vēnisse, ventum - идвам
   venter, ventris, m - стомах
   ventus, -ī, m - вятър
 ventus, -ūs, m - пристигане
-venustus - обичан
+venustus - обичан, очарователен
 Venus, Veneris, f - Венера, богиня на красотата, любовта, страстта, секса
 vērāre - казвам истината
 verberāre - бия
@@ -2497,6 +2683,7 @@ vernus - пролетен
 verō - но
 ... vērō  - обаче, всъщност, но в случая
 versāri (d) - въртя се, неспирно се движа
+versiculus, ‑ī, m	- стихче
 versus, -ūs, m - ред, стих
 vertebrae caudalēs (coccygeae) - опашни прешлени
 vertebrae cervicalēs - шийни прешлени
@@ -2547,6 +2734,7 @@ virga, -ae, f - пръчка
 virgō, virginis, f - девица
 viridis -is - зелен
 vir, -ī, m - мъж
+virtūs, virtrūtis, f - мъжество, храброст, благодетел
 viscera, viscerum, n pl - вътрешни органи, вътрешности 
 vīsere - посещавам
   vīsus, -ūs, m - зрение
@@ -2569,12 +2757,13 @@ volāre - летя
 voluntās, -ātis, f - воля
 volvere, volvisse, volutum - въртя се, увивам
 vorāgō, -inis, f - бездна, водовъртеж
-vorāre - поглъщам, нагълтвам, папам
+vorāre - поглъщам, папам
 vōs, vōs, vestrī, vōbīs, vōbīs - вие
 vovēre, vovisse, votum - заклевам се
 vōx, vōcis, f - глас
 Vulcānus, -ī, m - Вулкан, бог на унищожителния огън и ковачите
 vulnus, -eris, n - рана
+vulterāre - ранявам
   vultus, -ūs, m - лице, израз
 xmōns montis, m - планина
 zephyrus, -ī, m - Зефир, западният вятър

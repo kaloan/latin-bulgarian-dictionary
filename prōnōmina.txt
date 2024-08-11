@@ -35,6 +35,10 @@ quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quib
 quaque, quamque, cuisque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque - всяка
 quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко 
 
+plērīque, plērōsque, plerōrumque, plerīsque, plerīsque - почти/близо всички
+plēraeque, plērāsque, plērārumque, plerīsque, plerīsque - почти/близо всички
+plēraque, plēraque, plerōrumque, plerīsque, plerīsque - почти/близо всички
+
 quisquis, -, -, -, quōquō - какъв да е
 quidquid/quicquid, quidquid/quicquid, -, -, quōquō - какво да е
 
@@ -77,15 +81,20 @@ tūte, tēte, tuīmet, tibimet, tēte - ти (използвано поняко�
 nōs, nōs, nostrī, nōbīs, nōbīs - ние 
 vōs, vōs, vestrī, vōbīs, vōbīs - вие
 
--, sē/sēsē, sui, sibi, sē/sēsē, -, sē/sēsē, sui, sibi, sē/sēsē - се, свой, своя, свое, себе си, си, свои, сам, сама, само
+-, sē/sēsē, sui, sibi, sē/sēsē, -, sē/sēsē, sui, sibi, sē/sēsē - се, свой, своя, свое, себе си, си, свои, сам, сама, само, възвратни местоимения
 
 
 quis - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
 quid - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
+
+quisnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam - че кой
+quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam-  че коя
+quodnam, quodnam, cuiusnam, cuinam, quōnam, quaenam, quaenam, quōrumnam, quibusnam, quibusnam - че кое
+
 uter, utrum, utrīus, utrī, utrō, utrī, utrōs, utrōrum, utrīs, utrīs - кой от двата
 utra, utram, utrīus, utrī, utrā, utrae, utrās, utrārum, utrīs, utrīs - коя от двете
 utrum, utrum, utrīus, utrī, utrō, utra, utra, utrōrum, utrīs, utrīs - кое от двете
 
 
-nihil/nil, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
+nihil/nīl, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
 omnia, -ium - всичко
