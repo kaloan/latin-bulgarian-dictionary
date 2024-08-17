@@ -31,6 +31,10 @@ alter, alterum, alterīus, alterī, aletrō, alterī, altrōs, alerōrum, alter�
 altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едината/другата от две
 alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - единото/другото от две
 
+alius, alium, alīus, aliī, aliō, aliī, aliōs, aliōrum, aliīs, aliīs - друг 
+alia, aliam, alīus, aliī, aliā, aliae, aliās, aliārum, aliīs, aliīs - друга
+aliud, aliud, alīus, aliī, aliō, alia, alia, aliōrum, aliīs, aliīs - друго
+
 quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque - всеки 
 quaque, quamque, cuisque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque - всяка
 quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко 

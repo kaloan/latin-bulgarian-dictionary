@@ -27,8 +27,45 @@ nāvis longa - боен кораб
 etiam atque etiam - пак и пак, отново и отново
 sanguinem mittere - пускане на кръв, древна практика (предложена поне от времето на Херодот) за "лечение" на различни състояния и заболявания
 mentiōnem facere - споменавам
+honōris causā - в чест на
+in diēs - с дните, ден по ден, всеки ден
+in malam rem - към смъртта
+magnīs itineribus - бързо
+nōn sōlum ... sed etiam - не само че ..., но и
+etiam atque etiam - пак и пак
+iterum atque iterum - отново и отново
+in primīs - в началото
+rēs publica - обществено дело
+satin' (satisne) - достатъчно ли
+paulō post - малко после
+prae omnibus - повече от всички
+ab initiō - от началото
+cognōmine - именован, кръстен
+cursus honōrum - последователност от магистратски длъжности водеща до сенаторска позиция
+sub X rēge - по време на управлението на X, под власста на X
+animum movēre - убеждавам, разчуствам
+dextram tenere - здрависвам се (!!!)
+praedam facere - плячкосвам
+bellum gerere - водя война
+famem tolerāre - гладувам
+clāmōrem tollere - вдигам глас, викам
+nōmen dare - давам име, именовам
+prasidia pōnere - поставам укрепления
+fugam temptāre - опитвам да избягам
+ad diem - навреме (букв. на деня)
+ab urbe conditā - от построения град, т.е. от създаването на Рим
+adversa fortūna - лоша съдба
+inmātūra mors - преждевременна смърт
+causam agere - защитавам
+fāma illūstris - добра слава
 
-secuna mēnsa - десерт
+
+hōc tempore - в/по това време
+eō tempore - тогава
+illō tempore - тогава
+brevī tempore - малко след това
+
+secunda mēnsa - десерт
 
 aequus animus - равнодушен
 

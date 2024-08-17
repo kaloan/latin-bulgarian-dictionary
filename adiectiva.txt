@@ -19,7 +19,7 @@ tūtus - безопасен, сигурен, предпазен, защитен,
 īnfēstus - опасен
 attentus - внимателен, осторожен, внимаващ
 vēlōx, -cis - бърз, пъргав
-fēlīx, -cis - късметлив
+fēlīx, -cis - късметлив, успешен, благоприятен
 īnīnfēlīx, -cis - карък
 ignārus - неук
 nōtus - знаен, известен
@@ -48,7 +48,7 @@ vīlis -is - евтин, малоценен
 idōneus - удобен, подходящ 
 posterus - следващ
 dīrus - ужасен
-incolumis - невредим, обезоръжен (!!!)
+incolumis - невредим, непокътнат
 ācer ācris - деен, действен, деятелен
 perpetuus - вечен
 venustus - обичан, очарователен
@@ -58,14 +58,16 @@ rigidus - здрав
 lentus - бавен, мързелив
 superbus - надменен, арогантен
 dignus - достоен, заслужил
+indignus - недостоен, нечестен
 perītus - вещ, опитен
+exercitātus - упражнен, подготвен, опитен
 vīlis - пошъл
-āmens -ntis - неразумен, откачен, изперкал. не с всичкия си
+āmēns amentis - неразумен, откачен, изперкал. не с всичкия си
 dūrus - твърд (и в преносен смисъл)
 hirsūtos - с много козина, дебелокосмест
 solitus - свикнал
 capāx -cis - голям, обемист
-ingēns -ntis - огромен, неестествен
+ingēns -entis - огромен, неестествен
 atrōx -cis - див, жесток, страшен, свиреп
 pius - съвестен, праведен
 mendāx -cis - лъжлив, фалшив
@@ -95,7 +97,7 @@ pūtidus - развален
 sollicitus - разтревожен
 tortuōsus - трудно понятен
 lepidus - красив
-particeps -pis - участващ
+particeps, -ipis - участващ
 macer - слаб, хилав, недохранен
 assus - печен
 ineptus - глупав, недодялан
@@ -104,8 +106,7 @@ sēpār -is - отделен
 piger - мързелив
 industrius - работлив
 miser - нещастен, болезнено влюбен
-dīves dīvitis, dīvitior, dīvitissimus - богат
-antiquus - дрвен
+antīquus - античен, дрвен
 novus - нов
 cēterus - друг, останал
 laetus - радостен
@@ -170,11 +171,10 @@ sēmis, -is - половин
 frequēns, frequentis - чест, честосрещан
 rārus - рядък, рядкосрещан
 varius - различен
-tālis - такъв
-turpis - противен
+tālis, -is - такъв
+turpis, -is - противен, безсрамен, отвратителен, грозен
 mollis - мек, гъвкав, ковък
 dūrus - твърд, здрав
-pauper - беден
 bcātus - блажен, щастлив
 necessārius - нужен, необходим
 aliēnus - чужд
@@ -209,15 +209,16 @@ arbitrātus - решен, преценен
 gravidus - утежнен, подут
 gravidа - бременна
 mātūrus - зрял, съзрял
+immātūrus/inmātūrus - незрял, недозрял, преждевременен
 amoenus - великолепно, прекрасно, любителен
 rūsticus - провинциален, селяндурски, пошъл
-urbanus - градски, възпитан, с вкус
+urbānus - градски, възпитан, с вкус
 suburbānus - крайградски
 rudis, -is - неук
 patiēns, patientis - търпелив
 impatiēns, impatientis - нетърпелив
 neglegēns - небрежен
-līber, -rī - свободен
+līber, līberī - свободен
 studiōsus - любопитен, заинтересован, заинтригуван
 propinquus - близък, близолежащ
 ūniversus - цял, пълнен
@@ -256,7 +257,7 @@ adversus - насрещен
 inermis - невъоръжен, обезоръжен
 mūtuus - зает, взет назаем
 mercātōrius - търговски
-arduus - стръмен
+arduus - стръмен, труден
 horrendus - страховит
 ōtiōsus - почиващ, лежерен
 prīvātus - частен
@@ -265,7 +266,7 @@ rīdiculus - смешен, смехотворен
 mīlitāris - военен
 circēnsis, -is - цирков
 bellus - красив, хубав
-dubius - съмнителен (!!!)
+dubius - съмнителен
 geminus - близнашки
 gladiātōrius - гладиаторски
 iocōsus - забавен
@@ -278,6 +279,63 @@ tenebricōsus - тъмен
 turgidus/turgidulus - оточен, набъбнал 
 emāx - обичащ пазаруването
 inconditus - груб, недодялан
+grammaticus - граматически
+vulnerātus - ранен
+vīcīnus - близък, съседен
+trigeminus - тризнак
+lēgitimus - легитимен, законен, съществен
+hostiīlis, -is - вражески
+sepultus - погребан
+īnsepultus - непогребан
+intactus - недокоснат, невредим
+invidiōsus - завистлив
+luxuriōsus - луксозен, скъп, пищен, разточителен, разкошен
+nātus - роден
+nocturnus - нощен
+opportūnus - сгоден, подходящ
+ōrnātus - украсен, окичен
+firmus - здрав, кален, издръжлив, убедителен
+fūnestus - пропаднал, опасен, смъртоносен
+futūrus - бъдещ
+expedītus - подготвен, леко въоръжен, военизиран
+extrēmus - краен
+equestris - конен
+religiōsus - религиозен
+sacer, sacrī - свещен, сакрален
+scelerātus - долен, престъпен
+patricius - патрициански, благороден
+plēbēius - плебейски, простолюден
+prosperus - успял, успешен, късметлийски
+prūdens, prūdentis - разумен, осъзнат
+beātus - блажен, приятен
+bellicōsus - войнствен
+bellicus - военен
+adversārius - противников
+aeternus - вечен, за винаги
+permanēns - постоянен
+agrārius - аграрен, поземлен, земеделски
+annuus - годишен, едногодишен
+captīvus - уловен, заложнически
+castus - целомъдрен
+certus - сигурен
+incertus - несигурен
+clausus - затворен
+patricius - патрициански
+classicus - флотийски, патрициански
+prōlētārius - пролетариански
+ūnicus - един-единствен
+peregrīnus - чужд, странен, чуждестранен
+religiōsus - религиозен
+illūstris, -is - светещ, блестящ, известен
+hostīlis, -is - враж, противнически
+diversus - разнороден
+strenuus - изтощителен, уморителен, храбър 
+occultus - скрит, таен 
+suprēmus - най-далечен
+
+amāns, amantis - любящ
+perturbātus - шашардисан
+perversus - извратен, зъл
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -294,7 +352,7 @@ pulus - тъмноцветен, черен
 prasinus - светло зелен
 viridis -is - зелен
 purpureus - пурпурен
-ruber - червен
+ruber, rubrī - червен
 caerŭleus - светло син
 rutilus - оранжев
 crocinus - шафранено жълт
@@ -431,7 +489,7 @@ posterior, -is - заден, по-заден, следващ
 
 facilis, -is - лесен
 difficilis, -is - труден
-gracilis, -is - слаб, изпит
+gracilis, -is - грациозен, слаб, изпит
 humilis, -is - нисък, низък, неизвестен
 similis, -is - подобен, сходен
 dissimilis, -is - различен, инакъв
@@ -449,3 +507,30 @@ nēquam (indecl),nēquior, nēquissimus - подъл, отвратителен, 
 celer, celeris, celere - бърз
 
 vetus veteris - вехт, стар, древен 
+dīves dīvitis, dīvitior, dīvitissimus - богат
+pauper, -is - беден
+
+
+Aegyptius - египетски
+Ãfricānus - африкански
+Albānus - албански (в смисъл свързан с древния град Алба Лонга или Албанските планини в Италия)
+Аsiānus - азиатски
+Britannus - британски
+Cannēnsis - кански
+Carthāginiēnsis - картагенски
+Delphicus - делфийски
+Eurōpaeus - европейски 
+Etrūscus - етруски/етрускски (!!!)
+Gabīnus - габийски
+Gallus- галски
+Germānus - германски
+Graecus - гръцки
+Hispānus - испански
+Italicus - италийски, апенински
+Italus - италиански
+Lūsītānus - лузитански, т.е. португалски
+Thraex - тракийски
+Tūsculānus - тускулански
+Rōmānus - римски
+Sabīnus - сабински
+Pūnicus - пунически, картагенски
