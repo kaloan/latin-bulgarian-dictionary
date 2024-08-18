@@ -1,0 +1,46 @@
+esse - съм
+  abesse - няма ме
+  adesse - присъствам
+  adesse (+dat) - помагам (някому)
+  deesse - липсвам, отсъствам
+  deesse (+dat) - не помагам (някому)
+  inesse - съм в, поместен съм в
+  interesse - съм между, намирам се между
+  praeesse - управлявам, ръководя
+  posse - мога
+  prōdesse (+dat) - в полза съм (на), спомагам (за), печеливш съм (за)
+  subesse - съм под, намирам се под
+  superesse - оставам, оцелявам, в повече съм
+ēsse/edere, edisse, esum - ям
+
+velle - искам
+  nōlle - не искам
+  mālle - предпочитам
+  
+fierī - случва се, сбъдва се, създава се, подготвя се
+fore - ще стане
+
+ferre, tulisse, lātum - нося
+  afferre, attulisse, allātum - донасям
+  auferre, abstulisse, ablātum - отмъквам, отнасям
+  cōnferre - стягам, събирам, обсъждам 
+  dēferre - занасям, продавам, препредавам
+  differre - разнасям, забавям
+  ēferre - изнасям, обявявам
+  inferre - внaсям, погребвам
+  inferre (+dat) - причинявам (някому)
+  offerre, obtulisse, oblātum - предлагам
+  praeferre - предпочитам
+  perferre - издържа, изпълнявам
+  prōferre - извадя, извеждам
+  referre - връщам, отвръщам, препращам
+  trānsferre - пренасям
+
+īre eō, iisse/ivisse, itum - пътувам, движа се
+  abīre - тръгвам
+  adīre - идвам, захващам се с, допитвам се до някого
+  exīre - излизам
+  perīre - да умре, да се унищожи, да се разпадне
+  redīre - връщам се
+  subīre - движа се под 
+  trānsīre - преминавам

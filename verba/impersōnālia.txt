@@ -1,0 +1,9 @@
+licēre, licuisse (imp) (+dat) - позволено е да
+libēre, libuisse (imp) (+dat) - харесва се на, обича се от
+oportēre, opportuisse (imp) - редно е да, правилно е да
+decēre, decuisse (imp) (+acc) - пристойно е, подходящо е
+pudēre, puduisse, puditum (imp) (+acc) (+gen, inf) - срам (го) е (от), срамува
+pigēre, piguisse (imp) (+acc) (+gen, inf) - (някой) се отвращава (от нещо)
+paenitēre, paenituisse (imp) (+acc) (+gen, inf) - (някой) съжалява (за действието си)
+miserēre, miseruisse (imp) (+acc) (+gen, inf) - (някой) съжалява/съчувсвтва (някого/нещо)
+taedēre, taesum/pertaesum (imp) (+acc) (+gen, inf) - (на някой му) доскочава (от)

@@ -1,0 +1,39 @@
+āēr, āeris, m - въздух, небе
+aura, -ae, f - въздух, миризма, вятър
+  ventus, -ī, m - вятър
+  calor, calōris, m - жега
+  frīgus, frīgoris, n - студ
+tellus, -ūs, f - земя (като елемента), Земята, земя (като на каквото стъпваме)
+humus, -ī, m - земя, почва
+solum, -ī, n - почва
+  sordēs, -ium, f pl - кал, мръсотия
+  lutum, -ī, n - кал
+  rūpēs, -is, f - скала, канара, урва
+  lapis, -idis, m - камък
+  calculus, -ī, m - камъче
+  pulvis, pulveris, f - прах, пясък
+  harēna, -ae, f - пясък, арена, кал
+aqua, -ae, f - вода
+lympha, -ae, f - вода, прозрачна течност
+  glaciēs, glaciēī, f - лед
+  frīgida, -ae, f - студена вода
+  tepida, -ae, f - хладка вода
+  calida, -ae, f - топла вода
+ignis, -is, m - огън
+  scintilla, -ae, f - искра
+  incendium, -ī, n - пожар
+  flamma, -ae - огън, любов
+  fūmus, -ī, m - пушек, дим
+
+
+gutta, -ae, f - капка
+flūctus, -ūs, m - вълна
+  unda, -ae, f - вълничка
+nebula, -ae, f - мъгла
+nūbēs, nubis, f - облак
+cāligō, -inis, f - плътен облак
+imber, imbris, m - дъжд
+  nix, nivis, f - сняг
+tempestās, -atis, f - буря
+  tonitrus, -ī, m - гръмотевица, тътен
+  fulgur, -is, n - светкавица

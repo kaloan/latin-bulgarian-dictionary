@@ -1,0 +1,13 @@
+māteria, -ae, f - вещество, естество
+particula, -ae, f - частица
+atomus, -ī, f - атом (букв. неделимо)
+liquor, -is, m - течност
+marmor, -is, n - мрамор
+aes, aeris, n - мед, бронз
+aurum, -ī, n - злато
+argentum, -ī, n - сребро
+ferrum, -ī, n - желязо
+ebur, eboris, n - слонова кост
+cēra, -ae, f - восък
+sāl, salis, m - сол
+mel, mellis, n - мед 

@@ -1,0 +1,62 @@
+domicilium, -ī, n - дом
+vīlla, -ae, f - вила
+casa, -ae, f - колиба
+domus, -ūs, f - жилище, къща
+fenestra, -ae, f - прозорец
+cella, -ae, f - стая, затворено място
+cubiculum, -ī, n - стая, спалня
+  vestibulum, -ī, n - преддверие, антре
+    līmen, līminis, n - праг
+    ōstia, -ae, f - врата
+    iānua, -ae, f - врата, вход
+      foris, -is, f - крило на врата
+      cardō, cardinis, m - панта
+  ātrium, -ī, n - входна зала, фоайе
+    impluvium, -ī, n - малък басейн, който типично се помещавал в атриума
+    compluvium, -ī, n - отвор в покрива над имплувиума
+  culīna, -ae, f - кухня, мангали можели да се пренесат в атриумът и да се сготви там
+  triclīnium, -ī, n - триклиниум, разположение на три кревата с маса, практически изпълнява функция на трапезария
+    ferculum, -ī, n - поднос
+    pelvis, -is, f - паница
+    operculum, -ī, n - капак
+    pōculum, -ī, n - чаша
+    culter, cultrī, m - нож
+  larārium, -ī, n - място, където се помещавали статуи на ларите
+  āla, -ae, f - ниша без покрив
+  peristȳlum, -ī, n - взаимствано от гръцката архитектура отворено помещение, заградено с колони 
+  tablīnum, -ī, n - стая, изпълняваща ролята на библиотека, писалище, работен кабинет
+  lavātrīna/lātrīna, -ae, f - баня
+  balneum, -ī, n - баня
+hortus, -ī, m - градина
+  sphaeristērium, -ī, n - поле за игра с топка
+supellex, -ctilis, f - мебел
+  stīva, -ae, f - дръжка
+  mēnsa, -ae, f - маса (като трапеза, работна маса)
+  lectus, -ī, m - легло
+  cūnae, -ārum, f pl - бебешко креватче
+  pulvīnus, -ī, n - възглавница
+  solium, -ī, n - трон
+  sella, -ae, f - стол с гръб
+  scamnum, -ī, n - малък стол, стъпало
+  armārium, -ī, n - шкаф
+  arca, -ae, f - сандък, кутия
+  lucerna, -ae, f - маслена лампа
+  lychnūchus, -ī, m - поставка за маслена лампа
+  signum, -ī, n - статуя, знак
+saccus, -ī, m - торба
+calanthus, -ī, m - кошница
+cista, -ae, f - плетена кошница
+alveus, -ī, m - кошница
+thēca, -ae, f - чанта
+mappa, -ae, f - кърпичка, салфетка
+mantēle, -is, n - кърпа
+clāvis, -is, f - ключ 
+columna, -ae, f - колона
+tēctum, -ī, n - покрив
+solum, -ī, n - под
+crepundia, -ōrum, n pl - залагалка
+pupa, -ae, f - кукла
+pila, -ae, f - топка
+scāla, -ae, f - стълба
+fūnis, -is, m - въже
+vās, vāsis, n - ваза

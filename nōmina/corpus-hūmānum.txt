@@ -1,0 +1,73 @@
+corpus, corporis, n - тяло
+membrum, -ī, n - крайник, полов член
+pellis, -is, f - кожа, кожух
+cutis, -is, f - кожа
+tāctus, -ūs, m - допир
+tempus, temporis, n - слепоочие
+caput, capitis, n - глава
+  cranium - череп
+  faciēs, faciēī, f - лице, предна част
+  vultus, -ūs, m - лице, израз
+  capillus, -ī, m - коса
+  frōns, frontis, m - чело
+  oculus, -ī, n - око
+  ocellus, ‑ī, m - оченце
+  vīsus, -ūs, m - зрение
+  nāsus, -ī, m - нос
+  odōrātus, -ūs, m - обоняние
+  auris, -is, n - ухо
+  auditus, -ūs, m - слух
+  gena, -ae, f - буза
+  maxilla, -ae, f - скула
+  rictus, -ūs, m - челюст
+  mandĭbula, -ae, f - челюстна кост
+  ōs, ōris, n - уста
+    labrum, -ī, n - устна 
+    dēns, dentis, m - зъб
+    lingua, -ae, f - език
+    palātum, -ī, n - небце, вкус (сетиво)
+  mentium, -ī, n - брадичка
+  cerebrum, -ī, n - мозък
+faux, faucis, f - гуша
+guttur, -is, m - гърло
+cervix, cervicis, f - врат, тил
+collum, -ī, n - шия
+vertеbra, -ae, f - прешлен
+clavicula, -ae, f - ключе, ключица 
+thōrax, thōracos, m - гръд, гърди, нагръдник
+pectus, pectoris, n - гръд, гърди
+  āla, -ae, f - подмишница
+  costae, -ārum, f pl - ребра
+braccium, -ī, n - ръка
+  lacertus, -ī, m - мишница
+  cubitum, -ī, n - лакът, предмишница, мерна единица за дължина
+  manus, -ūs, f - ръка (от киктата надолу)
+    digitum, -ī, n - пръст
+    pollex, -icis, m - палец
+    index, -icis, m - показалец, списък
+    medius, -ī, m - среден пръст
+    quārtus, -ī, m - безименен пръст
+gaster - корем
+umerus, -ī, m - рамо
+tergum, -ī, n - гръб, задна част
+coxa, -ae, f - ханш
+coxendix, -icis, f - ханш
+  pelvis, -is, f - таз
+crūs, crūris, n - крак
+  femur, femoris, n - бедро 
+  gremium, ‑ī, n - скут 
+  genū, -ūs, n - коляно
+  poples, poplitis, m - коляно
+  tībia, -ae, f - пищял, свирка
+  pēs, pedis, m - крак (от глезена надолу), мярка за дължина, равняваще се на 29,6см
+    tālus, -ī, m - глезен, ашик
+    petasus, -ī, m - пета
+viscera, viscerum, n pl - вътрешни органи, вътрешности 
+  venter, ventris, m - стомах
+  cor, cordis - сърце
+  pulmō, pulmōnis, m - бял дроб
+  iecur, iecoris, n - черен дроб
+ōs, ossis, n - кост
+vēna, vēnae, f - кръвоносен съд
+  sanguis, sanguinis, m - кръв
+  cruor, -ōris, m - кръв

@@ -1,0 +1,77 @@
+grammatica, -ae, f - граматика
+synōnymum - синоним
+antonymum - антоним
+sententia, -ae, f - изречение, мисъл, идея
+  vocābulum, -ī, n - дума
+    syllaba, -ae, f - сричка
+      vōcālis, -is, f - гласна
+      cōnsonāns, -antis, f - съгласна
+nōmen, n. - съществително име
+  appellātīvum - нарицателно име
+  proprium - собствено име
+  masculīnum, masc./m. - мъжки род
+  feminīnum, fem./f. - женски род
+  neutrum, neutr./n. - среден род
+  cāsus, -ūs, m - падеж
+    dēclīnātiō, dēcl. - склонение
+    nominātīvus, nom. - именителен падеж 
+    accūsātīvus, acc. - винителен падеж
+    genetīvus, gen. - родителен падеж
+    datīvus, dat. - дателен падеж
+    ablātīvus, abl. - аблативен адеж, сходен с творителен падеж, всъщност има и много други употреби, тъй че няма точен аналог в (старо-)българсия
+    locātīvus, loc. - местен падеж
+    vocātīvus, voc. - звателен падеж
+prōnōmen, prōn. - местоимение
+  persōnālium - лично
+  possesslvum - притежателно
+  dēmōnstrātīvum - показателно
+  relātīvum - относително
+  interrogātīvum - въпросително
+  indēfinītum - неопределено
+adiectīvum, adi. - прилагателно
+  positīvus, pos. - положителна степен
+  comparātīvus, comp. - сравнителна степен
+  superlātīvus, sup. - превъзходна степен
+verbum, v. - глагол, дума, слово
+  coniugātiō - спрежение
+  īnfinītīvus, īnf. - инфинитив, нелична глаголна форма, която не се среща в българския
+  supin - супин, нелична глаголна форма, която не се среща в българския
+  gerundium, ger. - отглаголно съществително, уточнява се чрез наречия и преки допълнения, може да се ползва като деепричастие в аблативна форма
+  gerundīvum - отглаголно прилагателно, показващо очакван резултат, сходен до страдателен залог
+  participium, part. - причастие
+  āctīvum, āct. - деятелен залог
+  passīvum, pass. - страдателен залог
+  dēpōnēns, dēp. - глагол с форма в страдателен залог, но извършва действие в деятелен
+  singulāris, sing./sg. - единствено число
+  plūrālis, plūr./pl. - множествено число
+  persōna - маска, роля, лице (юридически), лице (граматически)
+  praesēns, praes. - сегашно време
+  praeteritum, praet. - минало време
+  futūrum, fut. - бъдеще време
+  perfectum, perf. - свършено време
+  imperfectum, imperf. - несвършено време
+  plūsquamperfectum, pqp. - "повече от свършено" време, свършено спрямо свършеното
+  modus - наклонение, начин, метод, мярка, такт
+    indicatīvus, ind. - изявително наклонение
+    imperatīvus, imp. - повелително наклонение
+    coniūnctīvus, coni. - конюнктив, подчинително наклонение, което е смесица от условно, преизказно и (непряко) повелително
+    optātīvus, opt. - оптатив, наклонение, което се ползва при изказване на желания
+adverbium, adv. - наречие
+praepositiō, prp. - предлог
+coniūnctiō, con. - съюз
+  cōpulātīva - съединителен
+  disiūnctīva - разделителен
+  explētīva - допълнителен
+  causālis - причинен
+  ratiōnālis - обяснителен
+interiectiō, int. - междуметие
+
+dactylus, ‑ī, m - дактил
+dipthongus, ‑ī, m - дифтонга
+epigramma, epigrammatis, n - епиграма
+hendecasyllabus, ‑ī, m - стих от единайсет срички
+hexameter, hexametrī, m - хекзаметър
+iambus, ‑ī, m - ямб
+pentameter, pentametrī, m - пентаметър
+spondēus, ‑ī, m - спондей
+trochaeus, ‑ī, m - трохей

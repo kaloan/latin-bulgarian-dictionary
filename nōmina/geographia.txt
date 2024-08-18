@@ -1,0 +1,40 @@
+caelum, -ī, n - небе
+  sōl, solis, m - слънце
+  luna, -ae, f - луна
+  stēlla, -ae, f - звезда
+xmōns montis, m - планина
+saxum, -ī, n - скала, канара
+antrum, -ī, n - пещера
+spēlunca, -ae, f - пещера
+specus, -ūs, m - пещера, скривалище
+vallis, -is, f - долина
+collis, -is, m - хълм
+tumulus, -ī, m - могила, хълмче
+campus, -ī, m - равнина
+arvum, -ī, n - поле
+ager, agrī, m - поле, имение
+silva, -ae, f - гора
+īnsula, -ae, f - остров, жилищен блок
+paenīnsula, -ae, f - полуостров (букв. почти остров)
+fōns, fōntis, m - извор, фонтан, изтичник, първопричина
+amnis, -is, m - река
+fluvius, -ī, m - река
+rīvus, -ī, m - река
+flūmen, flūminis, n - река
+rīpa, -ae, f - речен бряг
+lacus, -ūs, m - езеро
+stagnum, -ī, n - мочурище
+mare, -is, n - море
+vadum, -ī, n - плитчини
+pelagus, -ī, m - открито море
+ōra, ōrae, f - морски бряг
+lītus, litoris, n - плаж, бряг
+isthmus, -ī, m - провлак, проток
+fretum, -ī, n - проток
+ōceanus, -ī, m - океан
+altum, -ī, n - дълбини
+
+oriēns, -entis, m - изток
+occidēns, -entis, m - запад
+septentriōnēs, -um, m pl - север 
+merīdiēs, meridiēī, m - юг

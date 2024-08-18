@@ -1,0 +1,107 @@
+carēre, caruisse (+abl) - липсва ми, нуждая се от, въздържам се от
+dēbēre, debbuisse, debitum - длъжен съм да, би трябвало да
+dēbēre (+dat) - дължа (на), задължен съм (на)
+placēre, placuisse, placitum - задоволявам
+latēre - крия се, прикривам се, дебна, укривам се, оставам незабелязан
+lūgēre, luxisse, luctum - оплаквам, жалея
+paenitēre, paenituisse - разкайвам се, съжалявам, гризе ме съвестта (!!!)
+egēre, eguisse (+abl) - нуждая се от
+ārdēre, arsisse, arsum - горя, гневя се
+fulgēre, fulsisse - блести, свети
+īnsidēre - окупирам
+nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
+ciēre, civisse, citum - друсам, бъркам
+cavēre, cāvisse, cautum - внимавам, предпазвам се
+respondēre, respondisse, responsum - откиквам, отговарям
+tacēre, tacuisse, tacitum - мълча
+timēre, timuisse - страхувам се
+iubēre, iussisse, iussum - нареждам, указвам, повелявам, умолявам
+dolēre, doluisse - боли ме, причинява ми болка, тъгувам
+valēre - здравея, здрав съм
+algēre - студувам
+frīgēre, frīguisse, frīgitum - студен съм (фигуративно), бездействам, 
+calēre, caluisse - топъл съм (фигуративно), зает съм
+dēlēre - премахвам, трия
+possidēre, possedisse, possessum - притежавам, имам, държа
+augēre, auxisse, auctum - увеличавам, засилвам, уголемявам
+silēre, siluisse - мълча, притихвам
+mordēre, momordisse, morsum - хапя
+merēre, meruisse, meritum - заслужавам
+rubēre - червя се, червенея
+flēre, flevisse, fletum - плача
+patēre - достъпен съм, отворен съм, открит съм
+maerēre, maeruisse - тъгувам, опечален съм, оплаквам
+cēnsēre, censuisse, censum - мисля, на мнение съм, смята, броя 
+pendēre, pependisse - вися, провисвам отпуснат съм
+impendēre, impendisse, impensum (+dat) - заплашвам, надвисвам
+dēpendēre -провисвам, завися
+stupēre, stupuisse - вцепенявам, зашеметявам, изумявам
+studēre (+dat) - целя се (да постигна), заинтересован съм (от), уча се (на), свиквам (на), отдавам се (на)
+favēre (+dat) - подкрепям (някого), поддържам (някого)
+iacēre - лежа, проснат съм
+obsidēre, obsedisse, obsessum - обсаждам, оставам в близост, препречвам 
+exercēre, exercuisse, exercitum - упражнявам се, готвя се
+censēre, censuisse, censum - мисля, броя, гласувам 
+nēre - тъка
+
+-plēre (plēnus)
+  explēre - запълвам
+  implēre - пълня, допълвам
+  complēre - напълвам 
+
+movēre, mōvisse, mōtum - местя
+  āmovēre - отмествам, премествам, премахам, вдигам
+  commovēre - разчуствам, безпокоя, развълнувам
+  permovēre - разчуствам, влияя
+  removēre - махам, отстранявам, оттеглям се
+pārēre, paruisse, paritum (+dat) - подчинявам се, изпълнявам, присъствам
+  appārēre - явявам се, появявам се
+bēre, beavisse, beatum - облагородявам, ощастливявам
+  praebēre - давам, предлагам, доставям, причинявам
+tenēre, tenuisse, tentum - държа, поддържам, продължавам
+  abstinēre, abstinuisse, abstentum - въздържам се
+  continēre, continuisse, contentum - съдържам, ограничавам, заключвам, задържам, поддържам
+  obtinēre, obtinuisse, obtentum - поддържам, притежавам
+  pertinēre, pertinuisse - достигам
+  pertinēre ad (+acc) - обвързан съм (с), отнасям се (за), пригоден съм (за), принадлежи към (група) 
+  retinēre, retinuisse, retentum - задържам 
+  sustinēre, sustinuisse, sustentum  - удържам
+rīdēre, risisse, risum - смея се
+  dērīdēre - надсмивам се, присмивам се
+terrēre, terruisse, territum - плаша
+  dēterrēre - сплашвам, възпирам
+  perterrēre - ужасявам
+tergēre, tersisse, tersum - бърша
+  dētergēre - избърсвам
+vovēre, vovisse, votum - заклевам се
+  devovēre - заклевам се, проклинам, кълна
+terrēre, terтuisse, terтitum - плаша
+  perterrēre - ужасявам
+sedēre, sēdisse, sēssum - седя, мирен съм (не мърдам)
+  insidēre - заемам място
+habēre, habuisse, habitum - имам, притежавам, задържам, смятам, състои се от, да владея
+  adhibēre, adhibuisse, adhibitum - допитвам се, призовавам, прибавям
+  inhibēre, inhibuisse, inhibitum - удържам, ограничавам, налагам наказание
+  prohibēre, prohibuisse, prohibitum - задържам, възпрепятствам, предотвратявам
+suādēre, suāsisse - убеждавам
+  dissuādēre - да разубедя
+  persuādēre - да убедя, да склоня
+manēre, mansisse, mansum  - оставам
+  permanēre - постоянствам, издържам 
+  remanēre - оставам
+vidēre, vīdisse, vīsum - виждам
+  invidēre - завиждам
+miscēre, miscuisse, mixtum - меся
+  admiscēre - добавям, включвам, омеся
+  commiscēre - смеся
+  remiscēre - премеся
+monēre, monuisse, monitum - предупреждавам, съветвам, отбелязвам
+  admonēre - посъветвам
+horrēre, horruisse - изправям се, да ми се изправят космите (т.е. страхувам се)
+  abhorrēre - мразя, отвращавам се, извръщам се
+spondēre, spopondisse, spōnsum - обещавам, поръчителствам, сгодявам се
+  cōnspondēre, cōnspondisse, cōnspōnsum - взаимно обещаваме
+  dēspondēre, dēspondisse, dēspōnsum - отказвам се, предавам се
+  respondēre, respondisse, respōnsum - отговарям, ехтя, потвърждавам 
+candēre, canduisse - блестя, светя, нажежавам се
+  incendere, incendisse, incēnsum - паля, подпалвам, унищожавам, паря

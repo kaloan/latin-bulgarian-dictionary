@@ -1,0 +1,38 @@
+gēns, gentis, f - род, племе, народ
+familia, -ae, f - фамилия
+parentēs, -ium, m pl - родители, прадеди
+līberī, -ōrum, m pl - деца
+mamma, -ae, f - мама
+pāpa, -ae, m - тати 
+māter, mātris, f - майка
+pater, patris, m - баща, татко
+nātus, -ī, m - син, рожба
+prōlēs, -is, f - чадо, рожба
+fīlius, -ī, m - син
+fīlia, -ae, f - дъщеря
+frāter, fratris, m - брат
+sōror, -is, f - сестра
+consobrīnus, -ī, m - първи братовчед
+consobrīna, -ae, f - първа братовчедка
+avus, -ī, m - дядо
+avia, -ae, f - баба
+nepōs, -ōtis, m/f - внук, внучка, разпуснат човек, разпътник
+avunculus, -ī, m - вуйчо
+matertera, -ae, f - вуйна
+patruus, -ī, m - чичо
+amita, -ae, f - леля
+gener, -is, m - зет
+nurus, -ūs, f - снаха
+socer, -ī, m - тъст, свекър
+socrus, -ūs, f - тъща, свекърва
+mātrimōnium,  -ī, n - брак
+spōnsus, -ī, m - годеник, младоженец
+spōnsa, -ae, f - годеница, младоженка 
+uxor, uxoris, f - съпруга
+marītus, -ī, m - съпруг 
+coniunx, coniugis, m/f - съпруг, съпруга
+mātrōna, -ae, f - омъжена жена, мадам, матрона
+virgō, virginis, f - девица
+iuvenis, -is, m/f - млад мъж, млада жена (??според едната книга около 30-ка??)
+adulēscēns, adulēscentis, m/f - юноша
+infāns, infantis, m/f - бебе

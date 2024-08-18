@@ -1,0 +1,63 @@
+animal, -ālis, n - животно
+bēstia, -ae, f - твар, животно
+fera, -ae, f - звяр, диво животно
+pecus, pecoris, n - добитък
+grex, gregis, m - стадо
+equus, -ī, m - кон
+asturcō, -ōnis, m - ат
+asinus, -ī, m - магаре
+aquila, -ae, f - орел
+columba, -ae, f - гълъб
+pavō, -ōnis, m - паун
+olor, -ōris, m - лебед
+cycnus, -ī, m - лебед
+luscinia, -ae, f - славей
+passer, -is, m - врабче
+psittacus, -ī, m - папагал
+corvus, -ī, m - гарван
+cornīx, -cis, f - врана
+gallus, -ī, m - петек
+gallīna, -ae, f - кокошка
+porcus, -ī, m; sūs, sūis, m - свиня
+bōs, bovis, m/f - рогат добитък  
+taurus, -ī, m - бик
+vacca, -ae, f - крава
+vitulus, -ī, m - теле
+ariēs, arietis, m - овен
+ovis, -is, f - овца 
+agnus, -ī, m - агне
+caper, -prī, m - козел
+capra, -ae, f - коза
+haedus, -ī, m - козле
+cervus, -ī, m - елен
+aper, aprī, m - глиган
+elephantus, -ī, m - слон 
+ursus, -ī, m - мечок
+ursa, -ae, f - мечка
+sīmius, -ī, m - маймуна
+arānea, -ae, f - паяк, паяжина
+rāna, -ae, f; rubēta, -ae, f - жаба
+lepus, leporis, m - заек
+canis, -is, m/f - куче/кучка
+catulus, -ī, m - кученце
+lupus, -ī, m - вълк
+lupa, -ae, f - вълчица, проститутка
+leō, leōnis, m - лъв
+homō, hominis, m - човек
+avis, -is, f - птица
+piscis, -is, m - риба
+aquilla, -ae, f - орел
+nīdus, -ī, m - гнездо
+pullus, -ī, n - младо животно
+apis, -is, f - пчела
+vespa, -ae, f - оса
+formica, -ae, f - мравка
+pāpiliō, -ōnis, m - пеперуда, молец
+musca, -ae, f - муха
+culex, culicis, m - комар
+pūlex, pūlicis, m - бълха
+scarabæus, -ī, m - скарабей, бръмбар
+anguis, -is, m/f - змя, змей
+serpēns, -entis, m/f - змия, влечуго
+dracō, -ōnis, m - дракон, змей
+delphinus, -ī, m - делфин
