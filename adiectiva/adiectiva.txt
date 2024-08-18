@@ -345,7 +345,7 @@ propior, proximus - по-близък
 
 niveus - снежно бял
 candidus - бляскаво бял
-ablus - матово бял
+albus - матово бял
 niger - бляскаво черен
 āter - матово черен
 pulus - тъмноцветен, черен
