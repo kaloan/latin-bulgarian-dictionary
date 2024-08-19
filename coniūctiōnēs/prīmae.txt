@@ -1,4 +1,4 @@
-sed = но
+sed - но
 et - и
 num - ли
 quid - какво

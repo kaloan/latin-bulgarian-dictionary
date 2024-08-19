@@ -8,7 +8,6 @@ crēdere, crēdidisse, crēditum (+dat) - вярвам (на/в), доверяв
 cingere, cīnxisse, cīnctum - заобикалям, увивам се
 coquere, coxisse, coctum - сготвям
 crēscere, crevisse, cretum - раста, проявявам се, повишавам, засилвам
-laedere, laesisse, laesum - набия, пребия
 accendere, accendisse, accendum - запалвам, горя, блестя, бушувам
 stertere, stetuisse - хъркам
 tegere, tēxisse, tēctum - покривам, прикривам
@@ -251,7 +250,7 @@ flectere, flexisse, flexum - вия, свивам
   īnflectere - свивам, сколявам (граматически)
 nectere, nexuisse, nexum - плета
   adnectere - вплитам, заплитам
-lаеdere. laesisse, laesum - удрям, ранявам, обиждам 
+laedere. laesisse, laesum - удрям, ранявам, набия, пребия, обиждам
   ēlīdere, ēlīsisse, ēlīsum - троша, премахвам
 struere, strūxisse, strūctum - градя, строя
   cōnstruere - съграждам

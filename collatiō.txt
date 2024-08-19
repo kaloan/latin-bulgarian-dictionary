@@ -85,6 +85,7 @@ Aegyptus, -ae, f - Египет
 Aemilius Paulus - Емилий Павел, консул докато Квинт Фабий е диктатор, не желае да протака войната и води битката при Кана
 aequinoctium, -ī, n - равноденствие
 aequus - равен
+āēr, āeris, m - въздух, небе
 aerārium, -ī, n - държавна хазна
 aes, aeris, n - мед, бронз
 Aesculapius, -ī, m - Аскелепий, бог на медицината, лекарите, оздравяването, син на Аполон и Коронида
@@ -413,6 +414,7 @@ causātĭo, -ōnis, f - извинение
 cautus - предпазлив, внимателен, мнителен
 cavēre, cāvisse, cautum - внимавам, предпазвам се
 cēdere, cecisse - движа се, местя се 
+cedo. cette (def) - отстъпи!, освободи!, подчини се!, тръгни!
 cēlāre - крия, скривам
 celebrāre - празнувам
 celer, celeris, celere - бърз
@@ -485,7 +487,7 @@ clausus - затворен
 clavicula, -ae, f - ключе, ключица 
 clāvis, -is, f - ключ 
 clēmēns, clēmentis - благ, щадящ, мек
-clepsydra, -ae, f - клепсидра, воден часовникāēr, āeris, m - въздух, небе
+clepsydra, -ae, f - клепсидра, воден часовник
 cliens, clientis, m - клиент, посетител
 clīvus, -ī, m - наклон
 cloāca, -ae, f - канализация
@@ -661,6 +663,7 @@ culpa, -ae, f - вина, грешка
 culter, cultrī, m - нож
 cultūra, -ae, f - грижа, поддръжка
 cum - когато
+cum - с, заедно
 cūnae, -ārum, f pl - бебешко креватче
 cunctārī (d) - протакам, отсрочвам, отлагам
 cūnctātor, -ōris, m - протакащ човек, предпазлива личност
@@ -759,6 +762,7 @@ dēstruere, dēstrūxisse, dēstrūctum - разграждам, разбъркв
 dētergēre - избърсвам
 dēterrēre - сплашвам, възпирам
 dētrahere - свличам, повличам, свалям, изключвам, омаловажавам
+deus, -ī, m - бог
 dēvorāre - нагълтвам, изгълтвам
 devovēre - заклевам се, проклинам, кълна
 dexter - десен
@@ -857,7 +861,7 @@ eadem, eandem, eiusdem, eīdem, eādem, eaedem, eāsdem, eārundem, iīsdem, iī
 ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs - тя
 ēbrius - пиян
 ebur, eboris, n - слонова кост
-ecce - на...que - и
+ecce - на
 ēdere, edidisse, editum - издавам (книга), създавам, раждам, произвеждам
 ēdiscere, edidicisse - наизустявам
 ēducāre - образовам, обучавам, отглеждам
@@ -1497,7 +1501,7 @@ lacrima, -ae, f - сълза
 lacrimāre - сълзя, плача
 lactūca, -ae, f - маруля
 lacus, -ūs, m - езеро
-laedere, laesisse, laesum - набия, пребия
+laedere. laesisse, laesum - удрям, ранявам, набия, пребия, обиждам
 laetārī (d) - радвам се
 laetitia, -ae, f - радост
 laetus - радостен
@@ -1609,7 +1613,6 @@ luxus, -ī, m - лукс, излишък
 lychnūchus, -ī, m - поставка за маслена лампа
 lycopersica, -ae, f - домат
 lympha, -ae, f - вода, прозрачна течност
-lаеdere. laesisse, laesum - удрям, ранявам, обиждам 
 macellum, -ī, n - месарница
 macer - слаб, хилав, недохранен
 macula, -ae, f - петно
@@ -2367,7 +2370,7 @@ pulsāre - удрям
 pulus - тъмноцветен, черен
 pulvīnus, -ī, n - възглавница
 pulvis, pulveris, f - прах, пясък
-Pūnicus - пунически, картагенскиcedo. cette (def) - отстъпи!, освободи!, подчини се!, тръгни!
+Pūnicus - пунически, картагенски
 pūnīre - наказвам, отмастявам
 pupa, -ae, f - кукла
 puppis, -is, f - кърма на кораб
@@ -2414,6 +2417,7 @@ quattuor, indecl - четири
 quemadmodum - тъй както
 quercus, -ūs, f - дъб
 querī, questum esse (d) - оплаквам се, обжалвам
+...que - и
 quia - защото
 quīdam, quemdam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam, quibusdam, quibusdam - еди-кой, един определен
 quidem - навярно, определено
@@ -2526,7 +2530,7 @@ respondēre, respondisse, responsum - откиквам, отговарям
 respōnsum, -ī, n - отговор, отклик 
 rēsrеī, f - нещо, вещ, дело
 resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам 
-rēte, rētis, n - мрежаdeus, -ī, m - бог
+rēte, rētis, n - мрежа
 rētiārius, -ī, m - рециарий (букв. мрежар), въоръжен с нарамник, тризъбец и мрежа
 retinēre, retinuisse, retentum - задържам 
 retrahere - повличам обратно, оттеглям
@@ -2649,7 +2653,7 @@ sēdecim, indecl - шеснайсет
 sedēre, sēdisse, sēssum - седя, мирен съм (не мърдам)
 sēdēs, -is, f - седалище
 sēdūcere - подвеждам, съблазнявам
-sed = но
+sed - но
 sella, -ae, f - стол с гръб
 semel - веднъж
 sēmen, sēminis, n - семе
@@ -3014,7 +3018,7 @@ turbāre - вълнувам, обърквам, обезпокоявам, пре�
 turbidus - бурен, бушуващ
 turgidus/turgidulus - оточен, набъбнал 
 turpis, -is - противен, безсрамен, отвратителен, грозен
-turpiter - противно, отвратително, безсрамно, грозноватоcum - с, заедно
+turpiter - противно, отвратително, безсрамно, грозновато
 turris, -is, f - кула
 Tūsculānus - тускулански
 Tūsculum, -ī, n - Тускулум
