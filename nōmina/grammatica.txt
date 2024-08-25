@@ -12,7 +12,7 @@ nōmen, n. - съществително име
   masculīnum, masc./m. - мъжки род
   feminīnum, fem./f. - женски род
   neutrum, neutr./n. - среден род
-  cāsus, -ūs, m - падеж
+  cāsus, -ūs, m - падеж, случай
     dēclīnātiō, dēcl. - склонение
     nominātīvus, nom. - именителен падеж 
     accūsātīvus, acc. - винителен падеж

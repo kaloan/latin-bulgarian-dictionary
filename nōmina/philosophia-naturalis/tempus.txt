@@ -16,6 +16,8 @@ nōnae, -ārum, f pl - нони, деветият ден преди идите (
 vigilia, -ae, f - стража, четвърт нощ (от това че имало четири смени за нощната стража)
 hōra, -ae, f - час
 mōmentum - миг
+ortus, -ūs, m - изгрев
+occāsus, -ūs, m - залез
 māne. indecl, n - сутрин
 meridiēs, meridiēī, m - обед
 vesper, -is, m - вечер

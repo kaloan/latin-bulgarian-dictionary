@@ -33,6 +33,7 @@ supellex, -ctilis, f - мебел
   stīva, -ae, f - дръжка
   mēnsa, -ae, f - маса (като трапеза, работна маса)
   lectus, -ī, m - легло
+  torus, -ī, m - креват
   cūnae, -ārum, f pl - бебешко креватче
   pulvīnus, -ī, n - възглавница
   solium, -ī, n - трон
@@ -43,10 +44,12 @@ supellex, -ctilis, f - мебел
   lucerna, -ae, f - маслена лампа
   lychnūchus, -ī, m - поставка за маслена лампа
   signum, -ī, n - статуя, знак
+urna, -ae, f - урна
 saccus, -ī, m - торба
 calanthus, -ī, m - кошница
 cista, -ae, f - плетена кошница
 alveus, -ī, m - кошница
+corbis, -is, f - кошница
 thēca, -ae, f - чанта
 mappa, -ae, f - кърпичка, салфетка
 mantēle, -is, n - кърпа

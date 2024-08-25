@@ -31,7 +31,7 @@ ferre, tulisse, lātum - нося
   inferre (+dat) - причинявам (някому)
   offerre, obtulisse, oblātum - предлагам
   praeferre - предпочитам
-  perferre - издържа, изпълнявам
+  perferre - издържа, изпълнявам, понасям
   prōferre - извадя, извеждам
   referre - връщам, отвръщам, препращам
   trānsferre - пренасям
@@ -39,6 +39,7 @@ ferre, tulisse, lātum - нося
 īre eō, iisse/ivisse, itum - пътувам, движа се
   abīre - тръгвам
   adīre - идвам, захващам се с, допитвам се до някого
+  coīre - срещам, събирам, пасвам, правя секс
   exīre - излизам
   perīre - да умре, да се унищожи, да се разпадне
   redīre - връщам се

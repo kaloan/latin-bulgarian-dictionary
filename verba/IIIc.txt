@@ -1,17 +1,16 @@
-gerere, gessisse, gestum - нося (дрехи и т.н.), извършвам
 induere, induisse, indūtum - обличам се
+exuere,  exuisse, exutum - събличам се
 tollere, sustulisse, sublātum - вдигам
 dīligere - обичам (роднина)
 fallere, fefellisse, falsum - греша, лъжа, мамя, излъгвам се, бъркам се
 crēdere, crēdidisse, crēditum (+dat) - вярвам (на/в), доверявам се (на/в), смятам че
-ūrere, ussisse, ustum - горя
 cingere, cīnxisse, cīnctum - заобикалям, увивам се
 coquere, coxisse, coctum - сготвям
 crēscere, crevisse, cretum - раста, проявявам се, повишавам, засилвам
 accendere, accendisse, accendum - запалвам, горя, блестя, бушувам
 stertere, stetuisse - хъркам
 tegere, tēxisse, tēctum - покривам, прикривам
-spernere, spēvisse, spētum - презирам
+spernere, sprēvisse, sprētum - презирам
 plangere, planxisse, planctum - бия се в гърдите от печал
 pingere, pīnxisse, pictum - рисувам
 consciscere, consciisse/conscivisse, conscitum - да реша
@@ -22,19 +21,14 @@ concīdere, concīdisse, concisum - убивам
 pluere, pluisse - вали
 praestingere - замижа
 ingēmescere, ingēmuisse - стена, ридая
-gemere, gemuisse, gemitum - тъжа, стена
 prandere, prandisse, pransum - обядвам
 compescere, compescuisse - въздържам се, преграждам, утолявам
-dicere, dīxisse, dictum - казвам
 docere, docuisse, doctum - уча другиго, преподавам
-regere, rēxisse, rēctum - валдея, управлявам, направлявам
 acuere, acuisse, acutum - остря, подострям
 carpere, carpsisse, carptum - държа, грабвам
 bibere, bibisse, bibitum - пия
 lūcere, lūxisse - светя, излъчвам
 canere, cecinisse, cantum - пея
-lūdere, lūsisse, lusum - играя
-tangere, tetigisse, tāctum - докосвам, пипам, допирам
 arcessere, arcessiisse/arcessivisse, arcessitum - извиквам, каня, призовавам
 dīvidere, divīsisse, divīsum - деля, разделям, различавам
 metuere, metuisse, metutum - боя се, страхувам се
@@ -58,20 +52,26 @@ nūbere, nūpsisse (+dat) - забулвам се, омъжвам се (от д�
 plaudere, plausisse, plausum (+dat) - пляскам, ръкопляскам
 sapere, sapīvisse - мъдрувам, умувам, постъпвам разумно
 intuere - обследвам
-
+cōnsulere, cōnsuluisse, cōnsultum - посъветвам, посъветвам се, допитвам, консултирам 
+hiscere - зяпам
+crūdescere, crūduisse - подивявам, освирепявам, влошава се болестно състояние (!!!)
+īcere, īcisse, ictum - удрям, наръгвам, сключвам мир
+pallēscere, palluisse - прибледнявам
 
 legere, lēgisse, lēctum - чета
   allicere -iō (!), allēxisse, allēctum - привличам
-  colligere, collēgisse, collēctum - събирам в група, събирам богатство, заключавам, заключавам
-  ēligere, ēlēgisse, ēlēctum - избирам
+  colligere, collēgisse, collēctum - събирам в група, събирам богатство, заключавам
+  ēligere, ēlēgisse, ēlēctum - отбирам, избирам
   intellegere, intellēxisse, intellēctum - разбирам
   neglegere, neglēxisse, neglēctum - отнасям се небрежно, пренебрегвам, презирам, бездействам
+  sēligere, sēligisse, sēlēctum - избирам, отбирам
 spergere, spersisse, spersum - сея
   aspergere, aspersisse, aspersum - поръся, пръскам
 colere, coluisse, cultum - грижа се, поддържам, развивам
   incolere, incoluisse, incultum - живея, пребивавам 
-mergere, mersisse, mersum - топя (в течност), цопвам
-  submergere - потъвам
+mergere, mersisse, mersum - топя (в течност), цопвам, забивам
+  ēmergere - изплувам, излизам от водата
+  submergere - потапям, потъвам
 currere, cucurrisse, cursum - тичам, бягам
   accurrere, accucurrisse/accurrisse, accursum - бягам към
   concurrere, concucurrisse/concurrisse, concursum - стичаме се, съгласявам се, наподобявам
@@ -84,8 +84,10 @@ mittere, mīsisse, missum - изпращам, освобождавам, мята
   admittere - допускам, получавам
   committere - свързвам, водя битка, извършвам престъпление 
   dīmittere - отпращам, отзовавам
+  ēmittere - изпращам
   permittere - позволявам, допускам
   remittere - връщам, мятам обратно
+  submittere - поставям под друго, поднасям, понижавам, възпирам, подчинявам
 sistere, stitisse/stetisse, statum - спирам, проверявам
   cōnsistere, cōnstitisse - спирам, прекъсвам, заставам на място
   dēsistere, dēstitisse, destitum - възпирам, прекратявам
@@ -100,10 +102,11 @@ cadere, cecidisse - падам, умирам
   incidere, incidisse - появява се, случва се
 discere, didicisse -уча се  
   ēdiscere, edidicisse - наизустявам
-rigere, rexisse, rectum - изправен съм, стоя, да съм твърд, да съм изтръпнал
+rigēre - изправен съм, стоя, да съм твърд, да съм изтръпнал
   corrigere - изправям, поправям
-  ērigere, erexisse, erectum - възбуждам, издигам
-  pergere, perrexisse, perrectum  - продължавам
+  dērigēre, dēriguisse
+  ērigere, ērēxisse, ērēctum - възбуждам, издигам
+  pergere, perrēxisse, perrēctum  - продължавам
   surgere, surrēxisse, surrēctum - ставам
     resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам 
 trahere, trāxisse, tractum - влача, тегля, мъкна
@@ -130,7 +133,8 @@ emere, ēmisse, ēmptum - купувам, придобивам
   sūmere, sūmpsisse, sūmptum - вдигам, взимам
     cōnsūmere - използвам, употребявам, изяждам, унищожавам
 agere, ēgisse, āctum - действам, върша
-  cōgere, coēgisse, coāctum - принуждавам, насилвам
+  cōgere, coēgisse, coāctum - принуждавам, насилвам, изисквам
+  peragere, perēgisse, perāctum - довършвам, свършвам
 pāscere, pāvisse, pāstum - паса, храня, насищам
   perpāscere - угоявам
 vertere, vertisse, versum - обръщам, променям, унищожавам
@@ -148,14 +152,17 @@ pōnere, posuisse, positum - поставям
   impōnere - поставям на, поставям задача/задължение някому
   praepōnere (+dat) - ръководя, положен съм на чело на
 fīgere, fīxisse, fīxum/fictum - стягам, закачам, захващам
+  īnfīgere - мушкам, убождам, вмъквам
   trānsfīgere - промуша, пробивам
 sīdere, sedisse/sidisse, sessum - сядам, потъвам
   cōnsīdere - възсядам
   īnsīdere - седя, яздя, населявам, чакам в засада
 vīsere - посещавам
   invīsere - навестявам, посещавам
-tinguere, tinxisse, tinctum - намокрям, топвам, 
+tinguere, tinxisse, tinctum - намокрям, топвам
   extinguere - убивам, угасвам, разрушавам
+stinguere, stinxisse, stinctum  - гася, унищожавам
+  exstinguere, еxstinxisse, exstinctum - угасвам, убивам, унищожавам
 tendere, tendisse, tentum - опъвам, дърпам, насочвам оръжие, напрягам се
   contendere - пътувам
   extendere - разширявам, удължавам, натягам
@@ -211,8 +218,8 @@ solvere, solvisse, solutum - пускам, освобождавам, иразх�
 prehendere, prehendisse, prehēnsum - хващам
   apprehendere - грабвам, държа се за
   comprehendere - хващам здраво, схващам
+  dēprehendere - прихващам, арестувам, изненадвам, разкривам, смущавам
   reprehendere - задържам, виня, обвинявам
-tremere, tremuisse - треперя, треса се
 scrībere, scripsisse, scriptum - пиша
   ōnscrībere - надписвам
 claudere, clausisse, clausum - затварям
@@ -226,16 +233,16 @@ linquere, līquisse, lictum - тръгвам, напускам, оставям �
   relinquere, relīquisse, relictum - изоставям накого
 serere, seruisse, sertum - правя венец, преплитам, свързвам
   dēserere - изоставям, разочаровам, прекратявам
+  īnserere - вмъквам, вмествам, присаждам 
 caedere, - разрязвам, порязвам, убивам, коля, сека
   occīdere, occīdisse, occīsum - посичам, убивам
-rapere, rapuisse, raptum - грабя, отмъквам
-  ēripere - ограбя, отнемам
-  surripere - крада, обирам
-volvere, volvisse, volutum - въртя се, увивам
-  ēvolvere, ēvolvisse, ēvolūtum - отварям, разтварям
+volvere, volvisse, volutum - въртя, увивам, въртя се в кръг
+  ēvolvere, ēvolvisse, ēvolūtum - развивам, отварям книга, разтварям
+  revolvere, revolvisee, revolutum - отвъртам, превъртам, премислям 
 pendere, pependisse, pensum - вися, изплащам се
   dēpendere - изплащам се, разплащам се
-  impendere, impendisse, impensum - изразходвамм, посвещавам
+  impendere, impendisse, impēnsum - изразходвамм, посвещавам
+  sūspendere, sūspendisse, sūspēnsum - провисвам, увисвам, прекратявам
 quiēscere, quiēvisse - почивам
   requiēscere - отпочина
 fīdere, fīsum (+dat) - вярвам (на)
@@ -247,6 +254,7 @@ rubēscere, rubuisse - почервенявам
 quaerere, quaesīvisse, quaesītum - търся, издирвам
   requīrere, requīsiisse/requīsivisse, requīsitum - търся, питам
 flectere, flexisse, flexum - вия, свивам
+  dēflectere - отбивам
   īnflectere - свивам, сколявам (граматически)
 nectere, nexuisse, nexum - плета
   adnectere - вплитам, заплитам
@@ -279,6 +287,22 @@ pellere, pepulisse, pulsum - гоня, не допускам, държа изв�
   repellere - отблъсквам
 ruere, ruisse - руша, унищожавам, превръщам в руини
   inruere - нападам, навлизам
-petere, petiisse/petīvisse, petitum - влизам, стремя се към
+petere, petiisse/petīvisse, petitum - влизам, стремя се към, моля за
   appetere - навлизам, приближавам
   impetere - нападам
+  repetere - завръщам се
+ūrere, ussisse, ustum - горя
+  combūrere - изгарям, изпепелявам
+  exūrere - изгарям до край
+gerere, gessisse, gestum - нося (дрехи и т.н.), извършвам
+  congerere - събирам, нося заедно 
+gemere, gemuisse, gemitum - тъжа, стена
+  ingemere - въздишам
+lūdere, lūsisse, lusum - играя
+  dēlūdere - изиграя, измамя, премятам
+tangere, tetigisse, tāctum - докосвам, пипам
+  contingere, contigisse, contāctum - допирам,  достигам, окажа
+regere, rēxisse, rēctum - валдея, управлявам, направлявам
+  porrigere - предлагам, разпростирам
+tremere, tremuisse - треперя, треса се
+  intremere - втрисам

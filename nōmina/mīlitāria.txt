@@ -1,5 +1,6 @@
 bellum, -ī, n - война
   impetus, -ūs, m - атака, настъпление
+  impes, impetis, m - нападение
   pugna, -ae, f - бой, битка
   certāmen, -inis, n - бой, битка
   proelium, -ī, n - битка
@@ -47,6 +48,7 @@ arma, -ōrum, n pl - оръжие
   pharetra, -ae, f - колчан
   funda, -ae, f - прашка
   scūtum, -ī, n - щит
+  clipeus, -ī, m - кръгъл окрасен щит
   lorīca, -ae, f - броня
   galea, -ae, f - шлем
   caliga, -ae, f - военен сандал

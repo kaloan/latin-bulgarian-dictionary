@@ -11,7 +11,8 @@ facere -iō, fēcisse, fаctum - правя, върша
   satisfacere iō - задоволявам, извинявам се, обезщетявам
   sufficere -iō, suffēcisse, suffectum - да е достатъчно
 parere -iō, peperisse, partum - раждам, създавам
-percutere -iō, percussisse, percussum - блисгам, тропам
+percutere -iō, percussisse, percussum - блъскам, тропам
+  repercutere iō - отблъсквам
 cupere -iō, cupīvisse, cupitum - купнея, желая
 iacere -iō, iēcisse, iactum - хвърлям, мятам
   adicere -iō, adiēcisse, adiēctum - хвърлям към, допълвам
@@ -19,11 +20,15 @@ iacere -iō, iēcisse, iactum - хвърлям, мятам
   dēicere -iō, dēiēcisse, dēiēctum - захвърлям
   ēicere -iō, ēiēcisse, ēiēctum - изхвърлям
   inicere -iō, iniēcisse, iniēctum- захвърлям
-  prōicere -iō, prōiēcisse, prōiectum - хвърлям напред, падам пред
+  prōicere -iō, prōiēcisse, prōiēctum - хвърлям напред, падам пред
+  rēicere -iō, rēiēcisse, rēiēctum - отхвърлям
+  trāicere -iō, trāiēcisse, trāiēctum - прехвърлям, промушвам
 fugere -iō, fugisse, fugitum - бягам от някого/нещо, избягвам, чезна
-  aufuggere -iō, - бягам от някого/нещо, изчезвам
+  aufugere -iō, aufugigisse - бягам от някого/нещо, изчезвам
+  cōnfugere -iō, cōnfugisse - прибягвам, намирам убежище
   diffugere -iō, diffugisse - разпръсквам
   effugere -iō, effugisse - да избягам, избягвам
+  refugere -iō, refugisse - 
 spicere -iō, spexisse, spectum - виждам
   aspicere - поглеждам
   circumspicere - оглеждам, диря
@@ -35,7 +40,13 @@ spicere -iō, spexisse, spectum - виждам
   suspicere - гледам нагоре, изследвам, наблюдавам
 capere -iō, cepisse, captum - хващам, грабвам, държа
   accipere -iō, accepisse, acceptum - взимам, получавам
-  dēcipere -iō, decepisse, deceptum - мамя
+  excipere -iō, excepisse, exceptum - вадя, премахвам
+  dēcipere -iō, dēcepisse, dēceptum - мамя
   incipere -iō, incepisse, inceptum - започвам
+  occupāre, occupāvisse, occupātum - заемам, вземам, наемам
   praecipere -iō, praecepisse, praeceptum - ръководя, предвождам
   recipere -iō, recepisse, receptum - приемам, върщам си
+rapere -iō, rapuisse, raptum - грабя, отмъквам
+  corripere -iō - изземвам, укорявам, скъсявам
+  ēripere -iō - ограбя, отнемам
+  surripere -iō - крада, обирам

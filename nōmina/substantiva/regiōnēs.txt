@@ -1,4 +1,6 @@
 Graecia, -ae, f - Гърция
+  Thessalia, -ae, f - Тесалия
+  Arcadia, -ae, f - Аркадия
 Persia, -ae, f - Персия
 Gallia, -ae, f - Галия
 Britannia, -ae, f - Британия
@@ -8,13 +10,15 @@ Hibērum, -ī, n - Иберия, реката Ебро
 Italia, -ae, f - Италия
   Albanum, -ī, n - Албанум, древно наименование на Латиум
   Campānia, -ae, f - Кампания
-  Etrūria, -ae, f - Етрурия
+  Etrūria, -ae, f - Етрурия, Туския
+  Tūscia, -ae, f - Туския, Етрурия
   Falernum, -ī, n - Фалерно
   Latium, -ī, f - Латиум
 Aegyptus, -ae, f - Египет
 Syria, -ae, f - Сирия
 Arabia, -ae, f - Арабия
 Iūdaea, -ae, f - Юдея
+Colchis, -idis, f - Колхида, т.е. Грузия
 
 Eurōpa, -ae, f - Европа
 Asia, -ae, f - Азия

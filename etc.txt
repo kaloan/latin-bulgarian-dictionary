@@ -58,7 +58,15 @@ adversa fortūna - лоша съдба
 inmātūra mors - преждевременна смърт
 causam agere - защитавам
 fāma illūstris - добра слава
-
+genus mortāle - човечеството
+prius X quam Y - X се случило преди Y
+nōn prius X quam Y - X се случило чак след Y
+in sententia manere - оставам на същото мнение
+rēs gestae (+gen) - (нечии) дела
+salvēre iubēre - поздравявам
+opem ferre - помагам
+valēre (+inf) - мога
+vertere in (+acc) - превръщам се в
 
 hōc tempore - в/по това време
 eō tempore - тогава

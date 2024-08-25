@@ -28,12 +28,13 @@ nōbilis -is - известен, важен, аристократ
 celsus - висок 
 fallāx -cis - лъжлив, мамещ, грешен
 iūcundus - приятен, задоволяващ
-molestus - неприятен, болезнен, отврятителен
+molestus - уморителен, неприятен, болезнен, отврятителен
 īmus - долен
 medius - среден
 summus -горен
 tardus - бавен, закъсняващ
 acerbus - кисел
+amārus - кисел
 dulcis, -is - сладък
 nimius - преголям, твърде голям
 dēbilis -is - болен, слаб, кекав
@@ -62,14 +63,14 @@ indignus - недостоен, нечестен
 perītus - вещ, опитен
 exercitātus - упражнен, подготвен, опитен
 vīlis - пошъл
-āmēns amentis - неразумен, откачен, изперкал. не с всичкия си
-dūrus - твърд (и в преносен смисъл)
-hirsūtos - с много козина, дебелокосмест
+āmēns, āmentis - неразумен, откачен, изперкал. не с всичкия си
+hirsūtos - космат, дебелокосмест, четинест
 solitus - свикнал
 capāx -cis - голям, обемист
 ingēns -entis - огромен, неестествен
 atrōx -cis - див, жесток, страшен, свиреп
 pius - съвестен, праведен
+impius - порочен, нечестив, безбожен, бедствен
 mendāx -cis - лъжлив, фалшив
 tepidus - хладък
 scaevus - ляв
@@ -127,7 +128,8 @@ gemmātus - украсен със скъпоценни камъни
 nitidus - бестящ
 vīvus - жив
 mortuus - мъртъв
-crassus - тебел, широк
+exanimis, -is - бездушен, мъртъв
+crassus - дебел, широк
 tenuis, -is - тънък
 pullus - малък, млад
 ferus - див, неопитомен
@@ -174,7 +176,7 @@ varius - различен
 tālis, -is - такъв
 turpis, -is - противен, безсрамен, отвратителен, грозен
 mollis - мек, гъвкав, ковък
-dūrus - твърд, здрав
+dūrus - твърд (и в преносен смисъл), здрав
 bcātus - блажен, щастлив
 necessārius - нужен, необходим
 aliēnus - чужд
@@ -187,6 +189,7 @@ validus - здрав, силен
 ferōx - див, свиреп
 ferreus - железен
 aureus - златен
+aurātus - позлатен
 ligneus - дървен
 faber, fabrī - изкусен
 integer, intergī - цял
@@ -221,6 +224,7 @@ neglegēns - небрежен
 līber, līberī - свободен
 studiōsus - любопитен, заинтересован, заинтригуван
 propinquus - близък, близолежащ
+longinquus - далечен
 ūniversus - цял, пълнен
 mor­tālis, -is - смъртен
 immortālis, -is - безсмъртен
@@ -307,6 +311,7 @@ patricius - патрициански, благороден
 plēbēius - плебейски, простолюден
 prosperus - успял, успешен, късметлийски
 prūdens, prūdentis - разумен, осъзнат
+imprūdens, imprūdentis - неразумен
 beātus - блажен, приятен
 bellicōsus - войнствен
 bellicus - военен
@@ -328,22 +333,62 @@ peregrīnus - чужд, странен, чуждестранен
 religiōsus - религиозен
 illūstris, -is - светещ, блестящ, известен
 hostīlis, -is - враж, противнически
-diversus - разнороден
+dīversus - разнороден
 strenuus - изтощителен, уморителен, храбър 
 occultus - скрит, таен 
 suprēmus - най-далечен
+serēnus - чист, бистър, спокоен
+cotīdiānus - всекидневен
+immōtus - неподвижен
+ūtilis, -is - потребно, полезно 
+praecipuus - особен
+cōpiōsus - изобилен, плодороден
+dēnsus - чест, гъст
+dīvus - божествен
+splendidus - бляскав
+invidus - завистлив
+violentus - буен
+auricomus - блондин
+occiduus - убийствен
+coruscus - пробляскащ
+imrnedicābilis, -e - неизлечим
+rēgālis, -is - царствен
+liquidus - течен
+resupīnus - лежащ по гръб, облегнат назад
+contentus - доволен, задоволен, удовлетворен
+immītis, -is - див, жесток, свиреп, груб
+libēns, libentis - желаещ, волеви, волен, весел, доволен
+invītus - нежелаещ, неохотен, неволеви, неволен
+anīlis, -is - бабешки
+marīnus - морски
+spīceus - житен, зърнен
+puerīlis - момчешки, детински
+patrius - татков
+paternus - бащин
+caelestis - небесен
+iuvenālis - младежки
+tener, -ī - мек, нежен, млад, слаб, женствен
 
 amāns, amantis - любящ
 perturbātus - шашардисан
 perversus - извратен, зъл
+ustus - горян
+vehemēns, -entis - насилващ, буен
+haustus - точен, източен, излят
+cultus - поддържан, обработен
+vulgāris, -is - народен, общ, обществен
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
+interior, intimus - по-вътрешен
+exterior, extrēmus - по-външен, по-краен
 ulterior/ulterius, ultimus - по-далечен
 citerior/citerius, citimus - по-близък
 propior, proximus - по-близък
 
 niveus - снежно бял
+eburneus - бял като слонова кост
+cānus - бял
 candidus - бляскаво бял
 albus - матово бял
 niger - бляскаво черен
@@ -355,6 +400,7 @@ purpureus - пурпурен
 ruber, rubrī - червен
 caerŭleus - светло син
 rutilus - оранжев
+croceus - златно жълт
 crocinus - шафранено жълт
 superus - горен
 īnferus - долен
@@ -506,8 +552,8 @@ nēquam (indecl),nēquior, nēquissimus - подъл, отвратителен, 
 
 celer, celeris, celere - бърз
 
-vetus veteris - вехт, стар, древен 
-dīves dīvitis, dīvitior, dīvitissimus - богат
+vetus, veteris - вехт, стар, древен 
+dīves, dīvitis, dīvitior, dīvitissimus - богат
 pauper, -is - беден
 
 

@@ -6,11 +6,12 @@ invadīre - навлизам, отнемам
 invadīre in - нападам
 condīre - погребвам, заравям
 partuīre - бременна съм
-impedīre - забавям
+impedīre - забавям, възпрепятствам, прека, попречвам
 expedīre - забързвам
 fastīdīre - не понасям, не навиждам, отвращавам се от нещо
 sitīre - жаднея, жадувам
-aperīre, aperuisse, apertum - отварям
+ēsurīre - гладувам
+aperīre, aperuisse, apertum - отварям, разкривам, оповестявам, разкопавам
 sentīre, sensisse, sensum - усещам, чувствам, на мнение съм
 vestīre - обличам
 pūnīre - наказвам, отмастявам
@@ -24,7 +25,8 @@ mūnīre - укрепвам
 scīre - зная, разбирам
 nūtrīre - храня, захранвам, подхранвам, кърмя
 sepelīre, sepeliisse/sepelivisse, sepultun - погребвам, заравям, потапям, потискам, унищожавам
-
+mūgīre, mūgivisse - муча
+fastidīre - презирам, пренебрегвам
 
 salīre, sаluisse/saliisse, saltum - скачам
   circumsilīre. circumsiluisse - подскачам 

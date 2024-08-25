@@ -1,5 +1,6 @@
 corpus, corporis, n - тяло
 membrum, -ī, n - крайник, полов член
+artus, -ūs, m - крайник
 pellis, -is, f - кожа, кожух
 cutis, -is, f - кожа
 tāctus, -ūs, m - допир

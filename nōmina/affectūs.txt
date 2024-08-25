@@ -2,6 +2,7 @@ affectus, -ūs, m - настроение, чувство
 potestās, -ātis, f - сила, възможност, мощ
 libīdō, -inis, f - желание, страст
 cupiditās, -ātis, f - желание
+cupīdō, -inis, f - желание
 spēs, speī, f - надежда
 invidia, -ae, f - завист
 famēs, -is, f - глад
@@ -27,6 +28,7 @@ invidia, -ae, f - завист
 memoria, -ae, f - памет
 audācia, -ae, f - смелост
 voluntās, -ātis, f - воля
+vōtum, -ī, n - воля
 grātia, -ae, f - благодарност
 amīcitia, -ae, f - приятелство
 inimīcitia, -ae, f - враждебност
@@ -36,6 +38,7 @@ dēliciae, -ārum, f pl - наслада, удоволствия
 tenebrae, -ārum, f pl - тъма, тъмнина
 cachinnus, ‑ī, m - кикот
 fātum, ‑ī, m - съдба
+sors, sortis, f - орис, орисия, жребий, съдба, участ
 odium, ‑ī, n - омраза
 admīrātiō, -ōnis, f - почуда, възхищение
 moderātiō, -ōnis, f - умереност
@@ -45,3 +48,7 @@ superbia, -ae, f - надменност
 avāritia, -ae, f - алчност
 cūra, -ae, f - грижа, отговорност, притеснение
 misericordia, -ae, f - съчувствие, милост
+īnsānia, -ae, f - лудост
+fortitūdō, -inis, f - храброст
+probitās, -ātis, f - доброта
+taedium, -ī, n - умора, неприязън, досада, отегчение, скука

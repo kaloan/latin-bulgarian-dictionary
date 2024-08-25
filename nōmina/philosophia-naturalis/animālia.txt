@@ -11,6 +11,7 @@ columba, -ae, f - гълъб
 pavō, -ōnis, m - паун
 olor, -ōris, m - лебед
 cycnus, -ī, m - лебед
+ānser, ānseris, m/f - гъска, гъсок
 luscinia, -ae, f - славей
 passer, -is, m - врабче
 psittacus, -ī, m - папагал
@@ -26,9 +27,10 @@ vitulus, -ī, m - теле
 ariēs, arietis, m - овен
 ovis, -is, f - овца 
 agnus, -ī, m - агне
-caper, -prī, m - козел
-capra, -ae, f - коза
+caper, caprī, m - козел
 haedus, -ī, m - козле
+capra, -ae, f - коза
+capella, -ae, f - козичка
 cervus, -ī, m - елен
 aper, aprī, m - глиган
 elephantus, -ī, m - слон 
@@ -44,8 +46,9 @@ lupus, -ī, m - вълк
 lupa, -ae, f - вълчица, проститутка
 leō, leōnis, m - лъв
 homō, hominis, m - човек
-avis, -is, f - птица
 piscis, -is, m - риба
+volucris, -is, f - летящо същество
+avis, -is, f - птица
 aquilla, -ae, f - орел
 nīdus, -ī, m - гнездо
 pullus, -ī, n - младо животно
@@ -61,3 +64,5 @@ anguis, -is, m/f - змя, змей
 serpēns, -entis, m/f - змия, влечуго
 dracō, -ōnis, m - дракон, змей
 delphinus, -ī, m - делфин
+cancer, -ī, m - рак
+scorpiō, -ōnis, m - скорпион 

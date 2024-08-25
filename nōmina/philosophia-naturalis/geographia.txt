@@ -2,8 +2,10 @@ caelum, -ī, n - небе
   sōl, solis, m - слънце
   luna, -ae, f - луна
   stēlla, -ae, f - звезда
+  sīdus, sīderis, n - звезда, съзвездие
 xmōns montis, m - планина
 saxum, -ī, n - скала, канара
+mōlēs, -is, f - подводна скала, купчина
 antrum, -ī, n - пещера
 spēlunca, -ae, f - пещера
 specus, -ūs, m - пещера, скривалище
@@ -11,9 +13,12 @@ vallis, -is, f - долина
 collis, -is, m - хълм
 tumulus, -ī, m - могила, хълмче
 campus, -ī, m - равнина
-arvum, -ī, n - поле
 ager, agrī, m - поле, имение
+arvum, -ī, n - нива
+prātum, -ī, n - поляна
 silva, -ae, f - гора
+nemus, nemoris, n - гора с поляна
+lūcus, -ī, m - свещенна гора
 īnsula, -ae, f - остров, жилищен блок
 paenīnsula, -ae, f - полуостров (букв. почти остров)
 fōns, fōntis, m - извор, фонтан, изтичник, първопричина
