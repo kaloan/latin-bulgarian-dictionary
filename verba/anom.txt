@@ -16,14 +16,14 @@ esse - съм
 velle - искам
   nōlle - не искам
   mālle - предпочитам
-  
+
 fierī - случва се, сбъдва се, създава се, подготвя се
 fore - ще стане
 
 ferre, tulisse, lātum - нося
   afferre, attulisse, allātum - донасям
   auferre, abstulisse, ablātum - отмъквам, отнасям
-  cōnferre - стягам, събирам, обсъждам 
+  cōnferre - стягам, събирам, обсъждам
   dēferre - занасям, продавам, препредавам
   differre - разнасям, забавям
   ēferre - изнасям, обявявам
@@ -43,5 +43,5 @@ ferre, tulisse, lātum - нося
   exīre - излизам
   perīre - да умре, да се унищожи, да се разпадне
   redīre - връщам се
-  subīre - движа се под 
+  subīre - движа се под
   trānsīre - преминавам

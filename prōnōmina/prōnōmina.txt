@@ -23,7 +23,7 @@ uterque, utrumque, utrīusque, utrīque, utrōque, utrīque, utrōsque, utrōrum
 utraque, utramque, utrīusque, utrīque, utrāque, utraeque, utrāsque, utrārumque, utrīsque, utrīsque - двете
 utrumque, utrumque, utrīusque, utrīque, utrōque, utraque, utraque, utrōrumque, utrīsque, utrīsque - двете
 
-neuter, neutrum, neutrīus, neutrī, neutrō, neutrī, neutrōs, neutrōrum, neutrīs, neutrīs - нито двата 
+neuter, neutrum, neutrīus, neutrī, neutrō, neutrī, neutrōs, neutrōrum, neutrīs, neutrīs - нито двата
 neutra, neutram, neutrīus, neutrī, neutrā, neutrae, neutrās, neutrārum, neutrīs, neutrīs - нито двете
 neutrum, neutrum, neutrīus, neutrī, neutrō, neutra, neutra, neutrōrum, neutrīs, neutrīs - нито двете
 
@@ -31,13 +31,13 @@ alter, alterum, alterīus, alterī, aletrō, alterī, altrōs, alerōrum, alter�
 altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едината/другата от две
 alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - единото/другото от две
 
-alius, alium, alīus, aliī, aliō, aliī, aliōs, aliōrum, aliīs, aliīs - друг 
+alius, alium, alīus, aliī, aliō, aliī, aliōs, aliōrum, aliīs, aliīs - друг
 alia, aliam, alīus, aliī, aliā, aliae, aliās, aliārum, aliīs, aliīs - друга
 aliud, aliud, alīus, aliī, aliō, alia, alia, aliōrum, aliīs, aliīs - друго
 
-quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque - всеки 
+quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque - всеки
 quaque, quamque, cuisque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque - всяка
-quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко 
+quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко
 
 plērīque, plērōsque, plerōrumque, plerīsque, plerīsque - почти/близо всички
 plēraeque, plērāsque, plērārumque, plerīsque, plerīsque - почти/близо всички
@@ -51,7 +51,7 @@ quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpi
 quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое-годе, кое да е
 
 
-aliquis, aliquem, alicuis, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой 
+aliquis, aliquem, alicuis, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой
 aliqua, aliquam, alicuis, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя
 aliquod, aliquod, alicuis, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus - някое
 
@@ -78,11 +78,11 @@ nōnnūllae, nōnnūllās, nōnnūāōrum, nōnnūllīs, nōnnūllīs - няко
 nōnnūlla, nōnnūlla, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
 
 
-ego, mē, meī, mihi, mē - аз 
+ego, mē, meī, mihi, mē - аз
 egomet, mēmet, meīmet, mihimet, mēmet - аз (използвано понякога в мерената реч)
-tū, tē, tuī, tibi, tē - ти 
+tū, tē, tuī, tibi, tē - ти
 tūte, tēte, tuīmet, tibimet, tēte - ти (използвано понякога в мерената реч)
-nōs, nōs, nostrī, nōbīs, nōbīs - ние 
+nōs, nōs, nostrī, nōbīs, nōbīs - ние
 vōs, vōs, vestrī, vōbīs, vōbīs - вие
 
 -, sē/sēsē, sui, sibi, sē/sēsē, -, sē/sēsē, sui, sibi, sē/sēsē - се, свой, своя, свое, себе си, си, свои, сам, сама, само, възвратни местоимения

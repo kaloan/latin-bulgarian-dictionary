@@ -3,7 +3,7 @@ familia, -ae, f - фамилия
 parentēs, -ium, m pl - родители, прадеди
 līberī, -ōrum, m pl - деца
 mamma, -ae, f - мама
-pāpa, -ae, m - тати 
+pāpa, -ae, m - тати
 māter, mātris, f - майка
 noverca, -ae, f - мащеха
 pater, patris, m - баща, татко
@@ -28,9 +28,9 @@ socer, -ī, m - тъст, свекър
 socrus, -ūs, f - тъща, свекърва
 mātrimōnium,  -ī, n - брак
 spōnsus, -ī, m - годеник, младоженец
-spōnsa, -ae, f - годеница, младоженка 
+spōnsa, -ae, f - годеница, младоженка
 uxor, uxoris, f - съпруга
-marītus, -ī, m - съпруг 
+marītus, -ī, m - съпруг
 coniunx, coniugis, m/f - съпруг, съпруга
 mātrōna, -ae, f - омъжена жена, мадам, матрона
 virgō, virginis, f - девица

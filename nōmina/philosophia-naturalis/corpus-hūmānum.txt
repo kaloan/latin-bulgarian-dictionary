@@ -23,7 +23,7 @@ caput, capitis, n - глава
   rictus, -ūs, m - челюст
   mandĭbula, -ae, f - челюстна кост
   ōs, ōris, n - уста
-    labrum, -ī, n - устна 
+    labrum, -ī, n - устна
     dēns, dentis, m - зъб
     lingua, -ae, f - език
     palātum, -ī, n - небце, вкус (сетиво)
@@ -34,7 +34,7 @@ guttur, -is, m - гърло
 cervix, cervicis, f - врат, тил
 collum, -ī, n - шия
 vertеbra, -ae, f - прешлен
-clavicula, -ae, f - ключе, ключица 
+clavicula, -ae, f - ключе, ключица
 thōrax, thōracos, m - гръд, гърди, нагръдник
 pectus, pectoris, n - гръд, гърди
   āla, -ae, f - подмишница
@@ -55,15 +55,15 @@ coxa, -ae, f - ханш
 coxendix, -icis, f - ханш
   pelvis, -is, f - таз
 crūs, crūris, n - крак
-  femur, femoris, n - бедро 
-  gremium, ‑ī, n - скут 
+  femur, femoris, n - бедро
+  gremium, ‑ī, n - скут
   genū, -ūs, n - коляно
   poples, poplitis, m - коляно
   tībia, -ae, f - пищял, свирка
   pēs, pedis, m - крак (от глезена надолу), мярка за дължина, равняваще се на 29,6см
     tālus, -ī, m - глезен, ашик
     petasus, -ī, m - пета
-viscera, viscerum, n pl - вътрешни органи, вътрешности 
+viscera, viscerum, n pl - вътрешни органи, вътрешности
   venter, ventris, m - стомах
   cor, cordis - сърце
   pulmō, pulmōnis, m - бял дроб

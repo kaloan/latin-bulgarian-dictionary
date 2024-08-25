@@ -20,12 +20,12 @@ cornīx, -cis, f - врана
 gallus, -ī, m - петек
 gallīna, -ae, f - кокошка
 porcus, -ī, m; sūs, sūis, m - свиня
-bōs, bovis, m/f - рогат добитък  
+bōs, bovis, m/f - рогат добитък
 taurus, -ī, m - бик
 vacca, -ae, f - крава
 vitulus, -ī, m - теле
 ariēs, arietis, m - овен
-ovis, -is, f - овца 
+ovis, -is, f - овца
 agnus, -ī, m - агне
 caper, caprī, m - козел
 haedus, -ī, m - козле
@@ -33,7 +33,7 @@ capra, -ae, f - коза
 capella, -ae, f - козичка
 cervus, -ī, m - елен
 aper, aprī, m - глиган
-elephantus, -ī, m - слон 
+elephantus, -ī, m - слон
 ursus, -ī, m - мечок
 ursa, -ae, f - мечка
 sīmius, -ī, m - маймуна
@@ -65,4 +65,4 @@ serpēns, -entis, m/f - змия, влечуго
 dracō, -ōnis, m - дракон, змей
 delphinus, -ī, m - делфин
 cancer, -ī, m - рак
-scorpiō, -ōnis, m - скорпион 
+scorpiō, -ōnis, m - скорпион

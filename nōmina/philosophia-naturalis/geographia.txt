@@ -41,5 +41,5 @@ altum, -ī, n - дълбини
 
 oriēns, -entis, m - изток
 occidēns, -entis, m - запад
-septentriōnēs, -um, m pl - север 
+septentriōnēs, -um, m pl - север
 merīdiēs, meridiēī, m - юг

@@ -3,10 +3,10 @@ exiguus - малък, дребен
 calidus - топъл
 frīgidus - студен
 dīmidius - намаляващ, смаляващ се
-rēctus - верен, прав (в смисъл на истинен), прав (в смисъл на права линия) 
+rēctus - верен, прав (в смисъл на истинен), прав (в смисъл на права линия)
 prāvus - грешен
 largus - щедър
-paulum, minus, minimum - малко 
+paulum, minus, minimum - малко
 cautus - предпазлив, внимателен, мнителен
 audāx -ācis - смел, решителен
 temerārius - дързък
@@ -25,7 +25,7 @@ ignārus - неук
 nōtus - знаен, известен
 ignōtus - незнаен, неизвестен
 nōbilis -is - известен, важен, аристократ
-celsus - висок 
+celsus - висок
 fallāx -cis - лъжлив, мамещ, грешен
 iūcundus - приятен, задоволяващ
 molestus - уморителен, неприятен, болезнен, отврятителен
@@ -40,13 +40,13 @@ nimius - преголям, твърде голям
 dēbilis -is - болен, слаб, кекав
 ēbrius - пиян
 avārus - алчен
-fīdus - верен, доверен 
+fīdus - верен, доверен
 fugitīvus - беглец
 sapiēns -ntis - умен, мъдър, разумен
 crūdēlis -is - жесток, див, освирепен
 cārus - скъп (като цена), скъп (като близък човек)
 vīlis -is - евтин, малоценен
-idōneus - удобен, подходящ 
+idōneus - удобен, подходящ
 posterus - следващ
 dīrus - ужасен
 incolumis - невредим, непокътнат
@@ -118,7 +118,7 @@ vacuus - празен
 pulcher, -rī - хубав, красив
 foedus - грозен
 amīcus - приятелски, полезен
-inimīcus - враждебем, вреден 
+inimīcus - враждебем, вреден
 longus - дълъг
 fessus - уморен, изморен
 fōrmōsus - красив
@@ -238,7 +238,7 @@ mīrus - чуден
 maestus - тъжен, опечален
 rapidus - бърз, пъргав, чевръст
 inexspectātus - неочакван
-dīligēns, dīligentis - усърден 
+dīligēns, dīligentis - усърден
 argenteus - сребърен
 glōriōsus - славен, преславен
 acūtus - остър
@@ -280,7 +280,7 @@ poēticus - поетичен
 scaenicus - театрален, сценичен
 sērius - сериозен, строг
 tenebricōsus - тъмен
-turgidus/turgidulus - оточен, набъбнал 
+turgidus/turgidulus - оточен, набъбнал
 emāx - обичащ пазаруването
 inconditus - груб, недодялан
 grammaticus - граматически
@@ -334,13 +334,13 @@ religiōsus - религиозен
 illūstris, -is - светещ, блестящ, известен
 hostīlis, -is - враж, противнически
 dīversus - разнороден
-strenuus - изтощителен, уморителен, храбър 
-occultus - скрит, таен 
+strenuus - изтощителен, уморителен, храбър
+occultus - скрит, таен
 suprēmus - най-далечен
 serēnus - чист, бистър, спокоен
 cotīdiānus - всекидневен
 immōtus - неподвижен
-ūtilis, -is - потребно, полезно 
+ūtilis, -is - потребно, полезно
 praecipuus - особен
 cōpiōsus - изобилен, плодороден
 dēnsus - чест, гъст
@@ -511,7 +511,7 @@ bīnī - два по два, по две, по двойки
 ternī - три по три, по три, по тройки
 trīnī - три по три, по три, по тройки (използва се за чисто множествени съществителни)
 quaternī - чретири по четири, по четири, по четворки
-quīnī - пет по пет, по пет, по петици 
+quīnī - пет по пет, по пет, по петици
 sēnī - шест по шест, по шест, по шестици
 dēnī - десет по десет, по десет, по десетки
 
@@ -546,13 +546,13 @@ malus, pēior, pessinus - лош
 magnus, māior, māximus - голям
 parvus, minor, minimus - малък
 multī, plūrēs, plūrimī pl - многобройни
-complūrēs, -ēs - изобилни, несчетни 
+complūrēs, -ēs - изобилни, несчетни
 multum, plūs plūris, plūrimum - много
 nēquam (indecl),nēquior, nēquissimus - подъл, отвратителен, низък, безполезен
 
 celer, celeris, celere - бърз
 
-vetus, veteris - вехт, стар, древен 
+vetus, veteris - вехт, стар, древен
 dīves, dīvitis, dīvitior, dīvitissimus - богат
 pauper, -is - беден
 
@@ -565,7 +565,7 @@ Britannus - британски
 Cannēnsis - кански
 Carthāginiēnsis - картагенски
 Delphicus - делфийски
-Eurōpaeus - европейски 
+Eurōpaeus - европейски
 Etrūscus - етруски/етрускски (!!!)
 Gabīnus - габийски
 Gallus- галски

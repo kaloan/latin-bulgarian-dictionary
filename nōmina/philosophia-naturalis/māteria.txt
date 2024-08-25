@@ -6,7 +6,7 @@ marmor, -is, n - мрамор
 ebur, eboris, n - слонова кост
 cēra, -ae, f - восък
 sāl, salis, m - сол
-mel, mellis, n - мед 
+mel, mellis, n - мед
 metallum, -ī, n - метал
   aes, aeris, n - мед, бронз
   aurum, -ī, n - злато

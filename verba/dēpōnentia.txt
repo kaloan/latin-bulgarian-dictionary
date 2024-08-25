@@ -3,12 +3,12 @@ revertī, reversum esse/revertisse (d) - връщам се
 
 mentīrī (d) - лъжа
 cōnārī (d) - опитвам се, прибвам
-tumultuārī (d) - вдигам олелия, правя суматоха, всявам смут, обърквам, разбърквам 
+tumultuārī (d) - вдигам олелия, правя суматоха, всявам смут, обърквам, разбърквам
 nāscī, nātum esse(d) - раждам се
 morī -ior, mortuum esse (d) - умирам
   ēmorī -ior (d) - измирам, изчезвам
 versārī (d) - въртя се, неспирно се движа
-fatērī, fessum esse (d) - потвърждавам, признавам  
+fatērī, fessum esse (d) - потвърждавам, признавам
   cōnfitērī (d) - признавам
 orīrī, ortum esse (d) - изгрявам, появявам се
   coorīrī (d) - изниквам
@@ -30,7 +30,7 @@ innitī, innixum esse (d + abl) - облягам се
 blandīrī (d) - ухажвам, лаская, давам комплимент, очаровам
 querī, questum esse (d) - оплаквам се, обжалвам
 luctārī (d) - боря се, играя борба
-mīrārī (d) - чудя се 
+mīrārī (d) - чудя се
   admīrārī (d) - учудвам се, уважавам
 ōsculārī (d) - целувам
 mētīrī, mensum esse (d) - меря
@@ -47,7 +47,7 @@ laetārī (d) - радвам се
 verēri, veritum esse (d) - страхувам се
 intuēri, intuitum esse (d) - виждам, гледам, обследвам
 complectī, complexum esse (d) - прегръщам
-circumplectī, circumplexum esse (d) - обгръщам, заграждам, прегръщам 
+circumplectī, circumplexum esse (d) - обгръщам, заграждам, прегръщам
 cōnsōlārī (д) - утешавам
 loquī, locutum esse (d) - говоря
   colloquī (d) - събеседвам, разговарям
@@ -65,7 +65,7 @@ pollicērī, pollicitum esse (d) - вричам се, обещавам
 imitārī: (d) - подражавам
 hortārī (d) - увещавам, придумвам, увещавам, скланям, подтиквам, подбуждам, хортувам
   adhortārī (d) - придумвам
-  dēhortārī (d) - раздумвам, разубеждавам 
+  dēhortārī (d) - раздумвам, разубеждавам
   exhortārī (d) - предумвам
 fabulārī (d) - приказвам, разказвам
 oblīvīscī, oblītum esse (d) - забравям, потъмнявам
@@ -73,4 +73,4 @@ proeliārī (d) - воювам, участвам в битка
 cunctārī (d) - протакам, отсрочвам, отлагам
 tuī, tuitum esse (d) - наблюдавам, гледам, гръжа се, поддържам
 largīrī, largitum esse (d) - давам щедро, подкупвам
-vagārī (d) - странствам, блуждая 
+vagārī (d) - странствам, блуждая

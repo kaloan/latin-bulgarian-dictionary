@@ -4,12 +4,12 @@ Sicilia, -ae, f - Сицилия
 Melita, -ae, f - Малта
 Ortygia, -ae, f - Ортигия
 
-Crēta, -ae, f - Крит 
+Crēta, -ae, f - Крит
 Rhodus, -ī, m - Родос
 Naxus, -ī, m - Наксос
 Samos, -ī, f - Самос
 Chios, -ī, f - Хиос
-Lesbos, -ī, f - Лесбос 
+Lesbos, -ī, f - Лесбос
 Lēmnos, -ī, f - Лемнос
 Euboea, -ae, f - Евбeя, Негропонт
 Phaeācēs, -um, m pl - Феакия, Схерия
