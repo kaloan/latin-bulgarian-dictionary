@@ -41,12 +41,13 @@ arānea, -ae, f - паяк, паяжина
 rāna, -ae, f; rubēta, -ae, f - жаба
 lepus, leporis, m - заек
 canis, -is, m/f - куче/кучка
-catulus, -ī, m - кученце
+catulus, -ī, m - паленце, кученце, вълче
 lupus, -ī, m - вълк
 lupa, -ae, f - вълчица, проститутка
 leō, leōnis, m - лъв
 homō, hominis, m - човек
 piscis, -is, m - риба
+  sardīna, -ae, f - сардина
 volucris, -is, f - летящо същество
 avis, -is, f - птица
 aquilla, -ae, f - орел

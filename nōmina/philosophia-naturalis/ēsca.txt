@@ -27,9 +27,10 @@ pōmum, -ī, n - плод
   frūgēs, -um, f pl - реколта
   frūmentum, -ī, n - жито
     far, farris, n - спелта
-    spīca, -ae, f - житен клас
+    spīca, -ae, f - житен клас, свила
   siliqua. -ae, f - боб
+  cucumis, -eris, m - краставица
 holus, holeris, n - зеленчук
   bēta, -ae, f - морков
-  lactūca, -ae, f - маруля
+  lactūca, -ae, f - маруля, салата
 nux, nucis, f - ядка, плод с черупка

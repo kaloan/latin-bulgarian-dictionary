@@ -22,9 +22,11 @@ aedificium, -ī, n - здание, сграда, постройка
     tepidārium, -ī, n - топла баня
     sūdātōrium, -ī, n - сауна
     lacōnicum, -ī - сауна
+    assa, -ae, f - суха сауна
     frīgidārium, -ī, n - студена баня
     apodȳtērium, -ī, n - съблекалня
     palaestra, -ae, f - палестра, тепих
+    cērōma, -atis, n - тепих
     hypocaustum, -ī, n - подоотоплителна система
   theātrum, ‑ī, n - театър
   amphitheātrum, -ī, n - амфитятър, място на което се провеждали развлекателни боеве и смъртни наказания
@@ -41,7 +43,8 @@ aedificium, -ī, n - здание, сграда, постройка
     caupōna, -ae, f - странноприемница
     thermopōlium, -ī, n - ресторанче
     pistrīna, -ae, f - пекарна
-    macellum, -ī, n - месарница
+    macellum, -ī, n - месарница, касапница
+    holerārium, -ī, n - магазин за зеленчуци
   horreum, -ī, n - склад
 forum, -ī, n - мегдан
 statua, -ae, f - статуя

@@ -9,7 +9,7 @@ tellus, -ūs, f - земя (като елемента), Земята, земя (
 humus, -ī, m - земя, почва
 solum, -ī, n - почва
   sordēs, -ium, f pl - кал, мръсотия
-  lutum, -ī, n - кал
+  lutum, -ī, n - кал, луга
   rūpēs, -is, f - скала, канара, урва
   lapis, -idis, m - камък
   calculus, -ī, m - камъче

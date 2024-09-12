@@ -8,11 +8,10 @@ facere -iō, fēcisse, fаctum - правя, върша
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
   praeficere -iō, praefēcisse, praefectum - поставям начело
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
+  reficere -iō, refēcisse, refectum - преправям
   satisfacere iō - задоволявам, извинявам се, обезщетявам
   sufficere -iō, suffēcisse, suffectum - да е достатъчно
 parere -iō, peperisse, partum - раждам, създавам
-percutere -iō, percussisse, percussum - блъскам, тропам
-  repercutere iō - отблъсквам
 cupere -iō, cupīvisse, cupitum - купнея, желая
 iacere -iō, iēcisse, iactum - хвърлям, мятам
   adicere -iō, adiēcisse, adiēctum - хвърлям към, допълвам
@@ -23,6 +22,7 @@ iacere -iō, iēcisse, iactum - хвърлям, мятам
   prōicere -iō, prōiēcisse, prōiēctum - хвърлям напред, падам пред
   rēicere -iō, rēiēcisse, rēiēctum - отхвърлям
   trāicere -iō, trāiēcisse, trāiēctum - прехвърлям, промушвам
+  subicere -iō, subiēcisse, subiēctum - хвърлям под, поставям под, подхвърлям, разкривам, допълвам текст
 fugere -iō, fugisse, fugitum - бягам от някого/нещо, избягвам, чезна
   aufugere -iō, aufugigisse - бягам от някого/нещо, изчезвам
   cōnfugere -iō, cōnfugisse - прибягвам, намирам убежище
@@ -39,7 +39,7 @@ spicere -iō, spexisse, spectum - виждам
   respicere - поглеждам отново
   suspicere - гледам нагоре, изследвам, наблюдавам
 capere -iō, cepisse, captum - хващам, грабвам, държа
-  accipere -iō, accepisse, acceptum - взимам, получавам
+  accipere -iō, accepisse, acceptum - взимам, получавам, приемам
   excipere -iō, excepisse, exceptum - вадя, премахвам
   dēcipere -iō, dēcepisse, dēceptum - мамя
   incipere -iō, incepisse, inceptum - започвам
@@ -50,3 +50,8 @@ rapere -iō, rapuisse, raptum - грабя, отмъквам
   corripere -iō - изземвам, укорявам, скъсявам
   ēripere -iō - ограбя, отнемам
   surripere -iō - крада, обирам
+
+-cutere -iō, -cussisse, -cussum
+  excutere -iō - отърсвам, прогонвам
+  percutere -iō - блъскам, тропам
+    repercutere -iō - отблъсквам

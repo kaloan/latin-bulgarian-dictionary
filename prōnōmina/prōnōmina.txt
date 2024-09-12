@@ -58,9 +58,9 @@ aliquod, aliquod, alicuis, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliqui
 quisquam, quemquam, cuisquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
 quidquam/quicquam, quidquam/quicquam, cuisquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
 
-quīdam, quemdam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam, quibusdam, quibusdam - еди-кой, един определен
-quaedam, quamdam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam, quibusdam, quibusdam- еди-коя, една определена
-quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam, quibusdam, quibusdam - еди-кое, едно определено
+quīdam, quemdam/quendam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam/quōrundam, quibusdam, quibusdam - еди-кой, един определен
+quaedam, quamdam/quandam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam/quārundam, quibusdam, quibusdam- еди-коя, една определена
+quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam/quōrundam, quibusdam, quibusdam - еди-кое, едно определено
 
 
 īdem, eundem, eiusdem, eīdem, eōdem, iīdem, eōsdem, eōrundem, iīsdem, iīsdem  - същият

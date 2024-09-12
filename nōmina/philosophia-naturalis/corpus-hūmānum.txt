@@ -5,7 +5,7 @@ pellis, -is, f - кожа, кожух
 cutis, -is, f - кожа
 tāctus, -ūs, m - допир
 tempus, temporis, n - слепоочие
-caput, capitis, n - глава
+caput, capitis, n - глава, основно ястие
   cranium - череп
   faciēs, faciēī, f - лице, предна част
   vultus, -ūs, m - лице, израз
@@ -40,7 +40,7 @@ pectus, pectoris, n - гръд, гърди
   āla, -ae, f - подмишница
   costae, -ārum, f pl - ребра
 braccium, -ī, n - ръка
-  lacertus, -ī, m - мишница
+  lacertus, -ī, m - мишница, мишца
   cubitum, -ī, n - лакът, предмишница, мерна единица за дължина
   manus, -ūs, f - ръка (от киктата надолу)
     digitum, -ī, n - пръст

@@ -16,9 +16,14 @@ cubiculum, -ī, n - стая, спалня
     compluvium, -ī, n - отвор в покрива над имплувиума
   culīna, -ae, f - кухня, мангали можели да се пренесат в атриумът и да се сготви там
   triclīnium, -ī, n - триклиниум, разположение на три кревата с маса, практически изпълнява функция на трапезария
+  cēnātiō, -ōnis, f - трапезария
     ferculum, -ī, n - поднос
     pelvis, -is, f - паница
+    catīnum, -ī, n - дълбока чиния
+    caccabus, -ī, m - тенджера
+    ōlla, -ae, f - гърне, буркан
     operculum, -ī, n - капак
+    discus, -ī, m - поднос
     pōculum, -ī, n - чаша
     culter, cultrī, m - нож
   larārium, -ī, n - място, където се помещавали статуи на ларите
@@ -27,6 +32,7 @@ cubiculum, -ī, n - стая, спалня
   tablīnum, -ī, n - стая, изпълняваща ролята на библиотека, писалище, работен кабинет
   lavātrīna/lātrīna, -ae, f - баня
   balneum, -ī, n - баня
+  sēcessus, -ūs, m - тоалетна
 hortus, -ī, m - градина
   sphaeristērium, -ī, n - поле за игра с топка
 supellex, -ctilis, f - мебел
@@ -36,7 +42,7 @@ supellex, -ctilis, f - мебел
   torus, -ī, m - креват
   cūnae, -ārum, f pl - бебешко креватче
   pulvīnus, -ī, n - възглавница
-  solium, -ī, n - трон
+  solium, -ī, n - трон, вана
   sella, -ae, f - стол с гръб
   scamnum, -ī, n - малък стол, стъпало
   armārium, -ī, n - шкаф
@@ -61,5 +67,6 @@ crepundia, -ōrum, n pl - залагалка
 pupa, -ae, f - кукла
 pila, -ae, f - топка
 scāla, -ae, f - стълба
+scālae, -ārum, f - стълби, стъпала
 fūnis, -is, m - въже
 vās, vāsis, n - ваза

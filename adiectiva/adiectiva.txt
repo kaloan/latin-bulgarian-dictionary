@@ -27,12 +27,14 @@ ignōtus - незнаен, неизвестен
 nōbilis -is - известен, важен, аристократ
 celsus - висок
 fallāx -cis - лъжлив, мамещ, грешен
+suāvis, -is - приятен, весел, сладък
 iūcundus - приятен, задоволяващ
 molestus - уморителен, неприятен, болезнен, отврятителен
 īmus - долен
 medius - среден
 summus -горен
 tardus - бавен, закъсняващ
+sērus - закъснял, последен
 acerbus - кисел
 amārus - кисел
 dulcis, -is - сладък
@@ -50,7 +52,7 @@ idōneus - удобен, подходящ
 posterus - следващ
 dīrus - ужасен
 incolumis - невредим, непокътнат
-ācer ācris - деен, действен, деятелен
+ācer ācris - деен, действен, деятелен, кисел (на вкус)
 perpetuus - вечен
 venustus - обичан, очарователен
 passus - сушен
@@ -73,6 +75,7 @@ pius - съвестен, праведен
 impius - порочен, нечестив, безбожен, бедствен
 mendāx -cis - лъжлив, фалшив
 tepidus - хладък
+tepidārius - хладъко воден
 scaevus - ляв
 supplex supplicis - молещ, коленичещ
 vastus - обширен, огромен
@@ -97,10 +100,10 @@ dōnātus - богат
 pūtidus - развален
 sollicitus - разтревожен
 tortuōsus - трудно понятен
-lepidus - красив
+lepidus - чаровен, приятен
 particeps, -ipis - участващ
 macer - слаб, хилав, недохранен
-assus - печен
+assus - печен, жарен (?), грилован (?)
 ineptus - глупав, недодялан
 hebes hebetis - глупав
 sēpār -is - отделен
@@ -121,6 +124,7 @@ amīcus - приятелски, полезен
 inimīcus - враждебем, вреден
 longus - дълъг
 fessus - уморен, изморен
+lassus - изморен, изтощен, отпаднал, изнурен
 fōrmōsus - красив
 plēnus (+gen) - пълен (с)
 pecūniōsus - богат
@@ -173,6 +177,7 @@ sēmis, -is - половин
 frequēns, frequentis - чест, честосрещан
 rārus - рядък, рядкосрещан
 varius - различен
+dīversus - разен, разнороден, разграничен
 tālis, -is - такъв
 turpis, -is - противен, безсрамен, отвратителен, грозен
 mollis - мек, гъвкав, ковък
@@ -242,8 +247,8 @@ dīligēns, dīligentis - усърден
 argenteus - сребърен
 glōriōsus - славен, преславен
 acūtus - остър
-absēns, absentis - присъстващ
-praesēns, praesentis - отсъстващ
+absēns, absentis - отсъстващ, липсващ
+praesēns, praesentis - присъстващ, наличен, текущ
 asinīnus - магарешки
 clēmēns, clēmentis - благ, щадящ, мек
 iūstus - справедлив
@@ -283,7 +288,7 @@ tenebricōsus - тъмен
 turgidus/turgidulus - оточен, набъбнал
 emāx - обичащ пазаруването
 inconditus - груб, недодялан
-grammaticus - граматически
+grammaticus - граматически, граматик
 vulnerātus - ранен
 vīcīnus - близък, съседен
 trigeminus - тризнак
@@ -368,6 +373,24 @@ paternus - бащин
 caelestis - небесен
 iuvenālis - младежки
 tener, -ī - мек, нежен, млад, слаб, женствен
+silvester, -is - горски, див, необработен, неопитомен
+publicus - обществен
+prīvatus - частен, личен
+mutuus - споделен, общ, взет назаем, зает
+dēlicātus - деликатен, разкошен, разглезен, женствен
+cotīdiānus - всекидневен
+calceātus - обут
+dormītōrius - спален
+pusillus - дребен
+prānsus - нахранен, приключил обяда си
+amantissimus - най-благ
+cārissimus - най-скъп
+frūgālis, -is - семпъл, пестелив, скромен
+domesticus - домашен
+holerārius - зеленчуков
+subdīvālis, -is - открит, без покрив
+fervēns, -entis - кипящ, пламенен, жарък, въодушевен
+ēscārius - годен за ядене
 
 amāns, amantis - любящ
 perturbātus - шашардисан
@@ -377,6 +400,7 @@ vehemēns, -entis - насилващ, буен
 haustus - точен, източен, излят
 cultus - поддържан, обработен
 vulgāris, -is - народен, общ, обществен
+agēns - действащ
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -420,7 +444,6 @@ explētīvus - допълващ, запълващ
 causālis - причинен
 ratiōnālis - разумен
 
-ambō - и двата
 
 tōtus, -īus - цял, пълен, целокупен
 sōlus,-īus - сам, единствен
@@ -432,6 +455,9 @@ nūllus,-īus - нула, без
 duo, -ōrum, m/n pl - два
 duae, -ārum, f pl - две
 dua, -ōrum, n pl - две
+ambō, ambōrum, m pl - и двата
+ambae, ambārum, f pl - и двете
+ambō, ambōrum, n pl - и двете
 trēs, trium, m/f pl - три
 tria, trium, n pl - три
 quattuor, indecl - четири

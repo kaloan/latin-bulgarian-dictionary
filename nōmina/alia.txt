@@ -50,7 +50,7 @@ honōs, -ōris, m - чест
 honor, -ōris, m - чест
 radius, -ī, m - лъч, спица
 sūdor, -is, m - пот
-cāseus, -ī, m - сирене
+cāseus, -ī, m - сирене, кашкавал
 socius, -ī, m - съюзник
 venia, -ae, f - прошка, опрощение
 laqueus, -ī, m - примка, капан
@@ -111,7 +111,7 @@ melos, indecl, n - песен
 ōmen, -inis, n - поличба
 subsidium, -ī, n - подпомагане
 prandium, -ī, n - обяд
-exemplar, -is, n - пример
+exemplar, -āris, n - пример, образец
 unguentum, -ī, n - масло, мазило
 sēcessus, -ūs, m - самотно, скришно място
 piscīna, -ae, f - басейн, рибарник
@@ -120,7 +120,7 @@ placenta, -ae, f - кекс, торта
 fax, facis, f - факла
 facula, -ae, f - малка факла
 taeda, -ae, f - борова факла, която младоженците носили
-fraudātor, -is, m - мошеник
+fraudātor, -is, m - мошеник, измамник
 iūdex, iūdicis, m - съдия
 iūdicium, -ī, n - съд
 pugnantiа, -ārum, f pl - противоречие, несъответствие
@@ -132,7 +132,7 @@ scaena, -ae, f - сцена
 vir, -ī, m - мъж
 fēmina, -ae, f - жена
 mulier, -is, f - жена
-puer, -ī, m - момче, хлапе
+puer, -ī, m - момче, хлапе, прислужник
 puella, -ae, f - момиче, хлапачка
 dominus, -ī, m - господар
 domina, -ae, f - господарка
@@ -215,6 +215,13 @@ gradus, -īs, m - стъпка
 sermō, -ōnis, n - реч, говор, слова
 rūmor, -is, m - мълва, слух
 minae, -ārum, f - заплахи
+interpretāmentum, -ī, n - интерпретация, тълкование, разяснение, обяснение
+prologus, -ī, m - въведение, пролог
+audītiō, -ōnis, f - урок, лекция, слух (като мълва), слух (като сетиво)
+lēctiō, -ōnis, f - лекция, урок
+dictātum, -ī, n - диктовка
+salūtātiō, -ōnis, f - поздрав
+invītātiō, -ōnis, f - покана
 silentium, -ī, n - тишина, безмълвие
 causa, -ae, f - причина
 catēna, -ae, f - верига
@@ -407,6 +414,24 @@ frēnum, -ī, n - повод, сбруя
 lōra, -ōrum, n pl - юзди
 habēnae, -ārum, f pl - оглавник, юлар
 iugum, -ī, n - иго, ярем, хомот
+stercus, stercoris, n - тор, фъшкия, мръсотия
+difficultās, -ātis, f - сложност
+exemplar, -āris, n - пример
+ampulla, -ae, f - ампула, колба, бутилка, буркан
+secūris, -is, f - секира, тесла
+gallicinium, -ī, n - петльова песен
+iūrgium, -ī, n - свада, спор
+contrōversia, -ae, f - спор, дебат
+
+Aeneadae, -ārum, f pl - енеиди, троянците последвали Еней към Италия
+
+tabernārius, -ī, m - продавач
+  balneätor, -ōris, m - пазач на обществените бани
+  unguentārius, -ī, m - продавач на масло
+
+ferculum, -ī, n - гозба, ястие
+  gustātiō, -ōnis, f - разядка, предястие
+  pulmentārium, -ī, n - яхния
 
 tragoedia, -ae, f - трагедия
 commoedia, -ae, f - комедия
@@ -425,7 +450,7 @@ morbus, -ī, m - болест, заболяване
   falx, falcis, f - сърп
   malleus, -ī, n - чук
   arātrum, -ī, n - рало, плуг
-
+  strigilis, -is, f - стръгалка с която чистели маслото от тялото си
 
 sonus, -ī, m - звук
   strepitus, - кънтеж, тътен, бучене, ечене
