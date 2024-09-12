@@ -6,8 +6,6 @@ invadīre - навлизам, отнемам
 invadīre in - нападам
 condīre - погребвам, заравям
 partuīre - бременна съм
-impedīre - забавям, възпрепятствам, прека, попречвам
-expedīre - забързвам
 fastīdīre - не понасям, не навиждам, отвращавам се от нещо
 sitīre - жаднея, жадувам
 ēsurīre - гладувам
@@ -28,6 +26,12 @@ sepelīre, sepeliisse/sepelivisse, sepultun - погребвам, заравям
 mūgīre, mūgivisse - муча
 fastidīre - презирам, пренебрегвам
 īnsānīre - откачен съм
+
+-pedīre
+  impedīre - забавям, възпрепятствам, прека, попречвам
+  impedīre (+dat) - вредя (някому)
+  expedīre - забързвам
+  expedīre (+dat) - помагам (някому)
 
 salīre, sаluisse/saliisse, saltum - скачам
   circumsilīre. circumsiluisse - подскачам

@@ -92,6 +92,7 @@ mittere, mīsisse, missum - изпращам, освобождавам, мята
   remittere - връщам, мятам обратно
   submittere - поставям под друго, поднасям, понижавам, възпирам, подчинявам
 sistere, stitisse/stetisse, statum - спирам, проверявам
+  adsistere, adstitisse - спирам, заставам на място
   cōnsistere, cōnstitisse - спирам, прекъсвам, заставам на място
   dēsistere, dēstitisse, destitum - възпирам, прекратявам
   īnsistere, institisse - настоявам
@@ -139,7 +140,7 @@ emere, ēmisse, ēmptum - купувам, придобивам
     resūmere - продължавам, въсзтановявам се
 agere, ēgisse, āctum - действам, върша
   cōgere, coēgisse, coāctum - принуждавам, насилвам, изисквам
-  peragere, perēgisse, perāctum - довършвам, свършвам
+  peragere, perēgisse, perāctum - извършвам, довършвам, свършвам
 pāscere, pāvisse, pāstum - паса, храня, насищам
   perpāscere - угоявам
 vertere, vertisse, versum - обръщам, променям, унищожавам
@@ -157,6 +158,7 @@ pōnere, posuisse, positum - поставям
   impōnere - поставям на, поставям задача/задължение някому
   praepōnere (+dat) - ръководя, положен съм на чело на
 fīgere, fīxisse, fīxum/fictum - стягам, закачам, захващам
+  crucifīgere - разпъвам на кръст
   īnfīgere - мушкам, убождам, вмъквам
   trānsfīgere - промуша, пробивам
 sīdere, sedisse/sidisse, sessum - сядам, потъвам

@@ -12,6 +12,7 @@ fulgēre, fulsisse - блести, свети
 nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
 ciēre, civisse, citum - друсам, бъркам
 cavēre, cāvisse, cautum - внимавам, предпазвам се
+cavēre (+dat) - гарантирам (на някого), давам гаранция (на някого)
 respondēre, respondisse, responsum - откиквам, отговарям
 tacēre, tacuisse, tacitum - мълча
 timēre, timuisse - страхувам се
@@ -47,7 +48,7 @@ salvēre - здравея
 haerēre, haesisse, haesum - закрепен съм, държа се, придържам се
 avēre, (!), (!) - чуствам се добре
 prandēre, prandisse, pransum - обядвам
-
+maledīcēre (+dat) - злословя (някого)
 
 -plēre (plēnus)
   complēre - напълвам

@@ -27,6 +27,7 @@ scelus, sceleris, n - престъпление, изстъпление, извр
 mōs, mőris, m - морал, ценност
 pōtiō, -ōnis, f - напитка
 rūmor, -is, m - мълва, слух
+maledictum, -ī, n - злословие
 mūnus, -eris, n - подарък, услуга, данък, задължение
 fīdēs, fideī, f - вяра
 crux, crucis, f - кръст
@@ -121,6 +122,7 @@ fax, facis, f - факла
 facula, -ae, f - малка факла
 taeda, -ae, f - борова факла, която младоженците носили
 fraudātor, -is, m - мошеник, измамник
+impostor, -ōris, m - измамник
 iūdex, iūdicis, m - съдия
 iūdicium, -ī, n - съд
 pugnantiа, -ārum, f pl - противоречие, несъответствие
@@ -281,6 +283,7 @@ convīva, -ae, m/f - вечерен гост
 merum, -ī, n - неразредено вино
 genus, generis, n - вид, сорт, род
 plērōma, pleromatis, n - пълнота, запълненост
+lībertus, -ī, m - освободен роб
 lībertīnus, -ī, m - освободен роб
 lībertīna, -ae, f - освободена робиня
 gustātiō, -ōnis, f - разядка
@@ -422,11 +425,15 @@ secūris, -is, f - секира, тесла
 gallicinium, -ī, n - петльова песен
 iūrgium, -ī, n - свада, спор
 contrōversia, -ae, f - спор, дебат
+pignus, pignoris, n - залог
+ūsūra, -ae, f - лихва
+advocātus, -ī, m - адвокат
 
 Aeneadae, -ārum, f pl - енеиди, троянците последвали Еней към Италия
 
 tabernārius, -ī, m - продавач
   balneätor, -ōris, m - пазач на обществените бани
+  nummulārius, -ī, m - търговец, обменящ валута
   unguentārius, -ī, m - продавач на масло
 
 ferculum, -ī, n - гозба, ястие

@@ -9,7 +9,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   praeficere -iō, praefēcisse, praefectum - поставям начело
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
   reficere -iō, refēcisse, refectum - преправям
-  satisfacere iō - задоволявам, извинявам се, обезщетявам
+  satisfacere iō (+dat) - задоволявам, извинявам се, обезщетявам
   sufficere -iō, suffēcisse, suffectum - да е достатъчно
 parere -iō, peperisse, partum - раждам, създавам
 cupere -iō, cupīvisse, cupitum - купнея, желая
