@@ -11,9 +11,9 @@ iste, istum, istīus, istī, istō, istī, istōs, istōrum, istīs, istīs - т
 ista, istam, istīus, istī, istā, istae, istās, istārum, istīs, istīs - таз/оназ, намираща се близо до слишателя/читателя
 istud, istud, istīus, istī, istō, ista, ista, istōrum, istīs, istīs - туй/онуй, намиращо се близо до слишателя/читателя
 
-ille, illum, illīus, illī, illō, illī, illōs, illōrum, illīs, illīs - онзи, намиращ се близо до трето лице
-illa, illam, illīus, illī, illā, illae, illās, illārum, illīs, illīs - онази, намираща се близо до трето лице
-illud, illud, illīus, illī, illō, illa, illa, illōrum, illīs, illīs - онова, намиращо се близо до трето лице
+ille/illic, illum, illīus, illī, illō, illī, illōs, illōrum, illīs, illīs - онзи, намиращ се близо до трето лице
+illa/illaec, illam, illīus, illī, illā, illae, illās, illārum, illīs, illīs - онази, намираща се близо до трето лице
+illud/illuc, illud, illīus, illī, illō, illa, illa, illōrum, illīs, illīs - онова, намиращо се близо до трето лице
 
 is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs - той
 ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs - тя
@@ -68,7 +68,7 @@ eadem, eandem, eiusdem, eīdem, eādem, eaedem, eāsdem, eārundem, iīsdem, iī
 idem, idem, eiusdem, eīdem, eōdem, eadem, eadem, eōrundem, iīsdem, iīsdem - същото
 
 
-ipse, ipsum, ipsīus, ipsī, ipsō, ipsī, ipsōs, ipsōrum, ipsīs, ipsīs - самият
+ipse/ipsus, ipsum, ipsīus, ipsī, ipsō, ipsī, ipsōs, ipsōrum, ipsīs, ipsīs - самият
 ipsa, ipsam, ipsīus, ipsī, ipsā, ipsae, ipsās, ipsārum, ipsīs, ipsīs - самата
 ipsum, ipsum, ipsīus, ipsī, ipsō, ipsa, ipsa, ipsōrum, ipsīs, ipsīs - самото
 
@@ -78,7 +78,7 @@ nōnnūllae, nōnnūllās, nōnnūāōrum, nōnnūllīs, nōnnūllīs - няко
 nōnnūlla, nōnnūlla, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
 
 
-ego, mē, meī, mihi, mē - аз
+ego, mē, meī, mihi/mī, mē - аз
 egomet, mēmet, meīmet, mihimet, mēmet - аз (използвано понякога в мерената реч)
 tū, tē, tuī, tibi, tē - ти
 tūte, tēte, tuīmet, tibimet, tēte - ти (използвано понякога в мерената реч)

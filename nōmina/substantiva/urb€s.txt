@@ -9,6 +9,7 @@ Tarquinia, -ae, f - Тарквиния
 Ardea, -ae, f - Ардеа
 Collātia, -ae, f - Колатия
 Coriolī, -ōrum, m pl - Кориоли
+Tarentum, -ī, n - Тарент (дн. Таранто), Тарас
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
@@ -19,6 +20,8 @@ Anthēdōn, -ōnis, f - Антедон
 Syrācūsae, -ārum, f pl - Соракуза
 Thēbae, -ārum, f pl - Тива
 Larissa, -ae, f - Лариса
+Epidamnus, -ī, f - Епидамн, Дирахиум
+Dyrrachium, -ī, n - Дирахиум (дн. Драч, Дуръс), Епидамн
 
 Saguntum, -ī, n - Сагунт
 Massilia, -ae, f - Масилия (дн. Марсилия)

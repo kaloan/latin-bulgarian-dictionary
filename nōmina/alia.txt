@@ -16,6 +16,7 @@ fidicen, -inis, m - лирист
 cantus, -ūs, m - песен
 carmen, -inis, n - песен, поема
 salūs, -ūtis, f - спасение, оцеляване, поздрав
+raptor, -ōris, m - грабител
 fūr, is, m - крадец
 fūrtum, -ī, n - кражба
 fortūna, -ae, f - съдба, късмет
@@ -33,6 +34,7 @@ fīdēs, fideī, f - вяра
 crux, crucis, f - кръст
 poena, -ae, f - наказание
 iūs, iūris, n - справедливост, правосъдие, съд, съдебна зала/сграда
+causidicus, -ī, m - баристер, адвокат
 nūgae, -ārum, f pl - глупости, проститии, празни приказки, дреболии
 supplicium, -ī, n - страдание, мъчение
 senex, senis, m/f - старец, старица
@@ -87,7 +89,7 @@ obses, -idis, m/f - заложник, залог
 calamitās, -ātis, f - нещастие, бедствие
 sarcinae, -ārum, f pl - товар, снаряжение, екипировка, амуниция
 vīcīnia, -ae, f - близост
-onus, oneris, n - тежест, тегоба, трудност
+onus, oneris, n - товар, тежест, тегоба, трудност
 nēquitia, -ae, f - несправедливост, мерзост
 blanditia, -ae, f - комплимент, лъскание
 murmur, -is, n - шепот, тих звук
@@ -123,6 +125,7 @@ facula, -ae, f - малка факла
 taeda, -ae, f - борова факла, която младоженците носили
 fraudātor, -is, m - мошеник, измамник
 impostor, -ōris, m - измамник
+sȳcophanta, -ae, m - измамник
 iūdex, iūdicis, m - съдия
 iūdicium, -ī, n - съд
 pugnantiа, -ārum, f pl - противоречие, несъответствие
@@ -212,13 +215,14 @@ pulchritūdō, -inis, f - красота, хубост
 decus, decoris, f - изящество, прелест
 dōnum, -ī, n - дар, подарък
 somnus, -ī, n - сън
-lac, lacis n - мляко, кърма
+lac/lacte, lacis, n - мляко, кърма
 gradus, -īs, m - стъпка
 sermō, -ōnis, n - реч, говор, слова
 rūmor, -is, m - мълва, слух
 minae, -ārum, f - заплахи
 interpretāmentum, -ī, n - интерпретация, тълкование, разяснение, обяснение
 prologus, -ī, m - въведение, пролог
+argūmentum, -ī, n - сюжет, тема, доказателство, заключение, аргумент
 audītiō, -ōnis, f - урок, лекция, слух (като мълва), слух (като сетиво)
 lēctiō, -ōnis, f - лекция, урок
 dictātum, -ī, n - диктовка
@@ -428,6 +432,7 @@ contrōversia, -ae, f - спор, дебат
 pignus, pignoris, n - залог
 ūsūra, -ae, f - лихва
 advocātus, -ī, m - адвокат
+lēnō, -ōnis, m - сводник
 
 Aeneadae, -ārum, f pl - енеиди, троянците последвали Еней към Италия
 

@@ -96,8 +96,7 @@ gelidus - хладен, хладък
 callidus - сръчен, хитър
 sērious - късен, забавен
 madidus - мокър
-benignus - добронамерен
-dōnātus - богат
+benignus - благосклонен, добронамерен, доброжелателен
 pūtidus - развален
 sollicitus - разтревожен
 tortuōsus - трудно понятен
@@ -301,6 +300,7 @@ intactus - недокоснат, невредим
 invidiōsus - завистлив
 luxuriōsus - луксозен, скъп, пищен, разточителен, разкошен
 nātus - роден
+prōgnātus - потомски, рожбен
 nocturnus - нощен
 opportūnus - сгоден, подходящ
 ōrnātus - украсен, окичен
@@ -397,7 +397,8 @@ ingenuus - роден от свободни родители, естествен
 opportūnus - удобен, пригоден, подходящ
 modicus - умерен
 sēcūrus - безгрижен, предпазен
-causidicus -
+surreptîcius - краден, откраднат
+īnspērātus - неочакван, непредвиден
 
 amāns, amantis - любящ
 perturbātus - шашардисан
@@ -408,6 +409,8 @@ haustus - точен, източен, излят
 cultus - поддържан, обработен
 vulgāris, -is - народен, общ, обществен
 agēns - действащ
+dōtātus - богат, охолен, облагодетелстван
+
 
 superior, summus - по-горен, по-висок, пръв
 īnferior, īnfimus - по-долен, по-нисък, последен
@@ -548,6 +551,8 @@ quīnī - пет по пет, по пет, по петици
 sēnī - шест по шест, по шест, по шестици
 dēnī - десет по десет, по десет, по десетки
 
+septuennis, -is - седмогодишен
+
 Graecus - гръцки
 Rōmānus - римски
 Latīnus - латински
@@ -571,6 +576,7 @@ difficilis, -is - труден
 gracilis, -is - грациозен, слаб, изпит
 humilis, -is - нисък, низък, неизвестен
 similis, -is - подобен, сходен
+cōnsimilis, -is - еднакъв, неразличим
 dissimilis, -is - различен, инакъв
 
 
@@ -586,7 +592,7 @@ nēquam (indecl),nēquior, nēquissimus - подъл, отвратителен, 
 celer, celeris, celere - бърз
 
 vetus, veteris - вехт, стар, древен
-dīves, dīvitis, dīvitior, dīvitissimus - богат
+dīves, dīvitis, dīvitior, dīvitissimus - богат, богаташ
 pauper, -is - беден
 
 
@@ -599,6 +605,7 @@ Cannēnsis - кански
 Carthāginiēnsis - картагенски
 Delphicus - делфийски
 Eurōpaeus - европейски
+Epidamniënsis - епидамски
 Etrūscus - етруски/етрускски (!!!)
 Gabīnus - габийски
 Gallus- галски
@@ -608,8 +615,10 @@ Hispānus - испански
 Italicus - италийски, апенински
 Italus - италиански
 Lūsītānus - лузитански, т.е. португалски
-Thraex - тракийски
-Tūsculānus - тускулански
+Pūnicus - пунически, картагенски
 Rōmānus - римски
 Sabīnus - сабински
-Pūnicus - пунически, картагенски
+Siculus - сицилийски
+Syrācūsānus - сиракузски
+Thraex - тракийски
+Tūsculānus - тускулански

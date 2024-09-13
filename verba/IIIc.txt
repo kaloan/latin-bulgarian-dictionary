@@ -35,7 +35,6 @@ dēfendere, dēfendisse, dēfensum - защитавам, отбранявам
 frīgescere, frixiisse - изстивам
 occidere, occidisse, occasum  - залязвам, умирам
 occīdere, occidisse, occisum (+acc) - убивам някого
-cernere, crevisse, cretum - различавам, отличавам, определям, зървам
 possīdere - обладавам, грабвам, превземам
 minuere, minuisse, minuitum - намалявам, отслабвам, смалявам
 alere, aluisse, altum/alitum - кърмя, изхранвам
@@ -58,6 +57,7 @@ crūdescere, crūduisse - подивявам, освирепявам, влоша
 īcere, īcisse, ictum - удрям, наръгвам, сключвам мир
 pallēscere, palluisse - прибледнявам
 ungere, ūnxisse, ūnctum - намазвам
+quaesere - питам, моля
 
 legere, lēgisse, lēctum - чета
   allicere -iō (!), allēxisse, allēctum - привличам
@@ -193,7 +193,7 @@ dūcere, dūxisse, ductum - водя
   prōdūcere - произвеждам, представям, водя напред, привеждам
   redūcere - завръщам, отстъпвам, възстановявам водя обратно
   sēdūcere - подвеждам, съблазнявам
-  subdūcere - повеждам, влача
+  subdūcere - повеждам, влача, свилчам, събарям, спъвам
   subterdūcere - крада
   superdūcere - превеждам над, покривам
   trādūcere - превеждам, преминавам
@@ -212,13 +212,15 @@ sinere, sivisse/sisse, situm - позволявам, разрешвавам
   dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам
 fluere, fluxisse, fluxum - тека
   īnfluere - наводнявам
-vehere, vēxisse, vectum - пренасям
+vehere, vēxisse, vectum - нося, пренасям
+  āvehere - отнасям
   advehere - донасям
   invehere - внасям
 nōscere, nōvisse, notum - знам
   cognōscere, cognosse/ccognōvisse, cognitum  - научавам, разбирам, разпознавам
     recognōscere - разпознавам
   ignōscere (+dat) - прощавам (някому)
+  internōscere - разпознавам
 vincere, vīcisse, victum - побеждавам, завладявам, надвивам, надживявам
   convincere - убеждавам, скланям, показвам, доказвам
 solvere, solvisse, solutum - пускам, освобождавам, иразхлабвам, заплащам
@@ -322,3 +324,5 @@ rigescere - втвърдявам се, изтръпвам
     dērigescere - замръзвам, вцепенявам се
 stringere, strinxisse, strictum - стържа, рендосвам
   dēstringere - премахвам със стъргало
+cernere, crevisse, cretum - различавам, отличавам, определям, зървам
+  discernere - разпознавам, отличавам

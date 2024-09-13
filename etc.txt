@@ -64,12 +64,20 @@ prius X quam Y - X се случило преди Y
 nōn prius X quam Y - X се случило чак след Y
 in sententia manere - оставам на същото мнение
 rēs gestae (+gen) - (нечии) дела
-salvēre iubēre - поздравявам
 opem ferre - помагам
 valēre (+inf) - мога
 vertere in (+acc) - превръщам се в
 iussū (+gen) - по заповед/нареждане (на някого)
 obviam īre (+dat) - срещам
+animum dēspondēre - отчайвам се
+mala fortūna - лош късмет, смърт
+mala crux - лоща съдба, смърт
+mē animus fallit - греша, бъркам се
+operam dare - трудя се
+
+salvēre iubēre - поздравявам
+salūtem dīcere (+dat) - поздравявам
+salūtem nūntiāre (+dat) - поздравявам
 
 hōc tempore - в/по това време
 eō tempore - тогава
