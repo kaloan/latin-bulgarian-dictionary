@@ -33,6 +33,7 @@ cubiculum, -ī, n - стая, спалня
   lavātrīna/lātrīna, -ae, f - баня
   balneum, -ī, n - баня
   sēcessus, -ūs, m - тоалетна
+  sterculīnum, -ī, n - сметище, място за събиране на тор
 hortus, -ī, m - градина
   sphaeristērium, -ī, n - поле за игра с топка
 supellex, -ctilis, f - мебел
@@ -40,10 +41,12 @@ supellex, -ctilis, f - мебел
   mēnsa, -ae, f - маса (като трапеза, работна маса)
   lectus, -ī, m - легло
   torus, -ī, m - креват
+  cubitus, -ūs, m - спалня, легло
   cūnae, -ārum, f pl - бебешко креватче
   pulvīnus, -ī, n - възглавница
   solium, -ī, n - трон, вана
-  sella, -ae, f - стол с гръб
+  sedīle, -ae, f - кресло, фотьойл, закрепен стол
+  sella, -ae, f - подвижен стол с гръб
   scamnum, -ī, n - малък стол, стъпало
   armārium, -ī, n - шкаф
   arca, -ae, f - сандък, кутия
@@ -70,3 +73,5 @@ scāla, -ae, f - стълба
 scālae, -ārum, f - стълби, стъпала
 fūnis, -is, m - въже
 vās, vāsis, n - ваза
+dōlium, -ī, n - бъчва, кратер
+focus, -ī, m - огнище

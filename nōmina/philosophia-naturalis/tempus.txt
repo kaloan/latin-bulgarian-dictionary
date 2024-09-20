@@ -8,19 +8,21 @@ autumnus, -ī, m - есен
 hiems, -is, f - зима
 mēnsis, -is, m - месец
 diēs, diēī, m - ден
+  dilūculum, -ī, n - сутрешен здрач/сумрак
+  ortus, -ūs, m - изгрев
+  māne. indecl, n - сутрин
+  meridiēs, meridiēī, m - обед
+  vesper, -is, m - вечер
+  occāsus, -ūs, m - залез
+  crepusculum, -ī, n - вечерен здрач/сумрак
 nox, nocis, f - нощ
 kalendae, -ārum, f pl - календи, първия ден в месеца
 septimāna, -ae, f - седмица
-īdūs, īduum, f pl - иди, тринайсетия или петнайсетия ден от месеца
+īdūs, īduum, f pl - иди, тринайсетият или петнайсетият ден от месеца
 nōnae, -ārum, f pl - нони, деветият ден преди идите (бройки и тях), т.е. петият или седмият ден от месеца
 vigilia, -ae, f - стража, четвърт нощ (от това че имало четири смени за нощната стража)
 hōra, -ae, f - час
 mōmentum - миг
-ortus, -ūs, m - изгрев
-occāsus, -ūs, m - залез
-māne. indecl, n - сутрин
-meridiēs, meridiēī, m - обед
-vesper, -is, m - вечер
 aequinoctium, -ī, n - равноденствие
 hōrologium, -ī, n - часовник
   solārium, -ī, n - слънчев часовник

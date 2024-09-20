@@ -8,3 +8,4 @@ lāna, -ae, f - вълна
 dorsum, -ī, n - гръб
 vellus, -eris, n - руно
 iuba, -ae, f - грива
+plūma, -ae, f - перо

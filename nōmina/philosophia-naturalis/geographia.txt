@@ -17,6 +17,7 @@ ager, agrī, m - поле, имение
 arvum, -ī, n - нива
 prātum, -ī, n - поляна
 silva, -ae, f - гора
+saltus, -ūs, m - планинска гора
 laurētum, -ī, n - лаврова гора
 nemus, nemoris, n - гора с поляна
 lūcus, -ī, m - свещенна гора

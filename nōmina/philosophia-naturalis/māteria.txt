@@ -20,3 +20,4 @@ metallum, -ī, n - метал
   plumbum, -ī, n - олово
 carbō, -ōnis, m - въглища
 tūs, tūris, n - тамян
+smaragdus, -ī, m - смарагд

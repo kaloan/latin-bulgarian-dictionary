@@ -37,9 +37,11 @@ elephantus, -ī, m - слон
 ursus, -ī, m - мечок
 ursa, -ae, f - мечка
 sīmius, -ī, m - маймуна
+sīmia, -ae, f - маймуна
 arānea, -ae, f - паяк, паяжина
 rāna, -ae, f; rubēta, -ae, f - жаба
 lepus, leporis, m - заек
+mūs, mūris, m - мишка
 canis, -is, m/f - куче/кучка
 catulus, -ī, m - паленце, кученце, вълче
 lupus, -ī, m - вълк
@@ -49,6 +51,7 @@ homō, hominis, m - човек
 piscis, -is, m - риба
   sardīna, -ae, f - сардина
 volucris, -is, f - летящо същество
+āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица
 aquilla, -ae, f - орел
 nīdus, -ī, m - гнездо

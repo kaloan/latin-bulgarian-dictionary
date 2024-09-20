@@ -74,6 +74,15 @@ mala fortūna - лош късмет, смърт
 mala crux - лоща съдба, смърт
 mē animus fallit - греша, бъркам се
 operam dare - трудя се
+ratiōnem inīre (+gen) - изброявам (нещо)
+diēs fēstus - празник
+culpae proximus - виновен
+indigné ferre - възмущавам се
+vītam trahere/agere - живея
+
+ōrātiō solūta - проза (букв. свободна реч)
+ōrātiō rēcta - пряка реч
+ōrātiō oblīqua - преносна реч
 
 salvēre iubēre - поздравявам
 salūtem dīcere (+dat) - поздравявам
@@ -83,7 +92,7 @@ hōc tempore - в/по това време
 eō tempore - тогава
 illō tempore - тогава
 brevī tempore - малко след това
-simul atque -
+simul atque - веднага
 ut (+perf) - след като
 
 quid habet? - как си?

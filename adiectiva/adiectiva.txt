@@ -27,13 +27,12 @@ nōtus - знаен, известен
 ignōtus - незнаен, неизвестен
 nōbilis -is - известен, важен, аристократ
 celsus - висок
-fallāx -cis - лъжлив, мамещ, грешен
+mendāx -cis - лъжлив, грешен
+fallāx -cis - лъжлив, мамещ, грешен, фалшив
+vērāx, -cis - честен, истинен, действителен, правдив
 suāvis, -is - приятен, весел, сладък
 iūcundus - приятен, задоволяващ
 molestus - уморителен, неприятен, болезнен, отврятителен
-īmus - долен
-medius - среден
-summus -горен
 tardus - бавен, закъсняващ
 sērus - закъснял, последен
 acerbus - кисел
@@ -44,6 +43,7 @@ dēbilis -is - болен, слаб, кекав
 ēbrius - пиян
 avārus - алчен
 fīdus - верен, доверен
+fidelis, -is - верен, надежден, отдаден
 fugitīvus - беглец
 sapiēns -ntis - умен, мъдър, разумен
 crūdēlis -is - жесток, див, освирепен
@@ -71,16 +71,18 @@ hirsūtos - космат, дебелокосмест, четинест
 solitus - свикнал
 capāx -cis - голям, обемист
 ingēns -entis - огромен, неестествен
+vāstus - огромен, обширен
+immānis - необхватен, просторен
 atrōx -cis - див, жесток, страшен, свиреп
 pius - съвестен, праведен
 impius - порочен, нечестив, безбожен, бедствен
-mendāx -cis - лъжлив, фалшив
 tepidus - хладък
 tepidārius - хладъко воден
 scaevus - ляв
-supplex supplicis - молещ, коленичещ
+supplex, supplicis - молещ, коленичещ
 vastus - обширен, огромен
 alacer -cris - деятелен, щастлив, бърз, храбър
+locuplēs, -ētis - богат, богаташ
 opulentus - богат
 prīstinus - вехт
 novissimus - последен
@@ -116,8 +118,9 @@ cēterus - друг, останал
 laetus - радостен
 īrātus - бесен
 probus - послушен
-improbus - непослушен
+improbus - непослушен, лош, зъл, порочен, нагъл, неприличен
 vacuus - празен
+inānis, -is - кух, суетен, безсмислен
 pulcher, -rī - хубав, красив
 foedus - грозен
 amīcus - приятелски, полезен
@@ -138,6 +141,7 @@ tenuis, -is - тънък
 pullus - малък, млад
 ferus - див, неопитомен
 stultus - глупав
+stupidus - глуповат, глупав, тъп
 sānus - здрав, читав, психически добре
 insānus - луд, откачен
 aeger - болен, немощен
@@ -342,7 +346,6 @@ hostīlis, -is - враж, противнически
 dīversus - разнороден
 strenuus - изтощителен, уморителен, храбър
 occultus - скрит, таен
-suprēmus - най-далечен
 serēnus - чист, бистър, спокоен
 cotīdiānus - всекидневен
 immōtus - неподвижен
@@ -361,7 +364,7 @@ imrnedicābilis, -e - неизлечим
 rēgālis, -is - царствен
 liquidus - течен
 resupīnus - лежащ по гръб, облегнат назад
-contentus - доволен, задоволен, удовлетворен
+contentus (+abl) - доволен (от), задоволен (от), удовлетворен (от)
 immītis, -is - див, жесток, свиреп, груб
 libēns, libentis - желаещ, волеви, волен, весел, доволен
 invītus - нежелаещ, неохотен, неволеви, неволен
@@ -399,6 +402,33 @@ modicus - умерен
 sēcūrus - безгрижен, предпазен
 surreptîcius - краден, откраднат
 īnspērātus - неочакван, непредвиден
+sēdulus - усърден
+īnfectus - неизвършен, недовършен, несвършен, суров
+pluvius - дъждовен
+innocēns, -entis - безобиден, невинен, благ, почтен, чистосърдечен
+officiālis, -is - официален, служебен, политически, правителствен
+simplex, simplicis - единствен, прост, неделим, честен
+duplex, duplicis - двоен, двойствен, разделен, двуличен
+maritimus - морски
+tranquillus - спокоен
+turbidus - бурен, бушуващ
+turbulentus - бурен, бушуващ
+contrārius - противостоящ
+lāniger - вълнен, покрит с вълна, пухкав
+avidus - алчен
+tragicus - трагичен
+cōmicus - комичен
+rāmōsus - клонест, клонат
+decor, -is - красив, изящен, великолепен, изтънчен, кокетен
+inops, inopis - невещ, неможещ, жалък
+oblīquus - наклонен
+admīrābilis, -is - чудесен, чуден
+gemmeus - със скъпоценни камъни
+horridus - страшен
+cūriōsus - любознателен, любопитен
+obvius - насрещнен, често срещан, очевиден
+asper, asperī - грапав, неравен, груб, труден, суров, свиреп
+
 
 amāns, amantis - любящ
 perturbātus - шашардисан
@@ -410,10 +440,11 @@ cultus - поддържан, обработен
 vulgāris, -is - народен, общ, обществен
 agēns - действащ
 dōtātus - богат, охолен, облагодетелстван
+potēns - можещ, умеещ
 
-
-superior, summus - по-горен, по-висок, пръв
-īnferior, īnfimus - по-долен, по-нисък, последен
+superus, superior, suprēmus/summus - горен, висок, пръв (в суперлатив), висш
+medius, medior, medioximus - среден
+īnferus, īnferior, īnfimus/īmus - долен, нисък, последен (в суперлатив), низш
 interior, intimus - по-вътрешен
 exterior, extrēmus - по-външен, по-краен
 ulterior/ulterius, ultimus - по-далечен
@@ -436,12 +467,6 @@ caerŭleus - светло син
 rutilus - оранжев
 croceus - златно жълт
 crocinus - шафранено жълт
-superus - горен
-īnferus - долен
-maritimus - морски
-tranquillus - спокоен
-turbidus - бурен, бушуващ
-contrārius - противостоящ
 pallidus - блед, жълтеникав
 
 proprius - конкретен, собствено (съществително)
@@ -594,6 +619,7 @@ celer, celeris, celere - бърз
 vetus, veteris - вехт, стар, древен
 dīves, dīvitis, dīvitior, dīvitissimus - богат, богаташ
 pauper, -is - беден
+āles, alitis - крилат
 
 
 Aegyptius - египетски
@@ -622,3 +648,5 @@ Siculus - сицилийски
 Syrācūsānus - сиракузски
 Thraex - тракийски
 Tūsculānus - тускулански
+
+Aesôpius - Езопов

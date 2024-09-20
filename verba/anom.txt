@@ -12,6 +12,7 @@ esse - съм
   subesse - съм под, намирам се под
   superesse - оставам, оцелявам, в повече съм
 ēsse/edere, edisse, esum - ям
+  comēsse/comedere, comedisse, comesum/comestum - изям
 
 velle - искам
   nōlle - не искам
@@ -33,7 +34,7 @@ ferre, tulisse, lātum - нося
   praeferre - предпочитам
   perferre - издържа, изпълнявам, понасям
   prōferre - извадя, извеждам
-  referre - връщам, отвръщам, препращам
+  referre - връщам, отвръщам, препращам, донасям (новина, вест)
   trānsferre - пренасям
 
 īre eō, iisse/ivisse, itum - пътувам, движа се

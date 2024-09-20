@@ -5,8 +5,10 @@ honōrārium, -ī, n - хонорар, заплата
 stipendium, -ī, n - заплата, надница
 praemium, -ī, n - награда, награждение, подарък
 lucrum, -ī, n - печалба
+quaestus, -ūs, m - печалба
 praeda, -ae, f - плячка
 iactūra, -ae, f - мятане, загуба, цена
+paupertās, -ātis, f - бедност
 dīvitiae, -ārum, f pl - богатство
 opēs, opum, f pl - състояние, богатство
 pecūnia, -ae, f - пари

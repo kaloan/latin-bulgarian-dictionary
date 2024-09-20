@@ -22,6 +22,7 @@ mīles, -itis, m - войник, воин, бранник, ратник
   mīlitāris, -is, m - войник
   pedes, -is, m - пешак, пехотинец
   eques, -is, m - конник
+  campidoctor, -ōris, m - обучаващ войниците (букв. полеви учител)
 exercitus, -ūs, n - войска, армия
   peditātus, -ūs, m - пехота
   equitātus, -ūs, m - конница

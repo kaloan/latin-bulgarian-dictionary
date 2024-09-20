@@ -2,7 +2,7 @@ corpus, corporis, n - тяло
 membrum, -ī, n - крайник, полов член
 artus, -ūs, m - крайник
 pellis, -is, f - кожа, кожух
-cutis, -is, f - кожа
+cutis, -is, f - кожа, обелка
 tāctus, -ūs, m - допир
 tempus, temporis, n - слепоочие
 caput, capitis, n - глава, основно ястие
@@ -30,6 +30,7 @@ caput, capitis, n - глава, основно ястие
   mentium, -ī, n - брадичка
   cerebrum, -ī, n - мозък
 faux, faucis, f - гуша
+faucēs, -ium, f pl - паст
 guttur, -is, m - гърло
 cervix, cervicis, f - врат, тил
 collum, -ī, n - шия

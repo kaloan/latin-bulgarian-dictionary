@@ -26,6 +26,9 @@ sepelīre, sepeliisse/sepelivisse, sepultun - погребвам, заравям
 mūgīre, mūgivisse - муча
 fastidīre - презирам, пренебрегвам
 īnsānīre - откачен съм
+sarcīre - възстановявам, поправям, кърпя
+polīre - лъскам, шлифовам, лакирам, полирам
+fastīdīre - постя, непонасям, ненавиждам
 
 -pedīre
   impedīre - забавям, възпрепятствам, прека, попречвам
@@ -33,9 +36,10 @@ fastidīre - презирам, пренебрегвам
   expedīre - забързвам
   expedīre (+dat) - помагам (някому)
 
-salīre, sаluisse/saliisse, saltum - скачам
+salīre, sаluisse/saliisse, saltum - скачам, хвърлям се
   circumsilīre. circumsiluisse - подскачам
   dēsilīre, dēsiluisse - скачам
+  īnsilīre, īnsiluisse - нахвърлям се
   prōsilīre - изскачам
 dormīre - спя
   obdormīre - заспивам

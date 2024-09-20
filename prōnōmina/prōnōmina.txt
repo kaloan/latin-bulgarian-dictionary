@@ -1,6 +1,6 @@
 Sg. Nom., Sg. Acc., Sg. Gen., Sg. Dat., Sg. Abl., Pl. Nom., Pl. Acc., Pl. Gen., Pl. Dat., Pl. Abl.
 quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - какъв, кой, който
-quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus- каква, коя, която
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus - каква, коя, която
 quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - какво, кое, което
 
 hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този, намиращ се близо до говорителя/писателя
@@ -45,6 +45,10 @@ plēraque, plēraque, plerōrumque, plerīsque, plerīsque - почти/близ
 
 quisquis, -, -, -, quōquō - какъв да е
 quidquid/quicquid, quidquid/quicquid, -, -, quōquō - какво да е
+
+quīcumque, quemcumque, cuiuscumque, cuicumque, quōcumque, quīcumque, quōscumque, quōrumcumque, quibuscumque, quibuscumque - кой да е
+quaecumque, quamcumque, cuiuscumque, cuicumque, quācumque, quaecumque, quāscumque, quārumcumque, quibuscumque, quibuscumque - коя да е
+quodcumque, quodcumque, cuiuscumque, cuicumque, quōcumque, quaecumque, quaecumque, quōrumcumque, quibuscumque, quibuscumque - кое да е
 
 quispiam, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой-годе, кой да е
 quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя-годе, коя да е

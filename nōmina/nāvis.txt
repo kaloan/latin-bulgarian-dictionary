@@ -4,6 +4,7 @@ ratis, -is, f - рафт, лодка
 nauta, -ae, m - моряк
 gubernātor, -ōris, m - капитан, командир
 naufragiumm, -ī, n - корабокрушение
+naufragus, -ī, m - корабокрушенец
 vēlum, -ī, n - платно
 puppis, -is, f - кърма на кораб
 prōra, -ae, f - нос (на кораб), форщевен

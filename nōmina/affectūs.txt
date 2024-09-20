@@ -7,7 +7,7 @@ spēs, speī, f - надежда
 invidia, -ae, f - завист
 famēs, -is, f - глад
 sitis, -is, f - жажда
-admirātiō, -ōnis, f - почитание, учудване, изумление
+admīrātiō, -ōnis, f - почитание, учудване, изумление
 amor, amoris, m - любов, привързаност
 dolor, dolōris, m - болка
 pudor, pudōris, m - срам, срамота, позор
@@ -17,6 +17,7 @@ terror, terrōris, m - уплаха, страх
 horror, -ōris, m - страх
 īra, -ae, f - гняв, яд
 labor, labōris, m - труд, усилие
+nīsus, -ūs, m - усилие, натоварване
 officium, -ī, n - задължение, отговорност (букв. какво е редно да се направи)
 ōtium, -ī, n - спокойствие, безгрижие, свободно време
 negōtium, -ī, n - заетост, действане
@@ -24,7 +25,6 @@ patientia, -ae, f - търпение
 tranquillitās, -ātis, f - спокойствие
 laetitia, -ae, f - радост
 trīstitia, -ae, f - тъга
-invidia, -ae, f - завист
 memoria, -ae, f - памет
 audācia, -ae, f - смелост
 voluntās, -ātis, f - воля
@@ -55,3 +55,9 @@ taedium, -ī, n - умора, неприязън, досада, отегчени
 pertinacia, -ae, f - инат
 aegritūdō, -inis, f - болест, тъга, скръб, страдание, тревога, тревожност
 miseria, -ae, f - нещастие, бокла, болезненост, неволя, мизерия
+dīligentia, -ae, f - обич, грижа, внимание, усърдност
+aviditās, -ātis, f - алчност
+improbitās, -ātis, f - неприличност, злоба, наглост, порочност
+sēnsus, -ūs, m - чувство
+lūctus, -ūs, m - скръб
+stupor, -ōris, m - глупост
