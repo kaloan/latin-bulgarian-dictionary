@@ -14,7 +14,7 @@ plangere, planxisse, planctum - бия се в гърдите от печал
 pingere, pīnxisse, pictum - рисувам
 consciscere, consciisse/conscivisse, conscitum - да реша
 consciscere (+sibi) - да си навлека
-texere, texuisse, textum - плета
+texere, texuisse, textum - плета, мрежа
 molere, moluisse, molitum - стривам
 concīdere, concīdisse, concisum - убивам
 pluere, pluisse - вали
@@ -40,7 +40,6 @@ alere, aluisse, altum/alitum - кърмя, изхранвам
 fremere, fremuisse, fremitum - ръмжа
 scindere, scidisse, scissum - късам, режа, нарязвам, късам си косата/дрехите от яд
 metere, messuisse, messum - жъна
-serere, sēvisse, satum - сея
 spargere, sparsisse, sparsum - ръся, сипя
 quatere iō, , quassum - клатя, треса, друсам
 parcere, pepercisse (+dat) - пощадя
@@ -62,6 +61,8 @@ tribuere, tribuisse, tribūtum - издължавам се, предавам, о
 innōtēscere, innōtuisse - прочувам се, изпъквам, ставам известен
 arguere, arguisse, argūtum - виня, оплаквам се,
 ingemēscere, ingemuisse - простенвавам
+compavēscere - побоявам се
+pertimêscere - изплашвам се
 
 legere, lēgisse, lēctum - чета
   allicere -iō (!), allēxisse, allēctum - привличам
@@ -212,6 +213,7 @@ cēdere, cecisse - движа се, местя се
   concēdere -  измествам се, отдавам, позволявам
   discēdere - тръгвам, излизам
   excēdere - отивам си, умирам
+  incēdere - всъпвам, пристъпвам, навлизам
   praecēdere - предвождам
   prōcēdere - навлизам, продължавам напред
   recēdere - отстъпвам, оттеглям се, връщам се
@@ -344,7 +346,8 @@ rigescere - втвърдявам се, изтръпвам
 stringere, strinxisse, strictum - стържа, рендосвам, привързвам
   dēstringere - премахвам със стъргало
   obstringere - обвързвам, давам клетва
-cernere, crevisse, cretum - различавам, отличавам, определям, зървам
+cernere, crēvisse, crētum - различавам, отличавам, определям, зървам
+  dēcernere - отсъждам, присъждам, гласувам, разпореждам
   discernere - разпознавам, отличавам
 suēscere, suēvisse - свиквам
   cōnsuēscere - свиквам
@@ -352,3 +355,5 @@ terere - трия, жуля, шкуря
   dēterere - протрия, изтрия, изжуля, премахна, отстраня, изшкуря, кастря
 vivēscere - oживявам, съвземам се
   revivēscere - съживявам, свестявам
+serere, sēvisse, satum - сея
+  disserere - разсявам, засаждам, изказвам се

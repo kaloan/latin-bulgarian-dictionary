@@ -1,6 +1,7 @@
 Graecia, -ae, f - Гърция
-  Thessalia, -ae, f - Тесалия
   Arcadia, -ae, f - Аркадия
+  Attica, -ae, f - Атика
+  Thessalia, -ae, f - Тесалия
 Persia, -ae, f - Персия
 Gallia, -ae, f - Галия
 Britannia, -ae, f - Британия

@@ -1,4 +1,6 @@
 sed - но
+at - но
+ast - но
 et - и
 num - ли
 quid - какво

@@ -50,6 +50,7 @@ maledīcēre (+dat) - злословя (някого)
 nitēre - блестя, изглеждам здрав
 abolēre - нося, разнасям
 torquēre, torsisse, tortum - мъча, изтезавам
+urgēre - настоявам, притискам, да съм спешен
 
 -plēre (plēnus)
   complēre - напълвам
@@ -106,7 +107,7 @@ suādēre, suāsisse - убеждавам
 manēre, mansisse, mansum  - оставам, отседнал съм
   permanēre - постоянствам, издържам
   remanēre - оставам
-vidēre, vīdisse, vīsum - виждам
+vidēre, vīdisse, vīsum - виждам, прозирам, провиждам
   invidēre - завиждам
 miscēre, miscuisse, mixtum - меся
   admiscēre - добавям, включвам, омеся

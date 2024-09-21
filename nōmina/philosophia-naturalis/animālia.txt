@@ -39,6 +39,7 @@ ursa, -ae, f - мечка
 sīmius, -ī, m - маймуна
 sīmia, -ae, f - маймуна
 arānea, -ae, f - паяк, паяжина
+scorpios, scorpiī, m - скорпион
 rāna, -ae, f; rubēta, -ae, f - жаба
 lepus, leporis, m - заек
 mūs, mūris, m - мишка
@@ -47,9 +48,12 @@ catulus, -ī, m - паленце, кученце, вълче
 lupus, -ī, m - вълк
 lupa, -ae, f - вълчица, проститутка
 leō, leōnis, m - лъв
+tigris, -is, f - тигър
 homō, hominis, m - човек
+homunculus, -ī, m - човече
 piscis, -is, m - риба
   sardīna, -ae, f - сардина
+  scomber, scombrī, m - скумрия
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица
@@ -70,3 +74,4 @@ dracō, -ōnis, m - дракон, змей
 delphinus, -ī, m - делфин
 cancer, -ī, m - рак
 scorpiō, -ōnis, m - скорпион
+echīnus, -ī, m - таралеж, морски таралеж
