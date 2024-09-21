@@ -50,14 +50,17 @@ quīcumque, quemcumque, cuiuscumque, cuicumque, quōcumque, quīcumque, quōscum
 quaecumque, quamcumque, cuiuscumque, cuicumque, quācumque, quaecumque, quāscumque, quārumcumque, quibuscumque, quibuscumque - коя да е
 quodcumque, quodcumque, cuiuscumque, cuicumque, quōcumque, quaecumque, quaecumque, quōrumcumque, quibuscumque, quibuscumque - кое да е
 
-quispiam, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой-годе, кой да е
-quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя-годе, коя да е
-quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое-годе, кое да е
+quispiam, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой-годе, все някой, кой да е
+quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя-годе, все мякоя, коя да е
+quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое-годе, все някое, кое да е
 
 
 aliquis, aliquem, alicuis, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой
 aliqua, aliquam, alicuis, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя
 aliquod, aliquod, alicuis, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus - някое
+
+nēmō, nēminem, nēminis/nūllīus, nēminī, nēmine/nūllō/nūllā - никой, никоя
+nōnnēmō, nōnnēminem, nōnnēminis/nōnnūllīus, nōnnēminī, nōnnēmine/nōnnūllō/nōnnūllā - някой, някоя
 
 quisquam, quemquam, cuisquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
 quidquam/quicquam, quidquam/quicquam, cuisquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо

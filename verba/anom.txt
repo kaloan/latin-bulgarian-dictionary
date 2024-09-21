@@ -26,7 +26,7 @@ ferre, tulisse, lātum - нося
   auferre, abstulisse, ablātum - отмъквам, отнасям
   cōnferre - стягам, събирам, обсъждам
   dēferre - занасям, продавам, препредавам
-  differre - разнасям, забавям
+  differre, distulisse, dīlātum - разнасям, забавям
   ēferre - изнасям, обявявам
   inferre - внaсям, погребвам
   inferre (+dat) - причинявам (някому)
@@ -45,6 +45,8 @@ ferre, tulisse, lātum - нося
   introīre - влизам
   obīre - отивам си, умирам
   perīre - да умре, да се унищожи, да се разпадне
+  praeīre - п
+  praeterīre - преминавам, надминавам, пренебрегвам
   redīre - връщам се
   subīre - движа се под
   trānsīre - преминавам

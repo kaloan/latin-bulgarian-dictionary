@@ -3,6 +3,7 @@ vestis, -is, f - дреха
   tunica, -ae, f - туника
   subarmālis, -is, m - потник, туника без ръкави
   toga, -ae, f - тога
+  stola, -ae, f - стола, рокля
   pallium, -ī, n - наметало
   paenula, -ae, f - наметало
   amicitus, -ī, m - наметало

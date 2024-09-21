@@ -7,7 +7,6 @@ crēdere, crēdidisse, crēditum (+dat) - вярвам (на/в), доверяв
 cingere, cīnxisse, cīnctum - заобикалям, увивам се, слагам колан
 coquere, coxisse, coctum - сготвям
 crēscere, crevisse, cretum - раста, проявявам се, повишавам, засилвам
-accendere, accendisse, accendum - запалвам, горя, блестя, бушувам
 stertere, stetuisse - хъркам
 tegere, tēxisse, tēctum - покривам, прикривам
 spernere, sprēvisse, sprētum - презирам
@@ -93,6 +92,7 @@ mittere, mīsisse, missum - изпращам, освобождавам, мята
   committere - свързвам, водя битка, извършвам престъпление
   dīmittere - отпращам, отзовавам
   ēmittere - изпращам
+  intermittere - секвам, прекъсвам, пропускам, прескачам
   omittere - пропускам, изпускам, пренебрегвам
   permittere - позволявам, допускам
   remittere - връщам, мятам обратно
@@ -136,6 +136,7 @@ trahere, trāxisse, tractum - влача, тегля, мъкна
 premere - надвивам, натискам, потискам, преследвам
   imprimere - натискам в/върху, щамповам
   opprimere - насилвам, надвивам, затварям, прикривам, изнасилвам
+  reprimere - потискам, ограничавам, предотвратявам
 emere, ēmisse, ēmptum - купувам, придобивам
   dēmere, dēmpsisse, dēmptum - отнемам, пропускам
   perimere - убивам, унищожавам
@@ -147,7 +148,7 @@ emere, ēmisse, ēmptum - купувам, придобивам
 agere, ēgisse, āctum - действам, върша
   cōgere, coēgisse, coāctum - принуждавам, насилвам, изисквам
   peragere, perēgisse, perāctum - извършвам, довършвам, свършвам
-pāscere, pāvisse, pāstum - паса, храня, насищам
+pāscere, pāvisse, pāstum - паса, храня, насищам, гоя
   perpāscere - угоявам
 vertere, vertisse, versum - обръщам, променям, унищожавам
   āvertere - обръщам се с гръб към някого, отвръщам се
@@ -194,7 +195,7 @@ dūcere, dūxisse, ductum - водя
   dīducere - разделям, разпръсквам, разнасям
   ēdūcere - извеждам
   indūcere - въвеждам, вкарвам, показвам, осиновявам
-  intrōdūcere - въвеждам
+  intrōdūcere - въвеждам, лансирам
   obdūcere - потулвам, притаявам, прикривам, затварям, обграждам
   praedūcere - предвождам
   perdūcere - развеждам, донасям, изтривам, разстилям
@@ -210,6 +211,7 @@ cēdere, cecisse - движа се, местя се
   accēdere - идвам, приближавам се
   concēdere -  измествам се, отдавам, позволявам
   discēdere - тръгвам, излизам
+  excēdere - отивам си, умирам
   praecēdere - предвождам
   prōcēdere - навлизам, продължавам напред
   recēdere - отстъпвам, оттеглям се, връщам се
@@ -219,7 +221,9 @@ vīvere, vīxisse, victum - живея
 sinere, sivisse/sisse, situm - позволявам, разрешвавам
   dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам
 fluere, fluxisse, fluxum - тека
+  cōnfluere - стичам се
   īnfluere - наводнявам
+  interfluere - протека
 vehere, vēxisse, vectum - нося, пренасям
   āvehere - отнасям
   advehere - донасям
@@ -254,7 +258,8 @@ statuere, statuisse, statutum - решавам, поставям, изгража
   īnstituere, īnstituisse, īnstitutum - установявам, сключвам, превръщам в навик/обичай
 linquere, līquisse, lictum - тръгвам, напускам, оставям някого
   relinquere, relīquisse, relictum - изоставям накого
-serere, seruisse, sertum - правя венец, преплитам, свързвам
+serere, seruisse, sertum - правя венец, плета, свързвам
+  cōnserere - преплитам, свързвам, обединявам, венчая (?)
   dēserere - изоставям, разочаровам, прекратявам
   īnserere - вмъквам, вмествам, присаждам
 caedere, - разрязвам, порязвам, убивам, коля, сека
@@ -275,6 +280,8 @@ fundere, fūdisse, fūsum - пълня
 rubēscere, rubuisse - почервенявам
   ērubēscere - изчервявам се
 quaerere, quaesīvisse, quaesītum - търся, диря
+  conquīrere, conquīsisiisse/conquīsivisse, conqiīsītum - претърся, издирвам, проучвам
+  exquīrere, exquīsisiisse/exquīsivisse, exquīsītum - издирвам, разпитвам, оплаквам се, проучвам
   inquīrere, inquīsiisse/inquīsivisse, inquīsitum - допитвам се, издирвам, разследвам
   requīrere, requīsiisse/requīsivisse, requīsitum - търся, питам
 flectere, flexisse, flexum - вия, свивам
@@ -334,11 +341,14 @@ tremere, tremuisse - треперя, треса се
   intremere - втрисам
 rigescere - втвърдявам се, изтръпвам
     dērigescere - замръзвам, вцепенявам се
-stringere, strinxisse, strictum - стържа, рендосвам
+stringere, strinxisse, strictum - стържа, рендосвам, привързвам
   dēstringere - премахвам със стъргало
+  obstringere - обвързвам, давам клетва
 cernere, crevisse, cretum - различавам, отличавам, определям, зървам
   discernere - разпознавам, отличавам
 suēscere, suēvisse - свиквам
   cōnsuēscere - свиквам
 terere - трия, жуля, шкуря
   dēterere - протрия, изтрия, изжуля, премахна, отстраня, изшкуря, кастря
+vivēscere - oживявам, съвземам се
+  revivēscere - съживявам, свестявам

@@ -1,4 +1,5 @@
 corpus, corporis, n - тяло
+sexus, -ūs, m - пол
 membrum, -ī, n - крайник, полов член
 artus, -ūs, m - крайник
 pellis, -is, f - кожа, кожух
@@ -46,7 +47,7 @@ braccium, -ī, n - ръка
   manus, -ūs, f - ръка (от киктата надолу)
     digitum, -ī, n - пръст
     pollex, -icis, m - палец
-    index, -icis, m - показалец, списък
+    index, -icis, m - показалец, списък, стрелка, резюме
     medius, -ī, m - среден пръст
     quārtus, -ī, m - безименен пръст
 gaster - корем
@@ -55,6 +56,7 @@ tergum, -ī, n - гръб, задна част
 coxa, -ae, f - ханш
 coxendix, -icis, f - ханш
   pelvis, -is, f - таз
+pudenda, -ōrum, n pl - срамни части, срамота
 crūs, crūris, n - крак
   femur, femoris, n - бедро
   gremium, ‑ī, n - скут

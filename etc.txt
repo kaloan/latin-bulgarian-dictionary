@@ -79,6 +79,11 @@ diēs fēstus - празник
 culpae proximus - виновен
 indigné ferre - възмущавам се
 vītam trahere/agere - живея
+stipendiam merēre - служа в армията (букв. заслужавам военна надница)
+permissū (+gen) - с разрешение (от), с упълномощение (от)
+peneträlës diï - пенати
+necesse habeô - имам нужда, нуждая се
+mihi môs est (+ger) - практиката ми е (да), свиклнал съм (да)
 
 ōrātiō solūta - проза (букв. свободна реч)
 ōrātiō rēcta - пряка реч

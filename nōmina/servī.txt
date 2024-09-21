@@ -17,8 +17,9 @@ nūntius, -ī, m - вестител
 praecō, -ōnis, m - вестител, глашатай
 scrība. -ae, m - писар
 cocus, -ī, m - готвач
-minister, -trī, m - сервитьор, келнер
-meretrīx, -cis, f - проститутка
+minister, -trī, m - сервитьор, келнер, помощник
+ministra, -ae, f - сервитьорка, помощница
+meretrīx, -cis, f - проститутка, блудница
 agricola, -ae, m - земеделец (букв. земегрижец)
 colōnus, -ī, m - ратай
 fugitīvārius, -ī, m - ловец на избягали роби

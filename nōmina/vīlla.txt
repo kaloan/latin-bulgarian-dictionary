@@ -1,5 +1,6 @@
 domicilium, -ī, n - дом
 vīlla, -ae, f - вила
+saepēs, -is, f - ограда, ограден плет
 casa, -ae, f - колиба
 domus, -ūs, f - жилище, къща
 fenestra, -ae, f - прозорец
