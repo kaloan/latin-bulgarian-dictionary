@@ -29,6 +29,7 @@ exercitus, -ūs, n - войска, армия
   peditātus, -ūs, m - пехота
   equitātus, -ūs, m - конница
 castellum, -ī, n - замък, цитадела
+arx. arcis, f - цитадела, крепост
 castra, -ōrum, n pl - укрепление, военен лагер
   vāllum, -ī, n - палисада
   fossa, -ae, f - ров, окоп
@@ -44,6 +45,7 @@ arma, -ōrum, n pl - оръжие
   ēnsis, -is, m - меч
   pūgiō. -ōnis, m - кама, кинжал
   vāgīna, -ae, f - ножница
+  cuspis, cuspidis, f - връх, копие, кол, шиш
   hasta, -ae, f - копие
   pīlum, -ī, n - метателно копие с мек връх, който се огъвъл при удър, използвано от римските войници
   arcus, -ūs, m - лък

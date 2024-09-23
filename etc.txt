@@ -6,8 +6,8 @@ fratris filius, sorōris fīlius - племенник
 ōvum frictum - яйце на очи
 ōvum dūrum - варено яйце
 ōvum permixta - бъркано яйце
-necesse est (+dat, inf) - нужно е, необходимо е да, задължително е да
-opus est (+dat, inf) - нужно е
+necesse est (+dat, īnf) - нужно е, необходимо е да, задължително е да
+opus est (+dat, īnf) - нужно е
 mōs māiōrum - нещо като традиция (буквално 'нрави/привички на по-старите')
 salvē , salvēte- здравей, здравейте
 avē, avēte - здравей, здравейте
@@ -35,7 +35,7 @@ magnīs itineribus - бързо
 nōn sōlum ... sed etiam - не само че ..., но и
 etiam atque etiam - пак и пак
 iterum atque iterum - отново и отново
-in primīs - в началото
+in primīs - за начало, първо
 rēs publica - обществено дело
 satin' (satisne) - достатъчно ли
 paulō post - малко после
@@ -65,7 +65,7 @@ nōn prius X quam Y - X се случило чак след Y
 in sententia manere - оставам на същото мнение
 rēs gestae (+gen) - (нечии) дела
 opem ferre - помагам
-valēre (+inf) - мога
+valēre (+īnf) - мога
 vertere in (+acc) - превръщам се в
 iussū (+gen) - по заповед/нареждане (на някого)
 obviam īre (+dat) - срещам
@@ -84,6 +84,10 @@ permissū (+gen) - с разрешение (от), с упълномощение
 peneträlës diï - пенати
 necesse habeô - имам нужда, нуждая се
 mihi môs est (+ger) - практиката ми е (да), свиклнал съм (да)
+vērī simile - изглежда вярно, почти вярно,
+verbī causā - да кажем, за пример
+nihil negōtī - без зор, без трудност
+mōrem gerere (+dat) - по желание (на)
 
 ōrātiō solūta - проза (букв. свободна реч)
 ōrātiō rēcta - пряка реч

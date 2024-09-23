@@ -7,8 +7,9 @@ facere -iō, fēcisse, fаctum - правя, върша
   efficere -iō, effēcisse, effectum - изработвам, извършвам, изпълнявам
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
   malefacere -iō, malefēcisse, malefectum - злосторя
-  praeficere -iō, praefēcisse, praefectum - поставям начело
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
+  praeficere -iō, praefēcisse, praefectum - поставям начело
+  prōficere -iō, prōfēcisse, prōfectum - доправя, довършвам, постигам
   reficere -iō, refēcisse, refectum - преправям
   satisfacere iō (+dat) - задоволявам, извинявам се, обезщетявам
   sufficere -iō, suffēcisse, suffectum - да е достатъчно
@@ -42,7 +43,7 @@ spicere -iō, spexisse, spectum - виждам
   suspicere - гледам нагоре, изследвам, наблюдавам
 capere -iō, cepisse, captum - хващам, грабвам, държа
   accipere -iō, accepisse, acceptum - взимам, получавам, приемам
-  excipere -iō, excepisse, exceptum - вадя, премахвам
+  excipere -iō, excepisse, exceptum - вадя, премахвам, изключвам, пропускам
   dēcipere -iō, dēcepisse, dēceptum - мамя
   incipere -iō, incepisse, inceptum - започвам
   occupāre, occupāvisse, occupātum - заемам, вземам, наемам

@@ -10,3 +10,4 @@ sacerdōs, sacerdōtis, m/f - свещеник, жрец, жрица
 dīvīnus, -ī, m - оракул, пророк
 rītus, -ūs, m - обред, ритуал
 martyr, -is, m/f - мъченик
+portentum, -ī, n - чудо

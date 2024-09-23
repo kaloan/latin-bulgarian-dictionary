@@ -70,6 +70,7 @@ viscera, viscerum, n pl - вътрешни органи, вътрешности
   venter, ventris, m - стомах
   cor, cordis - сърце
   pulmō, pulmōnis, m - бял дроб
+  praecordia, -ōrum, n pl - диафрагма, гръд
   iecur, iecoris, n - черен дроб
 ōs, ossis, n - кост
 vēna, vēnae, f - кръвоносен съд

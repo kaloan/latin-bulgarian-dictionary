@@ -44,7 +44,7 @@ exercēre, exercuisse, exercitum - упражнявам се, готвя се
 censēre, censuisse, censum - мисля, броя, гласувам
 nēre - тъка
 salvēre - здравея
-avēre, (!), (!) - чуствам се добре
+avēre, (!), (!) - чуствам се добре (обикновено в императив), копнея, желая
 prandēre, prandisse, pransum - обядвам
 maledīcēre (+dat) - злословя (някого)
 nitēre - блестя, изглеждам здрав
