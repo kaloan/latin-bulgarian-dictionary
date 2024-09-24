@@ -4,7 +4,7 @@ fera, -ae, f - звяр, диво животно
 pecus, pecoris, n - добитък
 grex, gregis, m - стадо
 equus, -ī, m - кон
-asturcō, -ōnis, m - ат
+asturcō, -ōnis, m - ат (от конете от Астурия)
 asinus, -ī, m - магаре
 aquila, -ae, f - орел
 columba, -ae, f - гълъб

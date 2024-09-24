@@ -18,6 +18,7 @@ caput, capitis, n - глава, основно ястие
   nāsus, -ī, m - нос
   odōrātus, -ūs, m - обоняние
   auris, -is, n - ухо
+  auricula, -ae, f - ушенце
   auditus, -ūs, m - слух
   gena, -ae, f - буза
   maxilla, -ae, f - скула
@@ -28,7 +29,7 @@ caput, capitis, n - глава, основно ястие
     dēns, dentis, m - зъб
     lingua, -ae, f - език
     palātum, -ī, n - небце, вкус (сетиво)
-  mentium, -ī, n - брадичка
+  mentum, -ī, n - брадичка
   cerebrum, -ī, n - мозък
 faux, faucis, f - гуша
 faucēs, -ium, f pl - паст
@@ -72,6 +73,8 @@ viscera, viscerum, n pl - вътрешни органи, вътрешности
   pulmō, pulmōnis, m - бял дроб
   praecordia, -ōrum, n pl - диафрагма, гръд
   iecur, iecoris, n - черен дроб
+  fel, fellis, n - жлъчка
+    bīlis, -is, f - жлъчен сок
 ōs, ossis, n - кост
 vēna, vēnae, f - кръвоносен съд
   sanguis, sanguinis, m - кръв

@@ -13,7 +13,7 @@ pāgina, -ae, f - страница
 margo, marginis, m - край, граница
 versus, -ūs, m - ред, стих
 versiculus, ‑ī, m	- стихче
-nota, -ae, f - знак
+nota, -ae, f - знак, буква, белег, татуировка, забележка, упрек, укор, нота
   hieroglyphicus, -ī, m - йероглиф
   littera, -ae, f - буква
   elementa, -ōrum, n - отделни букви, буква по буква

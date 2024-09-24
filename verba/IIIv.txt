@@ -1,12 +1,13 @@
 facere -iō, fēcisse, fаctum - правя, върша
   aedificāre (!!!), aedificāvisse, aedificātum - съграждам, изграждам, строя, създавам
   calefacere -iō - стоплям, загрявам
-  cōnficere -iō,  cōnfēcisse, cōnfectum - изработвам, завършвам, използвам, изморявам
+  cōnficere -iō,  cōnfēcisse, cōnfectum - изработвам, завършвам, използвам, изморявам, убивам
   dēficere -iō, dēfēcisse, dēfectum  - провалям се, разочаровам
   dēficere ab - оставям, дезертирам
   efficere -iō, effēcisse, effectum - изработвам, извършвам, изпълнявам
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
   malefacere -iō, malefēcisse, malefectum - злосторя
+  officere -iō, offēcisse, offēctum - ранявам, препречвам, попречвам
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
   praeficere -iō, praefēcisse, praefectum - поставям начело
   prōficere -iō, prōfēcisse, prōfectum - доправя, довършвам, постигам
@@ -18,6 +19,8 @@ cupere -iō, cupīvisse, cupitum - купнея, желая
 iacere -iō, iēcisse, iactum - хвърлям, мятам
   adicere -iō, adiēcisse, adiēctum - хвърлям към, допълвам
   abicere -iō, abiēcisse, abiēctum - хвърлям далеч, принизявам, обезсърчавам
+  conicere -iō, coniēcisse, coniēctum - струпвам, заключавам, подразделям, изсипвам
+  conicere sē - бързам
   dēicere -iō, dēiēcisse, dēiēctum - захвърлям
   ēicere -iō, ēiēcisse, ēiēctum - изхвърлям
   inicere -iō, iniēcisse, iniēctum- захвърлям
@@ -38,6 +41,7 @@ spicere -iō, spexisse, spectum - виждам
   cōnspicere - забелязвам, наблюдавам, гледам
   dēspicere - гледам надолу, презирам
   īnspicere - наблюдавам, изследвам, обмислям
+  perspicere - изследвам, оглеждам
   prōspicere - наблюдавам
   respicere - поглеждам отново
   suspicere - гледам нагоре, изследвам, наблюдавам
@@ -46,10 +50,11 @@ capere -iō, cepisse, captum - хващам, грабвам, държа
   excipere -iō, excepisse, exceptum - вадя, премахвам, изключвам, пропускам
   dēcipere -iō, dēcepisse, dēceptum - мамя
   incipere -iō, incepisse, inceptum - започвам
-  occupāre, occupāvisse, occupātum - заемам, вземам, наемам
+  occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям
   praecipere -iō, praecepisse, praeceptum - ръководя, предвождам
   recipere -iō, recepisse, receptum - приемам, върщам си
 rapere -iō, rapuisse, raptum - грабя, отмъквам
+  arripere -iō - заграбвам
   corripere -iō - изземвам, укорявам, скъсявам
   ēripere -iō - ограбя, отнемам
   surripere -iō - крада, обирам

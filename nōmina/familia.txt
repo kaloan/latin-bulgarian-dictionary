@@ -1,6 +1,8 @@
 gēns, gentis, f - род, племе, народ
 familia, -ae, f - фамилия
 māiōrēs, -um, m pl - прародители, предци, прадеди
+propinquus, -ī, m - близък, родственик, родител
+cognātī, -ōrum, m pl - съродственици, сродници
 parēns, -entes, m/f - родител, майка, баща
 parentēs, -ium, m pl - родители, деди, прадеди
 līberī, -ōrum, m pl - деца
@@ -29,6 +31,7 @@ nurus, -ūs, f - снаха
 socer, -ī, m - тъст, свекър
 socrus, -ūs, f - тъща, свекърва
 mātrimōnium,  -ī, n - брак
+nuptiae, -ārum, f pl - сватба, женитба
 coniugium, -ī, n - връзка, брак
 affīnis, -is, m/f - родственик по брак
 spōnsus, -ī, m - годеник, младоженец

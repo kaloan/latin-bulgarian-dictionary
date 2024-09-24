@@ -10,6 +10,7 @@ Ardea, -ae, f - Ардеа
 Collātia, -ae, f - Колатия
 Coriolī, -ōrum, m pl - Кориоли
 Tarentum, -ī, n - Тарент (дн. Таранто), Тарас
+Maleventum, -ī, n - Малевентум (дн. Беневенто)
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи

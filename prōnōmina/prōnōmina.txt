@@ -1,7 +1,7 @@
 Sg. Nom., Sg. Acc., Sg. Gen., Sg. Dat., Sg. Abl., Pl. Nom., Pl. Acc., Pl. Gen., Pl. Dat., Pl. Abl.
-quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus, quibus - какъв, кой, който
-quae, quam, cuius, cui, quā, quae, quās, quārum, quibus, quibus - каква, коя, която
-quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus, quibus - какво, кое, което
+quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs - какъв, кой, който
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs - каква, коя, която
+quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs - какво, кое, което
 
 hic, hunc, huius, huic, hōc, hī, hōs, hōrum, hīs, hīs - този, намиращ се близо до говорителя/писателя
 haec, hanc, huius, huic, hāc, hae, hās, hārum, hīs, hīs - тази, намираща се близо до говорителя/писателя

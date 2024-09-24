@@ -9,7 +9,7 @@ Pūblius Terentius Varrō Atacinus - Варон Атацин
 Pūblius Vergilius Marō - Вергилий
 Licinius Calvus - Лициний Калв, поет от средата на I век пр. Хр.
 Tibullus, -ī, m - Тибул
-Sextus Iūlius Frontīnus
+Sextus Iūlius Frontīnus -
 Lucrētius, -ī, m - Лукреций
 Gāius Sallūstius Crispus - Салустий
 Dōnātus - Донат, живял IV век сл. Хр.
@@ -18,3 +18,4 @@ Phaedrus, -ī, m - Федър
 Aesōpus, -ī, m - Езоп
 Simōnidēs, -is, m - Симонид
 Tacitus, -ī, m - Тацит
+Hermogenēs, -is, m - Хермоген

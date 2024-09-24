@@ -6,6 +6,7 @@ stipendium, -ī, n - заплата, надница
 praemium, -ī, n - награда, награждение, подарък
 lucrum, -ī, n - печалба
 quaestus, -ūs, m - печалба
+commodum, -ī, n - печалба, потреба, потребност
 praeda, -ae, f - плячка
 iactūra, -ae, f - мятане, загуба, цена
 paupertās, -ātis, f - бедност
