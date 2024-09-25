@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# sed is to remove tabulations (which are double spaces) and get rid of empty line
+# sed is to remove tabulations (which are double spaces) and to get rid of empty line
 find . -name "*.txt" | grep -vE "collatiō\.txt|etc\.txt" | xargs cat | sort | grep -v '^$' | sed "s/  //g" | sed 1d > collatiō.txt
 
 # add the new ordered file to commit by changing the index

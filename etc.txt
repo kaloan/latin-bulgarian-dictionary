@@ -81,9 +81,9 @@ indigné ferre - възмущавам се
 vītam trahere/agere - живея
 stipendiam merēre - служа в армията (букв. заслужавам военна надница)
 permissū (+gen) - с разрешение (от), с упълномощение (от)
-peneträlës diï - пенати
-necesse habeô - имам нужда, нуждая се
-mihi môs est (+ger) - практиката ми е (да), свиклнал съм (да)
+penetrālēs diī - пенати
+necesse habeō - имам нужда, нуждая се
+mihi mōs est (+ger) - практиката ми е (да), свиклнал съм (да)
 vērī simile - изглежда вярно, почти вярно,
 verbī causā - да кажем, за пример
 nihil negōtī - без зор, без трудност
@@ -144,3 +144,8 @@ p. C. (post Chrīstum) - след Христа
 a. d. (annō Domimī) - в летото Господне
 
 "abstrahit (me) sermonis egestas" = the poorness of the language stops me
+
+Falernum (praedium) - фалернско имение
+Tūsculānum (praedium) - тускуланско имение
+
+Ȳ, ȳ

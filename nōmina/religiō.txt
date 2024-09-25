@@ -13,3 +13,5 @@ martyr, -is, m/f - мъченик
 portentum, -ī, n - чудо
 sors, sortis, f - жребий, гадание, съдба, късмет, дял, наследствен дял
 sabbata, -ōrum, n pl - шабат, неделя
+evangelium, -ī, n - евангелие, блага вест
+apostolus, -ī, m - апостол

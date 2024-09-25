@@ -485,11 +485,12 @@ canīnus - кучешки
 fiagilis - чуплив, трошлив
 strēnuus - работлив. пъргав, трескав, натоварен, деен
 garrulus - празнодумен, бъбрив
-loquäx, -ācis - приказлив, говорлив, разговорлив
+loquāx, -ācis - приказлив, говорлив, разговорлив
 īrācundus - раздразнителен, сприхав
 cīvīlis - граждански
 crēdibilis - достоверно
 curtus - осакатен, счупен, обрязан, кастриран, съкратен
+aquilīnus - орлов
 
 amāns, amantis - любящ
 perturbātus - шашардисан
@@ -543,6 +544,7 @@ caerŭleus - светло син
 rutilus - оранжев
 croceus - златно жълт
 crocinus - шафранено жълт
+flāvus - бледожълт, жълтеникав, рус
 pallidus - блед, жълтеникав
 
 proprius - конкретен, собствено (съществително)
@@ -685,7 +687,7 @@ dissimilis, -is - различен, инакъв
 
 bonus, melior, optimus - добър
 malus, pēior, pessinus - лош
-magnus, māior, māximus - голям
+magnus, māior, māximus - голям, велик
 parvus, minor, minimus - малък
 multī, plūrēs, plūrimī pl - многобройни
 complūrēs, -ēs - изобилни, несчетни
@@ -701,16 +703,18 @@ pauper, -is - беден
 
 
 Aegyptius - египетски
+Aethiops - етиопски
 Ãfricānus - африкански
 Albānus - албански (в смисъл свързан с древния град Алба Лонга или Албанските планини в Италия)
 Asiānus - азиатски
 Atticus - атически
 Britannus - британски
 Cannēnsis - кански
+Campānus - кампански
 Carthāginiēnsis - картагенски
 Delphicus - делфийски
 Eurōpaeus - европейски
-Epidamniënsis - епидамски
+Epidamniēnsis - епидамски
 Etrūscus - етруски/етрускски (!!!)
 Gabīnus - габийски
 Gallus- галски
@@ -720,6 +724,7 @@ Hispānus - испански
 Italicus - италийски, апенински
 Italus - италиански
 Lūsītānus - лузитански, т.е. португалски
+Pompëius - помпейски
 Pūnicus - пунически, картагенски
 Rōmānus - римски
 Sabellus - самнитски
@@ -730,4 +735,6 @@ Syrācūsānus - сиракузски
 Thraex - тракийски
 Tūsculānus - тускулански
 
-Aesôpius - Езопов
+Aesōpius - Езопов
+Chrīstiānus - Християнски
+Sōcraticus - Сократичен
