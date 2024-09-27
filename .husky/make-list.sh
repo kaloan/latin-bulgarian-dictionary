@@ -2,9 +2,9 @@
 files="$(find . -name "*.txt" | grep -vE "collatiō\.txt|etc\.txt|collatiō-simplex\.txt")"
 buffer=$RANDOM
 bufferPlain=$RANDOM
-touch "$buffer"
 dirRegEx="\./(\w*)/.*"
 lineRegEx="^(.*) (- .*)$"
+
 for filename in $files
 do
   if [[ $filename =~ $dirRegEx ]]
@@ -40,9 +40,8 @@ do
         plain="${plain//ī/i}"
         plain="${plain//ō/o}"
         plain="${plain//ū/u}"
-        echo "${BASH_REMATCH[1]} ($partOfSpeech) ${BASH_REMATCH[2]}" >> $buffer
-        # echo $line >> $buffer
-        echo "$plain ($partOfSpeech) ${BASH_REMATCH[2]}" >> $bufferPlain
+        echo "${BASH_REMATCH[1]} [$partOfSpeech] ${BASH_REMATCH[2]}" >> $buffer
+        echo "$plain [$partOfSpeech] ${BASH_REMATCH[2]}" >> $bufferPlain
       fi
     done < "$filename"
   fi
@@ -50,6 +49,6 @@ done
 
 sort $buffer > "$buffer.tmp"
 sort $bufferPlain > "$bufferPlain.tmp"
-mv "$buffer.tmp" collatiō2.txt
-mv "$bufferPlain.tmp" collatiō2Plain.txt
+mv "$buffer.tmp" collatiō.txt
+mv "$bufferPlain.tmp" collatiō-simplex.txt
 rm  $buffer $bufferPlain
