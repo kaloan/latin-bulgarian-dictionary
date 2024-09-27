@@ -51,7 +51,7 @@ quaecumque, quamcumque, cuiuscumque, cuicumque, quācumque, quaecumque, quāscum
 quodcumque, quodcumque, cuiuscumque, cuicumque, quōcumque, quaecumque, quaecumque, quōrumcumque, quibuscumque, quibuscumque - кое да е
 
 quispiam, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой-годе, все някой, кой да е
-quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam- коя-годе, все мякоя, коя да е
+quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam - коя-годе, все мякоя, коя да е
 quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое-годе, все някое, кое да е
 
 
@@ -66,7 +66,7 @@ quisquam, quemquam, cuisquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumq
 quidquam/quicquam, quidquam/quicquam, cuisquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
 
 quīdam, quemdam/quendam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam/quōrundam, quibusdam, quibusdam - еди-кой, един определен
-quaedam, quamdam/quandam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam/quārundam, quibusdam, quibusdam- еди-коя, една определена
+quaedam, quamdam/quandam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam/quārundam, quibusdam, quibusdam - еди-коя, една определена
 quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam/quōrundam, quibusdam, quibusdam - еди-кое, едно определено
 
 
@@ -99,7 +99,7 @@ quis - кой, но само в неопределени въпроси, т.е. 
 quid - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
 
 quisnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam - че кой
-quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam- че коя
+quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam - че коя
 quodnam, quodnam, cuiusnam, cuinam, quōnam, quaenam, quaenam, quōrumnam, quibusnam, quibusnam - че кое
 
 uter, utrum, utrīus, utrī, utrō, utrī, utrōs, utrōrum, utrīs, utrīs - кой от двата

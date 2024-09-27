@@ -37,8 +37,9 @@ acerbus - кисел
 amārus - кисел
 dulcis, -is - сладък
 nimius - преголям, твърде голям
-dēbilis -is - болен, слаб, кекав
+dēbilis -is - болен, слаб
 īnfirmus - кекав, трошлив, болен, неуверен, немощен, безсилен
+valētūdinārius - кекав, хипохондрик
 ēbrius - пиян
 avārus - алчен
 fīdus - верен, доверен
@@ -717,7 +718,7 @@ Eurōpaeus - европейски
 Epidamniēnsis - епидамски
 Etrūscus - етруски/етрускски (!!!)
 Gabīnus - габийски
-Gallus- галски
+Gallus - галски
 Germānus - германски
 Graecus - гръцки
 Hispānus - испански

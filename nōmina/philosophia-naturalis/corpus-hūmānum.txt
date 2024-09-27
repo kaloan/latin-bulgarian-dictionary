@@ -68,7 +68,7 @@ crūs, crūris, n - крак
     tālus, -ī, m - глезен, ашик
     petasus, -ī, m - пета
 vīscus, visceris, n - вътрешен органи
-viscera, viscerum, n pl - вътрешности
+vīscera, vīscerum, n pl - вътрешности
   venter, ventris, m - стомах
   cor, cordis - сърце
   pulmō, pulmōnis, m - бял дроб
