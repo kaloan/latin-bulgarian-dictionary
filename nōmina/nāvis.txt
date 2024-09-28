@@ -1,5 +1,7 @@
 portus, -ūs, m - пристан, пристанище
 nāvis, -is, f - кораб
+  barca, -ae, f - малък кораб, барк
+  stlatta, -ae, f - товарен кораб, шлеп, баржа
 ratis, -is, f - рафт, лодка
 nauta, -ae, m - моряк
 gubernātor, -ōris, m - капитан, командир

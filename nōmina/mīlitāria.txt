@@ -8,6 +8,7 @@ bellum, -ī, n - война
   expugnātiō, -ōnis, f - превземане
   obsidiō, -ōnis, f - обсада
   īnsidiae, -ārum, f pl - засада, клопка
+  astūs, astuum, m pl - тактика, прийом, стратегема, план
 mīlitia, -ae, f - военна служба
 cōpiae, -ārum, f pl - военни сили
 agmen, agminis, n - боен строй колона, използван по време на път

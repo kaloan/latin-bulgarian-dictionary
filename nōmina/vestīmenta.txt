@@ -8,6 +8,7 @@ vestis, -is, f - дреха
   pallium, -ī, n - наметало
   paenula, -ae, f - наметало
   amicitus, -ī, m - наметало
+  epitogium, -ī, m - наметка
 dormītōria, -ae, f - пижама
 calceus, -ī, m - обувка
 calceāmentum, -ī, n - обувка

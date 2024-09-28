@@ -43,7 +43,6 @@ mīrārī (d) - чудя се
 ōsculārī (d) - целувам
   exōsculārī (d) - разцелувам, силно съм привързан
 mētīrī, mensum esse (d) - меря
-opperīrī, oppertun esse (d) - чакам, изчаквам
 gradī -ior, gressum esse (d) - стъпвам
   aggredī -ior, aggressum esse (d) - настъпвам, нападам, приближавам
   dīgredī -ior, dīgressum esse (d) - отстъпвам, тръгвам, заминавам, разделям се, развеждам се
@@ -119,3 +118,8 @@ medērī (d) - лекувам
 sectārī (d) - следвам, ловувам
 adsectārī (d) - преследвам, придружавам, подкрепям
 vadārī (d) - призовавам в съда (???)
+īrāscī, īrātum esse (d) - беснея, гневя се
+
+-perīrī, -pertum esse - изживявам, пробвам,
+  opperīrī, oppertun esse (d) - чакам, изчаквам
+  experīrī, expertum esse (d) - пробвам, опитвам, изпитвам/изпробвам някого, преживявам, изпитвам, набюдавам

@@ -33,7 +33,7 @@ dēfendere, dēfendisse, dēfensum - защитавам, отбранявам
 frīgescere, frixiisse - изстивам
 possīdere - обладавам, грабвам, превземам
 minuere, minuisse, minuitum - намалявам, отслабвам, смалявам
-alere, aluisse, altum/alitum - кърмя, изхранвам
+alere, aluisse, altum/alitum - насърчавам, развивам, поддържам, кърмя, изхранвам
 fremere, fremuisse, fremitum - ръмжа
 scindere, scidisse, scissum - късам, режа, нарязвам, късам си косата/дрехите от яд
 metere, messuisse, messum - жъна
@@ -62,8 +62,7 @@ pertimêscere - изплашвам се
 imbuere, imbuisse, imbūtum (+abl) - прониквам, топя, навлажнявам, цапам (с), оцветявам (с), обучавам (в), възпитавам (в)
 imbuere (+abl) - обучавам, възпитавам
 adolēscere, adolēvisse - пораствам
-pēdere - пърдя
-  oppēdere (+dat) - пърда (към някого), присмивам се (някому), подигравам се (с някого), обиждам (някого)
+occulere, occuluisse, occultum - крия, прикривам
 
 legere, lēgisse, lēctum - чета
   allicere -iō (!), allēxisse, allēctum - привличам
@@ -188,7 +187,8 @@ tinguere, tinxisse, tinctum - намокрям, топвам
 stinguere, stinxisse, stinctum  - гася, унищожавам
   exstinguere, еxstinxisse, exstinctum - угасвам, убивам, унищожавам
 tendere, tendisse, tentum - опъвам, дърпам, насочвам оръжие, напрягам се, запътил съм се
-  contendere - пътувам, боря се
+  attendere - насочвам внимание, внимавам, грижа се
+  contendere - натягам, настройвам струнен музикален инструмент, шири се, пътувам, боря се
   extendere - разширявам, удължавам, натягам
   intendere - опъвам, обтягам
   ostendere - показвам, представям
@@ -351,7 +351,7 @@ lūdere, lūsisse, lusum - играя
 tangere, tetigisse, tāctum - докосвам, пипам
   attingere, attingisse, atttēctum - докосвам, допирам, гранича, вкусвам, достигам
   contingere, contigisse, contāctum - допирам,  достигам, окажа
-regere, rēxisse, rēctum - валдея, управлявам, направлявам
+regere, rēxisse, rēctum - валдея, управлявам, направлявам, насочвам
   porrigere - предлагам, разпростирам
 tremere, tremuisse - треперя, треса се
   intremere - втрисам
@@ -379,3 +379,9 @@ pendere, pependisse, pēnsum - тежа, плащам, обмислям
   impendere (+dat) - харча, изхарча
 vellere, vellisse/vulsisse, vulsum - скубя, събарям
   ēvellere - оскубвам, изтривам
+pēdere - пърдя
+  oppēdere (+dat) - пърда (към някого), присмивам се (някому), подигравам се (с някого), обиждам (някого)
+acuere, acuisse, acūtum - остря, подострям, точа, шиля, подобрявам, поставям ударение
+  exacuere - изострям
+lacere -iō, licuisse, lactum - увличам, омайвам
+  dēlicere -iō, dēlicuisse, dēlictum - примамвам, подмамвам, наслаждавам
