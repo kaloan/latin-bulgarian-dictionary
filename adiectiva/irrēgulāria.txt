@@ -1,0 +1,41 @@
+bonus, melior, optimus - добър
+malus, pēior, pessinus - лош
+magnus, māior, māximus - голям, велик
+parvus, minor, minimus - малък
+multī, plūrēs, plūrimī pl - многобройни
+complūrēs, -ēs - изобилни, несчетни
+multum, plūs plūris, plūrimum - много
+nēquam (indecl), nēquior, nēquissimus - подъл, отвратителен, низък, безполезен
+
+superus, superior, suprēmus/summus - горен, висок, пръв (в суперлатив), висш
+medius, medior, medioximus - среден
+īnferus, īnferior, īnfimus/īmus - долен, нисък, последен (в суперлатив), низш
+interior, intimus - по-вътрешен
+exterior, extrēmus - по-външен, по-краен
+ulterior/ulterius, ultimus - по-далечен
+citerior/citerius, citimus - по-близък
+propior, proximus - по-близък
+
+facilis, facilior, facilimus - лесен
+difficilis, difficilior, difficilimus - труден
+gracilis, gracilior, gracilimus - грациозен, слаб, изпит
+humilis, humilior, humilimus - нисък, низък, неизвестен
+similis, similior, similimus - подобен, сходен
+cōnsimilis, cōnsimilior, cōnsimilimus - еднакъв, неразличим
+dissimilis, dissimilior, dissimilimus - различен, инакъв
+ūtilis, ūtilior, ūtilimus - потребно, полезно
+
+necessārius, magis necessārius - нужен, необходим
+
+
+septuennis, -is - седмогодишен
+
+
+necesse, indecl - необходимо, задължително
+
+
+prior, prīmus - преден, предишен, предходен
+posterior, postrēmus  - заден, по-заден, следващ
+īnferior, -is - долен, по-долен, по-млад, по-дребен
+adulēscentior, -ōris - по-млад
+senior, -ōris - по-възрастен

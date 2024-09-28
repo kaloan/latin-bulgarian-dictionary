@@ -281,6 +281,7 @@ sōdēs - ако обичаш, ако можеш
 
 bene, melius, optimē - добре
 male, pēius, pessimē - зле
+paulum, minus, minimum - малко
 
 facile - лесно
 difficile - трудно

@@ -1,5 +1,5 @@
 #!/bin/bash
-files="$(find . -name "*.txt" | grep -vE "collatiō\.txt|etc\.txt|collatiō-simplex\.txt")"
+files="$(find . -name "*.txt" | grep -vE "collātiō\.txt|etc\.txt|collātiō-simplex\.txt")"
 buffer=$RANDOM
 bufferPlain=$RANDOM
 dirRegEx="\./(\w*)/.*"
@@ -49,6 +49,6 @@ done
 
 sort $buffer > "$buffer.tmp"
 sort $bufferPlain > "$bufferPlain.tmp"
-mv "$buffer.tmp" collatiō.txt
-mv "$bufferPlain.tmp" collatiō-simplex.txt
+mv "$buffer.tmp" collātiō.txt
+mv "$bufferPlain.tmp" collātiō-simplex.txt
 rm  $buffer $bufferPlain

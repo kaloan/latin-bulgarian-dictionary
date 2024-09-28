@@ -1,0 +1,37 @@
+Aegyptius - египетски
+Aethiops - етиопски
+Ãfricānus - африкански
+Albānus - албански (в смисъл свързан с древния град Алба Лонга или Албанските планини в Италия)
+Asiānus - азиатски
+Atticus - атически
+Britannus - британски
+Campānus - кампански
+Cannēnsis - кански
+Carthāginiēnsis - картагенски
+Delphicus - делфийски
+Epidamniēnsis - епидамски
+Etrūscus - етруски/етрускски (!!!)
+Eurōpaeus - европейски
+Gabīnus - габийски
+Gallus - галски
+Germānus - германски
+Graecus - гръцки
+Hispānus - испански
+Italicus - италийски, апенински
+Italus - италиански
+Latīnus - латински
+Lūsītānus - лузитански, т.е. португалски
+Pompëius - помпейски
+Pūnicus - пунически, картагенски
+Rōmānus - римски
+Sabellus - самнитски
+Sabīnus - сабински
+Samius - самоски
+Siculus - сицилийски
+Syrācūsānus - сиракузски
+Thraex - тракийски
+Tūsculānus - тускулански
+
+Aesōpius - Езопов
+Chrīstiānus - Християнски
+Sōcraticus - Сократичен

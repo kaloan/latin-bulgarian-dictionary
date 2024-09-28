@@ -1,0 +1,39 @@
+prīmus - първи
+secundus - втори
+tertius - трети
+quārtus - четвърти
+quīntus - пети
+sextus - шести
+septimus - седми
+octāvus - осми
+nōnus - девети
+decimus - десети
+ūndecimus - единайсти
+duodecimus - дванайсти
+tertius decimus - тринайсти
+quārtus decimus - четиринайсти
+quīntus decimus - петнайсти
+sextus decimus - шестнайсти
+septimus decimus - седемнайсти
+duodēvīcēsimus - осемнайсти
+ūndēvīcēsimus - деветнайсти
+vīcēsimus - двайсти
+trīcēsimus - трийсти
+quadrāgēsimus - четирийсти
+quīnquāgēsimus - петдесети
+sexāgēsimus - шейсети
+septuāgēsimus - седемдесети
+octōgēsimus - осемдесети
+nōnāgēsimis - деветдесети
+centēsimus - стотни
+duocentēsimus - двустотни
+trecentēsimus - тристотни
+quadringentēsimus - четиристотни
+quīngentēsimus - петстотни
+sescentēsimus - шестстотни
+septingentēsimus - седемстотни
+octingentēsimus - осемстотни
+nōngentēsimus - деветстотни
+mīllēsimus - хилядни
+bis mīllēsimus - двехилядни
+postrēmus - последен

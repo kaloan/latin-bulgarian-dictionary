@@ -4,4 +4,4 @@
 # .husky/make-plain.sh
 
 # add the new ordered files to commit by changing the index
-git update-index --add collatiō.txt collatiō-simplex.txt
+git update-index --add collātiō.txt collātiō-simplex.txt

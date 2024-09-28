@@ -1,5 +1,4 @@
 #!/bin/bash
-filename='collatiō.txt'
 buffer=$$RANDOM
 touch "$buffer"
 regEx="^(.*) (- .*)$"
@@ -16,6 +15,6 @@ do
     echo "$plain ${BASH_REMATCH[2]}" >> $buffer
   fi
   # echo "$p"
-done < "$filename"
+done < collātiō.txt
 
-mv "$buffer" "$filename-simplex.txt"
+mv "$buffer" "collātiō-simplex.txt"
