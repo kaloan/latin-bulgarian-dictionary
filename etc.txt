@@ -148,4 +148,13 @@ a. d. (annō Domimī) - в летото Господне
 Falernum (praedium) - фалернско имение
 Tūsculānum (praedium) - тускуланско имение
 
+Hebdomada Sancta - Страсната седмица
+dies Solis, Fēria prima, Dominica)- неделя
+dies Lunae, Fēria secunda - понеделник
+dies Martis, Fēria tertia - вторник
+dies Mercurii, Fēria quarta - сряда
+dies Iovis, Fēria quinta - четвъртък
+dies Veneris, Fēria sexta - петък
+dies Saturni, Fēria septima, Sabbatum - събота
+
 Ȳ, ȳ

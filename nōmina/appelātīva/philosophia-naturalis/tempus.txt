@@ -21,6 +21,10 @@ aestās, -ātis, f - лято
 autumnus, -ī, m - есен
 hiems, -is, f - зима
 mēnsis, -is, m - месец
+hebdomas, hebdomadis, f - седмица
+hebdomada, -ае, f - седмица
+septimāna, -ae, f - седмица
+fēria, -ae, f - ден от седмицата, празник, панаир
 diēs, diēī, m - ден
   dilūculum, -ī, n - сутрешен здрач/сумрак
   ortus, -ūs, m - изгрев
