@@ -67,3 +67,5 @@ caelestis, -is - небесен
 iuvenālis, -is - младежки
 populāris, -is - народен
 immedicābilis, -is - неизлечим
+temporālis, -is - времеви, временен, ефимерен, мимолетен, свързан с времето (граматически)
+impūnis, -is - безнаказан

@@ -1,0 +1,15 @@
+bene, melius, optimē - добре
+male, pēius, pessimē - зле
+paulum, minus, minimum - малко
+parvum, minus, minimē - малко
+magnopere/valdē, magis, māximē - силно, здраво
+multum, plūs, plūrimum - много
+nēquiter, nēquius, nēquissimē - подло, отвратително, низко, безполезно
+saepe, saepius, saepissimē - често
+rārō, rārius, rārissimē - рядко
+mātūrē, mātūrius, māturrimē - навреме, навременно
+prope, propius, proximē - близо, близко
+nūper, -(!), nūperrimē - скоро, наскоро, преди малко
+potis, potius, potissime - възможо (позитив); по-точно, по-скоро, по-удачно, за предпочитане, даже, може би (компаратив); особено, изрично, именно
+-(!), prius (+abl), prīmō - преди (някого/нещо) (компаратив); първо, в първо време (суперлатив)
+secus, sētius/sequius, -(!) - противно, обратно (позитив); диаметрално, в по-малка степен, по-късно, по-бавно (компаратив)

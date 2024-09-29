@@ -15,7 +15,7 @@ do
         partOfSpeech="съществително" ;;
       "prōnōmina")
         partOfSpeech="местоимение" ;;
-      "adiectiva")
+      "adiectīva")
         partOfSpeech="прилагателно" ;;
       "verba")
         partOfSpeech="глагол" ;;
