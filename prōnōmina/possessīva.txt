@@ -1,0 +1,19 @@
+meus, meum, meī, meō, meō, meī, meōs, meōrum, meīs, meīs  - мой
+mea, meam, meae, meae, meā, meī, meās, meārum, meīs, meīs  - моя
+meum, meum, meī, meō, meō, mea, mea, meōrum, meīs, meīs  - мое
+
+tuus, tuum, tuī, tuō, tuō, tuī, tuōs, tuōrum, tuīs, tuīs  - твой
+tua, tuam, tuae, tuae, tuā, tuī, tuās, tuārum, tuīs, tuīs  - твоя
+tuum, tuum, tuī, tuō, tuō, tua, tua, tuōrum, tuīs, tuīs  - твое
+
+suus, suum, suī, suō, suō, suī, suōs, suōrum, suīs, suīs  - свой
+sua, suam, suae, suae, suā, suī, suās, suārum, suīs, suīs  - своя
+suum, suum, suī, suō, suō, sua, sua, suōrum, suīs, suīs  - свое
+
+noster, nostrum, nostrī, nostrō, nostrō, nostrī, nostrōs, nostrōrum, nostrīs, nostrīs - наш
+nostra, nostram, nostrae, nostrae, nostrō, nostrae, nostrās, nostrārum, nostrīs, nostrīs - наша
+nostrum, nostrum, nostrī, nostrō, nostrō, nostra, nostra, nostrōrum, nostrīs, nostrīs - наше
+
+vester, vestrum, vestrī, vestrō, vestrō, vestrī, vestrōs, vestrōrum, vestrīs, vestrīs - ваш
+vestra, vestram, vestrae, vestrae, vestrō, vestrae, vestrās, vestrārum, vestrīs, vestrīs - ваша
+vestrum, vestrum, vestrī, vestrō, vestrō, vestra, vestra, vestrōrum, vestrīs, vestrīs - ваше

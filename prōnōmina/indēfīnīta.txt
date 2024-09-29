@@ -1,0 +1,63 @@
+nēmō, nēminem, nēminis/nūllīus, nēminī, nēmine/nūllō/nūllā - никой, никоя
+nōnnēmō, nōnnēminem, nōnnēminis/nōnnūllīus, nōnnēminī, nōnnēmine/nōnnūllō/nōnnūllā - някой, някоя
+nihil/nīl, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
+omnia, -ium - всичко
+
+
+uterque, utrumque, utrīusque, utrīque, utrōque, utrīque, utrōsque, utrōrumque, utrīsque, utrīsque - двата, двамата
+utraque, utramque, utrīusque, utrīque, utrāque, utraeque, utrāsque, utrārumque, utrīsque, utrīsque - двете
+utrumque, utrumque, utrīusque, utrīque, utrōque, utraque, utraque, utrōrumque, utrīsque, utrīsque - двете
+
+neuter, neutrum, neutrīus, neutrī, neutrō, neutrī, neutrōs, neutrōrum, neutrīs, neutrīs - нито двата
+neutra, neutram, neutrīus, neutrī, neutrā, neutrae, neutrās, neutrārum, neutrīs, neutrīs - нито двете
+neutrum, neutrum, neutrīus, neutrī, neutrō, neutra, neutra, neutrōrum, neutrīs, neutrīs - нито двете
+
+alter, alterum, alterīus, alterī, aletrō, alterī, altrōs, alerōrum, alterīs, alterīs - единият/другият от двама
+altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едината/другата от две
+alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - единото/другото от две
+
+
+alius, alium, alīus, aliī, aliō, aliī, aliōs, aliōrum, aliīs, aliīs - друг
+alia, aliam, alīus, aliī, aliā, aliae, aliās, aliārum, aliīs, aliīs - друга
+aliud, aliud, alīus, aliī, aliō, alia, alia, aliōrum, aliīs, aliīs - друго
+
+quis/quī, quem, cuius, cuī, quō, quī, quōs, quōrum, quibus, quibus - някой, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
+qua, quam, cuius, cuī, quā, quae, quās, quārum, quibus, quibus - някоя, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
+quid/quod, quid/quod, cuius, cuī, quō, qua, quas, quōrum, quibus, quibus - някое, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
+
+aliquis, aliquem, alicuius, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой
+aliqua, aliquam, alicuius, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя
+aliquod, aliquod, alicuius, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus - някое
+
+quisquam, quemquam, cuiusquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
+quidquam/quicquam, quidquam/quicquam, cuiusquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
+
+
+quisque, quemque, cuiusque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque - всеки
+quaque, quamque, cuiusque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque - всяка
+quodque, quodque, cuiusque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque - всяко
+
+plērīque, plērōsque, plerōrumque, plerīsque, plerīsque - почти/близо всеки/всички
+plēraeque, plērāsque, plērārumque, plerīsque, plerīsque - почти/близо всяка/всички
+plēraque, plēraque, plerōrumque, plerīsque, plerīsque - почти/близо всяко/всички
+
+quīdam, quemdam/quendam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam/quōrundam, quibusdam, quibusdam - еди-кой, един определен
+quaedam, quamdam/quandam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam/quārundam, quibusdam, quibusdam - еди-коя, една определена
+quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam/quōrundam, quibusdam, quibusdam - еди-кое, едно определено
+
+quispiam, quempiam, cuiuspiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam - кой-годе, все някой, кой да е
+quaspiam, quampiam, cuiuspiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam - коя-годе, все мякоя, коя да е
+quodpiam, quodpiam, cuiuspiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam - кое-годе, все някое, кое да е
+
+quīvīs, quemvīs, cuiusvīs, cuivīs, quōvīs, quīvīs, quōsvīs, quōrumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs - кой щеш
+quaevīs, quamvīs, cuiusvīs, cuivīs, quāvīs, quaevīs, quāsvīs, quārumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs - коя щеш
+quodvīs, quodvīs, cuiusvīs, cuivīs, quōvīs, quaevīs, quaevīs, quōrumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs - кое щеш
+
+quīlibet, quemlibet, cuiuslibet, cuilibet, quōlibet, quīlibet, quōslibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кой да е, който харесаш
+quaelibet, quamlibet, cuiuslibet, cuilibet, quālibet, quaelibet, quāslibet, quārumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - коя да е, която харесаш
+quodlibet, quodlibet, cuiuslibet, cuilibet, quōlibet, quaelibet, quaelibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кое да е, което харесаш
+
+
+nōnnūllī, nōnnūllōs, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
+nōnnūllae, nōnnūllās, nōnnūāōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
+nōnnūlla, nōnnūlla, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много

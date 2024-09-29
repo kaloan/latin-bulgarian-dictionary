@@ -187,11 +187,11 @@ aliās [наречие] - в друго време, друг път
 aliēnum, -ī, m [съществително] - чуждост, чужда вещ, чужда земя
 aliēnus [прилагателно] - чужд
 aliō [наречие] - другаде, надругаде, към друго място
-aliqua, aliquam, alicuis, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus [местоимение] - някоя
+aliqua, aliquam, alicuius, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus [местоимение] - някоя
 aliquandō [наречие] - някога, все някога, по някое време
 aliquantum [наречие] - все няакакви, немалко, донякъде, някакъв брой, някакво количество
-aliquis, aliquem, alicuis, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus [местоимение] - някой
-aliquod, aliquod, alicuis, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus [местоимение] - някое
+aliquis, aliquem, alicuius, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus [местоимение] - някой
+aliquod, aliquod, alicuius, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus [местоимение] - някое
 aliquot [наречие] - няколко
 aliter [наречие] - иначе, инак, другак, другояче
 aliud, aliud, alīus, aliī, aliō, alia, alia, aliōrum, aliīs, aliīs [местоимение] - друго
@@ -960,7 +960,12 @@ cubitus, -ūs, m [съществително] - спалня, легло
 cucumis, -eris, m [съществително] - краставица
 cŭcŭmis, -eris, m [съществително] - краставица
 cucurbita, -ae, f [съществително] - тиква
-cuius [прилагателно] - чий, негов
+cuia, cuiam, cuiae, cuiae, cuiā, cuiī, cuiās, cuiārum, cuiīs, cuiīs [местоимение] - чия?
+cuia, cuiam, cuiae, cuiae, cuiā, cuiī, cuiās, cuiārum, cuiīs, cuiīs [местоимение] - чиято, чиито (за женски род в множествено число)
+cuium, cuium, cuiī, cuiō, cuiō, cuia, cuia, cuiōrum, cuiīs, cuiīs [местоимение] - чие?
+cuium, cuium, cuiī, cuiō, cuiō, cuia, cuia, cuiōrum, cuiīs, cuiīs [местоимение] - чието, чиито (за среден род в множествено число)
+cuius, cuium, cuiī, cuiō, cuiō, cuiī, cuiōs, cuiōrum, cuiīs, cuiīs [местоимение] - чий?
+cuius, cuium, cuiī, cuiō, cuiō, cuiī, cuiōs, cuiōrum, cuiīs, cuiīs [местоимение] - чийто, чиито (за мъжки род в множествено число)
 culex, culicis, m [съществително] - комар
 culīna, -ae, f [съществително] - кухня
 culīna, -ae, f [съществително] - кухня, мангали можели да се пренесат в атриумът и да се сготви там
@@ -1270,7 +1275,7 @@ dūrus [прилагателно] - твърд (и в преносен смис�
 dux, dūcis, m [съществително] - водач, предводител, главнокомандващ
 Dyrrachium, -ī, n [съществително] - Дирахиум (дн. Драч, Дуръс), Епидамн
 eadem, eandem, eiusdem, eīdem, eādem, eaedem, eāsdem, eārundem, iīsdem, iīsdem  [местоимение] - същата
-ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs [местоимение] - тя
+ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs [местоимение] - тя, те (за женски род в множествено число)
 ēbrius [прилагателно] - пиян
 ebur, eboris, n [съществително] - слонова кост
 eburneus [прилагателно] - бял като слонова кост
@@ -1870,7 +1875,7 @@ idcircō [наречие] - затова, поради тази причина
 īdem, eundem, eiusdem, eīdem, eōdem, iīdem, eōsdem, eōrundem, iīsdem, iīsdem  [местоимение] - същият
 idem, idem, eiusdem, eīdem, eōdem, eadem, eadem, eōrundem, iīsdem, iīsdem [местоимение] - същото
 ideō [наречие] - затова, заради това
-id, id, eius, eī, eō, ea, ea, eōrum, iīs, iīs  [местоимение] - то
+id, id, eius, eī, eō, ea, ea, eōrum, iīs, iīs  [местоимение] - то, те (за среден род в множествено число)
 idōneus, magis idōneus, maximē idōneus [прилагателно] - удобен, подходящ
 īdūs, īduum, f pl [съществително] - иди, тринайсетият или петнайсетият ден от месеца
 iecur, iecoris, n [съществително] - черен дроб
@@ -1996,7 +2001,7 @@ inferre [глагол] - внaсям, погребвам
 īnfinītīvus, īnf. [съществително] - инфинитив, нелична глаголна форма, която не се среща в българския
 īnfirmus [прилагателно] - кекав, трошлив, болен, неуверен, немощен, безсилен
 īnflāre [глагол] - издувам
-īnflectere [глагол] - свивам, сколявам (граматически)
+īnflectere [глагол] - свивам, скланям (граматически), спрягам (граматически)
 īnflexibilis, -is [прилагателно] - неогаваем
 īnfluere [глагол] - наводнявам
 īnfrā [предлог] - под, надолу от
@@ -2129,7 +2134,7 @@ ipsum, ipsum, ipsīus, ipsī, ipsō, ipsa, ipsa, ipsōrum, ipsīs, ipsīs [ме�
 Īris, Īridis, f [съществително] - Ирида, богиня въплащение на дъгата и помощница на Юнона
 irrēgulāris, -is [прилагателно] - необичаен, нетипичен, неправилен, особен
 irrīdēre [глагол] - присмивам се
-is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs [местоимение] - той
+is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs [местоимение] - той, те (за мъжки род в множествено число)
 īsicium, -ī, n [съществително] - кюфте
 istāc [наречие] - онака, както слушателя/читателя; там, при слушателя/читателя
 ista/istaec, istam, istīus, istī, istā/istāc, istae, istās, istārum, istīs, istīs [местоимение] - таз/оназ, намираща се близо до слушателя/читателя
@@ -2439,6 +2444,7 @@ mātūrē, mātūrius, māturrimē [наречие] - навреме, навре
 mātūrus, mātūrior, mātūrrimus/mātūrissimus [прилагателно] - зрял, съзрял
 maxilla, -ae, f [съществително] - скула
 maximē [наречие] - много, особено, главно
+mea, meam, meae, meae, meā, meī, meās, meārum, meīs, meīs  [местоимение] - моя
 medērī (d) [глагол] - лекувам
 medicus, -ī, m [съществително] - лекар
 mediocris, -is [прилагателно] - умерен, обикновен, посредствен
@@ -2493,7 +2499,8 @@ metere, messuisse, messum [глагол] - жъна
 mētīrī, mensum esse (d) [глагол] - меря
 metuere, metuisse, metutum [глагол] - боя се, страхувам се
 metus, -ūs, m [съществително] - боязън, страх
-meus [прилагателно] - мой
+meum, meum, meī, meō, meō, mea, mea, meōrum, meīs, meīs  [местоимение] - мое
+meus, meum, meī, meō, meō, meī, meōs, meōrum, meīs, meīs  [местоимение] - мой
 Midās, Midae, m [съществително] - Мидас
 migrāre [глагол] - преселвам се, местя се, мигрирам
 mīles, -itis, m [съществително] - войник, воин, бранник, ратник
@@ -2707,7 +2714,9 @@ nōn [наречие] - не
 nōscere, nōvisse, notum [глагол] - знам
 nōscitāre [глагол] - запознавам се, разпознавам, гледам
 nōs, nōs, nostrī, nōbīs, nōbīs [местоимение] - ние
-noster [прилагателно] - наш
+noster, nostrum, nostrī, nostrō, nostrō, nostrī, nostrōs, nostrōrum, nostrīs, nostrīs [местоимение] - наш
+nostra, nostram, nostrae, nostrae, nostrō, nostrae, nostrās, nostrārum, nostrīs, nostrīs [местоимение] - наша
+nostrum, nostrum, nostrī, nostrō, nostrō, nostra, nostra, nostrōrum, nostrīs, nostrīs [местоимение] - наше
 Nostrum [съществително] - Средиземно море (букв. нашето море)
 nota, -ae, f [съществително] - знак, буква, белег, татуировка, забележка, упрек, укор, нота
 notāre [глагол] - бележа, забележа, отбележа, упреквам, укорявам
@@ -3144,9 +3153,9 @@ plēbēius, -ī, m [съществително] - плебей, човек от 
 plēbēius [прилагателно] - плебейски, простолюден
 plēbs, plēbis, f [съществително] - простолюдието
 plēnus (+gen) [прилагателно] - пълен (с)
-plēraeque, plērāsque, plērārumque, plerīsque, plerīsque [местоимение] - почти/близо всички
-plēraque, plēraque, plerōrumque, plerīsque, plerīsque [местоимение] - почти/близо всички
-plērīque, plērōsque, plerōrumque, plerīsque, plerīsque [местоимение] - почти/близо всички
+plēraeque, plērāsque, plērārumque, plerīsque, plerīsque [местоимение] - почти/близо всяка/всички
+plēraque, plēraque, plerōrumque, plerīsque, plerīsque [местоимение] - почти/близо всяко/всички
+plērīque, plērōsque, plerōrumque, plerīsque, plerīsque [местоимение] - почти/близо всеки/всички
 plērōma, pleromatis, n [съществително] - пълнота, запълненост
 plērumque [наречие] - обикновено, по принцип, почти винаги
 plicāre [глагол] - гъна, вия
@@ -3447,8 +3456,10 @@ quadringentī [прилагателно] - четиристотин
 quadriplex, quadriplicis [прилагателно] - четворен, четирикратен
 quaecumque, quamcumque, cuiuscumque, cuicumque, quācumque, quaecumque, quāscumque, quārumcumque, quibuscumque, quibuscumque [местоимение] - коя да е
 quaedam, quamdam/quandam, cuiusdam, cuidam, quādam, quaedam, quāsdam, quārumdam/quārundam, quibusdam, quibusdam [местоимение] - еди-коя, една определена
+quaelibet, quamlibet, cuiuslibet, cuilibet, quālibet, quaelibet, quāslibet, quārumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet [местоимение] - коя да е, която харесаш
 quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam [местоимение] - че коя
-quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs [местоимение] - каква, коя, която
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs [местоимение] - каква, която
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs [местоимение] - коя?
 quaerere (+īnf) [глагол] - желая
 quaerere, quaesīvisse, quaesītum [глагол] - търся, диря
 quaeritāre [глагол] - търся, диря
@@ -3458,6 +3469,7 @@ quaesītus [прилагателно] - търсен, допитан, желан
 quaestiō, -ōnis, f [съществително] - съдебен процес, разследване
 quaestor, -ōris, m [съществително] - квестор, (!!)
 quaestus, -ūs, m [съществително] - печалба
+quaevīs, quamvīs, cuiusvīs, cuivīs, quāvīs, quaevīs, quāsvīs, quārumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs [местоимение] - коя щеш
 quālis [наречие] - какъв
 quālitās, -ātis, f [съществително] - качество
 quamdiū [наречие] - колкото дълго
@@ -3474,13 +3486,14 @@ quantum [наречие] - колкого много
 quantum [наречие] - колко (интензивно), какво количество
 quantus [наречие] - колкото голям
 quāpropter [наречие] - защо, заради какво
-quaque, quamque, cuisque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque [местоимение] - всяка
+qua, quam, cuius, cuī, quā, quae, quās, quārum, quibus, quibus [местоимение] - някоя, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
+quaque, quamque, cuiusque, cuīque, quāque, quaeque, quāsque, quārumque, quibusque, quibusque [местоимение] - всяка
 quāre [наречие] - защо
 quārtus decimus [прилагателно] - четиринайсти
 quārtus, -ī, m [съществително] - безименен пръст
 quārtus [прилагателно] - четвърти
 quasi [наречие] - като, като че, подобно на
-quaspiam, quampiam, cuispiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam [местоимение] - коя-годе, все мякоя, коя да е
+quaspiam, quampiam, cuiuspiam, cuīpiam, quāpiam, quaepiam, quāspiam, quārumpiam, quibuspiam, quibuspiam [местоимение] - коя-годе, все мякоя, коя да е
 quātenus [наречие] - докъде
 quater deciēs [наречие] - четиринайсет пъти
 quatere iō, , quassum [глагол] - клатя, треса, друсам
@@ -3498,12 +3511,14 @@ quīcumque, quemcumque, cuiuscumque, cuicumque, quōcumque, quīcumque, quōscum
 quīdam, quemdam/quendam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam/quōrundam, quibusdam, quibusdam [местоимение] - еди-кой, един определен
 quidem [наречие] - наистина, определено, поне
 quidnī [наречие] - защо не
-quidquam/quicquam, quidquam/quicquam, cuisquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] [местоимение] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
+quidquam/quicquam, quidquam/quicquam, cuiusquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] [местоимение] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
+quid, quid, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs [местоимение] - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
 quidquid/quicquid, quidquid/quicquid, -, -, quōquō [местоимение] - какво да е
-quid [местоимение] - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
+quid/quod, quid/quod, cuius, cuī, quō, qua, quas, quōrum, quibus, quibus [местоимение] - някое, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
 quid [наречие] - защо
 quid [съюз] - какво
 quiēscere, quiēvisse [глагол] - почивам
+quīlibet, quemlibet, cuiuslibet, cuilibet, quōlibet, quīlibet, quōslibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet [местоимение] - кой да е, който харесаш
 quīndecim, indecl [прилагателно] - петнайсет
 quīngēnī [прилагателно] - петстотин по петстотин, по петстотин, по петстотачки
 quīngentēsimus [прилагателно] - петстотни
@@ -3529,23 +3544,29 @@ Quīntus Septimius Flōrens Tertulliānus [съществително] - Тер�
 quīntus [прилагателно] - пети
 quīn [наречие] - защо не
 quin [съюз] - защо не
-quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs [местоимение] - какъв, кой, който
+quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs [местоимение] - какъв, който
+quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs [местоимение] - кой?
 Quirinalis, -is, n [съществително] - Квиринал
 Quirīnus, -ī, m [съществително] - Квирин, сабински бог на войната, по-късно почитан като обожествяването на Ромул, който бил "взет" от боговете по време на буря
 quisnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam [местоимение] - че кой
-quispiam, quempiam, cuispiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam [местоимение] - кой-годе, все някой, кой да е
-quisquam, quemquam, cuisquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] [местоимение] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
-quisque, quemque, cuisque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque [местоимение] - всеки
+quispiam, quempiam, cuiuspiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam [местоимение] - кой-годе, все някой, кой да е
+quisquam, quemquam, cuiusquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] [местоимение] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
+quis, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs [местоимение] - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
+quisque, quemque, cuiusque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque [местоимение] - всеки
+quis/quī, quem, cuius, cuī, quō, quī, quōs, quōrum, quibus, quibus [местоимение] - някой, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
 quisquis, -, -, -, quōquō [местоимение] - какъв да е
-quis [местоимение] - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
+quīvīs, quemvīs, cuiusvīs, cuivīs, quōvīs, quīvīs, quōsvīs, quōrumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs [местоимение] - кой щеш
 quī [наречие] - как
 quō (+comp) [съюз] - за да, с цел да
 quodcumque, quodcumque, cuiuscumque, cuicumque, quōcumque, quaecumque, quaecumque, quōrumcumque, quibuscumque, quibuscumque [местоимение] - кое да е
 quoddam, quoddam, cuiusdam, cuidam, quōdam, quaedam, quaedam, quōrumdam/quōrundam, quibusdam, quibusdam [местоимение] - еди-кое, едно определено
+quodlibet, quodlibet, cuiuslibet, cuilibet, quōlibet, quaelibet, quaelibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet [местоимение] - кое да е, което харесаш
 quodnam, quodnam, cuiusnam, cuinam, quōnam, quaenam, quaenam, quōrumnam, quibusnam, quibusnam [местоимение] - че кое
-quodpiam, quodpiam, cuispiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam [местоимение] - кое-годе, все някое, кое да е
-quodque, quodque, cuisque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque [местоимение] - всяко
-quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs [местоимение] - какво, кое, което
+quodpiam, quodpiam, cuiuspiam, cuīpiam, quōpiam, quapiam, quapiam, quōrumpiam, quibuspiam, quibuspiam [местоимение] - кое-годе, все някое, кое да е
+quodque, quodque, cuiusque, cuīque, quōque, quaque, quasque, quōrumque, quibusque, quibusque [местоимение] - всяко
+quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs [местоимение] - какво, което
+quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs [местоимение] - кое?
+quodvīs, quodvīs, cuiusvīs, cuivīs, quōvīs, quaevīs, quaevīs, quōrumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs [местоимение] - кое щеш
 quod [съюз] - защото
 quōmodo [наречие] - как, както
 quondam [наречие] - едно време, преди
@@ -3901,7 +3922,7 @@ servus, -ī, m [съществително] - роб, прислужник
 sescēnī [прилагателно] - шестстотин по шестстотин, по шестстотин, по шестстотачки
 sescentēsimus [прилагателно] - шестстотни
 sescentī [прилагателно] - шестотин
--, sē/sēsē, sui, sibi, sē/sēsē, -, sē/sēsē, sui, sibi, sē/sēsē [местоимение] - се, свой, своя, свое, себе си, си, свои, сам, сама, само, възвратни местоимения
+-, sē/sēsē, suī, sibi, sē/sēsē, -, sē/sēsē, suī, sibi, sē/sēsē [местоимение] - се, свой, своя, свое, себе си, си, свои, сам, сама, само, възвратни местоимения
 sēstertia, -ōrum, n pl [съществително] - хиляда сестерции
 sēstertius, -ī, m [съществително] - сестерция, месингова монета на стойност 4 аса
 seu [съюз] - или
@@ -4083,6 +4104,7 @@ stuprum, -ī, n [съществително] - изнасилване, разв�
 Styx, Stygis, f [съществително] - Стикс, река в подземното царство
 st [вметнат израз] - шш
 suādēre, suāsisse [глагол] - убеждавам
+sua, suam, suae, suae, suā, suī, suās, suārum, suīs, suīs  [местоимение] - своя
 suāvis, -is [прилагателно] - приятен, весел, сладък
 subarmālis, -is, m [съществително] - потник, туника без ръкави
 subdere, subdidisse, subditum [глагол] - подлагам, доставям, замествам, заменям, подправям, изопачавам, клеветя
@@ -4151,7 +4173,8 @@ sūspendere, sūspendisse, sūspēnsum [глагол] - провисвам, ув
 suspicārī (d) [глагол] - подозирам, предполагам
 suspicere [глагол] - гледам нагоре, изследвам, наблюдавам, гледам (из)под вежди, гледам (из)под око, подозирам, не се доверявам
 sustinēre, sustinuisse, sustentum  [глагол] - удържам
-suus [прилагателно] - свой
+suum, suum, suī, suō, suō, sua, sua, suōrum, suīs, suīs  [местоимение] - свое
+suus, suum, suī, suō, suō, suī, suōs, suōrum, suīs, suīs  [местоимение] - свой
 sȳcophanta, -ae, m [съществително] - измамник
 syllaba, -ae, f [съществително] - сричка
 symphōnia, -ae, f [съществително] - съзвучие, симфония
@@ -4354,6 +4377,7 @@ Trōia, -ae, f [съществително] - Троя
 Trōiānī, -ōrum, m pl [съществително] - троянци
 truncus, -ī, m [съществително] - ствол, стебло
 trux, trucis [прилагателно] - див, свиреп
+tua, tuam, tuae, tuae, tuā, tuī, tuās, tuārum, tuīs, tuīs  [местоимение] - твоя
 tuērī (d) [глагол] - обезопасявам, подсигурявам, защитавам
 tuērī, tutum/tuitum esse (d) [глагол] - закрилям
 tuī, tuitum esse (d) [глагол] - наблюдавам, гледам, гръжа се, поддържам
@@ -4383,7 +4407,8 @@ tūs, tūris, n [съществително] - тамян
 tūte, tēte, tuīmet, tibimet, tēte [местоимение] - ти (използвано понякога в мерената реч)
 tū, tē, tuī, tibi, tē [местоимение] - ти
 tūtus [прилагателно] - безопасен, сигурен, предпазен, защитен, в безопасност
-tuus [прилагателно] - твой
+tuum, tuum, tuī, tuō, tuō, tua, tua, tuōrum, tuīs, tuīs  [местоимение] - твое
+tuus, tuum, tuī, tuō, tuō, tuī, tuōs, tuōrum, tuīs, tuīs  [местоимение] - твой
 tyrannus, -ī. m [съществително] - тиран
 ubīcumque [наречие] - където и да е
 ubi (+perf) [съюз] - след като
@@ -4546,13 +4571,15 @@ vesper, -is, m [съществително] - вечер
 vesperi [наречие] - вечер
 vespertīnus [прилагателно] - вечерен
 Vesta, -ae, f [съществително] - Веста, богиня на вечния огън и домашното огнище
-vester [прилагателно] - ваш
+vester, vestrum, vestrī, vestrō, vestrō, vestrī, vestrōs, vestrōrum, vestrīs, vestrīs [местоимение] - ваш
 Vestia, -ae, f [съществително] - Вестия
 vestibulum, -ī, n [съществително] - преддверие, антре
 vestīgium, -ī, n [съществително] - следа, диря, отпечатък
 vestīmentum, -ī, n [съществително] - облекло
 vestīre [глагол] - обличам
 vestis, -is, f [съществително] - дреха
+vestra, vestram, vestrae, vestrae, vestrō, vestrae, vestrās, vestrārum, vestrīs, vestrīs [местоимение] - ваша
+vestrum, vestrum, vestrī, vestrō, vestrō, vestra, vestra, vestrōrum, vestrīs, vestrīs [местоимение] - ваше
 vetāre, vetuisse, vetitum/vetatum [глагол] - забранявам, не допускам
 Veturia, -ae, f [съществително] - Ветурия, майка на Марций Кориолан, заминава при Волските, за да засрами сина си, след което той се отказва от войната с Рим
 Veturius, -ī, m [съществително] - Ветурий

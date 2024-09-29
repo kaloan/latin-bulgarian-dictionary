@@ -1,0 +1,10 @@
+ego, mē, meī, mihi/mī, mē - аз
+egomet, mēmet, meīmet, mihimet, mēmet - аз (използвано понякога в мерената реч)
+tū, tē, tuī, tibi, tē - ти
+tūte, tēte, tuīmet, tibimet, tēte - ти (използвано понякога в мерената реч)
+nōs, nōs, nostrī, nōbīs, nōbīs - ние
+vōs, vōs, vestrī, vōbīs, vōbīs - вие
+is, eum, eius, eī, eō, iī/eī, eōs, eōrum, iīs, iīs - той, те (за мъжки род в множествено число)
+ea, eam, eius, eī, eā, eae, eās, eārum, iīs, iīs - тя, те (за женски род в множествено число)
+id, id, eius, eī, eō, ea, ea, eōrum, iīs, iīs  - то, те (за среден род в множествено число)
+-, sē/sēsē, suī, sibi, sē/sēsē, -, sē/sēsē, suī, sibi, sē/sēsē - се, свой, своя, свое, себе си, си, свои, сам, сама, само, възвратни местоимения

@@ -1,0 +1,18 @@
+quis, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
+quid, quid, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
+
+quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs - кой?
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs - коя?
+quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs - кое?
+
+quisnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam - че кой
+quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam - че коя
+quodnam, quodnam, cuiusnam, cuinam, quōnam, quaenam, quaenam, quōrumnam, quibusnam, quibusnam - че кое
+
+cuius, cuium, cuiī, cuiō, cuiō, cuiī, cuiōs, cuiōrum, cuiīs, cuiīs - чий?
+cuia, cuiam, cuiae, cuiae, cuiā, cuiī, cuiās, cuiārum, cuiīs, cuiīs - чия?
+cuium, cuium, cuiī, cuiō, cuiō, cuia, cuia, cuiōrum, cuiīs, cuiīs - чие?
+
+uter, utrum, utrīus, utrī, utrō, utrī, utrōs, utrōrum, utrīs, utrīs - кой от двата
+utra, utram, utrīus, utrī, utrā, utrae, utrās, utrārum, utrīs, utrīs - коя от двете
+utrum, utrum, utrīus, utrī, utrō, utra, utra, utrōrum, utrīs, utrīs - кое от двете

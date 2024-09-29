@@ -1,0 +1,14 @@
+quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs - какъв, който
+quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs - каква, която
+quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs - какво, което
+
+quisquis, -, -, -, quōquō - какъв да е
+quidquid/quicquid, quidquid/quicquid, -, -, quōquō - какво да е
+
+quīcumque, quemcumque, cuiuscumque, cuicumque, quōcumque, quīcumque, quōscumque, quōrumcumque, quibuscumque, quibuscumque - кой да е
+quaecumque, quamcumque, cuiuscumque, cuicumque, quācumque, quaecumque, quāscumque, quārumcumque, quibuscumque, quibuscumque - коя да е
+quodcumque, quodcumque, cuiuscumque, cuicumque, quōcumque, quaecumque, quaecumque, quōrumcumque, quibuscumque, quibuscumque - кое да е
+
+cuius, cuium, cuiī, cuiō, cuiō, cuiī, cuiōs, cuiōrum, cuiīs, cuiīs - чийто, чиито (за мъжки род в множествено число)
+cuia, cuiam, cuiae, cuiae, cuiā, cuiī, cuiās, cuiārum, cuiīs, cuiīs - чиято, чиито (за женски род в множествено число)
+cuium, cuium, cuiī, cuiō, cuiō, cuia, cuia, cuiōrum, cuiīs, cuiīs - чието, чиито (за среден род в множествено число)
