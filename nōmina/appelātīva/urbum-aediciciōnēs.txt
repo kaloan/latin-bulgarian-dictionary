@@ -43,7 +43,8 @@ aedificium, -ī, n - здание, сграда, постройка
   porticus, -ūs, f - портик, стоа
   stōa, -ae, f - стоа, портик
   templum, -ī, n - храм
-    āra, -ae, f - олтар
+    altāre, altāris, n - олтар
+    āra, -ae, f - олтар, жертвеник
   tumulus, -ī, m - гробница, могила
   taberna, -ae, f - магазин
     caupōna, -ae, f - странноприемница

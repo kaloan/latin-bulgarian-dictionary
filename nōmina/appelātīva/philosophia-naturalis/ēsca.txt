@@ -24,7 +24,9 @@ pōmum, -ī, n - плод
   fīcus, -ūs, m - смокиня
   ūva, -ae, f - грозде
   palmula, -ae, f; caryōta, -ae, f; dactylus, -ī, m - фурма
-  frūgēs, -um, f pl - реколта
+  frūx, frūgis, f - реколта, продоволствие, хранителен продукт
+  frūgēs, -um, f pl - провизии, припаси, запаси
+  frūctus, -ūs, m - реколта, урожай, добив, наслада
   frūmentum, -ī, n - жито
     far, farris, n - спелта
     spīca, -ae, f - житен клас, свила

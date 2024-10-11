@@ -15,3 +15,11 @@ sors, sortis, f - жребий, гадание, съдба, късмет, дял
 sabbata, -ōrum, n pl - шабат, неделя
 evangelium, -ī, n - евангелие, блага вест
 apostolus, -ī, m - апостол
+seminārium, -ī, n - семинария
+testāmentum, -ī, n - завѐт
+fīrmāmentum, -ī, n - основа, опора, поддръжка, небе
+nātīvitās, -ātis, f - раждане, рождение, Рождество
+angelus, -ī, m - ангел
+peccātum, -ī, n - грях
+venia, -ae, f - прошка, опрощение
+sacrificium, -ī, n - жертва

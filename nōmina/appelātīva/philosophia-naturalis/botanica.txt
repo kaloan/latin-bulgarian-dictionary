@@ -22,9 +22,12 @@ rādix, rācis, f - корен
 sūcus, -ī, m - сок, смола
 nucleus, -ī, m - зърно
 medulla, -ae, f - месеста част
+spīna, -ae, f - трън, бодил, шип
 herba, -ae, f - трева
+planta, -ae, f - фиданка, присад, филиз, издънка, кълн, трева, ходило
 flōs, floris, m - цвете
   rosa, -ae, f - роза
   lilium, -ī, n - лилиум
   viola, -ae, f - тененужка, виолетка
   hyacinthus, -ī, m - зюмбюл
+  carduus, -ī, m - магарешки бодил, бодил, бурен

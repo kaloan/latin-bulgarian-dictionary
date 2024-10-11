@@ -10,6 +10,7 @@ humus, -ī, m - земя, почва
 solum, -ī, n - почва
   sordēs, -ium, f pl - кал, мръсотия
   lutum, -ī, n - кал, луга
+  līmus, -ī, m - кал, тиня, мръсотия
   rūpēs, -is, f - скала, канара, урва
   lapis, -idis, m - камък
   calculus, -ī, m - камъче
@@ -36,8 +37,10 @@ vapor, -is, m - пара
 nebula, -ae, f - мъгла
 nūbēs, nubis, f - облак
 cālīgō, -inis, f - плътен облак, мъгла
-imber, imbris, m - дъжд
+imber, imbris, m - дъжд, валеж
   nix, nivis, f - сняг
+  dīluvium, -ī, n - потоп
+  pluvia, -ae, f - валеж, дъжд
 tempestās, -atis, f - буря, стихия
   tonitrus, -ī, m - гръмотевица, тътен
   fulgur, -is, n - светкавица

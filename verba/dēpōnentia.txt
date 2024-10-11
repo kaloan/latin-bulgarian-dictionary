@@ -46,8 +46,9 @@ mētīrī, mensum esse (d) - меря
 gradī -ior, gressum esse (d) - стъпвам
   aggredī -ior, aggressum esse (d) - настъпвам, нападам, приближавам
   dīgredī -ior, dīgressum esse (d) - отстъпвам, тръгвам, заминавам, разделям се, развеждам се
-  ēgredī -ior, ,ēgressus esse (d) - пристъпвам
-  prōgredī -ior, prōgressus esse (d) - настъпвам, вървя напред
+  ēgredī -ior, ēgressum esse (d) - пристъпвам
+  ingredī -ior, ingressum esse (d) - встъпвам
+  prōgredī -ior, prōgressum esse (d) - настъпвам, вървя напред
 profīcīscī, profectum esse (d) - заминавам, тръгвам си
 sequī, secutum esse (д) - следвам
   cōnsequī (d) - настигам, достигам, изпреварвам
@@ -119,6 +120,7 @@ sectārī (d) - следвам, ловувам
 adsectārī (d) - преследвам, придружавам, подкрепям
 vadārī (d) - призовавам в съда (???)
 īrāscī, īrātum esse (d) - беснея, гневя се
+recordārī (d) (+gen/acc) - припомням, спомням
 
 -perīrī, -pertum esse - изживявам, пробвам,
   opperīrī, oppertun esse (d) - чакам, изчаквам

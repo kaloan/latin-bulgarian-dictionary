@@ -3,6 +3,7 @@ caelum, -ī, n - небе
   luna, -ae, f - луна
   stēlla, -ae, f - звезда
   sīdus, sīderis, n - звезда, съзвездие
+  arcus, -ūs, m - дъга
 xmōns montis, m - планина
 saxum, -ī, n - скала, канара
 mōlēs, -is, f - подводна скала, купчина
