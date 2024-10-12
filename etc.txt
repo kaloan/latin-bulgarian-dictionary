@@ -68,7 +68,7 @@ opem ferre - помагам
 valēre (+īnf) - мога
 vertere in (+acc) - превръщам се в
 iussū (+gen) - по заповед/нареждане (на някого)
-obviam īre (+dat) - срещам
+obviam īre/prōgredī (+dat) - срещам (някого), попадам (на някого)
 animum dēspondēre - отчайвам се
 mala fortūna - лош късмет, смърт
 mala crux - лоща съдба, смърт
@@ -93,8 +93,13 @@ ut (+imperf ind) - след като
 locus (+gen) - място/време удобно (за)
 opus est (+abl) - нуждая се (от)
 aliēnus (+abl) - чужд на (нещо), нямащ общо (с)
-aegrē ferre aliquid - сърдя се някому, гневя се поради нещо
 poenam luere (reī) - отплащам се за провинение
+temptāre fidem - изпитвам нечия вяра
+iūs prīmōgenitī - първородно право за наследяване
+palātō suāvis - гали небцето, вкусно е
+
+aegrē ferre aliquid - сърдя се някому, гневя се поради нещо
+aliquem rē donāre - дарявам нещо другимо
 
 ōrātiō solūta - проза (букв. свободна реч)
 ōrātiō rēcta - пряка реч

@@ -1,10 +1,11 @@
 facere -iō, fēcisse, fаctum - правя, върша
   aedificāre (!!!), aedificāvisse, aedificātum - съграждам, изграждам, строя, създавам
   calefacere -iō - стоплям, загрявам
-  cōnficere -iō,  cōnfēcisse, cōnfectum - изработвам, завършвам, използвам, изморявам, убивам
+  cōnficere -iō, cōnfēcisse, cōnfectum - изработвам, завършвам, използвам, изморявам, убивам
   dēficere -iō, dēfēcisse, dēfectum  - провалям се, разочаровам
   dēficere ab - оставям, дезертирам
   efficere -iō, effēcisse, effectum - изработвам, извършвам, изпълнявам
+  expergēfacere -iō - събуждам, разбуждам
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
   malefacere -iō, malefēcisse, malefectum - злосторя
   officere -iō, offēcisse, offēctum - ранявам, препречвам, попречвам
@@ -53,6 +54,7 @@ capere -iō, cepisse, captum - хващам, грабвам, държа
   occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям
   praecipere -iō, praecepisse, praeceptum - ръководя, предвождам
   recipere -iō, recepisse, receptum - приемам, върщам си
+  suscipere -iō, suscepisse, susceptum - гледам нагоре, възхищавам се, потвърждавам, услужвам, подкрепям, приемам, поддавам се
 rapere -iō, rapuisse, raptum - грабя, отмъквам
   arripere -iō - заграбвам
   corripere -iō - изземвам, укорявам, скъсявам

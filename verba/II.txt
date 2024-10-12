@@ -14,6 +14,7 @@ cavēre, cāvisse, cautum - внимавам, предпазвам се
 cavēre (+dat) - гарантирам (на някого), давам гаранция (на някого)
 tacēre, tacuisse, tacitum - мълча
 timēre, timuisse - страхувам се
+timēre (+dat) - страхувам се (за другиго)
 iubēre, iussisse, iussum - нареждам, указвам, повелявам, умолявам
 dolēre, doluisse - боли ме, причинява ми болка, тъгувам
 valēre - здравея, здрав съм
@@ -30,7 +31,6 @@ rubēre - червя се, червенея
 flēre, flevisse, fletum - плача
 patēre - достъпен съм, отворен съм, открит съм
 maerēre, maeruisse - тъгувам, опечален съм, оплаквам
-cēnsēre, censuisse, censum - мисля, на мнение съм, смята, броя
 stupēre, stupuisse - вцепенявам, зашеметявам, изумявам
 studēre (+dat) - целя се (да постигна), заинтересован съм (от), уча се (на), свиквам (на), отдавам се (на)
 favēre (+dat) - подкрепям (някого), поддържам (някого)
@@ -94,6 +94,7 @@ sedēre, sēdisse, sēssum - седя, мирен съм (не мърдам)
   residēre - седя, отсядам
 habēre, habuisse, habitum - имам, притежавам, задържам, смятам, състои се от, да владея
   adhibēre, adhibuisse, adhibitum - допитвам се, призовавам, прибавям
+  adhibēre (+acc) - използвам (нещо), употребявам (нещо), прилагам (нещо), боравя с (нещо)
   cohibēre, cobibuisse, cohibitum - сдържам, задържам
   inhibēre, inhibuisse, inhibitum - удържам, ограничавам, налагам наказание
   praebēre, praebuisse, praebitum - предоставям, снабдявам, предавам
@@ -104,8 +105,10 @@ suādēre, suāsisse - убеждавам
 manēre, mansisse, mansum  - оставам, отседнал съм
   permanēre - постоянствам, издържам
   remanēre - оставам
-vidēre, vīdisse, vīsum - виждам, прозирам, провиждам
+vidēre, vīdisse, vīsum - виждам, прозирам
   invidēre - завиждам
+  prōvidēre - провиждам
+  prōvidēre (+dat) - грижа се, подготвям
 miscēre, miscuisse, mixtum - меся
   admiscēre - добавям, включвам, омеся
   commiscēre - смеся
@@ -136,3 +139,5 @@ pendēre, pependisse - вися, провисвам отпуснат съм
   impendēre (+dat) - заплашвам (някого)
 torquēre, torsisse, tortum - мъча, изтезавам, вия, суча, навивам, обръщам глава
   distorquēre - въртя се, усуквам, измъчвам
+cēnsēre, cēnsuisse, cēnsum - мисля, на мнение съм, смята, броя
+  succēnsēre/suscēnsēre (+dat) - разгневен съм (заради нещо), гневя се (някому)

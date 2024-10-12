@@ -39,7 +39,7 @@ castra, -ōrum, n pl - укрепление, военен лагер
   spatium, -ī, n - пространство
   praetōrium, -ī, n - място където се помещавал претора
   tentōria, -ae, f - мястото за палатки във военния лагер
-  tabernāculum, -ī, n - палатка
+  tabernāculum, -ī, n - палатка, шатра
 arma, -ōrum, n pl - оръжие
   mucrō, -ōnis, m - острие, връх
   gladius, -ī, m - меч
@@ -52,7 +52,7 @@ arma, -ōrum, n pl - оръжие
   arcus, -ūs, m - лък
   sagitta, -ae, f - стрела
   tēlum, -ī, n - стрела, метателно копие, снаряд, метателно оръжие, боеприпас
-  pharetra, -ae, f - колчан
+  pharetra, -ae, f - колчан, тул
   funda, -ae, f - прашка
   scūtum, -ī, n - щит
   clipeus, -ī, m - кръгъл окрасен щит

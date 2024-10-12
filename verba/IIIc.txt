@@ -63,7 +63,9 @@ adolēscere, adolēvisse - пораствам
 occulere, occuluisse, occultum - крия, прикривам
 offendere, offendisse, offēnsum - удрям, попадам, сблъсквам се, увреждам, накърнявам, обиждам
 linere, linīvisse/lēvisse, litum - мажа, покривам
-
+senēscere, senuisse - старея
+adulēscere, adulēvisse - младея
+annuere (+dat) - кимам в съгласие (с някого)
 
 legere, lēgisse, lēctum - чета
   allicere -iō (!), allēxisse, allēctum - привличам
@@ -92,13 +94,14 @@ mittere, mīsisse, missum - пращам, освобождавам, мятам
   āmittere - губя, загубвам, пускам, освобождавам (слуга)
   admittere - допускам, получавам
   committere - свързвам, водя битка, извършвам престъпление
-  dēmittere - поддавам, пращам надолу, понижавам, потъвам, лея кръв, снижавам поглед
+  dēmittere - поддавам, пускам, пращам надолу, понижавам, потъвам, лея кръв, снижавам поглед
   dīmittere - отпращам, отзовавам
   ēmittere - изпращам, изпускам, изхвърлям, излъчвам
   immittere - внасям, вмъкнвам, въвеждам
   intermittere - секвам, прекъсвам, пропускам, прескачам
   omittere - пропускам, изпускам, пренебрегвам
   permittere - позволявам, допускам
+  praemittere - пращам напред, пращам предварително
   remittere - връщам, мятам обратно
   submittere - поставям под друго, поднасям, понижавам, възпирам, подчинявам
 sistere, stitisse/stetisse, statum - спирам, проверявам
@@ -106,6 +109,7 @@ sistere, stitisse/stetisse, statum - спирам, проверявам
   cōnsistere, cōnstitisse - спирам, прекъсвам, заставам на място
   dēsistere, dēstitisse, destitum - възпирам, прекратявам
   īnsistere, institisse - настоявам
+  obsistere, obstitisse - съпротивлявам се
   resistere, restitisse - не помръдвам, спирам да се движа
 iungere, iūnxisse, iūnctum - свързвам, сглобявам, събирам, сдвоявам
   adiungere - захващам, сглабям
@@ -123,7 +127,7 @@ rigēre - изправен съм, стоя, да съм твърд, да съм
   dērigēre, dērēxisse, dērēctum - изправям, насочвам
   ērigere, ērēxisse, ērēctum - възбуждам, издигам
   porrigere, porrēxisse, porrēctum - подавам
-  pergere, perrēxisse, perrēctum  - продължавам
+  pergere, perrēxisse, perrēctum - продължавам, навлизам, ида
   surgere, surrēxisse, surrēctum - ставам
     resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам
 trahere, trāxisse, tractum - влача, тегля, мъкна
@@ -145,8 +149,10 @@ premere - надвивам, натискам, потискам, преследв
   reprimere - потискам, ограничавам, предотвратявам
 emere, ēmisse, ēmptum - купувам, придобивам
   dēmere, dēmpsisse, dēmptum - отнемам, пропускам
+  eximere, exēmisse, exēmptum - изкупувам, освобождавам, премахвам, прогонвам, пилея (време)
   perimere - убивам, унищожавам
   prōmere, prōmpsisse, prōmptum - обещавам
+    dēprōmere, dēprōmpsisse, dēprōmptum - донасям, създавам, произвеждам
   redimere - откупя
   sūmere, sūmpsisse, sūmptum - вдигам, взимам
     absūmere - изземвам, използвам, изтребвам, унищожавам, убивам
@@ -170,12 +176,14 @@ pōnere, posuisse, positum - поставям
   appōnere - припоставям, донасям, добавям
   compōnere - съпоставям, събирам, складирам, съставям, помирявам, умиротворявам
   dēpōnere - пускам, оставям, отказвам се, събличам
+  expōnere - представям, обяснявам, разказвам
   dispōnere - разпространявам, подреждам
   expōnere - оставям, изоставям
   impōnere - поставям на, поставям задача/задължение някому
   oppōnere (+dat) - поставям в противоположност (на нещо), противопоставям се (някому), възразявам (някому), изоставям
   praepōnere (+dat) - ръководя, положен съм на чело на
   prōpōnere - показвам, предлагам, обявявам
+  suppōnere (+dat) - подлагам (под нещо), поставям (под друго)
 fīgere, fīxisse, fīxum/fictum - стягам, закачам, захващам
   crucifīgere - разпъвам на кръст
   īnfīgere - мушкам, убождам, вмъквам
@@ -203,9 +211,9 @@ dūcere, dūxisse, ductum - водя
   abdūcere - отвличам, отчуждавам, разделям
   circumdūcere - развеждам
   condūcere - обединявам, наемам
-  dēdūcere - отвеждам, разстягам, извеждам
+  dēdūcere - отвеждам, разстягам, извеждам, придружавам
   dīducere - разделям, разпръсквам, разнасям
-  ēdūcere - извеждам
+  ēdūcere - извеждам, отвеждам
   indūcere - въвеждам, вкарвам, показвам, осиновявам
   intrōdūcere - въвеждам, лансирам
   obdūcere - туля, потулвам, притаявам, прикривам, затварям, обграждам
@@ -244,6 +252,7 @@ vehere, vēxisse, vectum - нося, пренасям
   invehere - внасям
   trānsvehere - пренасям
 nōscere, nōvisse, notum - знам
+  agnōscere - познавам, разпознавам
   cognōscere, cognosse/ccognōvisse, cognitum  - научавам, разбирам, разпознавам
     recognōscere - разпознавам
   ignōscere (+dat) - прощавам (някому)
@@ -355,13 +364,13 @@ lūdere, lūsisse, lusum - играя
   ēlūdere - изиграя, измамя
 tangere, tetigisse, tāctum - докосвам, пипам
   attingere, attingisse, atttēctum - докосвам, допирам, гранича, вкусвам, достигам
-  contingere, contigisse, contāctum - допирам,  достигам, окажа
+  contingere, contigisse, contāctum - допирам,  достигам, окажа, случвам се
 regere, rēxisse, rēctum - валдея, управлявам, направлявам, насочвам
   porrigere - предлагам, разпростирам
 tremere, tremuisse - треперя, треса се
   intremere - втрисам
 rigescere - втвърдявам се, изтръпвам
-    dērigescere - замръзвам, вцепенявам се
+  dērigescere - замръзвам, вцепенявам се
 stringere, strinxisse, strictum - стържа, рендосвам, привързвам
   dēstringere - премахвам със стъргало
   obstringere - обвързвам, давам клетва
@@ -395,3 +404,6 @@ carpere, carpsisse, carptum - държа, грабвам
   dēcerpere, dēcerpisse, dēcerptum - откъсвам, отскубвам
 minuere, minuisse, minuitum - намалявам, отслабвам, смалявам
   imminuere - намалявам, понижавам
+fervēscere - зажежвам се, кипвам
+  dēfervēscere - угасвам, заглъхвам, отмирам
+extimēscere - ужасявам се

@@ -2,11 +2,12 @@ gēns, gentis, f - род, племе, народ
 familia, -ae, f - фамилия
 māiōrēs, -um, m pl - прародители, предци, прадеди
 propinquus, -ī, m - близък, родственик, родител
-cognātī, -ōrum, m pl - съродственици, сродници
+cognātus, -ī, m - съродственик, сродник
 parēns, -entes, m/f - родител, майка, баща
 parentēs, -ium, m pl - родители, деди, прадеди
 līberī, -ōrum, m pl - деца
 prōpāgō, -inis, f - челяд, потомство, порода
+posterī, -ōrum, m pl - потомци, наследници
 mamma, -ae, f - мама
 pāpa, -ae, m - тати
 māter, mātris, f - майка
