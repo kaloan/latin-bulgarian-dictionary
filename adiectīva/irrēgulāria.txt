@@ -10,8 +10,8 @@ propinquus, propior, proximus - близък, близолежащ, сроден
 mātūrus, mātūrior, mātūrrimus/mātūrissimus - зрял, съзрял
 immātūrus/inmātūrus, immātūrior/inmātūrior, immātūrrimus/inmātūrrimus/inmātūrissimus/immātūrissimus - незрял, недозрял, преждевременен
 posterus, posterior, postrēmus/postumus  - заден, по-заден, следващ
-senex, senior, maximus nātū - възрастен
-iuvenis, iuvenior, minimis nātū - млад
+senex, senior/māior nātū, māximus nātū - възрастен
+iuvenis, iuvenior/minor nātū, minimis nātū - млад
 
 facilis, facilior, facilimus - лесен
 difficilis, difficilior, difficilimus - труден

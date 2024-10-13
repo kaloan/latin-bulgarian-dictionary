@@ -66,6 +66,7 @@ calanthus, -ī, m - кошница
 cista, -ae, f - плетена кошница
 alveus, -ī, m - кошница
 corbis, -is, f - кошница
+canistrum, -ī, n - плетена кошница
 thēca, -ae, f - чанта
 mappa, -ae, f - кърпичка, салфетка
 mantēle, -is, n - кърпа

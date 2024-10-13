@@ -3,6 +3,7 @@ bēstia, -ae, f - твар, животно
 fera, -ae, f - звяр, диво животно
 pecus, pecoris, n - добитък
 grex, gregis, m - стадо
+exāmen, exāminis, n - рояк
 equus, -ī, m - кон
 asturcō, -ōnis, m - ат (от конете от Астурия)
 asinus, -ī, m - магаре

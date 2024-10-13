@@ -52,7 +52,8 @@ aedificium, -ī, n - здание, сграда, постройка
     pistrīna, -ae, f - пекарна
     macellum, -ī, n - месарница, касапница
     holerārium, -ī, n - магазин за зеленчуци
-  horreum, -ī, n - склад
+    dīversōrium, -ī, n - хан, хотел
+  horreum, -ī, n - склад, хамбар, житница
 forum, -ī, n - форум, мегдан
 mercātus, -ūs, m - пазар
 statua, -ae, f - статуя
