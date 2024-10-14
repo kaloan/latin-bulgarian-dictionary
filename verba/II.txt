@@ -3,11 +3,10 @@ dēbēre, dēbuisse, dēbitum - длъжен съм да, би трябвало 
 dēbēre (+dat) - дължа (на), задължен съм (на)
 placēre, placuisse, placitum - задоволявам
 latēre - крия се, прикривам се, дебна, укривам се, оставам незабелязан
-lūgēre, luxisse, luctum - оплаквам, жалея, скърбя
+lūgēre, luxisse, luctum - оплаквам, жалея, скърбя, окайвам
 paenitēre, paenituisse - разкайвам се, съжалявам, гризе ме съвестта (!!!)
 egēre, eguisse (+abl) - нуждая се от
 ārdēre, arsisse, arsum - горя, гневя се
-īnsidēre - окупирам, възсядам
 nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
 ciēre, civisse, citum - друсам, бъркам, задвижвам, призовавам, възбуждам
 cavēre, cāvisse, cautum - внимавам, предпазвам се
@@ -19,10 +18,9 @@ iubēre, iussisse, iussum - нареждам, указвам, повелявам
 dolēre, doluisse - боли ме, причинява ми болка, тъгувам
 valēre - здравея, здрав съм
 algēre - студувам
-frīgēre, frīguisse, frīgitum - студен съм (фигуративно), бездействам,
+frīgēre, frīguisse, frīgitum - студен съм (фигуративно), бездействам
 calēre, caluisse - топъл съм (фигуративно), зает съм
 dēlēre - премахвам, трия
-possidēre, possedisse, possessum - притежавам, имам, държа
 augēre, auxisse, auctum - увеличавам, засилвам, уголемявам
 silēre, siluisse - мълча, притихвам
 mordēre, momordisse, morsum - хапя
@@ -30,12 +28,11 @@ merēre, meruisse, meritum - заслужавам
 rubēre - червя се, червенея
 flēre, flevisse, fletum - плача
 patēre - достъпен съм, отворен съм, открит съм
-maerēre, maeruisse - тъгувам, опечален съм, оплаквам
+maerēre, maeruisse - тъгувам, опечален съм, оплаквам, окайвам
 stupēre, stupuisse - вцепенявам, зашеметявам, изумявам
 studēre (+dat) - целя се (да постигна), заинтересован съм (от), уча се (на), свиквам (на), отдавам се (на)
 favēre (+dat) - подкрепям (някого), поддържам (някого)
 iacēre - лежа, проснат съм
-obsidēre, obsedisse, obsessum - обсаждам, оставам в близост, препречвам
 exercēre, exercuisse, exercitum - упражнявам се, готвя се
 censēre, censuisse, censum - мисля, броя, гласувам
 nēre - тъка
@@ -90,7 +87,9 @@ vovēre, vovisse, votum - заклевам се
 terrēre, terтuisse, terтitum - плаша
   perterrēre - ужасявам
 sedēre, sēdisse, sēssum - седя, мирен съм (не мърдам)
-  insidēre - заемам място
+  īnsidēre - окупирам, възсядам, заемам място
+  obsidēre, obsedisse, obsessum - обсаждам, оставам в близост, препречвам
+  possidēre, possedisse, possessum - притежавам, имам, държа
   residēre - седя, отсядам
 habēre, habuisse, habitum - имам, притежавам, задържам, смятам, състои се от, да владея
   adhibēre, adhibuisse, adhibitum - допитвам се, призовавам, прибавям
@@ -127,7 +126,7 @@ candēre, canduisse - блестя, светя, нажежавам се
 fovēre, fovisse, fotum - грея, лаская, глезя, подкрепям
   refovēre - разгрявам, освежавам
 minēre - стърча, подавам се
-  imminēre - намирам се над
+  imminēre - намирам се над, наближавам
 fulgēre, fulsisse - блестя, светя
   praefulgēre - сияя, искра
 haerēre, haesisse, haesum - закрепен съм, държа се

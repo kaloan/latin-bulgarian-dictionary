@@ -22,7 +22,7 @@ cantus, -ūs, m - песен
 carmen, -inis, n - песен, поема
 salūs, -ūtis, f - спасение, оцеляване, поздрав
 raptor, -ōris, m - грабител
-fūr, is, m - крадец
+fūr, fūris, m - крадец
 fūrtum, -ī, n - кражба
 fortūna, -ae, f - съдба, късмет
 cōnsilium, -ī, n - съвет, решение, план, кроеж
@@ -167,6 +167,7 @@ speculum, -ī, n - огледало
 ōsculum, -ī, n - целувка
 pāstor, -ōris, m - пастир
 cibus, -ī, m - храна, питание
+cibāria, -ōrum, n pl - прехрана, храна, препитание
 vīctus, -ūs, m - насъщност, живот, прехрана
 pānis, -is, m - хляб
 umbra, -ae, f - сянка
@@ -307,8 +308,6 @@ fēlīcitās, -ātis, f - късмен
 nāvigātiō, -ōnis, f - плаване, корабоплаване
 maleficium, -ī, n - злодеяние, вреда, престъпление, злочинство
 beneficium, -ī, n - добро дело, полза, услуга
-fūr. fūris, m - крадец
-fūrtum, -ī, n - кражба
 tyrannus, -ī. m - тиран
 piscātor, -ōris, m - рибар
 rēmus, -ī, m - гребло
@@ -450,6 +449,7 @@ pompa, -ae, f - шествие, процесия, свита, показност
 pallor, -ōris, m - бледост
 axis, -is, m - ос
 tēmō, -ōnis, m - впряг, талига (!!!)
+plaustrum, -ī, n - талига, каруца, двуколка
 rota, -ae, f - колело
 stimulus, -ī, m - камшик
 frēnum, -ī, n - повод, сбруя
@@ -503,7 +503,7 @@ quaesītus, -ūs, m - разследване, изследване, допитв
 superstitiō, -ōnis, f - суеверие
 portiō, -ōnis, f - порция, дял, част
 mercēnnārius, -ī, m - работещ за надница, работник
-mandātum, -ī. n - заповед, власт,  мандат
+mandātum, -ī. n - заповед, власт, мандат
 quaestiō, -ōnis, f - съдебен процес, разследване
 cognitiō, -ōnis, f - съдебен процес, разследване, познанство, мисъл
 errōr, -ōris, m - грешка
@@ -591,6 +591,15 @@ pālus, -ī, m - кол, стълб
 meritum, -ī, n - заслуга
 ūbertās, -ātis, f - урожай, берекет, изобилие
 egestās, -ātis, f - беднотия, нужда
+necessitās, -ātis, f - нужда, необходимост
+interpres, interpretis, m/f - преводач
+error, errōris, m - грешка, странстване, неяснота, недоразумение
+indignitās, -ātis, f - безчестие, нередност, непочтеност
+accūsātiō, -ōnis, f - обвинение
+excūsātiō, -ōnis, f - извинение
+prōvidentia, -ae, f - предвидливост, провидение
+senectūs, -ūtis, f - старчество
+abundantia, -ae, f - изобилие
 
 crîmen, criminis, n - обвинение, клевета, хула, престъпление
   scelerātus - престъпник, греховен, порочен
@@ -624,7 +633,7 @@ poēsis, -is, f - поезия
   gnomica, -ae, f - гномика
   confessionalis, -is, f - конфеционализъм
 
-fūnus, fūneris, n - смърт
+fūnus, fūneris, n - погребение, смърт, труп
 mors, mortis, f - смърт
 nex, necis, f - смърт
 mortālitās, -ātis, f - смъртност
@@ -632,6 +641,7 @@ immortālitās, -ātis, f - безсмъртие, безсмъртност
 rogus, -ī. m - погребална клада
 sepulcrum, -ī, n - гробница, гроб
 sepultūra, -ae, f - погребение
+feretrum, -ī, n - ковчег с носилка, катафалка
 pestilentia, -ae, f - чума, болест
 morbus, -ī, m - болест, заболяване
   tussis, -is, f - кашляне

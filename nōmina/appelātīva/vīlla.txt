@@ -5,6 +5,7 @@ casa, -ae, f - колиба
 domus, -ūs, f - жилище, къща, дом
 aedēs, -ium, f pl - огнище (като бащино огнище), дом
 fenestra, -ae, f - прозорец
+conclāve, -is, n - помещение, стая, затворено място
 cella, -ae, f - стая, затворено място
 cubiculum, -ī, n - стая, спалня
   vestibulum, -ī, n - преддверие, антре
@@ -42,7 +43,7 @@ cubiculum, -ī, n - стая, спалня
   sterculīnum, -ī, n - сметище, място за събиране на тор
 hortus, -ī, m - градина
   sphaeristērium, -ī, n - поле за игра с топка
-supellex, -ctilis, f - мебел
+supellex, supellectilis, f - мебел, обзавеждане, украса, прибори, инструменти, обурудване, багаж
   stīva, -ae, f - дръжка
   mēnsa, -ae, f - маса (като трапеза, работна маса)
   lectus, -ī, m - легло
@@ -61,7 +62,7 @@ supellex, -ctilis, f - мебел
   lychnūchus, -ī, m - поставка за маслена лампа
   signum, -ī, n - статуя, знак, означение
 urna, -ae, f - урна
-saccus, -ī, m - торба
+saccus, -ī, m - чувал, торба
 calanthus, -ī, m - кошница
 cista, -ae, f - плетена кошница
 alveus, -ī, m - кошница

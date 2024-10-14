@@ -1,6 +1,7 @@
 gēns, gentis, f - род, племе, народ
 familia, -ae, f - фамилия
 māiōrēs, -um, m pl - прародители, предци, прадеди
+avī, -ōrum, m - деди, прадеди
 propinquus, -ī, m - близък, родственик, родител
 cognātus, -ī, m - съродственик, сродник
 parēns, -entes, m/f - родител, майка, баща
@@ -46,4 +47,5 @@ mātrōna, -ae, f - омъжена жена, мадам, матрона
 virgō, virginis, f - девица
 iuvenis, -is, m/f - млад мъж, млада жена (??според едната книга около 30-ка??)
 adulēscēns, adulēscentis, m/f - юноша
-infāns, infantis, m/f - бебе
+īnfāns, infantis, m/f - бебе
+parvulus, -ī, m - малчуган, мъник

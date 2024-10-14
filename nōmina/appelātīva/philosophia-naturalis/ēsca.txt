@@ -27,9 +27,11 @@ pōmum, -ī, n - плод
   frūx, frūgis, f - реколта, продоволствие, хранителен продукт
   frūgēs, -um, f pl - провизии, припаси, запаси
   frūctus, -ūs, m - реколта, урожай, добив, наслада
+  annōna, -ae, f - зърно, реколта, дажба, жътва
   frūmentum, -ī, n - жито
     far, farris, n - спелта
     spīca, -ae, f - житен клас, свила
+    trīticum, -ī, n - пшеница
   siliqua. -ae, f - боб
   lēns, lentis, f - леща
   cicer, ciceris, m - нахут
