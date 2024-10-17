@@ -54,15 +54,19 @@ capere -iō, cepisse, captum - хващам, грабвам, държа
   occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям
   praecipere -iō, praecepisse, praeceptum - ръководя, предвождам
   recipere -iō, recepisse, receptum - приемам, върщам си
-  suscipere -iō, suscepisse, susceptum - гледам нагоре, възхищавам се, потвърждавам, услужвам, подкрепям, приемам, поддавам се
+  suscipere -iō, suscepisse, susceptum - гледам нагоре, възхищавам се, потвърждавам, услужвам, подкрепям, приемам, поддавам се, понасям
 rapere -iō, rapuisse, raptum - грабя, отмъквам
   arripere -iō - заграбвам
   corripere -iō - изземвам, укорявам, скъсявам
   dīripere -iō - ограбя, плячкосвам
   ēripere -iō - ограбя, отнемам
   surripere -iō - крада, обирам
+fodere, fōdisse, fossum - копая, бъркам, убождам, пронизвам, мушкам, жиля
+  effodere -iō, effōdisse, effossum - изкопая, издълбая, тършувам
 
--cutere -iō, -cussisse, -cussum
+
+-cutere -iō, -cussisse, -cussum [троша]
+  concutere -iō - стърсвам, разтърсвам
   excutere -iō - отърсвам, прогонвам
   incutere -iō - внушавам, настройвам, насаждам, пораждам
   percutere -iō - блъскам, тропам, джасвам

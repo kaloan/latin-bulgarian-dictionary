@@ -48,6 +48,7 @@ canis, -is, m/f - куче/кучка
 catulus, -ī, m - паленце, кученце, вълче
 lupus, -ī, m - вълк
 lupa, -ae, f - вълчица, проститутка
+vulpēs, -is, f - лисица
 leō, leōnis, m - лъв
 tigris, -is, f - тигър
 homō, hominis, m - човек

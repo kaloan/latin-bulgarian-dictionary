@@ -80,3 +80,4 @@ nātālis, -is - рожден
 pinguis, -is - пълен, дебел
 exīlis, -is - мършав, хилав, слаб
 potis, -is - възможен
+incrēdibilis, -is - невероятен

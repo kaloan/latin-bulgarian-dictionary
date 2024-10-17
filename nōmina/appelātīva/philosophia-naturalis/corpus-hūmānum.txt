@@ -11,6 +11,8 @@ caput, capitis, n - глава, основно ястие
   faciēs, faciēī, f - лице, предна част
   vultus, -ūs, m - лице, израз
   capillus, -ī, m - коса
+  coma, -ae, f - коса, грива, руно, вълна
+  crīnis, -is, m - коса, кичур, пискюл, шлейф
   frōns, frontis, m - чело
   oculus, -ī, n - око
   ocellus, ‑ī, m - оченце
@@ -21,7 +23,8 @@ caput, capitis, n - глава, основно ястие
   auricula, -ae, f - ушенце
   auditus, -ūs, m - слух
   gena, -ae, f - буза
-  maxilla, -ae, f - скула
+  māla. -ae, f - скула, буза
+  maxilla, -ae, f - долна челюст
   rictus, -ūs, m - челюст
   mandĭbula, -ae, f - челюстна кост
   ōs, ōris, n - уста

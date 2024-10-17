@@ -29,6 +29,7 @@ imprūdens, imprūdentis - неразумен
 libēns, libentis - желаещ, волеви, волен, весел, доволен
 innocēns, -entis - безобиден, невинен, благ, почтен, чистосърдечен
 frequēns, frequentis - чест, честосрещан
+excellēns - отличен
 
 
 capāx -cis - голям, обемист
