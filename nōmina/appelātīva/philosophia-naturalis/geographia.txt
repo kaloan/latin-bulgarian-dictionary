@@ -31,6 +31,7 @@ fluvius, -ī, m - река
 rīvus, -ī, m - река
 flūmen, flūminis, n - река
 rīpa, -ae, f - речен бряг
+alveus, -ī, m - речно корито
 lacus, -ūs, m - езеро
 stagnum, -ī, n - мочурище
 mare, -is, n - море

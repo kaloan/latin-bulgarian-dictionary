@@ -48,4 +48,6 @@ virgō, virginis, f - девица
 iuvenis, -is, m/f - млад мъж, млада жена (??според едната книга около 30-ка??)
 adulēscēns, adulēscentis, m/f - юноша
 īnfāns, infantis, m/f - бебе
+īnfantulus, -ī, m - бебенце момче
+infantula, -ae, f - бебенце момиче
 parvulus, -ī, m - малчуган, мъник

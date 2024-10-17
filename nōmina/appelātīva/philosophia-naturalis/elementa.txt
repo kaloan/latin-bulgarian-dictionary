@@ -41,6 +41,7 @@ imber, imbris, m - дъжд, валеж
   nix, nivis, f - сняг
   dīluvium, -ī, n - потоп
   pluvia, -ae, f - валеж, дъжд
+  grandō, -ōnis, f - градушка
 tempestās, -atis, f - буря, стихия
   tonitrus, -ī, m - гръмотевица, тътен
   fulgur, -is, n - светкавица

@@ -29,6 +29,7 @@ herba, -ae, f - трева
 veprēs, -is, m - трънак
 sentis, -is, m - трънак
 planta, -ae, f - фиданка, присад, филиз, издънка, кълн, трева, ходило
+harundō, -inis, f - тръстика
 flōs, floris, m - цвете
   rubus, -ī, m - шипка
   rosa, -ae, f - роза

@@ -24,6 +24,7 @@ fore - ще стане
 ferre, tulisse, lātum - нося
   afferre, attulisse, allātum - донасям
   auferre, abstulisse, ablātum - отмъквам, отнасям, прокуждам, убивам
+  circumferre, circumtulisse, circumlātum - нося около, разгласявам
   cōnferre - стягам, събирам, обсъждам
   cōnferre sē - движа се
   dēferre - занасям, продавам, препредавам
@@ -34,7 +35,7 @@ ferre, tulisse, lātum - нося
   offerre, obtulisse, oblātum - предлагам
   praeferre - предпочитам, нося пред себе си
   perferre - издържа, изпълнявам, понасям
-  prōferre - извадя, извеждам
+  prōferre - извадя, извеждам, изговарям
   referre - връщам, отвръщам, препращам, донасям (новина, вест)
   trānsferre - пренасям
 
@@ -49,7 +50,7 @@ ferre, tulisse, lātum - нося
   obīre - отивам си, умирам
   perīre - да умре, да се унищожи, да се разпадне
     disperīre - измирам, изчезвам, разпадам се, разрушавам се
-  praeīre - п
+  praeīre (+dat) - предхождам, предшествам, предвождам
   praeterīre - преминавам, надминавам, пренебрегвам
   prōdīre - придвижа се, приближавам
   redīre - връщам се

@@ -10,7 +10,9 @@ sacerdōs, sacerdōtis, m/f - свещеник, жрец, жрица
 dīvīnus, -ī, m - оракул, пророк
 rītus, -ūs, m - обред, ритуал
 martyr, -is, m/f - мъченик
-portentum, -ī, n - чудо
+portentum, -ī, n - поличба, прокоба, чудо, чудовище
+prōdigium, -ī, n - знамение, предзнаменование, чудо
+mīrāculum, -ī, n - чудо
 sors, sortis, f - жребий, гадание, съдба, късмет, дял, наследствен дял
 sabbata, -ōrum, n pl - шабат, неделя
 evangelium, -ī, n - евангелие, блага вест
@@ -24,3 +26,5 @@ peccātum, -ī, n - грях
 venia, -ae, f - прошка, опрощение
 sacrificium, -ī, n - жертва
 hostia, -ae, f - жертва
+manna, indecl, f - манна
+sabbatum, -ī, n - шабат

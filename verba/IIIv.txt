@@ -58,10 +58,12 @@ capere -iō, cepisse, captum - хващам, грабвам, държа
 rapere -iō, rapuisse, raptum - грабя, отмъквам
   arripere -iō - заграбвам
   corripere -iō - изземвам, укорявам, скъсявам
+  dīripere -iō - ограбя, плячкосвам
   ēripere -iō - ограбя, отнемам
   surripere -iō - крада, обирам
 
 -cutere -iō, -cussisse, -cussum
   excutere -iō - отърсвам, прогонвам
+  incutere -iō - внушавам, настройвам, насаждам, пораждам
   percutere -iō - блъскам, тропам, джасвам
     repercutere -iō - отблъсквам

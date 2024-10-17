@@ -34,7 +34,7 @@ caput, capitis, n - глава, основно ястие
 faux, faucis, f - гуша
 faucēs, -ium, f pl - паст
 guttur, -is, m - гърло
-cervix, cervicis, f - врат, тил
+cervīx, cervīcis, f - тил, врат
 collum, -ī, n - шия
 vertеbra, -ae, f - прешлен
 clavicula, -ae, f - ключе, ключица
@@ -42,6 +42,7 @@ thōrax, thōracos, m - гръд, гърди, нагръдник
 pectus, pectoris, n - гръд, гърди
   āla, -ae, f - подмишница
   costae, -ārum, f pl - ребра
+  mamma, -ae, f - гърда, виме
 braccium, -ī, n - ръка
   lacertus, -ī, m - мишница, мишца
   cubitum, -ī, n - лакът, предмишница, мерна единица за дължина (ок. 44,4 см)
@@ -80,3 +81,4 @@ vīscera, vīscerum, n pl - вътрешности
 vēna, vēnae, f - кръвоносен съд
   sanguis, sanguinis, m - кръв
   cruor, -ōris, m - кръв
+statūra, -ae, f - ръст
