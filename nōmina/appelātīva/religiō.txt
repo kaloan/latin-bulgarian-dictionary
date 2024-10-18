@@ -28,3 +28,6 @@ sacrificium, -ī, n - жертва
 hostia, -ae, f - жертва
 manna, indecl, f - манна
 sabbatum, -ī, n - шабат
+spīritus, -ūs, m - дух
+prophēta, -ae, m - пророк, предсказател
+prōmissus, -ūs, m - обет, обещание

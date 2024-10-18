@@ -26,8 +26,9 @@ iacere -iō, iēcisse, iactum - хвърлям, мятам
   ēicere -iō, ēiēcisse, ēiēctum - изхвърлям
   inicere -iō, iniēcisse, iniēctum - захвърлям
   intericere -iō, interiēcisse, interiēctum - хвърлям между, вмъквам, вмествам
+  obicere -iō, obiēcisse, obiēctum - противопоставям, опълчвам, срещуполагам
   prōicere -iō, prōiēcisse, prōiēctum - хвърлям напред, падам пред
-  rēicere -iō, rēiēcisse, rēiēctum - отхвърлям
+  rēicere -iō, rēiēcisse, rēiēctum - отхвърлям, отричам
   trāicere -iō, trāiēcisse, trāiēctum - прехвърлям, промушвам
   subicere -iō, subiēcisse, subiēctum - подлагам, хвърлям под, поставям под, подхвърлям, разкривам, допълвам текст
 fugere -iō, fugisse, fugitum - бягам от някого/нещо, избягвам, чезна
@@ -61,8 +62,9 @@ rapere -iō, rapuisse, raptum - грабя, отмъквам
   dīripere -iō - ограбя, плячкосвам
   ēripere -iō - ограбя, отнемам
   surripere -iō - крада, обирам
-fodere, fōdisse, fossum - копая, бъркам, убождам, пронизвам, мушкам, жиля
+fodere -iō, fōdisse, fossum - копая, бъркам, убождам, пронизвам, мушкам, жиля
   effodere -iō, effōdisse, effossum - изкопая, издълбая, тършувам
+  trānsfodere -iō, trānsfodisse, trānsfossum - пронизвам, промушвам
 
 
 -cutere -iō, -cussisse, -cussum [троша]

@@ -8,7 +8,6 @@ lucrum, -ī, n - печалба
 quaestus, -ūs, m - печалба
 commodum, -ī, n - печалба, потреба, потребност
 incommodum, -ī, n - загуба, неуспех, ущърб, неудобство, неприятност
-praeda, -ae, f - плячка
 iactūra, -ae, f - мятане, загуба, цена
 paupertās, -ātis, f - бедност
 dīvitiae, -ārum, f pl - богатство

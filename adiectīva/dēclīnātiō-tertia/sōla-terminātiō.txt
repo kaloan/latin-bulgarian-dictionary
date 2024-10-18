@@ -30,6 +30,8 @@ libēns, libentis - желаещ, волеви, волен, весел, дово
 innocēns, -entis - безобиден, невинен, благ, почтен, чистосърдечен
 frequēns, frequentis - чест, честосрещан
 excellēns - отличен
+sōns, sontis - виновен
+  īnsōns, īnsontis - невинен
 
 
 capāx -cis - голям, обемист

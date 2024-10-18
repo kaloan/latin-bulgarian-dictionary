@@ -17,7 +17,7 @@ metallum, -ī, n - метал
   aes, aeris, n - мед, бронз
   aurum, -ī, n - злато
   argentum, -ī, n - сребро
-  ferrum, -ī, n - желязо
+  ferrum, -ī, n - желязо, оръжие
   plumbum, -ī, n - олово
 carbō, -ōnis, m - въглища
 tūs, tūris, n - тамян

@@ -116,9 +116,22 @@ rādīx montis - полите на планиата
 necī dare - сея смърт
 lūdibrium habēre - вземам на присмех
 plūs aequō - повече от необходимото/правилното
+manum cōnserere - водя битка (сключвам ръце???)
+bellum īnferre (+dat) - воювам (с)
+prōmissīs stāre - изпълнявам обещанието си
+mandātum dare - давам заповеди
+in oculīs (+gen) - пред очите (на)
+bellum movēre - водя война
+pugnam committere - водя битка
+victōriā īnsignī potīrī - побеждавам
+sē cōnferre - движа се, пътувам
+manūs īnferre (+dat) - ранявам
+(diem suprēmum) obīre - умирам (преминавам последния си ден)
+forīs et domī - в чужбина и в родината
 
 aegrē ferre aliquid - сърдя се някому, гневя се поради нещо
 aliquem rē donāre - дарявам нещо другимо
+indignē ferre rem - не понасям нещо, гневя се на нещо
 
 ōrātiō solūta - проза (букв. свободна реч)
 ōrātiō rēcta - пряка реч
@@ -127,6 +140,8 @@ aliquem rē donāre - дарявам нещо другимо
 salvēre iubēre - поздравявам
 salūtem dīcere (+dat) - поздравявам
 salūtem nūntiāre (+dat) - поздравявам
+salūtem ferre - поздравявам
+salūtī esse - поздравявам
 
 hōc tempore - в/по това време
 eō tempore - тогава

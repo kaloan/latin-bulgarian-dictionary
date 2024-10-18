@@ -8,6 +8,7 @@ fenestra, -ae, f - прозорец
 conclāve, -is, n - помещение, стая, затворено място
 cella, -ae, f - стая, затворено място
 cubiculum, -ī, n - стая, спалня
+  cēnāculum, -ī, n - таван
   vestibulum, -ī, n - преддверие, антре
     līmen, līminis, n - праг
     ōstia, -ae, f - врата
@@ -74,6 +75,7 @@ canistrum, -ī, n - плетена кошница
 fiscina, -ae, f - плетена кошница
 fiscella, -ae, f - малка плетена кошница
 thēca, -ae, f - чанта
+pēra, -ae, f - чанта диагоналка
 mappa, -ae, f - кърпичка, салфетка
 mantēle, -is, n - кърпа
 clāvis, -is, f - ключ

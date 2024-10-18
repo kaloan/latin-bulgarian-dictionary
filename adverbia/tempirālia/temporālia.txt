@@ -16,6 +16,7 @@ quondam - някога
 quandōcumque - когато и да е
 
 diū, diūtius, diūtissimē - задълго
+aliquamdiū - за някакво време, доста време
 paulisper - закратко
 inde ab (+abl) - откакто
 donec - докато

@@ -38,7 +38,7 @@ adulēscentior, -ōris - по-млад
 superus, superior, suprēmus/summus - горен, висок, пръв (в суперлатив), висш
 medius, medior, medioximus - среден
 īnferus, īnferior, īnfimus/īmus - долен, нисък, последен (в суперлатив), низш
-exterus, exterior, extrēmus - външен, по-краен
+exterus, exterior, extrēmus - външен, по-краен, краен/последен
 
 interior, intimus - по-вътрешен
 ulterior/ulterius, ultimus - по-далечен

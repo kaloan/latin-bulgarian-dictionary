@@ -4,9 +4,11 @@ fera, -ae, f - звяр, диво животно
 pecus, pecoris, n - добитък
 grex, gregis, m - стадо
 exāmen, exāminis, n - рояк
-equus, -ī, m - кон
+equus, -ī, m - кон, жребец
+equa, -ae, f - жребица
 asturcō, -ōnis, m - ат (от конете от Астурия)
 asinus, -ī, m - магаре
+mūlus, -ī, m - муле
 aquila, -ae, f - орел
 columba, -ae, f - гълъб
 pavō, -ōnis, m - паун
@@ -28,6 +30,7 @@ vitulus, -ī, m - теле
 ariēs, arietis, m - овен
 ovis, -is, f - овца
 agnus, -ī, m - агне
+ovicula, -ae, f - овчица
 caper, caprī, m - козел
 haedus, -ī, m - козле
 capra, -ae, f - коза
