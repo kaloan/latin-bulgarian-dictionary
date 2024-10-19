@@ -161,7 +161,7 @@ trahere, trāxisse, tractum - влача, тегля, мъкна
   distrahere - разтягам, разчеквам, разкъсвам,
   extrahere - завличам, спасявам
   intrahere - въвличам, вмъквам
-  pertrahere - премъквам
+  pertrahere - премъквам, извличам, подмамвам, съблазнявам
   prōtrahere - откривам, удължавам
   retrahere - повличам обратно, оттеглям
   subtrahere - извличам, изтеглям, измъквам, изваждам, премахвам, отстранявам
@@ -172,10 +172,11 @@ premere - надвивам, натискам, потискам, преследв
   opprimere - насилвам, надвивам, затварям, прикривам, изнасилвам
   reprimere - потискам, ограничавам, предотвратявам
 emere, ēmisse, ēmptum - купувам, придобивам
+  adimere, adēmisse, adēmptum - лишавам, отнемам, спасявам
   dēmere, dēmpsisse, dēmptum - отнемам, пропускам
   eximere, exēmisse, exēmptum - изкупувам, освобождавам, премахвам, прогонвам, пилея (време)
   interimere, interēmisse, iterēmptum - убивам, унищожавам
-  perimere - убивам, унищожавам
+  perimere, perēmisse, perēmptum - убивам, унищожавам
   prōmere, prōmpsisse, prōmptum - обещавам
     dēprōmere, dēprōmpsisse, dēprōmptum - донасям, създавам, произвеждам
   redimere - откупя
@@ -258,11 +259,11 @@ dūcere, dūxisse, ductum - водя
   subterdūcere - крада
   superdūcere - превеждам над, покривам
   trādūcere - превеждам, преминавам
-cēdere, cecisse - движа се, местя се
+cēdere, cessisse, cessum - движа се, местя се
   abscēdere - махам се, придвижвам се, размествам се
   accēdere - идвам, приближавам се, прибавен съм
   antecēdere - движа се пред/преди някого, превъзхождам, отличавам се
-  concēdere - измествам се, отдавам, позволявам
+  concēdere - измествам се, отдавам, отстъпвам в нечия полза, позволявам
   concēdere (+acc, īnf) - признавам
   discēdere - тръгвам, излизам
   excēdere - излизам, отивам си, умирам
@@ -277,6 +278,8 @@ vīvere, vīxisse, victum - живея
 sinere, sivisse/sisse, situm - позволявам, разрешвавам
   dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам
 fluere, fluxisse, fluxum - тека
+  affluere - притека, прииждам, стичаме се
+  affluere (+abl) - изобилствам (с), обсипан съм (с), имам много (от)
   cōnfluere - стичам се (на едно място)
   dēfluere - стичам се (надолу), оттичам се
   īnfluere - наводнявам

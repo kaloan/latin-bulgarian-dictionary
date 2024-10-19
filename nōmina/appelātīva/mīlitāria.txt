@@ -11,6 +11,7 @@ bellum, -ī, n - война
   astūs, astuum, m pl - тактика, прийом, стратегема, план
   praeda, -ae, f - плячка
   spolia, -ōrum, n pl - плячка
+  captīvus, -ī, m - пленник
 mīlitia, -ae, f - военна служба
 cōpiae, -ārum, f pl - военни сили
 agmen, agminis, n - боен строй колона, използван по време на път

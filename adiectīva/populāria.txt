@@ -18,6 +18,7 @@ Germānus - германски
 Graecus - гръцки
 Hebraeus - еврейски
 Hispānus - испански
+Isrāēlīticus - израелски
 Italicus - италийски, апенински
 Italus - италиански
 Iūdaeus - юдейски
