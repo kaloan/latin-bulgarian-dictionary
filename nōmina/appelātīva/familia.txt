@@ -9,6 +9,7 @@ parentēs, -ium, m pl - родители, деди, прадеди
 līberī, -ōrum, m pl - деца
 prōpāgō, -inis, f - челяд, потомство, порода
 posterī, -ōrum, m pl - потомци, наследници
+stirps, stirpis, f - родословие, рода, потомство
 mamma, -ae, f - мама
 pāpa, -ae, m - тати
 māter, mātris, f - майка

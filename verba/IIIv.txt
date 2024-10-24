@@ -14,7 +14,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   prōficere -iō, prōfēcisse, prōfectum - доправя, довършвам, постигам
   reficere -iō, refēcisse, refectum - преправям
   satisfacere iō (+dat) - задоволявам, извинявам се, обезщетявам
-  sufficere -iō, suffēcisse, suffectum - да е достатъчно
+  sufficere -iō, suffēcisse, suffectum - да е достатъчно, замествам, доставям
 parere -iō, peperisse, partum - раждам, създавам
 cupere -iō, cupīvisse, cupitum - купнея, желая
 iacere -iō, iēcisse, iactum - хвърлям, мятам

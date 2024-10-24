@@ -34,9 +34,13 @@ pōmum, -ī, n - плод
     far, farris, n - спелта
     spīca, -ae, f - житен клас, свила
     trīticum, -ī, n - пшеница
-  siliqua. -ae, f - боб
-  lēns, lentis, f - леща
-  cicer, ciceris, m - нахут
+  legūmen, -inis, n - бобово растение
+    siliqua, -ae, f - рожков, шушулка
+    faba, -ae, f - боб
+    lēns, lentis, f - леща
+    pīsum, -ī, n - грах
+    phasēlus, -ī, m - фасул
+    cicer, ciceris, m - нахут
   cucumis, -eris, m - краставица
 holus, holeris, n - зеленчук
   bēta, -ae, f - морков
