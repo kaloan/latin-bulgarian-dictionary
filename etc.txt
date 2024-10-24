@@ -129,6 +129,9 @@ manūs īnferre (+dat) - ранявам
 (diem suprēmum) obīre - умирам (преминавам последния си ден)
 forīs et domī - в чужбина и в родината
 omnēs ad ūnum - всички до един
+nōn/nec dubitō quid (+coni) - без съмнение, определено
+nōn/nec ultrā - никога насетне
+excēdere vitā - умирам
 
 aegrē ferre aliquid - сърдя се някому, гневя се поради нещо
 aliquem rē donāre - дарявам нещо другимо

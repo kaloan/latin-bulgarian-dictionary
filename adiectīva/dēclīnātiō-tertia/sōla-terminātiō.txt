@@ -4,6 +4,7 @@ pauper, -is - беден
 pār, paris - равен
 sēpār, -is - отделен
 decor, -is - красив, изящен, великолепен, изтънчен, кокетен
+memor, -is - помнещ, с добра памет, внимателен
 
 dīves/dīs, dīvitis/dītis, dīvitior/dītior, dīvitissimus/dītissimus - богат, богаташ
 āles, alitis - крилат

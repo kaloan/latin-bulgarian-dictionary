@@ -42,8 +42,9 @@ nūtrīre - храня, подхраня, кърмя, бозая, суча, цо
 salīre, sаluisse/saliisse, saltum - скачам, хвърлям се
   circumsilīre. circumsiluisse - подскачам
   dēsilīre, dēsiluisse - скачам
+  exsilīre, exsiluisse - изскачам
   īnsilīre, īnsiluisse - нахвърлям се
-  prōsilīre - изскачам
+  prōsilīre - скачам напред
 dormīre - спя
   obdormīre - заспивам
 venīre, vēnisse, ventum - идвам, стигам
@@ -54,6 +55,7 @@ venīre, vēnisse, ventum - идвам, стигам
   invenīre - откривам
   obvenīre - срещам, случвам се
   pervenīre - стигна, достигна
+  prōvenīre - пристигам, настъпвам, появявам се
   revenīre - връщам се
 haurīre, hausisse, haustum - точа, празня
   exhaurīre - източа, изпразня, изсуша, пия до дъно

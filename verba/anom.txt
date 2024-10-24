@@ -29,7 +29,7 @@ ferre, tulisse, lātum - нося
   cōnferre sē - движа се
   dēferre - занасям, продавам, препредавам
   differre, distulisse, dīlātum - разнасям, забавям
-  ēferre - изнасям, обявявам
+  efferre - изнасям, обявявам
   īnferre - внaсям, погребвам, поставям, забивам
   inferre (+dat) - причинявам (някому)
   offerre, obtulisse, oblātum - предлагам
@@ -42,6 +42,7 @@ ferre, tulisse, lātum - нося
 īre eō, īisse/īvisse, itum - пътувам, движа се
   abīre - тръгвам
   adīre - идвам, захващам се с, допитвам се до някого
+  circumīre - обикалям, заобикалям
   coīre - срещам, събирам, пасвам, правя секс
   exīre - излизам
   inīre - встъпвам, почвам

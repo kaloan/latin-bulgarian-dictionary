@@ -14,6 +14,7 @@ nāscī, nātum esse(d) - раждам се
 morī -ior, mortuum esse (d) - умирам
   ēmorī -ior (d) - измирам, изчезвам
 versārī (d) - въртя се, неспирно се движа
+  dēversārī (d) - отсядам
 fatērī, fessum esse (d) - потвърждавам, признавам
   cōnfitērī (d) - признавам
 orīrī, ortum esse (d) - изгрявам, появявам се
@@ -69,7 +70,8 @@ intuēri, intuitum esse (d) - виждам, гледам, обследвам
 complectī, complexum esse (d) - прегръщам
 amplexārī (d) - прегръщам, посрещам, хващам, тача, ценя
 circumplectī, circumplexum esse (d) - обгръщам, заграждам, прегръщам
-cōnsōlārī (d) - утешавам
+sōlārī (d) - утешавам, облекчавам, успокоявам
+  cōnsōlārī (d) - утешавам
 loquī, locutum esse (d) - говоря
   alloquī (d) - заговоря
   colloquī (d) - събеседвам, разговарям
@@ -151,6 +153,7 @@ ulcīscī, ultum esse (d) - отмъщавам
 potīrī, potītum esse (d) - поставям някого/нещо по мое влияние/въздействие, притежавам
 miserērī, miseritum esse (d) (+gen) - съжалявам, оплаквам
 exsecrārī, exsecrātum esse (d) (+acc) - проклинам, пустосвам
+adūlārī (d) (+dat) - лаская
 
 -perīrī, -pertum esse - изживявам, пробвам,
   opperīrī, oppertun esse (d) - чакам, изчаквам

@@ -47,6 +47,9 @@ vehementer - изключително, жизнено, силно, знойно
 obstinanter - инатливо, решено
 libenter - с удоволствие, със щастие
 lēniter - кротко, меко, мило, милостиво
+hūmāniter - по човешки, хуманно, любезно
+  perhūmāniter - вежливо, радушно, изключително любезно
+cōnstanter - спокойно
 
 facile/faciliter - лесно
 difficile/difficiliter - трудно

@@ -11,6 +11,7 @@ do
     plain="${plain//ī/i}"
     plain="${plain//ō/o}"
     plain="${plain//ū/u}"
+    plain="${plain//ȳ/y}"
     # echo "${BASH_REMATCH[1]}" >> $buffer
     echo "$plain ${BASH_REMATCH[2]}" >> $buffer
   fi
