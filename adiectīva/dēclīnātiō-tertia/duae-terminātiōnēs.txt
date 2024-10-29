@@ -92,3 +92,7 @@ salūtāris, -is - приветствен
 līberālis, -is - щедър
 fidēlis, -is - верен, надежден
 hilaris, -is - весел, жизнерадостен
+optābilis, -is - желателен
+tolerābilis, -is - поносим
+intolerābilis, -is - непоносим
+memorābilis, -is - паметен, забележителен

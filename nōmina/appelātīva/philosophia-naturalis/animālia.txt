@@ -1,6 +1,7 @@
 animal, -ālis, n - животно
-bēstia, -ae, f - твар, животно
+bēstia, -ae, f - твар, животно, скот
 fera, -ae, f - звяр, диво животно
+bēlua, -ae, f - зверище, чудовище
 pecus, pecoris, n - добитък
 grex, gregis, m - стадо
 exāmen, exāminis, n - рояк
@@ -66,6 +67,7 @@ avis, -is, f - птица
 aquilla, -ae, f - орел
 nīdus, -ī, m - гнездо
 pullus, -ī, n - младо животно
+vermis, -is, m - червей
 apis, -is, f - пчела
 vespa, -ae, f - оса
 formica, -ae, f - мравка

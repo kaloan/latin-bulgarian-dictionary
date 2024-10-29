@@ -22,6 +22,7 @@ Isrāēlīticus - израелски
 Italicus - италийски, апенински
 Italus - италиански
 Iūdaeus - юдейски
+Iūdaicus - юдейски
 Latīnus - латински
 Lūsītānus - лузитански, т.е. португалски
 Philistaeus - филистимски

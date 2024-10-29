@@ -64,6 +64,7 @@ rapere -iō, rapuisse, raptum - грабя, отмъквам
   ēripere -iō - ограбя, отнемам
   surripere -iō - крада, обирам
 fodere -iō, fōdisse, fossum - копая, бъркам, убождам, пронизвам, мушкам, жиля
+  cōnfodere -iō, cōnfōdisse, cōnfossum - дупча, пронизвам, пробивам
   effodere -iō, effōdisse, effossum - изкопая, издълбая, тършувам
   trānsfodere -iō, trānsfodisse, trānsfossum - пронизвам, промушвам
 

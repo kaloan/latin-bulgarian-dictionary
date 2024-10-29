@@ -12,6 +12,7 @@ arbor, -is, f - дърво
   tilia, -ae, f - липа
   ulmus, -ī, f - бряст
 dūmus, -ī, m - храст
+virgultum, -ī, n - шубрак
 rāmus, -ī, m - клон
 palmes, palmitis, n - лозово стъбло, лозов филиз
 folium, -ī, n - листо
