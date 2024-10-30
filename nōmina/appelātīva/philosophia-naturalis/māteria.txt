@@ -21,5 +21,6 @@ metallum, -ī, n - метал
   plumbum, -ī, n - олово
 carbō, -ōnis, m - въглища
 tūs, tūris, n - тамян
+myrrha, -ae, f - миро
 smaragdus, -ī, m - смарагд
 bitūmen, bitūminis, n - битум

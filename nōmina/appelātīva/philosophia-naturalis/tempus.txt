@@ -25,8 +25,11 @@ hebdomas, hebdomadis, f - седмица
 hebdomada, -ае, f - седмица
 septimāna, -ae, f - седмица
 fēria, -ae, f - ден от седмицата, празник, панаир
+quadrīduum, -ī, n - четиридневие
+trīduum, -ī, n - тридневие
+bīduum, -ī, n - двудневие
 diēs, diēī, m/f - ден (среща се в мъжки род в древния латински, а в женски в средновековния)
-  dilūculum, -ī, n - сутрешен здрач/сумрак
+  dīlūculum, -ī, n - сутрешен здрач/сумрак
   ortus, -ūs, m - изгрев
   māne. indecl, n - сутрин
   meridiēs, meridiēī, m - обед

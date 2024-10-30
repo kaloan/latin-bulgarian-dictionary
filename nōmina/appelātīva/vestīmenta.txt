@@ -9,6 +9,8 @@ vestis, -is, f - дреха
   paenula, -ae, f - наметало
   amicitus, -ī, m - наметало
   epitogium, -ī, m - наметка
+  pannus, -ī, m - дрипа
+  sindōn, -ōnis, f - фин плат, муселин, плащеница, саван
 dormītōria, -ae, f - пижама
 calceus, -ī, m - обувка
 calceāmentum, -ī, n - обувка

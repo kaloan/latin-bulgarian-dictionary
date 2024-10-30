@@ -48,6 +48,7 @@ arma, -ōrum, n pl - оръжие
   gladius, -ī, m - меч
   ēnsis, -is, m - меч
   clāva, -ae, f - боздуган, палка, бухалка
+  fūstis, -is, m - сопа, тояга, бухалка
   pūgiō. -ōnis, m - кама, кинжал
   vāgīna, -ae, f - ножница
   cuspis, cuspidis, f - връх, копие, кол, шиш

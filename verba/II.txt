@@ -5,7 +5,7 @@ placēre, placuisse, placitum - задоволявам
 latēre - крия се, прикривам се, дебна, укривам се, оставам незабелязан
 lūgēre, luxisse, luctum - оплаквам, жалея, скърбя, окайвам
 paenitēre, paenituisse - разкайвам се, съжалявам, гризе ме съвестта (!!!), недоволствам
-egēre, eguisse (+abl) - нуждая се от
+egēre, eguisse (+abl) - нуждая се от, изпитвам нищета
 ārdēre, arsisse, arsum - горя, гневя се
 nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
 cavēre, cāvisse, cautum - внимавам, предпазвам се
@@ -72,6 +72,7 @@ tenēre, tenuisse, tentum - държа, поддържам, продължава
   abstinēre, abstinuisse, abstentum - въздържам се
   attinēre, attinuisse, attentum - придържам
   continēre, continuisse, contentum - съдържам, ограничавам, заключвам, задържам, поддържам
+  dētinēre, dētinuisse, dētentum - задържам
   obtinēre, obtinuisse, obtentum - поддържам, притежавам
   pertinēre, pertinuisse - достигам
   pertinēre ad (+acc) - обвързан съм (с), отнасям се (за), пригоден съм (за), принадлежи към (група)
@@ -137,8 +138,9 @@ fovēre, fovisse, fotum - грея, лаская, глезя, подкрепям
 minēre - стърча, подавам се
   ēminēre - изпъквам, откроявам се, отличавам се
   imminēre - намирам се над, наближавам
-fulgēre, fulsisse - блестя, светя
-  praefulgēre - сияя, искра
+fulgēre, fulsisse - светя, блестя
+  circumfulgēre - светя отвсякъде
+  praefulgēre - сияя, искря
 haerēre, haesisse, haesum - заклещвам се, закрепен съм, държа се, закачен съм,
   adhaerēre (+dat) - вклещвам се, впримчвам се, омотавам се, прикрепям се (до), придържам се (за)
   cohaerēre (+dat) - сързвам се (с)

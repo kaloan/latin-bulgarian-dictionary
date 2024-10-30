@@ -20,6 +20,7 @@ prātum, -ī, n - поляна
 silva, -ae, f - гора
 saltus, -ūs, m - планинска гора
 laurētum, -ī, n - лаврова гора
+olīvētum, -ī, n - маслинова гора
 nemus, nemoris, n - гора с поляна
 lūcus, -ī, m - свещенна гора
 īnsula, -ae, f - остров, жилищен блок
@@ -33,7 +34,7 @@ flūmen, flūminis, n - река
 rīpa, -ae, f - речен бряг
 alveus, -ī, m - речно корито
 lacus, -ūs, m - езеро
-stagnum, -ī, n - мочурище
+stāgnum, -ī, n - мочурище, водоем
 mare, -is, n - море
 vadum, -ī, n - плитчини
 pelagus, -ī, m - открито море

@@ -7,6 +7,7 @@ vātēs, -is, m/f - пророк, ясновидец, гадател
 divīnus, -ī, m - ясновидец, гадател
 augurium, -ī, n - ясновидство
 sacerdōs, sacerdōtis, m/f - свещеник, жрец, жрица
+magus, -ī, m - маг
 dīvīnus, -ī, m - оракул, пророк
 rītus, -ūs, m - обред, ритуал
 martyr, -is, m/f - мъченик
@@ -23,6 +24,7 @@ fīrmāmentum, -ī, n - основа, опора, поддръжка, небе
 nātīvitās, -ātis, f - раждане, рождение, Рождество
 angelus, -ī, m - ангел
 peccātum, -ī, n - грях
+peccātor, -ōris, m - грешник
 venia, -ae, f - прошка, опрощение
 sacrificium, -ī, n - жертва
 hostia, -ae, f - жертва
@@ -34,3 +36,11 @@ prōmissus, -ūs, m - обет, обещание
 pietās, -ātis, f - благочестие, благоговение, чувство за дълг, доброта, съжаление, жалост
 impietās, -ātis, f - безчестие, безбожие
 dēdicātiō, -ōnis, f - освещаване
+baptisma, baptismatis, n - кръщение, покръстване, Потопа
+baptismum, -ī, n - кръщение, покръстване
+baptizātiō, -ōnis, f - кръщение, покръстване
+resurrectiō, -ōnis, f - възкресение
+gentēs, -ium, f pl - езичници
+hymnus, -ī, m - химн
+paradīsus, -ī, m - рай
+Scrīptūrae, -ārum, f pl - Писанията (Вехтия завет)

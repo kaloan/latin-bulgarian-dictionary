@@ -32,6 +32,7 @@ caput, capitis, n - глава, основно ястие
     dēns, dentis, m - зъб
     lingua, -ae, f - език
     palātum, -ī, n - небце, вкус (сетиво)
+    spūtum, -ī, n - плюнка
   mentum, -ī, n - брадичка
   cerebrum, -ī, n - мозък
 faux, faucis, f - гуша

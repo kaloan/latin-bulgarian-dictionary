@@ -146,6 +146,11 @@ bellum suscipere - започвам война
 animō concidere - падам духом
 aliī aliō - едни тук, едни там
 rē vērā - всъщност
+odiō habēre - тая омраза, мразя
+dēfungī vitā - приключва живота ми, умирам
+cūram agere alicuius - грижа се за някого
+in sē - на себе си, трезв
+plūs (+abl) - повече от (някой)
 
 aegrē ferre aliquid - сърдя се някому, гневя се поради нещо
 aliquem rē donāre - дарявам нещо другимо
