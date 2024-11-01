@@ -29,6 +29,16 @@ Asia, -ae, f - Азия
   Iūdaea, -ae, f - Юдея
   Persia, -ae, f - Персия
   Syria, -ae, f - Сирия
+  Mesopotamia, -ae, f - Месопотамия
+  Chanaan, -ae, f - Ханаан
+  Palestīna, -ae, f - Палестина
+  Iuda, -ae, f - Юдея
+  Isrāēl, -is, m - Израил/Израел
+  Assyria, -ae, f - Асирия
+  Mēdia, -ae, f - Мидия
+  Idūmaea, -ae, f - Идумея, Едом
+  Samarīa, -ae, f - Самария
+  Galilea, -ae, f - Галилея
 
 Ãfrica, -ae, f - Африка
   Aegyptus, -ae, f - Египет

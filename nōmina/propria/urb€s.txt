@@ -31,6 +31,23 @@ Massilia, -ae, f - Масилия (дн. Марсилия)
 Tarracō, -ōnis, m - Тарако (дн. Тарагона)
 
 Bethlehem, indecl, n - Витлеем
+Harān, indecl, ??? - Харан/Кара
+Ierichō, indecl, ??? - Ерихон
+Galgala, -ōrum, n pl - Галгал
+Iābēs, indecl, ??? - Явис
+Hierosolyma, -ae, f - Иерусалим
+Rages, -is, f - Рага (дн. Рей)
+Ecbatana, -ōrum, n pl - Екбатана
+Nīnivē, -ēs, f - Ниневия
+Babylon, -ōnis, f - Вавилон
+Nazareth, indecl, ??? - Назарет
+Cana, -ae, f - Кана
+Capharnāum, -ī, n - Капернаум
+Naim, indecl, ??? - Наин
+Ãrimāthaea, -ae, f - Ариматея
+Tiberias, -adis, f - Тиберия
+Bēthania, -ae, f - Витания
+Emmaus, indecl, ??? - Емаус
 
 Carthagō, -inis, f - Картаген
 Utica, -ae, f - Утика
