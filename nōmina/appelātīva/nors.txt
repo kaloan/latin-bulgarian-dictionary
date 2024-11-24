@@ -1,0 +1,22 @@
+mors, mortis, f - смърт
+nex, necis, f - смърт
+lētum, -ī, n - смърт
+mortālitās, -ātis, f - смъртност
+immortālitās, -ātis, f - безсмъртие, безсмъртност
+fūnus, fūneris, n - погребение, смърт, труп
+rogus, -ī. m - погребална клада
+cadāver, -is, n - труп
+sepulcrum, -ī, n - гробница, гроб
+sepultūra, -ae, f - погребение
+feretrum, -ī, n - ковчег с носилка, катафалка
+loculus, -ī, m - ковчег, ковчеже, местенце
+pestilentia, -ae, f - чума, болест
+plāga, -ae, f - мор, чума, язва, рана, злощастие, злочестина
+īnfirmitās, -ātis, f - болест, слабост
+morbus, -ī, m - болест, заболяване
+  tussis, -is, f - кашляне
+  podagra, -ae, f - подагра
+  caecitās, -ātis, f - слепота
+  albūgō, albūginis, f - левкома
+  lepra, -ae, f - проказа
+  febris, -is, f - треска

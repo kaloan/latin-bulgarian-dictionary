@@ -12,7 +12,6 @@ consciscere (+sibi) - да си навлека
 texere, texuisse, textum - плета, мрежа
 molere, moluisse, molitum - стривам
 pluere, pluisse - вали
-ingēmescere, ingēmuisse - стена, ридая
 compescere, compescuisse - въздържам се, преграждам, утолявам
 bibere, bibisse, bibitum - пия
 lūcere, lūxisse - светя, излъчвам
@@ -43,7 +42,7 @@ quaesere - питам, моля
 fingere, fīnxisse, fictum - вая, галя, измислям, мамя
 innōtēscere, innōtuisse - прочувам се, изпъквам, ставам известен
 arguere, arguisse, argūtum - виня, оплаквам се
-ingemēscere, ingemuisse - простенвавам
+ingemēscere, ingemuisse - стена, ридая, простенвавам
 compavēscere - побоявам се
 pertimêscere - изплашвам се
 imbuere, imbuisse, imbūtum (+abl) - прониквам, топя, навлажнявам, цапам (с), оцветявам (с), обучавам (в), възпитавам (в)

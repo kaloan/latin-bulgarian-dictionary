@@ -26,7 +26,7 @@ caput, capitis, n - глава
   māla. -ae, f - скула, буза
   maxilla, -ae, f - долна челюст
   rictus, -ūs, m - челюст
-  mandĭbula, -ae, f - челюстна кост
+  mandibula, -ae, f - челюстна кост
   ōs, ōris, n - уста
     labrum, -ī, n - устна
     dēns, dentis, m - зъб

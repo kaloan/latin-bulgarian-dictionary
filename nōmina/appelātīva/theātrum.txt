@@ -1,0 +1,14 @@
+tragoedia, -ae, f - трагедия
+cōmoedia, -ae, f - комедия
+satira, -ae, f - сатира
+poēsis, -is, f - поезия
+  cantata, -ae, f - кантата
+    activa, -ae, f - пърформанс поезия
+    elegiaca, -ae, f - елегия
+    lyrica, -ae, f - лирика
+  epica, -ae, f - епика
+  dramatica, -ae, f - драма
+  didactica, -ae, f - дидактика
+  mystica, -ae, f - мистика
+  gnomica, -ae, f - гномика
+  confessionalis, -is, f - конфеционализъм
