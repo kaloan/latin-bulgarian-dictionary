@@ -21,7 +21,7 @@ velle - искам
 fierī - случва се, сбъдва се, създава се, подготвя се
 fore - ще стане
 
-ferre, tulisse, lātum - нося
+ferre, tulisse, lātum - нося, понасям
   afferre, attulisse, allātum - донасям
   auferre, abstulisse, ablātum - отмъквам, отнасям, прокуждам, убивам
   circumferre, circumtulisse, circumlātum - нося около, разгласявам

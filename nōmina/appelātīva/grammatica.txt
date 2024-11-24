@@ -59,11 +59,6 @@ verbum, v. - глагол, дума, слово
 adverbium, adv. - наречие
 praepositiō, prp. - предлог
 coniūnctiō, con. - съюз
-  cōpulātīva - съединителен
-  disiūnctīva - разделителен
-  explētīva - допълнителен
-  causālis - причинен
-  ratiōnālis - обяснителен
 interiectiō, int. - междуметие
 
 dactylus, ‑ī, m - дактил

@@ -6,7 +6,7 @@ pellis, -is, f - кожа, кожух
 cutis, -is, f - кожа, обелка
 tāctus, -ūs, m - допир
 tempus, temporis, n - слепоочие
-caput, capitis, n - глава, основно ястие
+caput, capitis, n - глава
   cranium - череп
   faciēs, faciēī, f - лице, предна част
   vultus, -ūs, m - лице, израз

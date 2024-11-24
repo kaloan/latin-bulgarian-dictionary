@@ -43,7 +43,7 @@ specere/spicere -iō, spexisse, spectum - виждам
   circumspicere - оглеждам, диря
   cōnspicere - забелязвам, наблюдавам, гледам
   dēspicere - гледам надолу, презирам
-  īnspicere - наблюдавам, изследвам, обмислям
+  īnspicere - наблюдавам, изследвам, обмислям, разглеждам
   perspicere - изследвам, оглеждам
   prōspicere - наблюдавам
   respicere - поглеждам отново

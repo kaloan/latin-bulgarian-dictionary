@@ -31,7 +31,7 @@ cubiculum, -ī, n - стая, спалня
     ōlla, -ae, f - гърне, буркан
     lebēs, lebētis, m - казан, чайник
     operculum, -ī, n - капак
-    discus, -ī, m - поднос
+    discus, -ī, m - поднос, диск
     pōculum, -ī, n - чаша
     calix, calicis, m - чаша за вино
     culter, cultrī, m - нож

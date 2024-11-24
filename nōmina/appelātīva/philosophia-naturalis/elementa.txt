@@ -22,6 +22,7 @@ lympha, -ae, f - вода, прозрачна течност
   frīgida, -ae, f - студена вода
   tepida, -ae, f - хладка вода
   calida, -ae, f - топла вода
+  ūmor, ūmōris, m - влага
 ignis, -is, m - огън
   scintilla, -ae, f - искра
   incendium, -ī, n - пожар
