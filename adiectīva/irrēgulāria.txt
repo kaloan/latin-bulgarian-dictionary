@@ -17,9 +17,9 @@ facilis, facilior, facilimus - лесен
 difficilis, difficilior, difficilimus - труден
 gracilis, gracilior, gracilimus - грациозен, слаб, изпит
 humilis, humilior, humilimus - нисък, низък, неизвестен
-similis, similior, similimus - подобен, сходен
-cōnsimilis, cōnsimilior, cōnsimilimus - еднакъв, неразличим
-dissimilis, dissimilior, dissimilimus - различен, инакъв
+similis, similior, similimus (+dat/gen) - подобен, сходен
+cōnsimilis, cōnsimilior, cōnsimilimus (+dat/gen) - еднакъв, неразличим
+dissimilis, dissimilior, dissimilimus (+dat/gen) - различен, инакъв
 ūtilis, ūtilior, ūtilimus - потребно, полезно
 
 necessārius, magis necessārius - нужен, необходим
