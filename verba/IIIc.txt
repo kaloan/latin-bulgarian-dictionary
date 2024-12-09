@@ -113,6 +113,7 @@ currere, cucurrisse, cursum - тичам, бягам
   percurrere, percucurrisse/percurrisse, percursum - пробягвам, обхождам
   praecurrere, praecucurrisse/praecurrisse, praecursum - тичам пред някого, предшествам, изпреварвам, задминавам
   prōcurrere, prōcucurrisse/procurrisse, prōcursum - бягам напред, нападам,  атакувам стремглаво
+  succurrere, succucurrisse/succurrisse, succursum - да се притека (на помощ), извиквам в съзнанието
 mittere, mīsisse, missum - пращам, освобождавам, мятам
   āmittere - губя, загубвам, пускам, освобождавам (слуга)
   admittere - допускам, получавам
