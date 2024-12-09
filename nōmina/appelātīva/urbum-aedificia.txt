@@ -1,11 +1,15 @@
 imperium, -ī, n - империя, власт
+rēgnum, -ī, n - царство, кралство
+ārea, -ae, f - площ, място
 fīnis, -is, m - граница
 fīnēs, -ium, m pl - територия
+terminus, -ī, m - предел, край, граница, завършек
 regiō, regiōnis, f - област, район, околия
+prōvincia, -ae, f - провинция, административна единица при римляните
 rūs, rūris, n - провинцията
 via, -ae, f - път
   crēpis, crepidis, f - тротоар
-urbs, urbis f - град, градът Рим
+urbs, urbis, f - град, градът Рим
 oppidum, -ī, n - град
 vīcus, -ī, m - село, градче, улица с къщи
 mūrus, -ī, m - градска стена
@@ -47,6 +51,7 @@ aedificium, -ī, n - здание, сграда, постройка
   templum, -ī, n - храм
     altāre, altāris, n - олтар
     āra, -ae, f - олтар, жертвеник
+    baptistērium, -ī, n - къпалня, кръщелня, баптистерий
   tumulus, -ī, m - гробница, могила
   taberna, -ae, f - магазин
     caupōna, -ae, f - странноприемница
@@ -60,3 +65,4 @@ forum, -ī, n - форум, мегдан
 mercātus, -ūs, m - пазар
 statua, -ae, f - статуя
 pōns, pontis, f - мост
+molaе, -ārum, f pl - мелница

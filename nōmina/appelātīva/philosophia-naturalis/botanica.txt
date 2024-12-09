@@ -40,3 +40,10 @@ flōs, floris, m - цвете
   hyacinthus, -ī, m - зюмбюл
   carduus, -ī, m - магарешки бодил, бодил, бурен
   lotus, -ī, f - лотус, водна лилия
+
+
+fēnum, -ī, n - сено
+faenum, -ī, n - слама
+foenum, -ī, n - слама
+palea, -ae, f - сено, плява, люспа, слама
+strāmentum, -ī, n - слама

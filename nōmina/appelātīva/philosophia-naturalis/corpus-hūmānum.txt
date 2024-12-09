@@ -48,9 +48,13 @@ pectus, pectoris, n - гръд, гърди
   costae, -ārum, f pl - ребра
   mamma, -ae, f - гърда, виме
 braccium, -ī, n - ръка
+  sinistra, -ae, f - лява ръка
+  laeva, -ae, f - лява ръка
+  dextra, -ae, f - дясна ръка
   lacertus, -ī, m - мишница, мишца
   cubitum, -ī, n - лакът, предмишница, мерна единица за дължина (ок. 44,4 см)
   manus, -ūs, f - ръка (от китката надолу), множество войници
+    pugnus, -ī, m - юмрук
     digitum, -ī, n - пръст
     pollex, -icis, m - палец
     index, -icis, m - показалец, списък, стрелка, резюме

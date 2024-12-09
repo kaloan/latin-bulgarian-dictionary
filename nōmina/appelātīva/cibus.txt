@@ -14,3 +14,4 @@ ferculum, -ī, n - гозба, ястие
   placenta, -ae, f - кекс, торта
   laganum, -ī, n - торта
   simila, -ae, f - брашно
+  farīna, -ae, f - брашно

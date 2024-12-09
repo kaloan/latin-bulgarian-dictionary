@@ -10,9 +10,11 @@ sepulcrum, -ī, n - гробница, гроб
 sepultūra, -ae, f - погребение
 feretrum, -ī, n - ковчег с носилка, катафалка
 loculus, -ī, m - ковчег, ковчеже, местенце
+venēnum, -ī, n - отрова
 pestilentia, -ae, f - чума, болест
 plāga, -ae, f - мор, чума, язва, рана, злощастие, злочестина
 īnfirmitās, -ātis, f - болест, слабост
+contāgiō, -ōnis, f - зараза
 morbus, -ī, m - болест, заболяване
   tussis, -is, f - кашляне
   podagra, -ae, f - подагра

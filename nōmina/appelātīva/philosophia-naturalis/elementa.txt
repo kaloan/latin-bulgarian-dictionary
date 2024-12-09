@@ -2,6 +2,7 @@
 aethēr, aetheris, m - въздухът най-високо, небе
 aura, -ae, f - въздух, миризма, вятър
   ventus, -ī, m - вятър
+  flātus, -ūs, m - дъх, духане, бриз
   calor, calōris, m - топлина, жега
   aestus, -ūs, m - жега, горещина
   frīgus, frīgoris, n - студ
@@ -43,6 +44,7 @@ imber, imbris, m - дъжд, валеж
   dīluvium, -ī, n - потоп
   pluvia, -ae, f - валеж, дъжд
   grandō, -ōnis, f - градушка
+flāmen, -inis, n - буря, вятър
 tempestās, -atis, f - буря, стихия
   tonitrus, -ī, m - гръмотевица, тътен
   fulgur, -is, n - светкавица

@@ -12,6 +12,9 @@ bellum, -ī, n - война
   praeda, -ae, f - плячка
   spolia, -ōrum, n pl - плячка
   captīvus, -ī, m - пленник
+  clādēs, -is, f - клане, опустошение
+  caedēs, caedis, f - клане, сеч
+  interneciō, -ōnis, f - клане, сеч, касапница
 mīlitia, -ae, f - военна служба
 cōpiae, -ārum, f pl - военни сили
 agmen, agminis, n - боен строй колона, използван по време на път
@@ -77,3 +80,5 @@ decuria, -ae, f - декурия, бойна единица, състояща с
 legiōnārius, -ī, m - легионер, редовен войник в римската армия
 auxilia, -ōrum, n pl - спомагателни части
 obsēs, obsidis, m/f - заложник
+pīrātа, -ae, f - морски грабител, разбойник нападащ кораби, пират
+foedus, foederis, n - мир, примирие
