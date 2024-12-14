@@ -6,6 +6,8 @@ Eurōpa, -ae, f - Европа
     Boeotia, -ae, f - Беотия
     Ēpīrus, -ī, f - Епир
     Thessalia, -ae, f - Тесалия
+    Peloponnēsus, -ī, m - Пелопонес
+    Locris, -idis, f - Локрида
   Gallia, -ae, f - Галия
   Germānia, -ae, f - Германия
   Dacia, -ae, f - Дакия
@@ -14,6 +16,7 @@ Eurōpa, -ae, f - Европа
       Asturia, -ae, f - Астурия
       Baetica, -ae, f - Бетика
   Italia, -ae, f - Италия
+  Hesperia, -ae, f - Хесперия (букв. западната страна на старогръцки), Италия
     Albanum, -ī, n - Албанум, древно наименование на Латиум
     Ãpūlia, -ae, f - Апулия (дн Пулия)
     Campānia, -ae, f - Кампания

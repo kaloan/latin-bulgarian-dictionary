@@ -23,6 +23,7 @@ similis, similior, similimus (+dat/gen) - подобен, сходен
 cōnsimilis, cōnsimilior, cōnsimilimus (+dat/gen) - еднакъв, неразличим
 dissimilis, dissimilior, dissimilimus (+dat/gen) - различен, инакъв
 ūtilis, ūtilior, ūtilimus - потребно, полезно
+inūtilis, inūtilior, inūtilimus - непотребно, безполезно
 
 necessārius, magis necessārius - нужен, необходим
 

@@ -116,7 +116,7 @@ decus, decoris, f - изящество, прелест
 decor, -is, m - красота, изящество, великолепие, изтънченост, кокетство
 dōnum, -ī, n - дар, подарък
 somnus, -ī, m - сън
-sornnium, -ī, n - сънище
+somnium, -ī, n - сънище
 lac/lacte, lacis, n - мляко, кърма
 gradus, -īs, m - стъпка
 causa, -ae, f - причина
@@ -425,6 +425,9 @@ temperiēs, terperiēī, f - умереност
 intemperiēs, interperiēī, f - неумереност, прекомерност, крайност
 odor, odōris, m - миризма, ухание, смръдна
 ductus, -ūs, m - управа, ръководство, воден канал
+culmen, culminis, n - кулминация
+dēfēnsor, -ōris, m - защитник
+
 
 vulgus, -ī, n - народ
 populus, -ī, m - население, народ
@@ -447,7 +450,7 @@ exemplar, -āris, n - пример, образец
 exemplum, -ī, n - пример
 varietās, -ātis, f - различие, разнообразие
 dēfōrmitās, -ātis, f - деформация, обезобразяване, грозота, безобразие, недостатък
-speciēs, speciēī, f - род, сорт, външен вид, красота
+speciēs, speciēī, f - род, сорт, външен вид, красота, гледка
 faciēs, faciēī, f - вид, външен вид
 
 occāsiō, -ōnis, f - случай, възможност, момент, сгода, оказион
@@ -484,6 +487,7 @@ puer, -ī, m - момче, хлапе, прислужник
 puella, -ae, f - момиче, хлапачка
 viduus, -ī, m - вдовец
 vidua, -ae, f - вдовица
+iuventūs, -ūtis, f - зрялост [???]
 
 fax, facis, f - факла
 facula, -ae, f - малка факла
@@ -592,6 +596,7 @@ sonitus, -ūs, m - звучене, тон
     gallicinium, -ī, n - петльова песен
     clāmor, -is, m - вик
   silentium, -ī, n - тишина, безмълвие
+  ululātus, -ūs, m - вой
 
 poēta, -ae, m/f - поет
 lyra, -ae, f - лира

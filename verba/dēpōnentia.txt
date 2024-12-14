@@ -70,6 +70,7 @@ sequī, secūtum esse (д) - следвам
 laetārī (d) - радвам се
 verēri, veritum esse (d) - страхувам се
 complectī, complexum esse (d) - прегръщам
+amplectī, amplexum esse (d) - прегръщам
 amplexārī (d) - прегръщам, посрещам, хващам, тача, ценя
 circumplectī, circumplexum esse (d) - обгръщам, заграждам, прегръщам
 sōlārī (d) - утешавам, облекчавам, успокоявам
@@ -164,6 +165,7 @@ glōriārī (d) - гордея се, хваля се, фукам се, пъча 
 pacīscī, pactum esse (d) - споразумявам, сключвам, преговарям
 mercārī (d) - пазарувам, търгувам, купувам
 tristārī (d) - тъгувам
+dominārī (d) - господствам
 
 -perīrī, -pertum esse - изживявам, пробвам,
   opperīrī, oppertun esse (d) - чакам, изчаквам

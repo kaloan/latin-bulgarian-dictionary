@@ -28,7 +28,7 @@ lympha, -ae, f - вода, прозрачна течност
 ignis, -is, m - огън
   scintilla, -ae, f - искра
   incendium, -ī, n - пожар
-  flamma, -ae - огън, любов
+  flamma, -ae - пламък, плам, любов
   fūmus, -ī, m - пушек, дим
   cinis, cineris, m - пепел, въглени
 

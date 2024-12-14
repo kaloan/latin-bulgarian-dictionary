@@ -10,6 +10,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
   malefacere -iō, malefēcisse, malefectum - злосторя
   officere -iō, offēcisse, offēctum - ранявам, препречвам, попречвам
+  patefacere -iō, patefēcisse, patefactum - открехвам, отварям, разтварям
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
   praeficere -iō, praefēcisse, praefectum - поставям начело
   prōficere -iō, prōfēcisse, prōfectum - напредвам, подобрявам, доправя, довършвам, постигам

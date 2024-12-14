@@ -53,6 +53,7 @@ clāmōrem tollere - вдигам глас, викам
 nōmen dare - давам име, именовам
 prasidia pōnere - поставам укрепления
 fugam temptāre - опитвам да избягам
+fugam capere - бягам
 ad diem - навреме (букв. на деня)
 ab urbe conditā - от построения град, т.е. от създаването на Рим
 adversa fortūna - лоша съдба
@@ -153,6 +154,15 @@ in sē - на себе си, трезв
 plūs (+abl) - повече от (някой)
 ōrātiōnem habēre - изнасям реч
 orīginem trahere - водя началото си от
+clāmōrem tollere - вдигам шум, вдигам олелия
+iam iam(-que) - още сега, веднага
+vītam effundere - изтича ми живота, умирам
+sē offerre - явявам се, показвам се
+pedem efferre - тръгвам си
+comēs īre (+dat) - придружавам (някого)
+quīn etiam - че и
+
+certum (+dat) est - (някой) разсъждава сигурно/решително
 
 rēs pūblica - обществени дела, държавни дела
 

@@ -129,6 +129,7 @@ subitus - внезапен, неочакван, ненадеен
 cruentus - окървавен
 sotdidus - мръсен, кален
 timidus - страхлив
+pavidus - изплашен
 cupidus - желаещ
 gravidus - утежнен, подут
 gravidа - бременна
@@ -312,7 +313,7 @@ propitius - благосклонен, милостив
 parvulus - мъничък
 gnāvus - деятелен, зает
 ignāvus - безделен, мързелив, ленив, непродуктивен, безплоден, страхлив
-rēgius - царствен, царски
+rēgius - царствен, царски, кралски
 stupendus - изумителен, шеметен
 trepidus - трперещ от страх, нервен, разтревожен
 terrificus - плашещ, страшен
@@ -355,6 +356,8 @@ subterrāneus - подземен
 domesticus - домашен
 boārius - говедарски
 anniversārius - годишен
+profugus - бежански
+saucius - ранен
 
 fortuītus - случаен,
 

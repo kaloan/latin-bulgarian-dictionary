@@ -45,7 +45,7 @@ spōnsa, -ae, f - годеница, младоженка
 uxor, uxoris, f - съпруга
 nupta, -ae, f - съпруга, младоженка
 marītus, -ī, m - съпруг
-coniunx, coniugis, m/f - съпруг, съпруга
+coniūnx, coniugis, m/f - съпруг, съпруга
 mātrōna, -ae, f - омъжена жена, мадам, матрона
 virgō, virginis, f - девица
 senex, senis, m/f - старец, старица
