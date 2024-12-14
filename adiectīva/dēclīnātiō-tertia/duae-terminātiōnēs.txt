@@ -30,7 +30,7 @@ immortālis, -is - безсмъртен
 commūnis, -is - споделен, всеобщ
 circēnsis, -is - цирков
 hostīlis, -is - вражески, вражески, противнически
-illūstris, -is - светещ, блестящ, известен
+illūstris, -is - бляскав, ясен, бележит, известен
 rēgālis, -is - царствен
 immītis, -is - див, жесток, свиреп, груб
 anīlis, -is - бабешки
@@ -97,3 +97,5 @@ intolerābilis, -is - непоносим
 memorābilis, -is - паметен, забележителен
 variābilis, -is - променлив
 satis, -is - достатъчен
+frontālis, -is - челен, фронтален
+triumphālis, -is - триумфален

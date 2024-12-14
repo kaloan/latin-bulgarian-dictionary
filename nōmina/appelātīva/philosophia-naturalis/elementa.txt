@@ -17,6 +17,7 @@ solum, -ī, n - почва
   calculus, -ī, m - камъче
   pulvis, pulveris, f - прах, пясък
   harēna, -ae, f - пясък, арена, кал
+  later, -is, m - тухла
 aqua, -ae, f - вода
 lympha, -ae, f - вода, прозрачна течност
   glaciēs, glaciēī, f - лед
@@ -42,6 +43,7 @@ cālīgō, -inis, f - плътен облак, мъгла
 imber, imbris, m - дъжд, валеж
   nix, nivis, f - сняг
   dīluvium, -ī, n - потоп
+  inundātiō, -ōnis, f - потоп, преливане, наплив
   pluvia, -ae, f - валеж, дъжд
   grandō, -ōnis, f - градушка
 flāmen, -inis, n - буря, вятър

@@ -1,6 +1,7 @@
 bonus, melior, optimus - добър
 malus, pēior, pessinus - лош
 magnus, māior, māximus - голям, велик
+magnificus, magnificentior, magnificentissimus - величествен
 parvus, minor, minimus - малък
 multī, plūrēs/plūra, plūrimī pl - многобройни
 complūrēs, -ēs - изобилни, несчетни
@@ -12,6 +13,7 @@ immātūrus/inmātūrus, immātūrior/inmātūrior, immātūrrimus/inmātūrrimu
 posterus, posterior, postrēmus/postumus  - заден, по-заден, следващ
 senex, senior/māior nātū, māximus nātū - възрастен
 iuvenis, iuvenior/minor nātū, minimis nātū - млад
+vetus, veterior, veterrimus - вехт, стар
 
 facilis, facilior, facilimus - лесен
 difficilis, difficilior, difficilimus - труден

@@ -13,7 +13,7 @@ caput, capitis, n - глава
   capillus, -ī, m - коса
   coma, -ae, f - коса, грива, руно, вълна
   crīnis, -is, m - коса, кичур, пискюл, шлейф
-  frōns, frontis, m - чело
+  frōns, frontis, m - чело, челна част на сграда
   oculus, -ī, n - око
   ocellus, ‑ī, m - оченце
   vīsus, -ūs, m - зрение

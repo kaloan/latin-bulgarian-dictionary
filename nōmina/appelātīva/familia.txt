@@ -14,7 +14,9 @@ mamma, -ae, f - мама
 pāpa, -ae, m - тати
 māter, mātris, f - майка
 noverca, -ae, f - мащеха
+genetrīx, -īcis, f - родителка, майка
 pater, patris, m - баща, татко
+genitor, -ōris, m - родител, баща
 nātus, -ī, m - син, рожба
 prōlēs, -is, f - чадо, рожба
 fīlius, -ī, m - син

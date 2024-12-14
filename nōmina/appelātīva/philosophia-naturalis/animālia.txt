@@ -25,7 +25,7 @@ cornīx, -cis, f - врана
 gallus, -ī, m - петек
 gallīna, -ae, f - кокошка
 porcus, -ī, m; sūs, sūis, m - свиня
-bōs, bovis, m/f - рогат добитък
+bōs, bovis, m/f - говедо
 taurus, -ī, m - бик
 vacca, -ae, f - крава
 vitulus, -ī, m - теле

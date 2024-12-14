@@ -4,7 +4,8 @@ caelum, -ī, n - небе
   stēlla, -ae, f - звезда
   sīdus, sīderis, n - звезда, съзвездие
   arcus, -ūs, m - дъга
-xmōns montis, m - планина
+mōns montis, m - планина
+prōmunturium, -ī, n - хребет, нос (в смисъл на скала издадена във водата)
 saxum, -ī, n - скала, канара
 mōlēs, -is, f - подводна скала, купчина
 antrum, -ī, n - пещера

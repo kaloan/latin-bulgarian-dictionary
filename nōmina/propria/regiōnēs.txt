@@ -4,9 +4,11 @@ Eurōpa, -ae, f - Европа
     Arcadia, -ae, f - Аркадия
     Attica, -ae, f - Атика
     Boeotia, -ae, f - Беотия
+    Ēpīrus, -ī, f - Епир
     Thessalia, -ae, f - Тесалия
   Gallia, -ae, f - Галия
   Germānia, -ae, f - Германия
+  Dacia, -ae, f - Дакия
   Hibērum, -ī, n - Иберия, реката Ебро
     Hispānia, -ae, f - Испания
       Asturia, -ae, f - Астурия
@@ -21,6 +23,9 @@ Eurōpa, -ae, f - Европа
     Liguria, -ae, f - Лигурия
     Samnium, -ī, n - Самниум
     Tūscia, -ae, f - Туския, Етрурия
+  Macedonia, -ae, f - Македония
+  Thracia, -ae, f - Тракия
+
 
 Asia, -ae, f - Азия
   Arabia, -ae, f - Арабия

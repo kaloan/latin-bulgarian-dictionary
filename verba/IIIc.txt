@@ -188,7 +188,7 @@ emere, ēmisse, ēmptum - купувам, придобивам
   redimere - откупя
   sūmere, sūmpsisse, sūmptum - вдигам, взимам
     absūmere - изземвам, използвам, изтребвам, унищожавам, убивам
-    assūmere -
+    assūmere - вземам, приемам, получавам, узурпирам
     cōnsūmere - използвам, употребявам, изяждам, унищожавам
     resūmere - продължавам, въсзтановявам се
 agere, ēgisse, āctum - действам, върша
@@ -330,14 +330,14 @@ scrībere, scripsisse, scriptum - пиша
   ascrībere (+dat) - пропомням
   cōnscrībere - записвам
   dēscrībere - преписвам, описвам, обрисувам
-  īnscrībere - надписвам
+  īnscrībere - надписвам, давам заглавие
 claudere, clausisse, clausum - затварям
   exclūdere, exclūsisse, exclūsum - изключвам, отстранявам, отказвам, възпрепятствам
   inclūdere, inclūsisse, inclūsum - затварям, заключвам
   interclūdere, interclūsisse, interclūsum - обграждам, прераждам, възпрепятствам
 frangere, frēgisse, frāctum - чупя, пречупя
   affrangere - счуквам, смазвам
-statuere, statuisse, statutum - решавам, поставям, изгражам, изправям
+statuere, statuisse, statūtum - решавам, поставям, изгражам, изправям
   cōnstituere, cōnstituisse, cōnstitūtum - съграждам, реша се на, издигам, основавам
   dēstituere, dēstituisse, dēstitūtum - отказвам се, отклонявам се, оставям без, заблуждавам, мамя
   īnstituere, īnstituisse, īnstitūtum - установявам, сключвам, превръщам в навик/обичай
@@ -391,11 +391,17 @@ nectere, nexuisse, nexum - плета
 laedere. laesisse, laesum - удрям, ранявам, набия, пребия, обиждам
   collīdere, collīsisse, collīsum - сблъсквам
   ēlīdere, ēlīsisse, ēlīsum - троша, премахвам
-struere, strūxisse, strūctum - градя, строя
-  cōnstruere - съграждам
+struere, strūxisse, strūctum - строя, градя, стъкмявам
+  astruere, astrūxisse, astrūctum - застроя, строя до
+  cōnstruere, cōnstrūxisse, cōnstrūctum - съграждам
   dēstruere, dēstrūxisse, dēstrūctum - разграждам, разбърквам, руша, унищожавам
   exstruere, exstrūxisse, exstrūctum - изграждам
-  īnstruere, īnstrūxisse, īnstrūctum - подреждам, подготвям, обучавам, инструктирам
+  īnstruere, īnstrūxisse, īnstrūctum - вграждам, подреждам, подготвям, обучавам, инструктирам
+  obstruere, obstrūxisse, obstrūctum - преграждам, препречвам
+  praestruere, praestrūxisse, praestrūctum - подготвям, строя предварително
+  rēstruere, rēstrūxisse, rēstrūctum - престроя, възстановявам
+  substruere, substrūxisse, substrūctum - строя отдолу, строя под земята
+  superstruere, superstrūxisse, superstrūctum - строя над, достроя
 scandere, scandisse, scānsum - катеря се
   ascendere, ascendisse, ascensum - изкачвам се, качвам се
   cōnscendere, cōnscemdisse, cōnscensum  - покатеря се

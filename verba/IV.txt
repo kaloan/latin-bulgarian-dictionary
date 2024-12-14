@@ -1,5 +1,4 @@
 reperīre,repperisse, repertum - изобретя, намеря, получа
-operīre, operuisse , opertum - покривам, прикривам
 oboedīre - подчинявам се
 īnsidīre, īnsidiavisse - чакам в засада, заговорнича, поставям клопка, внимавам
 invadīre - навлизам, отнемам
@@ -9,7 +8,6 @@ partuīre - бременна съм
 fastīdīre - не понасям, ненавиждам, отвращавам се от нещо, презирам, пренебрегвам
 sitīre - жаднея, жадувам
 ēsurīre - гладувам
-aperīre, aperuisse, apertum - отварям, разкривам, оповестявам, разкопавам
 vestīre - обличам
 pūnīre - наказвам, отмастявам
 vāgīre - цивря
@@ -33,11 +31,16 @@ superbīre - надменен съм, показвам своята надмен
 saevīre - свирепея
 sortīre - тегля клечка (в смисъл на жребий)
 
--pedīre
+-pedīre [pēs]
   impedīre - забавям, възпрепятствам, преча, попречвам
   impedīre (+dat) - вредя (някому)
   expedīre - забързвам
   expedīre (+dat) - помагам (някому)
+
+-perīre, -peruisse, -pertum
+  aperīre, aperuisse, apertum - отварям, разкривам, оповестявам, разкопавам
+  operīre, operuisse, opertum - покривам, прикривам
+
 
 salīre, sаluisse/saliisse, saltum - скачам, хвърлям се
   circumsilīre. circumsiluisse - подскачам

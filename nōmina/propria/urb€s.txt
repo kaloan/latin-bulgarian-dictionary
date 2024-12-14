@@ -12,6 +12,7 @@ Coriolī, -ōrum, m pl - Кориоли
 Tarentum, -ī, n - Тарент (дн. Таранто), Тарас
 Maleventum, -ī, n - Малевентум (дн. Беневенто)
 Venusia, -ae, f - Венузия (дн. Веноза)
+Antium, -ī, m - Антиум
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
@@ -25,6 +26,9 @@ Larissa, -ae, f - Лариса
 Epidamnus, -ī, f - Епидамн, Дирахиум
 Dyrrachium, -ī, n - Дирахиум (дн. Драч, Дуръс), Епидамн
 Clazomenae, -ārum, f pl - Клазомена (дн. Урла)
+Actium, -ī, n - Акциум
+Pharsālus, -ī, f - Фарсала
+
 
 Saguntum, -ī, n - Сагунт
 Massilia, -ae, f - Масилия (дн. Марсилия)
@@ -36,6 +40,7 @@ Ierichō, indecl, ??? - Ерихон
 Galgala, -ōrum, n pl - Галгал
 Iābēs, indecl, ??? - Явис
 Hierosolyma, -ae, f - Иерусалим
+Hierosolyma, -ōrum, n pl - Иерусалим
 Rages, -is, f - Рага (дн. Рей)
 Ecbatana, -ōrum, n pl - Екбатана
 Nīnivē, -ēs, f - Ниневия

@@ -1,5 +1,16 @@
-Dīvus Augustus Octavianus - император Октавиан Август
-Tiberius Caesar Augusus - император Тиберий
-Iūlius Caesar Germānicus - император Германик
-Marcus Ulpius Trāiānus - император Траян
-Hadriānus Augustus - император Адриан Август
+Dīvus Augustus Octavianus - император Октавиан Август, управлявал 31 пр. Хр. - 14 сл. Хр.
+Tiberius Caesar Augusus - император Тиберий, управлявал 14-37 г.
+Gaius Iūlius Caesar Augustus Germānicus - император Гай Цезар, по прякор Калигула, управлявал 37-41 г.
+Tiberius Claudius Caesar Augustus Germānicus - император Клавдий, управлявал 41-54 г.
+Nerō Claudius Caesar Augustus Germānicus - император Нерон, управлявал 54-68 г.
+Servius Sulpicius Galba - император Галба, управлявал 08.06.68-15.01.69 г.
+Mārcus Salvius Othō - император Отон, управлявал 15.01.69-16.04.69 г.
+Aulus Vitellius Germānicus - император Вителий, управлявал 19.04.69-20.12.69 г.
+Titus Flāvius Vespasiānus - император Веспасиан, управлявал 01.07.69-24.06.79 г.
+Titus Flāvius Caesar Vespasiānus Augustus - император Тит, управлявал 24.06.79-13.09.81 г.
+Titus Flāvius Domitiānus - император Домициан, управлявал 14.09.81-18.09.96 г.
+Mārcus Coccēius Nerva - император Нерва, управлявал 18.09.96-27.01.98 г.
+Mārcus Ulpius Trāiānus - император Траян, управлявал 28.01.98-09.10.117 г.
+Pūblius Aelius Trāiānus Hadriānus Augustus - император Адриан Август, управлявал 11.08.117-10.07.138 г.
+Titus Aelius Hadriānus Antōnīnus Pius - император Антонин Пий, управлявал 11.07.138-07.03.160 г.
+Mārcus Aurēlius Antōnīnus - император Марк Аврелий, управлявал

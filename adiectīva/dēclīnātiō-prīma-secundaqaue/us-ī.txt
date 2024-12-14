@@ -88,7 +88,7 @@ ferus - див, неопитомен
 stultus - глупав
 stupidus - глуповат, глупав, тъп
 sānus - здрав, читав, психически добре
-insānus - луд, откачен
+īnsānus - луд, откачен
 hūmānus - човешки
 mōrigerus - покорен, послушен
 lātus - широк, просторен
@@ -178,7 +178,7 @@ sērius - сериозен, строг
 tenebricōsus - тъмен
 turgidus/turgidulus - оточен, набъбнал
 vīcīnus - близък, съседен
-trigeminus - тризнак
+trigeminus - тризнашки
 lēgitimus - легитимен, законен, законов, съществен
 invidiōsus - завистлив
 luxuriōsus - луксозен, скъп, пищен, разточителен, разкошен
@@ -213,6 +213,7 @@ praecipuus - особен
 cōpiōsus - изобилен, плодороден, гъст
 dēnsus - чест, гъст
 dīvus - божествен
+dīvīnus - божествен, свещен
 splendidus - бляскав
 invidus - завистлив
 violentus - буен, насилствен
@@ -254,7 +255,6 @@ obvius - насрещнен, често срещан, очевиден
 rōbustus - дъбов, здрав, силен, възмъжал, мощен, устойчив
 fēstivus - празничен, забавен, весел
 tortuōsus - лакатушещ, заплетен, забъркан, сложен за разбиране, трудно понятен
-dīvīnus - божествен, свещен
 philosophicus - философски
 rhētoricus - реторичен
 ōrātōrius - ораторски
@@ -349,7 +349,12 @@ profundus - дълбок
 prōlixus - разперен, обширен, протяжен, проточен, щедър
 cōnsternātus - смутен, объркан, разтревожен
 quadrātus - квадратен
-
+rotundus - объл, кръгъл
+augustus - свещен, почитан, достопочтенен, тачен
+subterrāneus - подземен
+domesticus - домашен
+boārius - говедарски
+anniversārius - годишен
 
 fortuītus - случаен,
 
@@ -367,5 +372,8 @@ argenteus - сребърен
 spīceus - житен, зърнен
 igneus - огнен
 lapideus - каменен
+marmoreus - мраморен
+latericius - тухлен
+aereus - меден
 
 idōneus, magis idōneus, maximē idōneus - удобен, подходящ

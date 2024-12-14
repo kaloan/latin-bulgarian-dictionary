@@ -19,7 +19,7 @@ valēre - здравея, здрав съм
 algēre - студувам
 frīgēre, frīguisse, frīgitum - студен съм (фигуративно), бездействам
 calēre, caluisse - топъл съм (фигуративно), зает съм
-dēlēre - премахвам, трия
+dēlēre, dēlēvisse, dēlētum - премахвам, трия
 augēre, auxisse, auctum - увеличавам, засилвам, уголемявам
 silēre, siluisse - мълча, притихвам
 mordēre, momordisse, morsum - хапя
@@ -46,6 +46,7 @@ tondēre, totondisse, tōnsum - стрижа, подстригвам, бръсн
 indulgēre - оттавам се, отстъпвам, снъзходителен съм, посвещавам се
 torrēre, toruisse, tōstum - горя, пека
 scatēre, scatuisse - гъмжа, изобилствам, пълен съм с, бликам, шуртя
+splendēre - лъщя, блестя
 
 -plēre (plēnus)
   complēre - напълвам
@@ -88,7 +89,7 @@ terrēre, terruisse, territum - плаша
 tergēre, tersisse, tersum - бърша
   dētergēre - забърсвам, изтривам
   extergēre - избърсвам, попивам
-vovēre, vovisse, votum - заклевам се
+vovēre, vōvisse, vōtum - заклевам се
   dēvovēre - заклевам се, проклинам, кълна
 sedēre, sēdisse, sēssum - седя, мирен съм (не мърдам)
   īnsidēre - седя, яздя, възсядам, населявам, чакам в засада, окупирам, заемам място
