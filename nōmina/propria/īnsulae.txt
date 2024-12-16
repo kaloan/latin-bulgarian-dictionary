@@ -5,15 +5,23 @@ Melita, -ae, f - Малта
 Ortygia, -ae, f - Ортигия
 
 Crēta, -ae, f - Крит
-Rhodus, -ī, m - Родос
-Naxus, -ī, m - Наксос
+Rhodus, -ī, f - Родос
+Naxus, -ī, f - Наксос
 Samos, -ī, f - Самос
+Samē, -ēs, f - Сама (митологичен остров в Одисеята в Йонийско море близо до Итака и Кефалония)
+Cephalēnia, -ae, f - Кефалония
 Chios, -ī, f - Хиос
 Lesbos, -ī, f - Лесбос
 Lēmnos, -ī, f - Лемнос
 Euboea, -ae, f - Евбeя, Негропонт
-Phaeācēs, -um, m pl - Феакия, Схерия
+Phaeacia, -ae, f - Феакия, Схерия
 Scheria, -ae, f - Схерия, Феакия
 Cia/Cēa, -ae, f - Кея, Кеос
 Egina, -ae, f - Егина
 Tenedos, -ī, f - Тенедос, Бозджаада
+Dēlos, -ī, f - Делос, Дилос
+Strophadēs, -um, f pl - Строфади
+Zacynthus, -ī, f - Закинтос
+Zakynthos, -ī, f - Закинтос
+Ithaca, -ae, f - Итака
+Leucadia, -ae, f - Левкада, Лефкада

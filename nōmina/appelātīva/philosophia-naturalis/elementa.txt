@@ -37,9 +37,10 @@ gutta, -ae, f - капка
 flūctus, -ūs, m - вълна
   unda, -ae, f - вълничка
 vapor, -is, m - пара
-nebula, -ae, f - мъгла
 nūbēs, nubis, f - облак
-cālīgō, -inis, f - плътен облак, мъгла
+  nimbus, -ī, m - буреносен облак
+  nebula, -ae, f - мъгла
+  cālīgō, -inis, f - плътен облак, мъгла
 imber, imbris, m - дъжд, валеж
   nix, nivis, f - сняг
   dīluvium, -ī, n - потоп

@@ -2,20 +2,21 @@ facere -iō, fēcisse, fаctum - правя, върша
   aedificāre (!!!), aedificāvisse, aedificātum - съграждам, изграждам, строя, създавам
   benefacere -iō (+dat) - правя добро
   calefacere -iō - стоплям, загрявам
-  cōnficere -iō, cōnfēcisse, cōnfectum - изработвам, завършвам, използвам, изморявам, убивам
+  cōnficere -iō, cōnfēcisse, cōnfectum - изработвам, завършвам, използвам, причинявам, изморявам, прихващам, убивам
   dēficere -iō, dēfēcisse, dēfectum - провалям се, разочаровам, изчерпан съм
   dēficere ab - оставям, дезертирам
   efficere -iō, effēcisse, effectum - изработвам, извършвам, изпълнявам
   expergēfacere -iō - събуждам, разбуждам
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
-  malefacere -iō, malefēcisse, malefectum - злосторя
-  officere -iō, offēcisse, offēctum - ранявам, препречвам, попречвам
+  malefacere -iō, malefēcisse, malefactum - злосторя
+  officere -iō, offēcisse, offectum - ранявам, препречвам, попречвам
   patefacere -iō, patefēcisse, patefactum - открехвам, отварям, разтварям
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
   praeficere -iō, praefēcisse, praefectum - поставям начело
   prōficere -iō, prōfēcisse, prōfectum - напредвам, подобрявам, доправя, довършвам, постигам
   reficere -iō, refēcisse, refectum - преправям
-  satisfacere iō (+dat) - задоволявам, извинявам се, обезщетявам
+  satisfacere -iō, satisfēcisse, satisfаctum (+dat) - задоволявам, извинявам се, обезщетявам
+  stupefacere -iō, stupefēcisse, stupefactum - обърквам, шашардисвам, зашеметявам, сковавам, вцепенявам, карам да изтръпне, притъпявам
   sufficere -iō, suffēcisse, suffectum - да е достатъчно, замествам, доставям
 parere -iō, peperisse, partum - раждам, създавам
 cupere -iō, cupīvisse, cupitum - купнея, желая

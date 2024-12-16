@@ -71,6 +71,7 @@ exārdēscere, exārsisse - разпалвам се, запалвам се
 polluere, polluisse, pollūtum - мърся
 frōndēscere, frōnduisse - разклонявам се, разлиствам се, озеленявам, покълвам
 pandere, pandisse, passum - простирам (в смисъл на разстилям), простирам (нещо да изсъхне), разтварям
+cōntremēscere, cōntremuisse - разтреса се
 
 -uere, -uisse, -ūtum [-блека]
   induere, induisse, indūtum - обличам се
@@ -272,7 +273,7 @@ dūcere, dūxisse, ductum - водя
   prōdūcere - произвеждам, представям, водя напред, привеждам, удължавам, продължавам
   redūcere - завръщам, отстъпвам, възстановявам водя обратно
   sēdūcere - подвеждам, съблазнявам
-  subdūcere - повеждам, влача, свилчам, събарям, спъвам
+  subdūcere - повеждам, влача, свилчам, събарям, спъвам, акостирам, дебаркирам
   subterdūcere - крада
   superdūcere - превеждам над, покривам
   trādūcere - превеждам, преминавам
@@ -308,6 +309,7 @@ vehere, vēxisse, vectum - нося, пренасям
   āvehere - отнасям
   advehere - донасям
   invehere - внасям
+  prōvehere - пронасям, понеса се, пренасям, предвижвам, прокарвам, прекарвам
   trānsvehere - пренасям
 nōscere, nōvisse, notum - знам
   agnōscere - познавам, разпознавам
@@ -354,7 +356,8 @@ serere, seruisse, sertum - правя венец, плета, свързвам
   dēserere - изоставям, разочаровам, прекратявам
   īnserere - вмъквам, вмествам, присаждам
 caedere, cecīdisse, caesum - разрязвам, порязвам, убивам, коля, сека
-  concīdere, concīdisse, concisum - убивам
+  concīdere, concīdisse, concīsum - убивам
+  incīdere, incīdisse, incīsum - врязвам, прорязвам, срязвам, издълбавам
   occīdere, occīdisse, occīsum - посичам, убивам, унищожавам, измъчвам, троша
   praecīdere, praecīdisse, praecīsum - обезглавявам, скъсявам, отказвам
   trucīdere - коля, съсичам, посичам, убивам жестоко, погубвам, унищожавам, разнебитвам
@@ -465,9 +468,9 @@ stringere, strinxisse, strictum - стържа, рендосвам, привър
   dēstringere - премахвам със стъргало
   obstringere - обвързвам, давам клетва
   praestringere - замижа
-cernere, crēvisse, crētum - различавам, отличавам, определям, зървам
+cernere, crēvisse, crētum - откроявам, очертавам, забелязвам, различавам, отличавам, определям, зървам
   dēcernere - отсъждам, присъждам, гласувам, разпореждам
-  discernere - разпознавам, отличавам
+  discernere - разпознавам, различавам, отличавам
   sēcernere - разделям, разединявам, откъсвам, отделям
 suēscere, suēvisse - свиквам
   assuēscere, assuēvisse, assuētum (+dat) - свиквам, сближавам се

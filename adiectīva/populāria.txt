@@ -18,6 +18,7 @@ Galilaeus - галилейски
 Gallus - галски
 Germānus - германски
 Graecus - гръцки
+Graīus - гречески, гръцки
 Hebraeus - еврейски
 Hispānus - испански
 Isrāēlīticus - израелски

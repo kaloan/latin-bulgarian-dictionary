@@ -49,7 +49,7 @@ dextram tenere - здрависвам се (!!!)
 praedam facere - плячкосвам
 bellum gerere - водя война
 famem tolerāre - гладувам
-clāmōrem tollere - вдигам глас, викам
+clāmōrem tollere - вдигам врява, вдигам глас, вдигам шум, вдигам олелия, викам
 nōmen dare - давам име, именовам
 prasidia pōnere - поставам укрепления
 fugam temptāre - опитвам да избягам
@@ -126,7 +126,7 @@ in oculīs (+gen) - пред очите (на)
 bellum movēre - водя война
 pugnam committere - водя битка
 victōriā īnsignī potīrī - побеждавам
-sē cōnferre - движа се, пътувам
+sē cōnferre - движа се, пътувам, нося се
 manūs īnferre (+dat) - ранявам
 (diem suprēmum) obīre - умирам (преминавам последния си ден)
 forīs et domī - в чужбина и в родината
@@ -154,13 +154,15 @@ in sē - на себе си, трезв
 plūs (+abl) - повече от (някой)
 ōrātiōnem habēre - изнасям реч
 orīginem trahere - водя началото си от
-clāmōrem tollere - вдигам шум, вдигам олелия
 iam iam(-que) - още сега, веднага
 vītam effundere - изтича ми живота, умирам
 sē offerre - явявам се, показвам се
 pedem efferre - тръгвам си
 comēs īre (+dat) - придружавам (някого)
 quīn etiam - че и
+ventīs vela dāre - вдъгам/опъвам платната
+in caelum tollere - издигам до небето, възнасям
+sē corripere - бързо се изправям
 
 certum (+dat) est - (някой) разсъждава сигурно/решително
 

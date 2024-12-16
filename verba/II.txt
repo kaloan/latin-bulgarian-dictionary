@@ -85,6 +85,7 @@ rīdēre, risisse, risum - смея се
 terrēre, terruisse, territum - плаша
   conterrēre - изплаша
   dēterrēre - сплашвам, възпирам
+  exterrēre - изплаша
   perterrēre - ужасявам
 tergēre, tersisse, tersum - бърша
   dētergēre - забърсвам, изтривам

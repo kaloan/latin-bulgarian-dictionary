@@ -14,6 +14,10 @@ Maleventum, -ī, n - Малевентум (дн. Беневенто)
 Venusia, -ae, f - Венузия (дн. Веноза)
 Antium, -ī, m - Антиум
 Caere, indecl, n - Кере, Цере, Кисра, Кайсра, Агила
+Cumae, -ārum, f pl - Куме
+Lilybaeum, -ī, n - град Лилебеум (дн. Марсала)
+Drepanum, -ī, n - Дрепана (дн. Трапани)
+
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
@@ -32,6 +36,7 @@ Clazomenae, -ārum, f pl - Клазомена (дн. Урла)
 Actium, -ī, n - Акциум
 Pharsālus, -ī, f - Фарсала
 Argī, -ōrum, m pl - Аргос
+Būthrōtum, -ī, n - Бутринт
 
 Saguntum, -ī, n - Сагунт
 Massilia, -ae, f - Масилия (дн. Марсилия)
@@ -57,6 +62,7 @@ Tiberias, -adis, f - Тиберия
 Bēthania, -ae, f - Витания
 Emmaus, indecl, ??? - Емаус
 
+Karthagō, -inis, f - Картаген
 Carthagō, -inis, f - Картаген
 Utica, -ae, f - Утика
 Scillium, -ī, n - Сцилиум, Схеле
