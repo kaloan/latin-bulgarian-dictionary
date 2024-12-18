@@ -163,6 +163,8 @@ quīn etiam - че и
 ventīs vela dāre - вдъгам/опъвам платната
 in caelum tollere - издигам до небето, възнасям
 sē corripere - бързо се изправям
+tendere in (+acc) - отивам в, насочвам се към
+mūrōs dūcere - издигам стени, укрепявам
 
 certum (+dat) est - (някой) разсъждава сигурно/решително
 
@@ -244,5 +246,7 @@ dies Mercurii, Fēria quarta - сряда
 dies Iovis, Fēria quinta - четвъртък
 dies Veneris, Fēria sexta - петък
 dies Saturni, Fēria septima, Sabbatum - събота
+
+diēs lūstrius - ден на свещено пречистване при който на детето се давал praenōmen
 
 Ȳ, ȳ

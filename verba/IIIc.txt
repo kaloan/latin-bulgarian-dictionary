@@ -72,6 +72,7 @@ polluere, polluisse, pollūtum - мърся
 frōndēscere, frōnduisse - разклонявам се, разлиствам се, озеленявам, покълвам
 pandere, pandisse, passum - простирам (в смисъл на разстилям), простирам (нещо да изсъхне), разтварям
 cōntremēscere, cōntremuisse - разтреса се
+conticēscere, conticuisse - млъквам, заглъхвам
 
 -uere, -uisse, -ūtum [-блека]
   induere, induisse, indūtum - обличам се
@@ -155,7 +156,7 @@ discere, didicisse -уча се
 rigēre - изправен съм, стоя, да съм твърд, да съм изтръпнал
   corrigere - изправям, поправям
   dērigēre, dērēxisse, dērēctum - изправям, насочвам
-  ērigere, ērēxisse, ērēctum - възбуждам, издигам
+  ērigere, ērēxisse, ērēctum - възбуждам, одързостявам, издигам
   porrigere, porrēxisse, porrēctum - подавам
   pergere, perrēxisse, perrēctum - продължавам, навлизам, ида
   surgere, surrēxisse, surrēctum - ставам
@@ -175,7 +176,7 @@ trahere, trāxisse, tractum - влача, тегля, мъкна
   retrahere - повличам обратно, оттеглям
   subtrahere - извличам, изтеглям, измъквам, изваждам, премахвам, отстранявам
   supertrahere - навличам, надявам
-premere - надвивам, натискам, потискам, преследвам
+premere - надвивам, натискам, потискам, сподавям, преследвам
   exprimere - изстисквам
   imprimere - натискам в/върху, щамповам
   opprimere - насилвам, надвивам, затварям, прикривам, изнасилвам
@@ -426,9 +427,11 @@ vādere - стъпвам, втурвам се, ходя
   ēvādere - изстъпвам, излизам, отбягвам
   invādere - влизам, настъпвам, нахлувам
   pervādere - престъпя, разпръскам, разпространя
-pellere, pepulisse, pulsum - гоня, не допускам, държа извън, пъдя, тласкам
+pellere, pepulisse, pulsum - гоня, не допускам, държа извън, пъдя, тласкам, удрям
+  appellere - добутам, акостирам, приземявам
   compellere - принуждавам, насилвам, карам, притискам, стискам
-  expellere - изгонвам, изпъдя
+  dispellere - разгоня, разбутвам, разпилявам, разпръсквам
+  expellere - изгонвам, изпъдя, изтпаскам, изтиквам, изблъсквам
   impellere - подтиквам
   repellere - отблъсквам, пропъдя
 ruere, ruisse, rutum - падам, събарям, сгромолясвам, сривам, руша, унищожавам, превръщам в руини
@@ -524,7 +527,8 @@ cingere, cīnxisse, cīnctum - заобикалям, увивам се, слаг
 rēpere - пълза, промъквам се
   obrēpere - промъквам се, изненадвам
 tundere, tutudisse, tūnsum - цапардосвам, халосвам, нападам, разбивам, меля
-  contundere, contudisse, contūsum - покорявам изцяло, посинявам,  смилам
+  contundere, contudisse, contūsum - покорявам изцяло, посинявам, смилам
+  obtundere, obtudisse, obtūsum - тупам, налагам, притъпявам, заглушавам
 scindere, scidisse, scissum - късам, режа, нарязвам, късам си косата/дрехите от яд
   cōnscindere - срязвам, посичам
   discindere - разкъсвам, разрязвам

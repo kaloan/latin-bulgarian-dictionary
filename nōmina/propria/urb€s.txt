@@ -37,6 +37,7 @@ Actium, -ī, n - Акциум
 Pharsālus, -ī, f - Фарсала
 Argī, -ōrum, m pl - Аргос
 Būthrōtum, -ī, n - Бутринт
+Paphus, -ī, f - Пафос
 
 Saguntum, -ī, n - Сагунт
 Massilia, -ae, f - Масилия (дн. Марсилия)
@@ -61,6 +62,7 @@ Naim, indecl, ??? - Наин
 Tiberias, -adis, f - Тиберия
 Bēthania, -ae, f - Витания
 Emmaus, indecl, ??? - Емаус
+Tyrus, -ī, f - Тир
 
 Karthagō, -inis, f - Картаген
 Carthagō, -inis, f - Картаген

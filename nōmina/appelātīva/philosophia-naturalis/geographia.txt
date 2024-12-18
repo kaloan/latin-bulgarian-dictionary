@@ -38,11 +38,14 @@ alveus, -ī, m - речно корито
 lacus, -ūs, m - езеро
 stāgnum, -ī, n - мочурище, водоем
 palūs, palūdis, f - мочурище, блато, езерце
+lustrum, -ī, n - блато, кочина
 mare, -is, n - море
+pontus, -ī, m - море
 vadum, -ī, n - плитчини
 pelagus, -ī, m - открито море
 ōra, ōrae, f - морски бряг
 lītus, litoris, n - плаж, бряг
+sinus, -ī, m - залив
 isthmus, -ī, m - провлак, проток
 fretum, -ī, n - проток
 ōceanus, -ī, m - океан

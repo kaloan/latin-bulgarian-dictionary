@@ -24,7 +24,8 @@ corvus, -ī, m - гарван
 cornīx, -cis, f - врана
 gallus, -ī, m - петек
 gallīna, -ae, f - кокошка
-porcus, -ī, m; sūs, sūis, m - свиня
+porcus, -ī, m - прасе
+sūs, sūis, m/f - свиня, прасе
 bōs, bovis, m/f - говедо
 iuvencus, -ī, m - зряло говедо
 taurus, -ī, m - бик

@@ -4,6 +4,7 @@ acus, aceris, n - люспа, плява
 arbor, -is, f - дърво
   quercus, -ūs, f - дъб
   rōbur, rōboris, m - дъб, дъбова дървесина
+  cyprus, -ī, f - къна (Lawsonia inermis)
   cupressus, -ī, f - кипарис
   vītis, -is, f - лоза
   palma, -ae, f - палма

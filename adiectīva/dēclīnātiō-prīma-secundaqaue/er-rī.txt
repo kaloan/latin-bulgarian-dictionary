@@ -7,3 +7,4 @@ integer, intergī - цял
 sacer, sacrī - свещен, сакрален
 piger, pigrī - мързелив
 pulcher, pulchrī - хубав, красив
+crēber, crēbrī - гъст, чест, претъпкан, изобилен, плодороден

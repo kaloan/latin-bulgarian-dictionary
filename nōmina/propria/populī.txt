@@ -9,7 +9,7 @@ Scillitānī, -ōrum, m pl - сцилианци (Сцилиум)
 Trōiānī, -ōrum, m pl - троянци
 Trōēs, Trōum, m pl - троянци
 Teucrī, -ōrum, m pl - тевкри, тевкрийци, троянци
-Aeneadae, -ārum, m pl - енеиди, троянците последвали Еней към Италия
+Aenēadae, Aenēadum/Aenēadārum, m pl - енеиди, троянците последвали Еней към Италия
 Aegyptī, -ōrum, m pl - египтяни
 Hebraeī, -ōrum, m pl - евреи
 Madiānītae, -ārum, f pl - мадиамци
@@ -24,7 +24,11 @@ Babylōniī, -ōrum, m pl - вавилонци
 Persae, -ārum, m pl - перси
 Aborīginēs, -um, m pl - аборигени ("първи" населници на Италия)
 Etrūscī, -ōrum, m pl - етруски
-Danaī, Danaum/Danaōrum, m pl - данаи
+Danaī, Danaum/Danaōrum, m pl - данаи (гърци)
 Achīvī, -ōrum, m pl - ахейци
 Locrī, -ōrum, m pl - локрийци
 Phaeācēs, -um, m pl - феакийци
+Phoenīcēs, -um, m pl - финикийци
+Tyriī, -ōrum, m pl - тирци, тирийци
+Amāzonēs, -um, f pl - амазонки
+Poenī, -ōrum, m pl - пуни, пунийци (картагенци)
