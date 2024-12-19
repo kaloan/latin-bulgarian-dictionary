@@ -18,14 +18,15 @@ inops, inopis - невещ, неможещ, жалък
 biceps - двуглав
 triceps - триглав
 quadriceps - четириглав
-praeceps - стръмен, стремглав, прибързан, твърдоглав
+praeceps, praecipitis - стръмен, стремглав, прибързан, твърдоглав
 particeps, -ipis (+gen) - участващ (в), участник (в)
 superstes, superstitis - оцелял, непокътнат
 
 vehemēns, vehementis - насилващ, буен
 recēns -ntis - пресен, скорошен, нов, млад
 ingēns -entis - неимоверен, огромен, неестествен
-āmēns, āmentis - неразумен, откачен, изперкал. не с всичкия си
+āmēns, āmentis - неразумен, откачен, изперкал, не с всичкия си
+dēmēns, dēmentis - луд, откачен, изперкал, не с всичкия си, побъркан
 clēmēns, clēmentis - благ, щадящ, мек
 impudēns, -entis - безсрамен
 prūdens, prūdentis - разумен, осъзнат

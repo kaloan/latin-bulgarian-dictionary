@@ -1,3 +1,4 @@
+exuviae, -ārum, f pl - дрехи, кожа, плячка
 vestīmentum, -ī, n - облекло
 vestis, -is, f - дреха
   tunica, -ae, f - туника
@@ -7,7 +8,7 @@ vestis, -is, f - дреха
   stola, -ae, f - стола, рокля
   pallium, -ī, n - наметало
   paenula, -ae, f - наметало
-  amicitus, -ī, m - наметало
+  amictus, -ī, m - наметало, облекло, тоалет, кат
   epitogium, -ī, m - наметка
   pannus, -ī, m - дрипа
   sindōn, -ōnis, f - фин плат, муселин, плащеница, саван

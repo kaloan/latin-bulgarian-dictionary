@@ -38,7 +38,9 @@ socer, -ī, m - тъст, свекър
 socrus, -ūs, f - тъща, свекърва
 mātrimōnium,  -ī, n - брак
 nūptiae, -ārum, f pl - сватба, женитба
+cōnūbia, -ōrum, n pl - сватба, женитба
 coniugium, -ī, n - връзка, брак
+cōnūbium, -ī, n - брак
 affīnis, -is, m/f - родственик по брак
 spōnsus, -ī, m - годеник, младоженец
 spōnsa, -ae, f - годеница, младоженка

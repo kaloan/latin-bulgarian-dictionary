@@ -1,8 +1,10 @@
 caelum, -ī, n - небе
+dīvum, -ī, n - открито небе
   sōl, solis, m - слънце
   luna, -ae, f - луна
   stēlla, -ae, f - звезда
   sīdus, sīderis, n - звезда, съзвездие
+  astrum, -ī, n - звезда
   arcus, -ūs, m - дъга
 mōns montis, m - планина
 prōmunturium, -ī, n - хребет, нос (в смисъл на скала издадена във водата)
