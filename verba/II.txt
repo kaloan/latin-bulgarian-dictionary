@@ -47,6 +47,7 @@ torrēre, toruisse, tōstum - горя, пека
 scatēre, scatuisse - гъмжа, изобилствам, пълен съм с, бликам, шуртя
 splendēre - лъщя, блестя
 arcēre - възпрепятствам, преча, забранявам, пазя, предотвратявам
+vigēre - процъфтявам
 
 -olēre
   abolēre - заличавам, унищожавам, премахвам
@@ -115,12 +116,14 @@ manēre, mansisse, mansum  - оставам, отседнал съм
   permanēre - постоянствам, издържам
   remanēre - оставам
 vidēre, vīdisse, vīsum - виждам, прозирам
-  invidēre - завиждам
+  invidēre - завиждам, ревнувам, отказвам, отричам
   prōvidēre - провиждам
   prōvidēre (+dat) - грижа се, подготвям
 miscēre, miscuisse, mixtum - меся
   admiscēre - добавям, включвам, омеся
   commiscēre - смеся
+  immiscēre - вмеся, омеся, смеся
+  immiscēre sē (+dat/īnf) - вмеся се, забърквам се, разпръсквам се
   remiscēre - премеся
 monēre, monuisse, monitum - предупреждавам, съветвам, отбелязвам
   admonēre - посъветвам

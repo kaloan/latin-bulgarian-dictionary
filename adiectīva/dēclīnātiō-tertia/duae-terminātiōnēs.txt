@@ -100,6 +100,7 @@ satis, -is - достатъчен
 frontālis, -is - челен, фронтален
 triumphālis, -is - триумфален
 ēluctābilis, -is - преодолим, победим
-inēluctābilis, -is - непреодолим, непобедим
+inēluctābilis, -is - непреборим, непреодолим, непобедим
 horribilis, -is - страшен, ужасен
 abōminābilis, -is - гнусен, отвратителен, омразен
+mūtābilis, -is - променлив
