@@ -19,7 +19,8 @@ Capua, -ae, f - Капуа
 Cāieta, -ae, f - Гаета
 Lilybaeum, -ī, n - град Лилебеум (дн. Марсала)
 Drepanum, -ī, n - Дрепана (дн. Трапани)
-
+Lavinium, -ī, n - Лавиниум
+Laurentum, -ī, n - Лаурентум
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи

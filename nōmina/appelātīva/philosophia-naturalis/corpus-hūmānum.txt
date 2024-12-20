@@ -4,6 +4,7 @@ membrum, -ī, n - крайник, полов член
 artus, -ūs, m - крайник
 pellis, -is, f - кожа, кожух
 cutis, -is, f - кожа, обелка
+  callum, -ī, n - мазол, твърд, твърдина
 tāctus, -ūs, m - допир
 tempus, temporis, n - слепоочие
 caput, capitis, n - глава
