@@ -3,7 +3,7 @@ Tūsculum, -ī, n - Тускулум
 Brundisium, -ī, n - Брундизи
 Õstia, -ae, f - Остия
 Alba Longa, -ae, f - Алба Лонга
-Veiī, -ōrum, m pl - Вейи
+Vēiī, -ōrum, m pl - Вейи
 Gabiī, -ōrum, m pl - Габий
 Tarquinia, -ae, f - Тарквиния
 Ardea, -ae, f - Ардеа
@@ -21,6 +21,12 @@ Lilybaeum, -ī, n - град Лилебеум (дн. Марсала)
 Drepanum, -ī, n - Дрепана (дн. Трапани)
 Lavinium, -ī, n - Лавиниум
 Laurentum, -ī, n - Лаурентум
+Crustumerium, -ī, n - Крустумериум
+Crustumium, -ī, n - Крустумериум
+Caenīna, -ae, f - Ценина
+Fidēnae, -ārum, f pl - Фиденa
+Antemnae, -ārum, f pl - Антемнa
+Curēs, -ium, f pl - Кури
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи

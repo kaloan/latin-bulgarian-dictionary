@@ -18,6 +18,7 @@ genetrīx, -īcis, f - родителка, майка
 pater, patris, m - баща, татко
 genitor, -ōris, m - родител, баща
 nātus, -ī, m - син, рожба
+nāta, -ae, f - дъщеря
 prōlēs, -is, f - чадо, рожба
 fīlius, -ī, m - син
 fīlia, -ae, f - дъщеря

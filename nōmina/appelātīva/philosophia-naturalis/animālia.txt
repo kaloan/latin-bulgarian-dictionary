@@ -34,7 +34,8 @@ vacca, -ae, f - крава
 vitulus, -ī, m - теле
 ariēs, arietis, m - овен
 ovis, -is, f - овца
-agnus, -ī, m - агне
+agnus, -ī, m - мъжко агне
+agna, -ae, f - женско агне
 ovicula, -ae, f - овчица
 caper, caprī, m - козел
 haedus, -ī, m - козле

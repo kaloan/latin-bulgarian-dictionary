@@ -90,7 +90,7 @@ mappa, -ae, f - кърпичка, салфетка
 mantēle, -is, n - кърпа
 clāvis, -is, f - ключ
 columna, -ae, f - колона
-tēctum, -ī, n - покрив
+tēctum, -ī, n - покрив, подслон, заслон, навес
 solum, -ī, n - под
 crepundia, -ōrum, n pl - залагалка
 pupa, -ae, f - кукла
@@ -105,3 +105,4 @@ vās, vāsis, n - ваза
 dōlium, -ī, n - бъчва, кратер
 focus, -ī, m - огнище
 cortīna, -ae, f - перде
+flābellum, -ī, n - ветрило (уред за хлад)

@@ -37,6 +37,7 @@ caput, capitis, n - глава
   mentum, -ī, n - брадичка
   cerebrum, -ī, n - мозък
 faux, faucis, f - гуша
+fōx, fōcis, f - гуша
 faucēs, -ium, f pl - паст
 guttur, -is, m - гърло
 cervīx, cervīcis, f - тил, врат

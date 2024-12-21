@@ -24,3 +24,4 @@ tūs, tūris, n - тамян
 myrrha, -ae, f - миро
 smaragdus, -ī, m - смарагд
 bitūmen, bitūminis, n - битум
+vitrum, -ī, n - стъкло

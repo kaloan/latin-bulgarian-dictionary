@@ -56,6 +56,7 @@ aedēs, -ium, f pl - жилище, блок
   porticus, -ūs, f - портик, стоа, колонада
   stōa, -ae, f - стоа, портик
   templum, -ī, n - храм
+  fānum, -ī, m - храм, капище, светилище
     altāre, altāris, n - олтар
     altāria, -ium, n pl - олтар
     āra, -ae, f - олтар, жертвеник

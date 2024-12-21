@@ -1,5 +1,6 @@
 Germānī, -ōrum, m pl - германци
 Rōmānī, -ōrum, m pl - римляни
+Quirītēs, -ium, m pl - квирити (т.е. римляни)
 Graecī, -ōrum, m pl - гърци
 Iūdaeī, -ōrum, m pl - юдеи
 Rutulī, -ōrum, m pl - рутули (!!!)
@@ -36,3 +37,10 @@ Gaetūlī, -ōrum, m pl - гетули
 Numidae, -ārum, m pl - нумидийци
 Massȳlī, -ōrum, m pl - масили
 Laurentēs, -ium, m pl - лауренти
+Sabīnī, -ōrum, m pl - сабини
+Latīnī, -ōrum, m pl - латини
+Vēientēs, -ium, m pl - вейци (?)
+Fidēnātēs, -ium, m pl - фиденати (?)
+Caenīnēnsēs, -ium, m pl - ценини (?)
+Crustumīnī, -ōrum, m pl - крустомерийци (?)
+Antemnātēs, -ium, m pl - антемни (?)
