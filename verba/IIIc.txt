@@ -8,7 +8,7 @@ plangere, planxisse, planctum - бия се в гърдите от печал
 pingere, pīnxisse, pictum - рисувам
 consciscere, consciisse/conscivisse, conscitum - да реша
 consciscere (+sibi) - да си навлека
-texere, texuisse, textum - плета, мрежа
+texere, texuisse, textum - тъка, плета, мрежа
 molere, moluisse, molitum - стривам
 pluere, pluisse - вали
 compescere, compescuisse - въздържам се, преграждам, утолявам
@@ -566,3 +566,7 @@ lūcere, lūxisse - светя, излъчвам
   collūcere - огрявам, озарявам, осветлявам
 lambere, lambisse, lambitum - лижа, ближа
   dēlambere - олижа, оближа
+suere, suisse, sūtum - шия, везя, веза
+  assuere - зашия
+  cōnsuere - съшия, кърпя, кроя (преносно)
+  īnsuere - вшия
