@@ -14,6 +14,7 @@ caput, capitis, n - глава
   capillus, -ī, m - коса
   coma, -ae, f - коса, грива, руно, вълна
   crīnis, -is, m - коса, кичур, пискюл, шлейф
+  fimbriae, -ārum, f pl - къдрица, грива
   frōns, frontis, m - чело, челна част на сграда
   oculus, -ī, n - око
   ocellus, ‑ī, m - оченце
@@ -77,7 +78,8 @@ crūs, crūris, n - крак
   tībia, -ae, f - пищял, свирка
   pēs, pedis, m - крак (от глезена надолу), мярка за дължина, равняваще се на 29,6см
     tālus, -ī, m - глезен, ашик
-    petasus, -ī, m - пета
+    planta, -ae, f - ходило
+    calx, calcis, f - пета
 vīscus, visceris, n - вътрешен органи
 vīscera, vīscerum, n pl - вътрешности
   venter, ventris, m - стомах

@@ -11,6 +11,7 @@ vestis, -is, f - дреха
   paenula, -ae, f - наметало
   amictus, -ī, m - наметало, облекло, тоалет, кат
   epitogium, -ī, m - наметка
+  petasus, -ī, m - шапка с козирка/ръб
   pannus, -ī, m - дрипа
   sindōn, -ōnis, f - фин плат, муселин, плащеница, саван
 dormītōria, -ae, f - пижама
