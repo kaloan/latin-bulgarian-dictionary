@@ -13,6 +13,7 @@ cubiculum, -ī, n - стая, спалня
     līmen, līminis, n - праг
     ōstia, -ae, f - врата
     iānua, -ae, f - врата, вход
+      postīca, -ae, f - задна врата
       foris, -is, f - крило на врата
       cardō, cardinis, m - панта
       postis, -is, m - каса на врата/прозорец
@@ -32,6 +33,7 @@ cubiculum, -ī, n - стая, спалня
     lebēs, lebētis, m - казан, чайник
     operculum, -ī, n - капак
     discus, -ī, m - поднос, диск
+    orbiculus, -ī, m - кръгъл предмет, колело, диск, барабан, пръстен
     pōculum, -ī, n - чаша
     calix, calicis, m - чаша за вино
     culter, cultrī, m - нож
@@ -62,7 +64,9 @@ supellex, supellectilis, f - мебел, обзавеждане, украса, �
   cubitus, -ūs, m - спалня, легло
   thalamus, -ī, m - брачно ложе, спалня
   cūnae, -ārum, f pl - бебешко креватче
-  pulvīnus, -ī, n - възглавница
+  pulvīnus, -ī, m - възглавница
+  pulvīnar, -is, n - свещена възглавница/кресло
+  culcita, -ae, f - твърда възглавница, постелка
   solium, -ī, n - трон, вана
   sedīle, -ae, f - кресло, фотьойл, закрепен стол
   sella, -ae, f - подвижен стол с гръб

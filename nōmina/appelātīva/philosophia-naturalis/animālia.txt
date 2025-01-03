@@ -52,7 +52,10 @@ arānea, -ae, f - паяк, паяжина
 scorpios, scorpiī, m - скорпион
 rāna, -ae, f; rubēta, -ae, f - жаба
 lepus, leporis, m - заек
-mūs, mūris, m - мишка
+mūs, mūris, m - гризач (обикновено мишка или плъх)
+mūsculus, -ī, m - мишка
+sōrex, sōricis, m - полска мишка
+rattus, -ī, m - плъх
 canis, -is, m/f - куче/кучка
 catulus, -ī, m - паленце, кученце, вълче
 lupus, -ī, m - вълк
@@ -82,8 +85,12 @@ pūlex, pūlicis, m - бълха
 scarabæus, -ī, m - скарабей, бръмбар
 anguis, -is, m/f - змя, змей
 serpēns, -entis, m/f - змия, влечуго
+lacerta, -ae, f - гущер
 dracō, -ōnis, m - дракон, змей
 delphinus, -ī, m - делфин
 cancer, -ī, m - рак
 scorpiō, -ōnis, m - скорпион
 echīnus, -ī, m - таралеж, морски таралеж
+
+taenia, -ae, f - тения
+mūrex, mūricis, m - морски охлюв, от който се прави Тирското пурпурно, шип/ръбест камък (от формата на морския охлюв)

@@ -43,6 +43,7 @@ flūctus, -ūs, m - вълна
   unda, -ae, f - вълничка
 vapor, -is, m - пара
 nūbēs, nubis, f - облак
+  nūbēcula, -ae, f - облаче
   nimbus, -ī, m - буреносен облак
   nebula, -ae, f - мъгла
   cālīgō, -inis, f - плътен облак, мъгла

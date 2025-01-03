@@ -44,7 +44,6 @@ compavēscere - побоявам се
 pertimêscere - изплашвам се
 imbuere, imbuisse, imbūtum (+abl) - прониквам, топя, навлажнявам, цапам (с), оцветявам (с), обучавам (в), възпитавам (в)
 imbuere (+abl) - обучавам, възпитавам
-adolēscere, adolēvisse, adultum - пораствам
 occulere, occuluisse, occultum - крия, прикривам
 linere, linīvisse/lēvisse, litum - мажа, покривам
 senēscere, senuisse - старея
@@ -199,6 +198,7 @@ premere - надвивам, натискам, потискам, сподавям
   reprimere - потискам, ограничавам, предотвратявам
 emere, ēmisse, ēmptum - купувам, придобивам
   adimere, adēmisse, adēmptum - лишавам, отнемам, спасявам
+  cōmere, cōmpsisse, cōmptum - събирам, подреждам, рѐша, сресвам, плета плитка, украсявам, гиздя
   dēmere, dēmpsisse, dēmptum - отнемам, пропускам
   eximere, exēmisse, exēmptum - изкупувам, освобождавам, премахвам, прогонвам, пилея (време)
   interimere, interēmisse, iterēmptum - убивам, унищожавам
@@ -363,6 +363,7 @@ claudere, clausisse, clausum - затварям
   exclūdere, exclūsisse, exclūsum - изключвам, отстранявам, отказвам, възпрепятствам
   inclūdere, inclūsisse, inclūsum - затварям, заключвам
   interclūdere, interclūsisse, interclūsum - обграждам, прераждам, възпрепятствам
+  reclūdere, reclūsisse, reclūsum - отварям откривам
 frangere, frēgisse, frāctum - чупя, пречупя
   affrangere - счуквам, смазвам
 statuere, statuisse, statūtum - решавам, поставям, изгражам, изправям
@@ -570,3 +571,6 @@ suere, suisse, sūtum - шия, везя, веза
   assuere - зашия
   cōnsuere - съшия, кърпя, кроя (преносно)
   īnsuere - вшия
+olēscere, -!, -! - раста
+  adolēscere, adolēvisse, adultum - пораствам
+  obsolēscere, obsolēvisse, obsolētum - старея, остарявам

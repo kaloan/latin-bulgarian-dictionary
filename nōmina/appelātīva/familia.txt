@@ -21,7 +21,13 @@ nātus, -ī, m - син, рожба
 nāta, -ae, f - дъщеря
 prōlēs, -is, f - чадо, рожба
 fīlius, -ī, m - син
+fīliolus, -ī, m - синче
 fīlia, -ae, f - дъщеря
+fīliola, -ae, f - дъжеричка
+fīliaster, fīliastrī, m - доведен син
+fīliastra, -ae, f - доведена дъщеря
+prīvignus, -ī, m - доведен син
+prīvigna, -ae, f - доведена дъщеря
 frāter, fratris, m - брат
 sōror, -is, f - сестра
 consobrīnus, -ī, m - първи братовчед

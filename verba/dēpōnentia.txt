@@ -66,6 +66,7 @@ sequī, secūtum esse (д) - следвам
   insequī (d) - преследвам
   obsequī (d) (+dat) - подчинявам се
   persequī (d) - преследвам
+  prōsequī (d) - следвам, преследвам, придружавам
 laetārī (d) - радвам се
 verēri, veritum esse (d) - страхувам се
 complectī, complexum esse (d) - прегръщам
@@ -172,6 +173,7 @@ dominārī (d) - господствам
 auspicārī (d) - вещая чрез наблюдаване на птици
 populārī (d) - опустошавам, разорявам, унищожавам, разсипвам, разнебитвам, плячкосвам
 iaculārī (d) - хвърлям копие, стрелям
+pandiculārī (d) - разтягам се
 
 -perīrī, -pertum esse - изживявам, пробвам,
   opperīrī, oppertun esse (d) - чакам, изчаквам

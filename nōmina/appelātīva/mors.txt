@@ -24,3 +24,4 @@ morbus, -ī, m - болест, заболяване
   lepra, -ae, f - проказа
   febris, -is, f - треска
   rabiēs, rabiēī, f - бяс
+  fistula, -ae, f - фистула, язва

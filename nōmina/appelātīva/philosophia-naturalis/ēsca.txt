@@ -2,6 +2,8 @@ pōmum, -ī, n - плод
   mālum, -ī, n - якълка
   mālum paradīsī - грейпфрут
   mālum pūnicum - нар
+  mālum aurantium - портокал
+  mālum aureum - портокал
   pirum, -ī, n - круша
   persica, -ae, f - праскова
   frāgum, -ī, n - ягода
@@ -14,7 +16,10 @@ pōmum, -ī, n - плод
   mōrum, -ī, n - къпина
   mōrum īdaeum - малина
   vaccīnium, -ī, n ; myrtillus, -ī, m - боровинки
-  pepō, -ōnis, m; mēlopepō, -ōnis, m; citrullus lānātus - диня
+  pepō, -ōnis, m - пъпеш, тиква
+  mēlō, mēlōnis, m - пъпеш, диня
+  mēlopepō, -ōnis, m - пъпеш, диня
+  citrullus lānātus - диня
   cucurbita, -ae, f - тиква
   banāna, -ae, f; mūsa, -ae, f; ariēna, -ae, f - банан
   ananāsa, -ae, f - ананас
@@ -33,6 +38,8 @@ pōmum, -ī, n - плод
   frūmentum, -ī, n - жито
     far, farris, n - спелта
     spīca, -ae, f - житен клас, свила
+    stipula, -ae, f - безполезна част от житно растение, свила, стрък
+    arista, -ae, f - свила
     trīticum, -ī, n - пшеница
   legūmen, -inis, n - бобово растение
     siliqua, -ae, f - рожков, шушулка

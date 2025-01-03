@@ -18,6 +18,7 @@ caput, capitis, n - глава
   frōns, frontis, m - чело, челна част на сграда
   oculus, -ī, n - око
   ocellus, ‑ī, m - оченце
+  cavea, -ae, f - очна орбита
   vīsus, -ūs, m - зрение
   nāsus, -ī, m - нос
   odōrātus, -ūs, m - обоняние
@@ -33,6 +34,7 @@ caput, capitis, n - глава
     labrum, -ī, n - устна
     dēns, dentis, m - зъб
     lingua, -ae, f - език
+    cavea, -ae, f - небце
     palātum, -ī, n - небце, вкус (сетиво)
     spūtum, -ī, n - плюнка
   mentum, -ī, n - брадичка
@@ -69,20 +71,29 @@ tergum, -ī, n - гръб, задна част
 coxa, -ae, f - ханш
 coxendix, -icis, f - ханш
   pelvis, -is, f - таз
+clūnis, -ēs, m/f - дупе, задница
+clūnēs, -ium, m/f pl - дупе, задница
+natis, -is, f - дупе, задница
+natēs, -ium, f - дупе, задница
+cūlus, -ī, m - гъз
+pūga, -ae, f - дупе
+pȳga, -ae, f - дупе
+pōdex, -icis, m - анус
 pudenda, -ōrum, n pl - срамни части, срамота
 crūs, crūris, n - крак
   femur, femoris, n - бедро
   gremium, ‑ī, n - скут
   genū, -ūs, n - коляно
   poples, poplitis, m - коляно
-  tībia, -ae, f - пищял, свирка
+  tībia, -ae, f - пищял
   pēs, pedis, m - крак (от глезена надолу), мярка за дължина, равняваще се на 29,6см
     tālus, -ī, m - глезен, ашик
     planta, -ae, f - ходило
     calx, calcis, f - пета
 vīscus, visceris, n - вътрешен органи
 vīscera, vīscerum, n pl - вътрешности
-  venter, ventris, m - стомах
+  venter, ventris, m - корем, стомах, вътрешности
+  stomachus, -ī, m - хранопровод, стомах
   cor, cordis - сърце
   pulmō, pulmōnis, m - бял дроб
   praecordia, -ōrum, n pl - диафрагма, гръд
@@ -95,3 +106,4 @@ vēna, vēnae, f - кръвоносен съд
   sanguis, sanguinis, m - кръв
   cruor, -ōris, m - кръв
 statūra, -ae, f - ръст
+naevus, -ī, m - бенка, родилен белег
