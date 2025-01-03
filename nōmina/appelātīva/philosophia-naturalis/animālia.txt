@@ -50,7 +50,9 @@ sīmius, -ī, m - маймуна
 sīmia, -ae, f - маймуна
 arānea, -ae, f - паяк, паяжина
 scorpios, scorpiī, m - скорпион
-rāna, -ae, f; rubēta, -ae, f - жаба
+rāna, -ae, f - жаба
+rubēta, -ae, f - жаба
+būfō, būfōnis, m - крастава жаба
 lepus, leporis, m - заек
 mūs, mūris, m - гризач (обикновено мишка или плъх)
 mūsculus, -ī, m - мишка
@@ -85,6 +87,8 @@ pūlex, pūlicis, m - бълха
 scarabæus, -ī, m - скарабей, бръмбар
 anguis, -is, m/f - змя, змей
 serpēns, -entis, m/f - змия, влечуго
+  vīpera, -ae, f - усойница (змия), усойница (лош човек), пепелянка
+  colubra, -ae, f - женска змия
 lacerta, -ae, f - гущер
 dracō, -ōnis, m - дракон, змей
 delphinus, -ī, m - делфин
@@ -94,3 +98,4 @@ echīnus, -ī, m - таралеж, морски таралеж
 
 taenia, -ae, f - тения
 mūrex, mūricis, m - морски охлюв, от който се прави Тирското пурпурно, шип/ръбест камък (от формата на морския охлюв)
+concha, -ae, f - мида, стрида

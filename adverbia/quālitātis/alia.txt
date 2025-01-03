@@ -16,6 +16,8 @@ modo - само, едиствено
 aliquot - няколко
 nihil/nīl - никак
 nēquāquam - никак
+adamussim - баш, точно
+examussim - баш, точно
 
 frūstrā - напразно, неуспешно
 nēquīquam - напразно, всуе

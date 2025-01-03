@@ -37,6 +37,7 @@ caput, capitis, n - глава
     cavea, -ae, f - небце
     palātum, -ī, n - небце, вкус (сетиво)
     spūtum, -ī, n - плюнка
+    salīva, -ae, f - слюнка
   mentum, -ī, n - брадичка
   cerebrum, -ī, n - мозък
 faux, faucis, f - гуша
@@ -80,6 +81,12 @@ pūga, -ae, f - дупе
 pȳga, -ae, f - дупе
 pōdex, -icis, m - анус
 pudenda, -ōrum, n pl - срамни части, срамота
+  pēnis, -is, m - пенис, сладострастие, опашка (Архаичен Латински)
+  mentula, -ae, f - кур
+  mūtō, -ōnis, m - чатал
+  verpa, -ae, f - чатал
+  tentīgō, -inis, f - сладострастие, ерекция
+  cunnus, -ī, m - путка (в смисъл на женските полови органи), путка (в смисъл на лека жена), шафрантия, пачавра
 crūs, crūris, n - крак
   femur, femoris, n - бедро
   gremium, ‑ī, n - скут

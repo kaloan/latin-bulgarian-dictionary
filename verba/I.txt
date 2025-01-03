@@ -296,7 +296,7 @@ rogāre - питам
   arrogāre - присвоявам, приобщавам
   iterrogāre - питам, разпитвам
 spectāre - гледам, наблюдавам
-  exspectāre - чакам, очаквам
+  exspectāre/expectāre - чакам, очаквам
 mōnstrāre - соча
   dēmōnstrāre - показвам, отбелязвам, доказвам
 spīrāre - дишам, духам

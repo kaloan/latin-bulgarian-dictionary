@@ -25,3 +25,4 @@ morbus, -ī, m - болест, заболяване
   febris, -is, f - треска
   rabiēs, rabiēī, f - бяс
   fistula, -ae, f - фистула, язва
+  pustula, -ae, f - пустула, цирей, гнойник
