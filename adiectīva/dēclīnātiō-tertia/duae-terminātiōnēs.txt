@@ -116,6 +116,8 @@ geniālis, -is - родствен, брачен, празничен
 sūtilis, -is - шит, прихванат
 edibilis, -is - ядлив
 nūbilis, -is - годен за брак
+līmitāris, -is - граничен
+līneāris, -is - линеен
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен

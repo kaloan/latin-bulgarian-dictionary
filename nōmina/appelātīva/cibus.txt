@@ -16,6 +16,8 @@ ferculum, -ī, n - гозба, ястие
   laganum, -ī, n - торта
   simila, -ae, f - брашно
   farīna, -ae, f - брашно
+  cuppēdia, -ae, f - лакомства
+  cūpēdia/cūpīdia/cuppēdia, -ōrum, n pl - лакомства
 pōtiō, -ōnis, f - напитка, питие
 pōtus, -ūs, m - питие, напитка
   vīnum, -ī, n - вино
