@@ -75,6 +75,7 @@ obmūtēscere, obmūtuisse - онемявам, занемявам
 pangere, pepigisse/pēgisse/pānxisse, pānctum/pāctum - захващам, завързвам, поставям, вклинявам, засаждам, съставям, съчинявам, уговарям условия/цена/брак
 coalēscere, coaluisse, coalītum - обединявам
 convalēscere, convaluisse - оздравявам, заздравявам, излекувам се, изцерявам се
+battuere, battuisse - бия, удрям, фехтовам
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -484,6 +485,7 @@ lūdere, lūsisse, lusum - играя
 tangere, tetigisse, tāctum - докосвам, пипам
   attingere, attigisse, atttēctum - докосвам, допирам, гранича, вкусвам, достигам
   contingere, contigisse, contāctum - допирам,  достигам, окажа, случвам се
+  obtingere, obtigisse - докосвам, попадам, случвам се
 regere, rēxisse, rēctum - валдея, управлявам, направлявам, насочвам
   porrigere - предлагам, разпростирам
 tremere, tremuisse - треперя, треса се

@@ -23,8 +23,9 @@ passer, -is, m - врабче
 psittacus, -ī, m - папагал
 corvus, -ī, m - гарван
 cornīx, -cis, f - врана
-gallus, -ī, m - петек
+gallus, -ī, m - петел
 gallīna, -ae, f - кокошка
+tarda, -ae, f - дропла
 porcus, -ī, m - прасе
 sūs, sūis, m/f - свиня, прасе
 bōs, bovis, m/f - говедо
@@ -42,6 +43,10 @@ haedus, -ī, m - козле
 capra, -ae, f - коза
 capella, -ae, f - козичка
 cervus, -ī, m - елен
+tarandus, -ī, m - северен елен
+capreola, -ae, f - газела
+caprāginus, -ī, m - сръндел
+caprāgina, -ae, f - сърна
 aper, aprī, m - глиган
 elephantus, -ī, m - слон
 ursus, -ī, m - мечок
@@ -99,3 +104,5 @@ echīnus, -ī, m - таралеж, морски таралеж
 taenia, -ae, f - тения
 mūrex, mūricis, m - морски охлюв, от който се прави Тирското пурпурно, шип/ръбест камък (от формата на морския охлюв)
 concha, -ae, f - мида, стрида
+tarmes, tarmitis, m - дървоядова ларва, личинка
+vermiculus, -ī, m - личинка, ларва
