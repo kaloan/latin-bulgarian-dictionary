@@ -20,5 +20,8 @@ tabernārius, -ī, m - продавач
   capsārius, -ī, m - човек, правещ чанти, кутии
   sūtor, sūtōris, m - обущар
   baxiarius, -ī, m - обущар плетещ вид сандали
+  vestificus, -ī, m - шивач, терзия, абаджия
+  vestifex, -icis, m - шивач, терзия, абаджия
   lignātor, -ōris, m - дървар
   molitor, -ōris, m - мелничар
+  scūtārius, -ī, m - продавач на втора ръка книги, вехтошар

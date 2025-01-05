@@ -11,6 +11,7 @@ viridis -is - зелен
 purpureus - пурпурен
 ruber, rubrī - червен
 rūfus - риж, рижав, червен, червеникав
+surrūfus/subrūfus - рижавеещ, с цвят сходен до рижия
 caerŭleus - светло син
 rutilus - оранжев
 croceus - златно жълт

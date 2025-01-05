@@ -1,6 +1,6 @@
 cibus, -ī, m - храна, питание
 cibāria, -ōrum, n pl - прехрана, храна, препитание
-ēsca, -ae, f - ядене, храна
+ēsca, -ae, f - ядене, храна, стръв
 vīctus, -ūs, m - насъщност, начин на живот, прехрана, изхранване, храна
 epulae, -ārum, f pl - ястие, блюдо
 ferculum, -ī, n - гозба, ястие
@@ -10,6 +10,7 @@ ferculum, -ī, n - гозба, ястие
   gustātiō, -ōnis, f - разядка, предястие
   pulmentum, -ī, n - яхния, разядка
   pulmentārium, -ī, n - яхния
+  iūs, iūris, n - сос, супа, сок
   caput, capitis, n - основно ястие
   pānis, -is, m - хляб
   placenta, -ae, f - кекс, торта
@@ -19,6 +20,8 @@ ferculum, -ī, n - гозба, ястие
   farīna, -ae, f - брашно
   cuppēdia, -ae, f - лакомства
   cūpēdia/cūpīdia/cuppēdia, -ōrum, n pl - лакомства
+  mīca, -ae, f - троха, зрънце, шушка, прашинка
+  scrūtillus, -ī, m - вид наденица
 pōtiō, -ōnis, f - напитка, питие
 pōtus, -ūs, m - питие, напитка
   vīnum, -ī, n - вино

@@ -53,9 +53,9 @@ quīvīs, quemvīs, cuiusvīs, cuivīs, quōvīs, quīvīs, quōsvīs, quōrumv�
 quaevīs, quamvīs, cuiusvīs, cuivīs, quāvīs, quaevīs, quāsvīs, quārumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs - коя щеш
 quodvīs, quodvīs, cuiusvīs, cuivīs, quōvīs, quaevīs, quaevīs, quōrumvīs, quibusvīs/quīsvīs, quibusvīs/quīsvīs - кое щеш
 
-quīlibet, quemlibet, cuiuslibet, cuilibet, quōlibet, quīlibet, quōslibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кой да е, който харесаш
-quaelibet, quamlibet, cuiuslibet, cuilibet, quālibet, quaelibet, quāslibet, quārumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - коя да е, която харесаш
-quodlibet, quodlibet, cuiuslibet, cuilibet, quōlibet, quaelibet, quaelibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кое да е, което харесаш
+quīlibet, quemlibet, cuiuslibet, cuilibet, quōlibet, quīlibet, quōslibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кой да е, кой ще, който харесаш
+quaelibet, quamlibet, cuiuslibet, cuilibet, quālibet, quaelibet, quāslibet, quārumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - коя да е, коя ще, която харесаш
+quodlibet, quodlibet, cuiuslibet, cuilibet, quōlibet, quaelibet, quaelibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кое да е, което ще, което харесаш
 
 
 nōnnūllī, nōnnūllōs, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много

@@ -39,12 +39,15 @@ capitulum, -ī, n - главичка
     palātum, -ī, n - небце, вкус (сетиво)
     spūtum, -ī, n - плюнка
     salīva, -ae, f - слюнка
+    rhoncus, -ī, m - хъркане, кряк, крякане
   mentum, -ī, n - брадичка
   cerebrum, -ī, n - мозък
 faux, faucis, f - гуша
 fōx, fōcis, f - гуша
 faucēs, -ium, f pl - паст
-guttur, -is, m - гърло
+guttur, -is, m - гърло, гуша
+iugulum, -ī, n - гърло, ключица
+gula, -ae, f - гърло, гуша, паст, лакомия
 cervīx, cervīcis, f - тил, врат
 collum, -ī, n - шия
 vertеbra, -ae, f - прешлен
@@ -87,7 +90,7 @@ pudenda, -ōrum, n pl - срамни части, срамота
   mūtō, -ōnis, m - чатал
   verpa, -ae, f - чатал
   tentīgō, -inis, f - сладострастие, ерекция
-  cunnus, -ī, m - путка (в смисъл на женските полови органи), путка (в смисъл на лека жена), шафрантия, пачавра
+  cunnus, -ī, m - путка (в смисъл на женските полови органи), путка (в смисъл на лека жена), шафрантия, пачавра, брантия
 crūs, crūris, n - крак
   femur, femoris, n - бедро
   gremium, ‑ī, n - скут
@@ -99,6 +102,8 @@ crūs, crūris, n - крак
     planta, -ae, f - ходило
     calx, calcis, f - пета
 vīscus, visceris, n - вътрешен органи
+interāneum, -ī, n - черво
+interānea, -ōrum, n pl - вътрешности
 vīscera, vīscerum, n pl - вътрешности
   venter, ventris, m - корем, стомах, вътрешности
   stomachus, -ī, m - хранопровод, стомах
@@ -109,6 +114,13 @@ vīscera, vīscerum, n pl - вътрешности
   fel, fellis, n - жлъчка
     bīlis, -is, f - жлъчен сок
   uterus, -ī, m - утроба, матка, лоно, недра
+  intestīnum, -ī, n - черво
+  colon, colī, n - дебело черво
+  intestīnum tenue - тънко черво
+    duodenum, -ī, n - дванадесетопръстник
+    ieiunum, -ī, n - празно черво
+    ileum, -ī, n - хълбочно черво
+  intestīnum crassum - дебело черво
 ōs, ossis, n - кост
 vēna, vēnae, f - кръвоносен съд
   sanguis, sanguinis, m - кръв

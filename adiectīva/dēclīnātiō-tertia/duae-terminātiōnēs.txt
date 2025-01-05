@@ -119,6 +119,7 @@ nūbilis, -is - годен за брак
 līmitāris, -is - граничен
 līneāris, -is - линеен
 culminālis, -is - върхов
+volātilis, -is - летателен, летлив, бърз, бегъл, мимолетен
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен
