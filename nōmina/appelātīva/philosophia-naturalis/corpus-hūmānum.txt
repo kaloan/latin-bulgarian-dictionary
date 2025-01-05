@@ -8,6 +8,7 @@ cutis, -is, f - кожа, обелка
 tāctus, -ūs, m - допир
 tempus, temporis, n - слепоочие
 caput, capitis, n - глава
+capitulum, -ī, n - главичка
   cranium - череп
   faciēs, faciēī, f - лице, предна част
   vultus, -ūs, m - лице, израз

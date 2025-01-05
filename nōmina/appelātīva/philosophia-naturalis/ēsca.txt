@@ -54,3 +54,4 @@ holus, holeris, n - зеленчук
   lactūca, -ae, f - маруля, салата
   porrum, -ī, m - праз, резанец
 nux, nucis, f - ядка, плод с черупка
+  avellāna, -ae, f - лешник

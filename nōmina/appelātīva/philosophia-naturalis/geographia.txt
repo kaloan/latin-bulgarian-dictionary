@@ -21,6 +21,7 @@ tumulus, -ī, m - могила, хълмче
 campus, -ī, m - равнина
 ager, agrī, m - поле, имение
 arvum, -ī, n - нива
+culta, -ōrum, n pl - обработвани земи
 prātum, -ī, n - поляна
 silva, -ae, f - гора
 saltus, -ūs, m - планинска гора

@@ -364,6 +364,8 @@ claudere, clausisse, clausum - затварям
   exclūdere, exclūsisse, exclūsum - изключвам, отстранявам, отказвам, възпрепятствам
   inclūdere, inclūsisse, inclūsum - затварям, заключвам
   interclūdere, interclūsisse, interclūsum - обграждам, прераждам, възпрепятствам
+  occlūdere, occlūsisse, occlūsum - затварям (врата), затварям (арестувам), затварям (магазин), запирам, заключвам, възпирам чувства
+  praeclūdere, praeclūsisse, praeclūsum - затварям, блокирам, запирам
   reclūdere, reclūsisse, reclūsum - отварям откривам
 frangere, frēgisse, frāctum - чупя, пречупя
   affrangere - счуквам, смазвам

@@ -26,6 +26,7 @@ cornīx, -cis, f - врана
 gallus, -ī, m - петел
 gallīna, -ae, f - кокошка
 tarda, -ae, f - дропла
+cucūlus, -ī, m - кукувица, куку
 porcus, -ī, m - прасе
 sūs, sūis, m/f - свиня, прасе
 bōs, bovis, m/f - говедо
@@ -45,6 +46,9 @@ capella, -ae, f - козичка
 cervus, -ī, m - елен
 tarandus, -ī, m - северен елен
 capreola, -ae, f - газела
+caprea, -ae, f - сърна
+capreolus, -ī, m - малък сръндел
+capreola, -ae, f - малка сърна
 caprāginus, -ī, m - сръндел
 caprāgina, -ae, f - сърна
 aper, aprī, m - глиган
