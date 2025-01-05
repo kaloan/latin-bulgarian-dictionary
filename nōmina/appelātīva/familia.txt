@@ -10,12 +10,14 @@ līberī, -ōrum, m pl - деца
 prōpāgō, -inis, f - челяд, потомство, порода
 posterī, -ōrum, m pl - потомци, наследници
 stirps, stirpis, f - родословие, рода, потомство
+
 mamma, -ae, f - мама
 pāpa, -ae, m - тати
 māter, mātris, f - майка
 noverca, -ae, f - мащеха
 genetrīx, -īcis, f - родителка, майка
 pater, patris, m - баща, татко
+vītricus, -ī, m - доведен баща
 genitor, -ōris, m - родител, баща
 nātus, -ī, m - син, рожба
 nāta, -ae, f - дъщеря
@@ -29,23 +31,46 @@ fīliastra, -ae, f - доведена дъщеря
 prīvignus, -ī, m - доведен син
 prīvigna, -ae, f - доведена дъщеря
 frāter, fratris, m - брат
+frātruus, -ī, m - племенник, син на брат
+frātruēlis, -is, m/f - племенник/племенница по брат
 sōror, -is, f - сестра
-consobrīnus, -ī, m - първи братовчед
-consobrīna, -ae, f - първа братовчедка
+sobrīnus, -ī, m - племенник, син на сестра
+sobrīna, -ae, f - племенница, дъщеря на сестра
 avus, -ī, m - дядо
 avia, -ae, f - баба
+proavus, -ī, m - прадядо
+proavia, -ae, f - прабаба
+abavus, -ī, m - прапрадядо
+abavia, -ae, f - прарабаба
+atavus, -ī, m - прапрапрадядо
+atavia, -ae, f - прапрапрабаба
 nepōs, -ōtis, m/f - внук, внучка, племенник, племенничка, разпуснат човек, разпътник
+prōnepōs, -ōtis, m/f - правнук, правнучка
+neptia, -ae, f - внучка, племенница (Късен латински)
 neptis, -is, f - внучка
+prŏneptis, -is, f - правнучка
+abnepōs, -ōtis, m - праправнук
+abneptis, -is, f - праправнучка
 prōfīlius, -ī, m - внук (Средновековен латински)
 prōfīlia, -ae, f - внучка (Средновековен латински)
 avunculus, -ī, m - вуйчо
-matertera, -ae, f - вуйна
+mātertera, -ae, f - вуйна
+cōnsobrīnus, -ī, m - първи братовчед, братовчед по майчин брат
+cōnsobrīna, -ae, f - първа братовчедка, братовчедка по майчин брат
+mātruēlis, -is, m/f - братовчед/братовчедка по майчина сестра
 patruus, -ī, m - чичо
+barbās, barbānis, m - чичо (Средновековен латински)
 amita, -ae, f - леля
-gener, -is, m - зет
+patruēlis, -is, m/f - братовчед/братовчедка по бащин брат
+gener, generī, m - зет
 nurus, -ūs, f - снаха
+prōgener, prōgenerī, m - съпруг на внучка
+prōnurus, -ūs, f - съпруга на внук
 socer, -ī, m - тъст, свекър
+patraster, patrastrī, m - тъст, свекът, доведен баща
+socrus, -ī, m - тъст, свекър
 socrus, -ūs, f - тъща, свекърва
+
 mātrimōnium,  -ī, n - брак
 nūptiae, -ārum, f pl - сватба, женитба
 cōnūbia, -ōrum, n pl - сватба, женитба
@@ -55,9 +80,12 @@ affīnis, -is, m/f - родственик по брак
 spōnsus, -ī, m - годеник, младоженец
 spōnsa, -ae, f - годеница, младоженка
 uxor, uxoris, f - съпруга
-nupta, -ae, f - съпруга, младоженка
+nūpta, -ae, f - съпруга, младоженка
 marītus, -ī, m - съпруг
+marīta, -ae, f - съпруга
 coniūnx, coniugis, m/f - съпруг, съпруга
+glōs, glōris, f - сестра на съпруг
+lēvir, lēvirī, m - брат на съпруг
 mātrōna, -ae, f - омъжена жена, мадам, матрона
 virgō, virginis, f - девица
 senex, senis, m/f - старец, старица
@@ -72,3 +100,19 @@ gemellus, -ī, m - близненце
 infantula, -ae, f - бебенце момиче
 parvulus, -ī, m - малчуган, мъник
 bīmātus, -ūs, m - двегодишна възраст
+
+anus, -ūs, f - старица, баба
+aetās, -ātis, f - възраст, поколение
+aevum, -ī, n - възраст, поколение, ход на времето
+vir, -ī, m - мъж
+fēmina, -ae, f - жена
+mulier, -is, f - жена
+puer, -ī, m - момче, хлапе, прислужник
+puella, -ae, f - момиче, хлапачка
+viduus, -ī, m - вдовец
+vidua, -ae, f - вдовица
+iuventūs, -ūtis, f - зрялост [???]
+pūbēs, pūberis, f - младост, срамно окосмяване
+pueritia, -ae, f - детство
+virginitās, -ātis, f - девственост
+fēta, -ae, f - родилка, скоро родила жена/животно
