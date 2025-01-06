@@ -3,6 +3,7 @@ purpura, -ae, f - пурпурно
 venetus, -ī, m - тъмно синьо
 caerŭleum, -ī, n - светло синьо
 crocinum, -ī, n - шафранено жълто
+lūtum, -ī, n - жълтеникаво
 candor, -ōris, m - бяло
 rubor, -ōris, m - речвено
 mūrex, mūricis, m - Тирско пурпурно, плат в този цвят

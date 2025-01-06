@@ -215,6 +215,9 @@ in igne versāre - пека чеверме, пека на шиш
 verba dare alicui - подмятам, мамя
 hoc noctis - тазвечер, толкова скоро
 nihil pēnsī habēre - нямам драго, не се плаша, безскрупулен съм
+homō faeneus - чучело
+pōns versātilis - подвижен мост на крепост
+in aliquō (po)situm - в нечия власт, по нечия воля
 
 cum ... tum ... - като ... и ...
 
@@ -295,6 +298,7 @@ a. d. (annō Domimī) - в летото Господне
 
 Falernum (praedium) - фалернско имение
 Tūsculānum (praedium) - тускуланско имение
+Faenum Graecum - сминдух
 
 Hebdomada Sancta - Страсната седмица
 dies Solis, Fēria prima, Dominica)- неделя

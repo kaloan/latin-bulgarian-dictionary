@@ -20,7 +20,6 @@ frīgescere, frixiisse - изстивам
 possīdere - обладавам, грабвам, превземам
 alere, aluisse, altum/alitum - насърчавам, развивам, поддържам, кърмя, изхранвам
 fremere, fremuisse, fremitum - ръмжа
-metere, messuisse, messum - жъна
 quatere iō, , quassum - клатя, треса, друсам
 parcere, pepercisse (+dat) - пощадя
   parcere (+īnf) - въздържам се от
@@ -224,13 +223,14 @@ agere, ēgisse, āctum - действам, върша
   transigere, transēgisse, transāctum - извършвам, приключвам, промушвам, прекарвам време, преминавам (за време), слагам край
 pāscere, pāvisse, pāstum - паса, храня, насищам, гоя
   perpāscere - угоявам
-vertere, vertisse, versum - обръщам, променям, унищожавам
+vertere, vertisse, versum - въртя, обръщам, променям, унищожавам
   āvertere - обръщам се с гръб към някого, отвръщам се
   animadvertere - обръщам внимание, забелязвам, отчитам
   circumvertere - обикалям, освобождавам мой роб
   convertere - превръщам, заменям, променям
   dīvertere - пренасочвам се, отлконявам се, отделям се, напускам, развеждам се
   ēvertere - извръщам, преобръщам, унищожавам
+  praevertere - задминавам
   subvertere - преобръщам, катурвам, гътвам, подривам, унищожавам
   trānsvertere - обръщам напреко, преобръщам, катурвам, пренасочвам, отлконявам
 temnere, tēmpsisse, tēmptum - мразя, презирам
@@ -586,3 +586,6 @@ olēscere, -!, -! - раста
   obsolēscere, obsolēvisse, obsolētum - старея, остарявам
 texere, texuisse, textum - тъка, плета, мрежа
   praetexere - тъка фриз/ръб, украсявам, прикривам, преструвам се
+metere, messuisse, messum - жъна, кося
+  dēmetere - изжъна, покося, откъсвам
+  ēmetere - изжъна

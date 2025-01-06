@@ -28,6 +28,8 @@ gallīna, -ae, f - кокошка
 tarda, -ae, f - дропла
 cucūlus, -ī, m - кукувица, куку
 platea, -ae, f - лопатарка
+phāsiānus, -ī, m - фазан
+perdīx, -īcis, f - яребица
 porcus, -ī, m - прасе
 sūs, sūis, m/f - свиня, прасе
 bōs, bovis, m/f - говедо
@@ -73,6 +75,8 @@ catulus, -ī, m - паленце, кученце, вълче
 lupus, -ī, m - вълк
 lupa, -ae, f - вълчица, проститутка
 vulpēs, -is, f - лисица
+fēlēs/fēlis, fēlis, f - котка
+cattus/catus, -ī, m - котак
 leō, leōnis, m - лъв
 tigris, -is, f - тигър
 homō, hominis, m - човек

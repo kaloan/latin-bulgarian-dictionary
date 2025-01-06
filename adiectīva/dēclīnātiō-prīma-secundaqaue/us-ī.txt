@@ -57,6 +57,8 @@ pruīnosus - заскрежен, заледен
 conterminus - съседен
 gelidus - хладен, хладък
 callidus - сръчен, хитър
+astūtus - сръчен, хитър, изкусен, обигран
+catus - ловък, хитър, схватлив, умен
 sērious - късен, забавен
 madidus - мокър
 benignus - благосклонен, добронамерен, доброжелателен
@@ -441,6 +443,8 @@ scrūpulōsus - скрупулен
 populābundus - опустошителен, разрушителен, унищожителен
 ridibundus - засмян, смеещ се
 crispus - къдрав, накъдрен
+coculeātus - спирален, спираловиден
+faenerātōrius - лихварски
 
 bīmus - двегодишен, двугодишен (букв. дву-зимен)
 
@@ -460,6 +464,8 @@ aereus - меден
 strāmineus - сламен
 līneus - ленен
 lolleāceus - от райграс
+pelliceus - кожен
+faeneus - сламен
 
 idōneus, magis idōneus, maximē idōneus - удобен, подходящ
 

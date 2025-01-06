@@ -120,6 +120,8 @@ līmitāris, -is - граничен
 līneāris, -is - линеен
 culminālis, -is - върхов
 volātilis, -is - летателен, летлив, бърз, бегъл, мимолетен
+faenebris, -is - лихвен
+versātilis, -is - подвижен, въртелив, обръщаем
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен
