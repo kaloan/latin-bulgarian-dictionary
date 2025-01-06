@@ -7,6 +7,7 @@ sēpār, -is - отделен
 decor, -is - красив, изящен, великолепен, изтънчен, кокетен
 memor, -is - помнещ, с добра памет, внимателен
 immemor, -is - забравил, с лоша памет, пренебрежителен
+concolor, -is (cum + dat) - съцветен на, със същия цвят като
 
 dīves/dīs, dīvitis/dītis, dīvitior/dītior, dīvitissimus/dītissimus - богат, богаташ
 āles, alitis - крилат
@@ -25,6 +26,10 @@ superstes, superstitis - оцелял, непокътнат
 pūbēs, pūberis - възрастен, зрял
 sollers, sollertis - ловък, умел, сръчен, находчив, проницателен
 cuppes, cuppēdis - чревоугоден
+myops, myopis - с лошо зрение, късоглед
+presbyops, presbyopis - далекоглед
+expers, expertis - освободен, неуведомен
+expers (+gen) - лишен (от), изключен (от), неучастващ (в)
 
 vehemēns, vehementis - насилващ, буен
 recēns -ntis - пресен, скорошен, нов, млад
@@ -61,6 +66,7 @@ emāx, emācis - обичащ пазаруването
 mināx, minācis - заплашителен
 bibāx, bibācis - пияч, пияница
 sagāx, sagācis - схватлив, проницателен, вещ
+tenāx, tenācis - упорит, крепък, здрав, непоколебим, непреклонен, настойчив, стиснат, свидлив, скъпернически
 
 mās, māris - мъжки, мъжка, мъжко
 

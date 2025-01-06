@@ -5,6 +5,7 @@ artus, -ūs, m - крайник
 pellis, -is, f - кожа, кожух
 cutis, -is, f - кожа, обелка
   callum, -ī, n - мазол, твърд, твърдина
+  caulae, -ārum, f pl - пори, дупки
 tāctus, -ūs, m - допир
 tempus, temporis, n - слепоочие
 caput, capitis, n - глава
@@ -17,7 +18,7 @@ capitulum, -ī, n - главичка
   crīnis, -is, m - коса, кичур, пискюл, шлейф
   fimbriae, -ārum, f pl - къдрица, грива
   frōns, frontis, m - чело, челна част на сграда
-  oculus, -ī, n - око
+  oculus, -ī, m - око
   ocellus, ‑ī, m - оченце
   cavea, -ae, f - очна орбита
   vīsus, -ūs, m - зрение
@@ -86,6 +87,7 @@ pȳga, -ae, f - дупе
 pōdex, -icis, m - анус
 pudenda, -ōrum, n pl - срамни части, срамота
   pēnis, -is, m - пенис, сладострастие, опашка (Архаичен Латински)
+  testis, -is, m - тестис
   mentula, -ae, f - кур
   mūtō, -ōnis, m - чатал
   verpa, -ae, f - чатал
@@ -129,3 +131,4 @@ vēna, vēnae, f - кръвоносен съд
   cruor, -ōris, m - кръв
 statūra, -ae, f - ръст
 naevus, -ī, m - бенка, родилен белег
+cicātrīx, -īcis, f - белег, рана

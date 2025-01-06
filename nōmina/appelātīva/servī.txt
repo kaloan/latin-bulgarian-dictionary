@@ -55,3 +55,6 @@ lībertus, -ī, m - освободен роб
 līberta, -ae, f - освободена робиня
 lībertīnus, -ī, m - освободен роб
 lībertīna, -ae, f - освободена робиня
+
+operārius, -ī, m - наемник
+operāria, -ae, f - наемница

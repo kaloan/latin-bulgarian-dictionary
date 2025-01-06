@@ -23,7 +23,7 @@ mollis - мек, гъвкав, ковък
 grandis, -is - огромен, голям, голям (като човек)
 temperātus - подготвен, с мярка
 terribilis, -is - страховит
-mīrābilis, -is - чуден
+mīrābilis, -is - чуден, причудлив
 rudis, -is - неук
 mor­tālis, -is - смъртен
 immortālis, -is - безсмъртен
@@ -122,6 +122,7 @@ culminālis, -is - върхов
 volātilis, -is - летателен, летлив, бърз, бегъл, мимолетен
 faenebris, -is - лихвен
 versātilis, -is - подвижен, въртелив, обръщаем
+subtīlis, -is - крехък, фин, тънък, точен, наблюдателен
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен

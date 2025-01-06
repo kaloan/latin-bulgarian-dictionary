@@ -30,6 +30,7 @@ cucūlus, -ī, m - кукувица, куку
 platea, -ae, f - лопатарка
 phāsiānus, -ī, m - фазан
 perdīx, -īcis, f - яребица
+rēgulus, -ī, m - кралче, близка до врабчето птица
 porcus, -ī, m - прасе
 sūs, sūis, m/f - свиня, прасе
 bōs, bovis, m/f - говедо
@@ -38,6 +39,7 @@ taurus, -ī, m - бик
 vacca, -ae, f - крава
 vitulus, -ī, m - теле
 ariēs, arietis, m - овен
+vervex, vervecis, m - кастриран овен, овен
 ovis, -is, f - овца
 agnus, -ī, m - мъжко агне
 agna, -ae, f - женско агне
@@ -89,7 +91,7 @@ volucris, -is, f - летящо същество
 avis, -is, f - птица
 aquilla, -ae, f - орел
 nīdus, -ī, m - гнездо
-pullus, -ī, n - младо животно
+pullus, -ī, m - младо животно
 vermis, -is, m - червей
 apis, -is, f - пчела
 vespa, -ae, f - оса

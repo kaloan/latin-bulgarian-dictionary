@@ -43,7 +43,6 @@ pertimêscere - изплашвам се
 imbuere, imbuisse, imbūtum (+abl) - прониквам, топя, навлажнявам, цапам (с), оцветявам (с), обучавам (в), възпитавам (в)
 imbuere (+abl) - обучавам, възпитавам
 occulere, occuluisse, occultum - крия, прикривам
-linere, linīvisse/lēvisse, litum - мажа, покривам
 senēscere, senuisse - старея
 adulēscere, adulēvisse - младея
 gignere, genuisse, genitum - зачевам, пораждам, причинявам, раждам
@@ -77,6 +76,7 @@ battuere, battuisse - бия, удрям, фехтовам
 dūrēscere, duruisse - втвърдявам се
 frīgere, frīxisse, frīxum/frīctum - пържа, пека, опичам, изпичам, препичам, овъглявам
 sculpere, sculpsisse, sculptum - вая, дялкам, резбовам, дълбая, гравирам, скулптирам
+cūdere, cūdisse, cūsum - сека монета, щамповам, вършея, забивам
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -154,7 +154,7 @@ sistere, stitisse/stetisse, statum - спирам, проверявам
   dēsistere, dēstitisse, destitum - възпирам, прекратявам
   īnsistere, institisse - настоявам
   obsistere, obstitisse - съпротивлявам се
-  resistere, restitisse - не помръдвам, спирам да се движа
+  resistere, restitisse - не помръдвам, спирам да се движа, противя се, удържам
 iungere, iūnxisse, iūnctum - свързвам, сглобявам, събирам, сдвоявам
   adiungere - захващам, сглабям
   coniungere - свързвам, свъзвам с брак, прилепям, слепям
@@ -544,8 +544,9 @@ lūcēscere, lūxisse - светя, зазоря
   illūcēscere, illūxisse - засветя, зазоря
 stupēscere - изумея, вцепенявам се
   obstupēscere - изумея, вцепенявам се, изтръпна
-sternere, strāvisse, strātum - стеля, покривам, наслоявам, напластвам, простирам, хъркам
+sternere, strāvisse, strātum - стеля, покривам, слоя, пластя, простирам, хъркам
   cōnsternere - разстеля, покривам, разпростирам
+  īnsternere - постеля, настеля, покривам, наслоявам, напластвам
   prōsternere - просвам
 scīscere - узная, науча
   dēscīscere - отклонявам се, изоставям, израждам се
@@ -589,3 +590,5 @@ texere, texuisse, textum - тъка, плета, мрежа
 metere, messuisse, messum - жъна, кося
   dēmetere - изжъна, покося, откъсвам
   ēmetere - изжъна
+linere, linīvisse/lēvisse, litum - мажа, покривам
+  illinere - намажа, помазвам, покривам
