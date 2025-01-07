@@ -43,6 +43,7 @@ capitulum, -ī, n - главичка
     rhoncus, -ī, m - хъркане, кряк, крякане
   mentum, -ī, n - брадичка
   cerebrum, -ī, n - мозък
+cinnus, -ī, m - гримаса, намигване, физиономия, фасон
 faux, faucis, f - гуша
 fōx, fōcis, f - гуша
 faucēs, -ium, f pl - паст
@@ -76,6 +77,8 @@ umerus, -ī, m - рамо
 tergum, -ī, n - гръб, задна част
 coxa, -ae, f - ханш
 coxendix, -icis, f - ханш
+  umbilīcus, -ī, m - пъп (част от тялото), пъп (като среда на нещо), орнаментирана страна на свитък
+lumbus, -ī, m - поясница
   pelvis, -is, f - таз
 clūnis, -ēs, m/f - дупе, задница
 clūnēs, -ium, m/f pl - дупе, задница
@@ -84,8 +87,9 @@ natēs, -ium, f - дупе, задница
 cūlus, -ī, m - гъз
 pūga, -ae, f - дупе
 pȳga, -ae, f - дупе
-pōdex, -icis, m - анус
+  pōdex, -icis, m - анус
 pudenda, -ōrum, n pl - срамни части, срамота
+lumbī, -ōrum, m pl - слабини, гениталии
   pēnis, -is, m - пенис, сладострастие, опашка (Архаичен Латински)
   testis, -is, m - тестис
   mentula, -ae, f - кур
@@ -132,3 +136,7 @@ vēna, vēnae, f - кръвоносен съд
 statūra, -ae, f - ръст
 naevus, -ī, m - бенка, родилен белег
 cicātrīx, -īcis, f - белег, рана
+
+pūmilus, -ī, m - джудже, лилипут
+pūmiliō, -ōnis, m - джудже, лилипут
+nānus, -ī, m - джудже

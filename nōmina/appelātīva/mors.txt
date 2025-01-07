@@ -35,6 +35,7 @@ morbus, -ī, m - болест, заболяване
   rabiēs, rabiēī, f - бяс
   fistula, -ae, f - фистула, язва
   pustula, -ae, f - пустула, цирей, гнойник
+  papula, -ae, f - пъпка, пъпчица
   catarrhus, -ī, m - хрема, сопол, настинка, грип
   dysenteria, -ae, f - дизентерия
   dyspepsia, -ae, f - диспепсия, разстроен стомах

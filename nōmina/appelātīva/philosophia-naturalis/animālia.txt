@@ -62,6 +62,8 @@ ursus, -ī, m - мечок
 ursa, -ae, f - мечка
 sīmius, -ī, m - маймуна
 sīmia, -ae, f - маймуна
+macāca, -ae, f - макак
+gorilla, -ae, f - горила
 arānea, -ae, f - паяк, паяжина
 scorpios, scorpiī, m - скорпион
 rāna, -ae, f - жаба
@@ -92,10 +94,9 @@ avis, -is, f - птица
 aquilla, -ae, f - орел
 nīdus, -ī, m - гнездо
 pullus, -ī, m - младо животно
-vermis, -is, m - червей
 apis, -is, f - пчела
 vespa, -ae, f - оса
-formica, -ae, f - мравка
+formīca, -ae, f - мравка
 pāpiliō, -ōnis, m - пеперуда, молец
 musca, -ae, f - муха
 culex, culicis, m - комар
@@ -104,6 +105,7 @@ scarabæus, -ī, m - скарабей, бръмбар
 anguis, -is, m/f - змя, змей
 serpēns, -entis, m/f - змия, влечуго
   vīpera, -ae, f - усойница (змия), усойница (лош човек), пепелянка
+  coluber, colubrī, m - мъжка змия
   colubra, -ae, f - женска змия
 lacerta, -ae, f - гущер
 delphinus, -ī, m - делфин
@@ -111,7 +113,9 @@ cancer, -ī, m - рак
 scorpiō, -ōnis, m - скорпион
 echīnus, -ī, m - таралеж, морски таралеж
 
-taenia, -ae, f - тения
+lumbricus, -ī, m - червей (дъждовен), червей (паразит)
+vermis, -is, m - червей
+  taenia, -ae, f - тения
 mūrex, mūricis, m - морски охлюв, от който се прави Тирското пурпурно, шип/ръбест камък (от формата на морския охлюв)
 concha, -ae, f - мида, стрида
 tarmes, tarmitis, m - дървоядова ларва, личинка

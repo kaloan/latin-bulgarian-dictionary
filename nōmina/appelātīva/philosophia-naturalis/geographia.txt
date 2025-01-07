@@ -8,7 +8,8 @@ dīvum, -ī, n - открито небе
   arcus, -ūs, m - дъга
   cohum, -ī, n - небосвод
 siccum, -ī, n - суша
-mōns montis, m - планина
+mōns, montis, m - планина
+furculae, -ārum, f pl - проход, пролом, клисура, дере, дефиле
 prōmunturium, -ī, n - хребет, нос (в смисъл на скала издадена във водата)
 saxum, -ī, n - скала, канара
 scopulus, -ī, m - клиф, издадена скала, канара
@@ -16,6 +17,7 @@ mōlēs, mōlis, f - подводна скала
 antrum, -ī, n - пещера
 spēlunca, -ae, f - пещера
 specus, -ūs, m - пещера, скривалище
+sȳringēs, -um, f pl - пещери, тунели
 vallis, -is, f - долина
 collis, -is, m - хълм
 tumulus, -ī, m - могила, хълмче
