@@ -70,6 +70,7 @@ rāna, -ae, f - жаба
 rubēta, -ae, f - жаба
 būfō, būfōnis, m - крастава жаба
 lepus, leporis, m - заек
+cunīculus, -ī, m - заек, заешка дупка
 mūs, mūris, m - гризач (обикновено мишка или плъх)
 mūsculus, -ī, m - мишка
 sōrex, sōricis, m - полска мишка
@@ -84,7 +85,10 @@ cattus/catus, -ī, m - котак
 leō, leōnis, m - лъв
 tigris, -is, f - тигър
 homō, hominis, m - човек
+homullus, -ī, m - човече
 homunculus, -ī, m - човече
+homunciō, -ōnis, m - човече
+sēmihomō, sēmihominis, m - получовек
 piscis, -is, m - риба
   sardīna, -ae, f - сардина
   scomber, scombrī, m - скумрия

@@ -8,6 +8,7 @@ bellum, -ī, n - война
   oppugnātiō, -ōnis, f - нападение, атака
   expugnātiō, -ōnis, f - превземане
   obsidiō, -ōnis, f - обсада
+  conclūsiō, -ōnis, f - обсада, заключване
   īnsidiae, -ārum, f pl - засада, клопка
   astūs, astuum, m pl - тактика, прийом, стратегема, план, хитрина
   praeda, -ae, f - плячка (улов), плячка (трофей)

@@ -1,7 +1,6 @@
 tollere, sustulisse, sublātum - вдигам, нося
 dīligere - обичам (роднина)
 crēdere, crēdidisse, crēditum (+dat) - вярвам (на/в), доверявам се (на/в), смятам че
-coquere, coxisse, coctum - сготвям
 stertere, stetuisse - хъркам
 spernere, sprēvisse, sprētum - презирам
 plangere, planxisse, planctum - бия се в гърдите от печал
@@ -212,7 +211,7 @@ emere, ēmisse, ēmptum - купувам, придобивам
   sūmere, sūmpsisse, sūmptum - вдигам, взимам
     absūmere - изземвам, използвам, изтребвам, унищожавам, убивам
     assūmere - вземам, приемам, получавам, узурпирам
-    cōnsūmere - използвам, употребявам, изяждам, унищожавам
+    cōnsūmere - използвам, употребявам, изяждам, унищожавам, консумирам
     resūmere - продължавам, въсзтановявам се
 agere, ēgisse, āctum - действам, върша
   abigere, abēgisse, abāctum - пъдя, прокуждам, отстранявам болест, вадя,
@@ -589,6 +588,7 @@ olēscere, -!, -! - раста
   adolēscere, adolēvisse, adultum - пораствам
   obsolēscere, obsolēvisse, obsolētum - старея, остарявам
 texere, texuisse, textum - тъка, плета, мрежа
+  intexere - втъкавам, впливам
   praetexere - тъка фриз/ръб, украсявам, прикривам, преструвам се
 metere, messuisse, messum - жъна, кося
   dēmetere - изжъна, покося, откъсвам
@@ -598,3 +598,8 @@ linere, linīvisse/lēvisse, litum - мажа, покривам
   sublinere - подмажа, намажа, измамвам
 sculpere, sculpsisse, sculptum - вая, дялкам, резбовам, дълбая, гравирам, скулптирам
   exsculpere - извая, издялкам, издълбая, изтривам, изнудвам
+coquere, coxisse, coctum - готвя, сготвям
+  concoquere - сготвям
+  dēcoquere - изварявам, изкипявам, изразходвам, банкрутирам, фалирам
+  incoquere - въря, кипя, боядисвам (тъй като някои пигменти се отделяли при варене/кипене), позлатявам/ посребрявам/никелирам (т.е. потапям нещо в разтопен метал)
+  excoquere - сготвям, преварявам, разтопявам, изсушавам, закалявам

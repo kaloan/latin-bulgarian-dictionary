@@ -10,3 +10,4 @@ vellus, -eris, n - руно
 iuba, -ae, f - грива
 plūma, -ae, f - перо
 ūber, -is - виме, плодородие
+acētābulum, -ī, n - вендуза на главоного

@@ -2,7 +2,7 @@ galliciniō - по първи петли
 māne - сутрин
 vesperi - вечер
 hodiē - днес
-cotīdiē - всеки ден
+cotīdiē/cottīdiē/quotīdiē - всеки ден
 herī - вчера
 prīdiē - през предишния ден
 crās - утре
