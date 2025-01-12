@@ -76,7 +76,9 @@ dūrēscere, duruisse - втвърдявам се
 frīgere, frīxisse, frīxum/frīctum - пържа, пека, опичам, изпичам, препичам, овъглявам
 cūdere, cūdisse, cūsum - сека монета, щамповам, вършея, забивам
 obdormīscere, obdormīvisse, obdormītum - заспивам
-torpēscere - изтръпвам, вкочанясвам, ставам мързелив
+torpēscere, torpuisse - изтръпвам, вкочанясвам, ставам мързелив
+mēiere, mixisse, mictum - пикая
+mingere, mīnxisse, mictum - пикая
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
