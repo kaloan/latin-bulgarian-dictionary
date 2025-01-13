@@ -63,6 +63,7 @@ hūmāniter - по човешки, хуманно, любезно
 cōnstanter - спокойно
 tenāciter - настойчиво, непримиримо, непреклонно, непоколебимо
 affābiliter - сговорливо, сговорчиво
+continenter - въздържанo, непрекъснатo, непрестанно, поредно
 
 facile/faciliter - лесно
 difficile/difficiliter - трудно

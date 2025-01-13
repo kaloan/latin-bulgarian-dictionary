@@ -39,7 +39,7 @@ sabbata, -ōrum, n pl - шабат, неделя
 evangelium, -ī, n - евангелие, блага вест
 apostolus, -ī, m - апостол
 seminārium, -ī, n - семинария
-testāmentum, -ī, n - завѐт
+testāmentum, -ī, n - завѐт, завещание
 fīrmāmentum, -ī, n - основа, опора, поддръжка, небе
 nātīvitās, -ātis, f - раждане, рождение, Рождество
 angelus, -ī, m - ангел

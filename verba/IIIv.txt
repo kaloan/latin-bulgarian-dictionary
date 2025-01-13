@@ -24,7 +24,8 @@ facere -iō, fēcisse, fаctum - правя, върша
   stupefacere -iō, stupefēcisse, stupefactum - обърквам, шашардисвам, зашеметявам, сковавам, вцепенявам, карам да изтръпне, притъпявам
   sufficere -iō, suffēcisse, suffectum - да е достатъчно, замествам, доставям
 parere -iō, peperisse, partum - раждам, създавам
-cupere -iō, cupīvisse, cupitum - купнея, желая
+cupere -iō, cupīvisse, cupitum - копнея, желая
+  concupere -iō - копнея, жадувам, петимен съм
 iacere -iō, iēcisse, iactum - хвърлям, мятам
   adicere -iō, adiēcisse, adiēctum - хвърлям към, допълвам
   abicere -iō, abiēcisse, abiēctum - хвърлям далеч, принизявам, обезсърчавам
