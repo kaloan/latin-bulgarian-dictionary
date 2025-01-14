@@ -44,3 +44,4 @@ morbus, -ī, m - болест, заболяване
   myopia, -ae, f - миопия, късогледство
   praesbyopia, -ae, f - пресбиопия, далекогледство
   sēmimās, sēmimaris - хермафродит
+  cholera, -ae, f - холера

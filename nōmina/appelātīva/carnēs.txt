@@ -7,7 +7,8 @@ ovilla, -ae, f - овче
 agnīna, -ae, f - агнешко
 frūstum, -ī, n - пържола
 īsicium, -ī, n - кюфте
-offa, -ae, f - парче месо (и по общо парче храна)
+offa, -ae, f - залък, къшей, хапка
+offula, -ae, f - залче, къшейче, хапчица
 perna, -ae, f - шунка
 lardum, -ī, n - бекон
 ōvum, -ī, n - яйце

@@ -31,7 +31,7 @@ solum, -ī, n - почва
   pulvis, pulveris, f - прах, пясък
   harēna, -ae, f - пясък, арена, кал
 aqua, -ae, f - вода
-lympha, -ae, f - вода, прозрачна течност
+lympha, -ae, f - вода, прозрачна течност, лимфа
   glaciēs, glaciēī, f - лед
   frīgida, -ae, f - студена вода
   tepida, -ae, f - хладка вода

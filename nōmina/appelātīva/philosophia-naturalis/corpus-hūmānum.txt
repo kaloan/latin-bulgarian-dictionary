@@ -91,8 +91,10 @@ pūga, -ae, f - дупе
 pȳga, -ae, f - дупе
   pōdex, -icis, m - анус
 pudenda, -ōrum, n pl - срамни части, срамота
+veretrum, -ī, n - външната част на гениталиите
 lumbī, -ōrum, m pl - слабини, гениталии
   pēnis, -is, m - пенис, сладострастие, опашка (Архаичен Латински)
+  pēniculus, -ī, m - пенисче, метличка (тъй като били ползвани конски и бичи опашки), камшиче, четка
   testis, -is, m - тестис
   mentula, -ae, f - кур
   mūtō, -ōnis, m - чатал
@@ -133,8 +135,6 @@ vīscera, vīscerum, n pl - вътрешности
   intestīnum crassum - дебело черво
 ōs, ossis, n - кост
 vēna, vēnae, f - кръвоносен съд
-  sanguis, sanguinis, m - кръв
-  cruor, -ōris, m - кръв
 statūra, -ae, f - ръст
 naevus, -ī, m - бенка, родилен белег
 cicātrīx, -īcis, f - белег, рана
@@ -144,3 +144,10 @@ pūmiliō, -ōnis, m - джудже, лилипут
 nānus, -ī, m - джудже
 
 concoctiō, -ōnis - храносмилане
+
+hūmor, hūmōris, m - течност, хумор (т.е. телесна течност - кръв, флегма, жълта жлъчка, черна жлъчка)
+  sanguis, sanguinis, m - кръв
+  cruor, -ōris, m - кръв
+  phlegma, -ae, f - флегма, лимфа
+  cholera, -ae, f - жлъчка, жълта жлъчка
+  melancholera, -ae, f - черна жлъчка

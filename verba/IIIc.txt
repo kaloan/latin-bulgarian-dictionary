@@ -620,3 +620,6 @@ pungere, pupungisse, pūnctum - бода, жилвам, жиля
   prōpungere - бода отпред
   repungere - бода отново
   trānspungere - пробождам, промушвам
+verrere, verrisse, versum - мета, чистя, помитам, събарям, отнасям, прикривам
+  converrere - помитам, измитам, пребивам
+  ēverrere - измитам, изчиствам
