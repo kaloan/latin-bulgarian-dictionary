@@ -80,6 +80,11 @@ fodere -iō, fōdisse, fossum - копая, бъркам, убождам, про
   cōnfodere -iō, cōnfōdisse, cōnfossum - дупча, пронизвам, пробивам
   effodere -iō, effōdisse, effossum - изкопая, издълбая, тършувам
   trānsfodere -iō, trānsfodisse, trānsfossum - пронизвам, промушвам
+sapere -iō, sapīvisse - имам вкус (храна), вкусвам, имам вкус (преносно), зная, разбирам
+  cōnsipere -iō - вменяем съм, разумен съм
+  dēsipere -iō - лудувам, палувам
+  praesipere -iō - предчуствам, предусещам
+  supersapere -iō - имам чудесен вкус
 
 
 -cutere -iō, -cussisse, -cussum [троша]

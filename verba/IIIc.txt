@@ -24,7 +24,6 @@ parcere, pepercisse (+dat) - пощадя
   parcere (+īnf) - въздържам се от
 nūbere, nūpsisse (+dat) - забулвам се, омъжвам се (от древно римската практика младоженката да се забулва, по-късно се използва и разширено в смисъл "влизам в брак")
 plaudere, plausisse, plausum (+dat) - пляскам, ръкопляскам
-sapere, sapīvisse - мъдрувам, умувам, постъпвам разумно
 intuere - обследвам
 cōnsulere, cōnsuluisse, cōnsultum - посъветвам, посъветвам се, допитвам, консултирам
 hiscere - зяпам
@@ -80,6 +79,8 @@ obdormīscere, obdormīvisse, obdormītum - заспивам
 torpēscere, torpuisse - изтръпвам, вкочанясвам, ставам мързелив
 mēiere, mixisse, mictum - пикая
 mingere, mīnxisse, mictum - пикая
+resipīscere - връщам се на себе си
+rancēscere, ??? - загнивам, гранясвам, развалям се
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
