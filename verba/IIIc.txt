@@ -50,6 +50,7 @@ mātūrēscere, mātūrisse - узрея
 ingravēscere, ingravuisse - натежа, влоша, да се влоша
   angere, anxisse - сподавям, душа, притеснявам, смущавам, огорчавам, свеня
 abluere - измивам, отмивам, прочиствам, премахвам
+colluere - измивам
 ēluere - измивам, изчиствам
 intumēscere - набъбвам, издувам се
 percellere, perculisse, perculsum - налагам, бия, удрям, лупам, тупам, цапвам, халосвам, разстройвам, огорчавам
@@ -119,7 +120,7 @@ legere, lēgisse, lēctum - чета, бера, избирам, събирам
   neglegere, neglēxisse, neglēctum - отнасям се небрежно, пренебрегвам, нехая, немаря, презирам, бездействам
   sēligere, sēligisse, sēlēctum - избирам, отбирам
 spargere, sparsisse, sparsum - сея, ръся, сипя
-  aspergere, aspersisse, aspersum - поръся, пръскам, посипя
+  adspargere/adspergere/aspargere/aspergere, adsparsisse/adspersisse/asparsisse/aspersisse, adsparsum/adspersum/asparsum/aspersum - поръся, пръскам, посипя, обсипя, цапам
   cōnspergere, cōnspergere, cōnspersum - поръся, разпръсвам
   respergere, respersisse, respersum - поръся, пръсвам, осейвам, обсипвам
 colere, coluisse, cultum - грижа се, поддържам, развивам
@@ -565,7 +566,8 @@ tegere, tēxisse, tēctum - покривам, прикривам
 cingere, cīnxisse, cīnctum - заобикалям, увивам се, слагам колан, навивам
   accingere - препасвам, обгръщам, слагам колан, слагам чанта през рамо/на гръб
   recingere - развивам, разхлабвам, развръзвам, пренавивам
-rēpere - пълза, промъквам се
+rēpere, rēpsisse, rēptum[това е непреходен глагол, защо има супин???] - пълзя, промъквам се
+  irrēpere - припълзя, проявявам се постепенно, разпространявам се протяжно, намеквам
   obrēpere - промъквам се, изненадвам
 tundere, tutudisse, tūnsum - тупвам, цапардосвам, халосвам, нападам, разбивам, меля, тряскам
   contundere, contudisse, contūsum - покорявам изцяло, посинявам, смилам

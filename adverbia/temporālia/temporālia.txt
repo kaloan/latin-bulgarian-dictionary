@@ -22,6 +22,7 @@ perpetuō - постоянно, безспир, винаги, вечно
 diū, diūtius, diūtissimē - задълго
 aliquamdiū - за някакво време, доста време
 paulisper - закратко
+paulumper - закратко
 inde ab (+abl) - откакто
 ūsque ad (+acc) - докато, чак до
 dōnec - докато, доколкото

@@ -10,6 +10,8 @@ equa, -ae, f - жребица
 asturcō, -ōnis, m - ат (от конете от Астурия)
 asinus, -ī, m - магаре
 mūlus, -ī, m - муле
+mūla, -ae, f - женско муле
+rhīnoceros, -ōtis, m - носорог, човек с дълъг нос
 aquila, -ae, f - орел
 vultur, -is, m - лешояд
 columba, -ae, f - гълъб

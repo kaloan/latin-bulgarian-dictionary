@@ -14,6 +14,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   madefacere -iō, madefēcisse, madefactum - мокря, овлажнявам, квася, кисна
   mītificāre (!!!), mītificāvisse, mītificātum - размеквам, укротявам
   officere -iō, offēcisse, offectum - ранявам, препречвам, попречвам
+  olfacere, olfēcisse, olfactum - душа, мириша, вмирисвам, карам нещо да има мирис
   patefacere -iō, patefēcisse, patefactum - открехвам, отварям, разтварям
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
   praeficere -iō, praefēcisse, praefectum - поставям начело
@@ -63,7 +64,7 @@ capere -iō, cepisse, captum - хващам, грабвам, държа, пле�
   excipere -iō, excepisse, exceptum - вадя, премахвам, изключвам, пропускам
   dēcipere -iō, dēcepisse, dēceptum - мамя
   incipere -iō, incepisse, inceptum - започвам
-  occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям
+  occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям, окупирам
   praecipere -iō, praecepisse, praeceptum - ръководя, предвождам
   recipere -iō, recepisse, receptum - приемам, върщам си
     reciperāre - въръщам, възвръщам, възстановявам

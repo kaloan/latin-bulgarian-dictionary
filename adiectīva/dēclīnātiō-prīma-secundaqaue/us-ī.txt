@@ -1,3 +1,7 @@
+paulus - малък
+paullulus - малкичък
+pauxillus - малък, дребен
+pauxillulus - възмалък, въздребен, миниатюрен
 exiguus - нищожен, оскъден, малък, дребен, точен, премерен
 calidus - топъл
 frīgidus - студен
@@ -247,6 +251,7 @@ paternus - бащин
 mūtuus - зает, взет назаем, споделен, общ
 dēlicātus - деликатен, разкошен, разглезен, женствен
 pusillus - дребен
+perpusillus - въздребен
 prānsus - нахранен, приключил обяда си
 amantissimus - най-благ
 cārissimus - най-скъп
@@ -483,6 +488,11 @@ verēcundus - срамежлив, засрамен, почитаем
   inverēcundus - срамен, безсрамен
 exsultābundus - скачащ от радост
 plusculus - повечко (ако имаше съответстващо прилагателно име)
+amnicus - речен
+rīvālicius - от човек, споделящ същата река/бързей
+rhīnocerōticus - носорогов, присмиващ се
+brochus/broccus/broccus/broncus - с сърчащи зъби
+pavīmentātus - павиран, с под
 
 tantus - толкова голям
 tantulus - толкова малък

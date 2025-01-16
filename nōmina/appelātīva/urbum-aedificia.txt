@@ -42,7 +42,7 @@ aedēs, -ium, f pl - жилище, блок
     later, -is, m - тухла
   fundāmentum, -ī, n - основа, фундамент
   capitulum, -ī, n - най-висока част на колона, покрив
-  tegulum, -ī, n - покрив
+  tēgulum, -ī, n - покрив
     tēgula, -ae, f - керемида
   dēlicia, -ae, f - ъгълна опорна греда
   capreolus, -ī, m - опорна греда, опора
@@ -96,3 +96,4 @@ molaе, -ārum, f pl - мелница
 moletrīna/molīna, -ae, f - мелница
 arcus, -ūs, m - свод, арка
 vīvārium, -ī, n - парк, заграждение
+pavīmentum, -ī, n - настилка, паваж, калдъръм

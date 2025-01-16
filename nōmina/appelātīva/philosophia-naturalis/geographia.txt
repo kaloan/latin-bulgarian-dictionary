@@ -20,6 +20,7 @@ specus, -ūs, m - пещера, скривалище
 sȳringēs, -um, f pl - пещери, тунели
 cunī̆culus, -ī, m - мина, тунел, галерия
 vallis, -is, f - долина
+vallicula/vallēcula, -ae, f - долинка, клисура
 collis, -is, m - хълм
 tumulus, -ī, m - могила, хълмче
 campus, -ī, m - равнина
@@ -37,9 +38,11 @@ lūcus, -ī, m - свещенна гора
 paenīnsula, -ae, f - полуостров (букв. почти остров)
 fōns, fōntis, m - извор, фонтан, изтичник, първопричина
 puteus, -ī, m - кладенец
-amnis, -is, m - река
+amnis, -is, m - голяма/бърза река, бързей
+amniculus, -ī, m - поток, ручей
 fluvius, -ī, m - река
-rīvus, -ī, m - река
+rīvus, -ī, m - река, поток
+rīvulus, -ī, m - рекичка, поточе
 flūmen, flūminis, n - река
 rīpa, -ae, f - речен бряг
 alveus, -ī, m - речно корито

@@ -16,6 +16,7 @@ locuplēs, -ētis - богат, богаташ
 concors, concordis - единен, единодушен, споделен, мирен
 excors, excordis - глупав, тъп, лекомислен (действащ от сърцето/чувствата си)
 misericors, misericordis - съчувствен, състрадателен
+immisericors, immisericordis - безчувствен, безмилостен, безпощаден
 inops, inopis - невещ, неможещ, жалък
 biceps - двуглав
 triceps - триглав
