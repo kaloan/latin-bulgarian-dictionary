@@ -81,7 +81,7 @@ sancta, -ae, f - светица
 historicē, -ēs, f - екзегеза
 prex, precis, f - жалба, молба, молитва
 vōtum, -ī, n - клетва, обет, молитва
-
+trīnitās, -ātis, f - троица, Светата Троица
 
 baptisma, baptismatis, n - кръщение, покръстване, Потопа
 baptismum, -ī, n - кръщение, покръстване

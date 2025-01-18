@@ -5,6 +5,7 @@ nūllus, -īus - нула, без
 ūnus, ūnum, ūnīus, ūnī, ūnō, ūnī, ūnōs, ūnōrum, ūnīs, ūnīs - един
 ūna, ūnam, ūnīus, ūnī, ūnā, ūnae, ūnās, ūnārum, ūnīs, ūnīs - една
 ūnum, ūnum, ūnīus, ūnī, ūnō, ūna, ūna, ūnōrum, ūnīs, ūnīs - едно
+sēsquiplex, sēsquiplicis - един и половина пъти зает/запълнен
 duo, duōs, duōrum/duum, duōbus, duōbus - два
 duae, duās, duārum, duābus, duābus - две (женски род)
 dua/duo, dua/duo, duōrum/duum, duōbus, duōbus - две (среден род)

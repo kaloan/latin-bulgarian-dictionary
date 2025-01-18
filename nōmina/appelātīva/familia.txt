@@ -12,10 +12,11 @@ posterī, -ōrum, m pl - потомци, наследници
 stirps, stirpis, f - родословие, рода, потомство
 
 mamma, -ae, f - мама
-pāpa, -ae, m - тати
 māter, mātris, f - майка
+mātercula, -ae, f - майчица
 noverca, -ae, f - мащеха
 genetrīx, -īcis, f - родителка, майка
+pāpa, -ae, m - тати
 pater, patris, m - баща, татко
 vītricus, -ī, m - доведен баща
 genitor, -ōris, m - родител, баща

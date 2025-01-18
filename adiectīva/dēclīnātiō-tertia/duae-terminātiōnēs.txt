@@ -141,6 +141,8 @@ terminālis, -is - граничен, краен, последен
 rīvifīnālis, -is - ограничен от река
 ānulāris, -is - пръстеновиден
 fānitālis, -is - храмов
+frangibilis, -is - чуплив, трошлив
+taeniensis, -is - живеещ по рифове
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен
