@@ -72,12 +72,14 @@ aedēs, -ium, f pl - жилище, блок
   stōa, -ae, f - стоа, портик
   templum, -ī, n - храм
   fānum, -ī, n - храм, капище, светилище
+  fānulum, -ī, n - параклис
     altāre, altāris, n - олтар
     altāria, -ium, n pl - олтар
     āra, -ae, f - олтар, жертвеник
     baptistērium, -ī, n - къпалня, кръщелня, баптистерий
   tumulus, -ī, m - гробница, могила
-  taberna, -ae, f - магазин
+  officīna, -ae, f - дюкян, работилница, цех, завод, манифактура, аптека
+  taberna, -ae, f - дюкян, магазин
     caupōna, -ae, f - странноприемница
     thermopōlium, -ī, n - ресторанче
     pistrīna, -ae, f - пекарна

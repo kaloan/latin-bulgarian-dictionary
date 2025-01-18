@@ -4,6 +4,7 @@ cānus - бял
 candidus - бляскаво бял
 albus - матово бял
 niger - бляскаво черен
+    perniger - възчерен
 āter - матово черен
 pulus - тъмноцветен, черен
 prasinus - светло зелен

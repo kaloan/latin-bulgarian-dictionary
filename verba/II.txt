@@ -36,7 +36,6 @@ nēre - тъка
 salvēre - здравея
 avēre, (!), (!) - чуствам се добре (обикновено в императив), копнея, желая
 prandēre, prandisse, pransum - обядвам
-nitēre - блестя, изглеждам здрав
 urgēre - настоявам, притискам, да съм спешен
 pertimēscere - изплашвам се
 virēre - зеленея, расна, цъфтя
@@ -173,3 +172,5 @@ tacēre, tacuisse, tacitum - мълча, да съм в покой, премъл
   conticēre, conticuisse - мълча, не мърдам
   reticēre, reticuisse - замълча, премълча, крия тайна
   obticēre, obticuisse - мълча
+nitēre - блестя, изглеждам здрав
+  pernitēre - блестя силно
