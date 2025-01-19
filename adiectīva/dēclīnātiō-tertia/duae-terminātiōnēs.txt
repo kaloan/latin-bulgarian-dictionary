@@ -90,7 +90,8 @@ aequālis, -is - равен, подобен, сравним, еднороден
 gentīlis, -is - сроден, сънароден
 gentīlis, -is - езически
 salūtāris, -is - приветствен
-līberālis, -is - щедър
+līberālis, -is - щедър, почтен, достоен
+illīberālis, -is - лаком, непочтен, подъл
 hilaris, -is - весел, жизнерадостен
 optābilis, -is - желателен
 tolerābilis, -is - поносим
@@ -143,6 +144,8 @@ rīvifīnālis, -is - ограничен от река
 fānitālis, -is - храмов
 frangibilis, -is - чуплив, трошлив
 taeniensis, -is - живеещ по рифове
+ancillāris, -is - слугински
+cōnābilis, -is - усилен, напрегнат, трудоемък
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен

@@ -94,6 +94,7 @@ sēmihomō, sēmihominis, m - получовек
 piscis, -is, m - риба
   sardīna, -ae, f - сардина
   scomber, scombrī, m - скумрия
+  squalus, -ī, m - акула
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица

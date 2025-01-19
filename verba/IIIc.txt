@@ -82,6 +82,7 @@ mingere, mīnxisse, mictum - пикая
 resipīscere - връщам се на себе си
 rancēscere, ??? - загнивам, гранясвам, развалям се
 macrēscere, macruisse - отслабвам, вталявам се
+collabascere, ??? - клатушкам се, клатя се
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -151,6 +152,7 @@ mittere, mīsisse, missum - пращам, освобождавам, мятам
   ēmittere - изпращам, изпускам, изхвърлям, излъчвам
   immittere - внасям, вмъкнвам, въвеждам
   intermittere - секвам, прекъсвам, пропускам, прескачам
+  manūmittere - освобождавам
   omittere - пропускам, изпускам, пренебрегвам
   permittere - позволявам, допускам
   praemittere - пращам напред, пращам предварително
@@ -170,7 +172,7 @@ iungere, iūnxisse, iūnctum - свързвам, сглобявам, събир�
   disiungere  - разделям
 cadere, cecidisse - падам, умирам
   accidere, accidisse - случва се, сбъдва се, съвпадне, да стане
-  concidere, concidisse - падам, припадам, сривам се, убиват ме, отслабвам, разпадам се
+  concidere, concidisse - падам, припадам, прималявам, сривам се, убиват ме, отслабвам, разпадам се
   dēcidere, dēcidisse - падам надолу, тупвам, потъвам, умирам
   incidere, incidisse - появява се, случва се, попадам на
   occidere, occidisse, occāsum - падам, залязвам, загивам, умирам, загубен съм, унищожен съм
@@ -443,7 +445,7 @@ quaerere (+īnf) - желая
   conquīrere, conquīsisiisse/conquīsivisse, conqiīsītum - претърся, издирвам, проучвам
   exquīrere, exquīsisiisse/exquīsivisse, exquīsītum - издирвам, разпитвам, оплаквам се, проучвам
   inquīrere, inquīsiisse/inquīsivisse, inquīsitum - допитвам се, издирвам, разследвам
-  requīrere, requīsiisse/requīsivisse, requīsitum - търся, питам
+  requīrere, requīsiisse/requīsivisse, requīsitum - търся, питам, изисквам
 flectere, flexisse, flexum - вия, свивам
   dēflectere - отбивам
   īnflectere - свивам, скланям (граматически), спрягам (граматически)
