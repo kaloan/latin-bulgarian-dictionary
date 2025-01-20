@@ -136,7 +136,8 @@ vīscera, vīscerum, n pl - вътрешности
     ileum, -ī, n - хълбочно черво
   intestīnum crassum - дебело черво
 ōs, ossis, n - кост
-vēna, vēnae, f - кръвоносен съд
+artēria, -ae, f - артерия, дихателна тръба, трахея
+vēna, vēnae, f - жила, жилка, кръвоносен съд, вена, пикочен канал
 statūra, -ae, f - ръст
 naevus, -ī, m - бенка, родилен белег
 cicātrīx, -īcis, f - белег, рана

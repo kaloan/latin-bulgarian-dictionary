@@ -79,6 +79,7 @@ sōrex, sōricis, m - полска мишка
 rattus, -ī, m - плъх
 canis, -is, m/f - куче/кучка
 catulus, -ī, m - паленце, кученце, вълче
+  molossus, -ī, m - куче от порода сходна с мастифа
 lupus, -ī, m - вълк
 lupa, -ae, f - вълчица, проститутка
 vulpēs, -is, f - лисица
@@ -132,3 +133,6 @@ sēpia/saepia, -ae, f - сепия
 dracō, -ōnis, m - дракон, змей
 orcus, -ī, m - орк
 gigās, gigantis, m - гигант
+
+
+corallium, -ī, n - корал

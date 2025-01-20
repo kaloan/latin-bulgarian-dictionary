@@ -28,5 +28,6 @@
         "**/.spellignore",
         "**/collātiō.txt",
         "**/collātiō-simplex.txt"
-    ]
+    ],
+    "gitlens.blame.ignoreWhitespace": true
 }

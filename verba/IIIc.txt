@@ -427,7 +427,8 @@ pendere, pependisse, pēnsum - вися, тежа, тегля (меря маса
   rependere, rependisse, repēnsum - претеглям, отплащам се
   sūspendere, sūspendisse, sūspēnsum - провисвам, увисвам, прекратявам
 quiēscere, quiēvisse - почивам
-  requiēscere - отпочина
+  conquiēscere - почивам, дрямвам
+  requiēscere - отпочивам
 fīdere, fīsum (+dat) - вярвам (на)
   cōnfīdere (+dat) - доверявам се (на)
   diffīdere (+dat) - не вярвам (на)
@@ -630,7 +631,7 @@ coquere, coxisse, coctum - готвя, сготвям
   dēcoquere - изварявам, изкипявам, изразходвам, банкрутирам, фалирам
   incoquere - варя, кипя, боядисвам (тъй като някои пигменти се отделяли при варене/кипене), позлатявам/ посребрявам/никелирам (т.е. потапям нещо в разтопен метал)
   excoquere - сготвям, преварявам, разтопявам, изсушавам, закалявам
-pungere, pupungisse, pūnctum - бода, жилвам, жиля
+pungere, pupugisse, pūnctum - бода, жилвам, жиля
   circumpungere - бода около нещо
   compungere - избода, татуирам, подбуждам, подтиквам
   dēpungere - отметвам, отмятам, отбелязвам

@@ -25,6 +25,9 @@ caerimōnia, -ae, f - церемония, ритуал
 rītus, -ūs, m - обред, ритуал
 dēdicātiō, -ōnis, f - освещаване
 
+anima, -ae, f - дъх, дихание, душа
+psȳchē, psȳchēn, f - душа, разум
+
 ōmen, ōminis, n - поличба
 portentum, -ī, n - поличба, прокоба, чудо, чудовище
 prōdigium, -ī, n - знамение, предзнаменование, чудо
@@ -105,13 +108,13 @@ incarnātiō, -ōnis, f - въплъщение
 reincarnātiō, -ōnis, f - превъплъщение
 exorcismus, -ī, m - екзорсизъм
 indulgentia, -ae, f - прошка, индулгенция
+manutergium, -ī, n - плат/кърпа използвана от католически свещеник, за избърсване на ръцето от миро
 
 baptisma, baptismatis, n - кръщение, покръстване, Потопа
 baptismum, -ī, n - кръщение, покръстване
 baptizātiō, -ōnis, f - кръщение, покръстване
 baptista, -ae, m - кръстител
 baptizātor, -ōris, m - кръстител
-anima, -ae, f - дъх, дихание, душа
 brandeum, -ī, n - покров, плащаница
 patrīnus, -ī, m - кръсник
 patrīna, -ae, f - кръсница

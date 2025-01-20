@@ -521,6 +521,10 @@ dominicus - господствен
 supervacāneus - ненужно голям, излишен
 nātīvus - вроден, естествен, природен, първичен, роден, създаден
 fascinōsus - с голям пенис
+vātī̆cānus - ватикански
+veterānus - стар, ветеран
+corallinus - коралов
+sopōrus - приспиващ, сънлив
 
 tantus - толкова голям
 tantulus - толкова малък
@@ -562,3 +566,4 @@ Scyllaeus - Сцилов
 Cyclōpius - Циклопов
 Sāturnius - Сатурнов
 Tiberīnus - Тибъров
+Sophoclēus - Софоклев
