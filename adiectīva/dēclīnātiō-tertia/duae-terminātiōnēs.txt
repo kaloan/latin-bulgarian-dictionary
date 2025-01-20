@@ -66,7 +66,7 @@ equestris, -is - конен
 puerīlis, -is - момчешки, детински
 caelestis, -is - небесен
 iuvenālis, -is - младежки
-populāris, -is - народен
+populāris, -is - народен, популярен
 immedicābilis, -is - неизлечим
 temporālis, -is - времеви, временен, ефимерен, мимолетен, свързан с времето (граматически)
 impūnis, -is - безнаказан
@@ -149,6 +149,7 @@ cōnābilis, -is - усилен, напрегнат, трудоемък
 dēsīderābilis, -is - желан, копнян, липсван
 effābilis, -is - изразим, произносим
 ineffābilis, -is - неизразим, непроизносим
+impetrābilis, -is - леснодостъпен, лесно постижим
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен

@@ -44,7 +44,6 @@ occulere, occuluisse, occultum - крия, прикривам
 senēscere, senuisse - старея
 adulēscere, adulēvisse - младея
 gignere, genuisse, genitum - зачевам, пораждам, причинявам, раждам
-portendere, portendisse, portentum - предвежавам, предсказвам, показвам
 mātūrēscere, mātūrisse - узрея
 ingravēscere, ingravuisse - натежа, влоша, да се влоша
   angere, anxisse - сподавям, душа, притеснявам, смущавам, огорчавам, свеня
@@ -277,13 +276,20 @@ tinguere, tinxisse, tinctum - намокрям, топвам
 stinguere, stinxisse, stinctum  - гася, унищожавам
   exstinguere, еxstinxisse, exstinctum - угасявам, убивам, унищожавам
   restinguere, restinxisse, restinctum - изгасявам, убивам, унищожавам
-tendere, tendisse, tentum - опъвам, дърпам, насочвам оръжие, напрягам се, запътил съм се
-  attendere - насочвам внимание, внимавам, грижа се
-  contendere - натягам, настройвам струнен музикален инструмент, шири се, пътувам, боря се, придвижвам се, опъвам (лък)
-  extendere - разширявам, удължавам, натягам
-  intendere - опъвам, обтягам
-  ostendere - показвам, представям, предавам новини/знание
-  prōtendere - изпъвам, разпъвам
+tendere, tetendisse, tentum/tēnsum - опъвам, дърпам, насочвам оръжие, напрягам се, запътил съм се
+  attendere, attendisse, attentum - насочвам внимание, внимавам, грижа се
+  contendere, contendisse, contentum - натягам, настройвам струнен музикален инструмент, шири се, пътувам, боря се, придвижвам се, опъвам (лък), напрягам се
+  detendere, detendisse, detentum - отхлабвам, свивам военния лагер (подготвям се за поход)
+  distendere, distendisse, distentum - разпъвам, разтягам
+  extendere, extendisse, extentum - разширявам, удължавам, натягам
+  intendere, intendisse, intentum/intēnsum - затягам, опъвам, обтягам, съсредоточавам се, насочвам
+  obtendere, obtendisse, obtentum - затягам, скривам, твърдя
+  ostendere, ostendisse, ostentum/ostēnsum - показвам, представям, предавам новини/знание
+  pertendere, pertendisse, pertēnsum - пребъдвам, просъществувам
+  portendere, portendisse, portentum - предвежавам, предсказвам, показвам
+  praetendere, praetendisse, praetentum/praetēnsum - протягам, опъвам, разпъвам, преструвам се
+  prōtendere, prōtendisse, prōtēnsum - изпъвам, разпъвам, разтягам
+  retendere, retendisse, retēnsum - отпускам, разгъвам
 dīcere, dīxisse, dictum - казвам
   abdīcere - изземвам по закон
   addīcere - благосклонен съм, милостивя, приписвам, предавам, посвещавам
