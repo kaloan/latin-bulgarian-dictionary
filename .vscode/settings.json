@@ -7,5 +7,26 @@
         "markdown",
         "latex",
         "plaintext"
+    ],
+    "spellright.ignoreRegExpsByClass": {
+        "markdown": [
+            "/&amp;/g",
+            "/&nbsp;/g"
+        ],
+        "latex": [
+            "/\\\\begin{minted}[^]*?\\\\end{minted}/gm"
+        ],
+        "plaintext": [
+            "/^.*-/gm", // Don't spellcheck the Latin!
+            // "/(Ч|Я|В|Е|Р|Т|Ъ|У|И|О|П|А|С|Д|Ф|Г|Х|Й|К|Л|Ю|З|Ц|Ж|Б|Н|М|Ш|Щ)\\w+/", // Don't spellcheck names, write proper UTF8 RegEx!
+            "/ѝ/gm" // Why is it not in the dictionary???
+        ]
+    },
+    "spellright.suggestionsInHints": false,
+    "spellright.ignoreFiles": [
+        "**/.gitignore",
+        "**/.spellignore",
+        "**/collātiō.txt",
+        "**/collātiō-simplex.txt"
     ]
 }
