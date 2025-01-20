@@ -13,17 +13,17 @@ neutra, neutram, neutrīus, neutrī, neutrā, neutrae, neutrās, neutrārum, neu
 neutrum, neutrum, neutrīus, neutrī, neutrō, neutra, neutra, neutrōrum, neutrīs, neutrīs - нито двете
 
 alter, alterum, alterīus, alterī, aletrō, alterī, altrōs, alerōrum, alterīs, alterīs - единият/другият от двама
-altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едината/другата от две
-alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - единото/другото от две
+altera, alteram, alterīus, alterī, aletrā, alterae, alterās, alerārum, alterīs, alterīs - едната/другата от две
+alterum, alterum, alterīus, alterī, aletrō, altera, altera, alerōrum, alterīs, alterīs - едното/другото от две
 
 
 alius, alium, alīus, aliī, aliō, aliī, aliōs, aliōrum, aliīs, aliīs - друг
 alia, aliam, alīus, aliī, aliā, aliae, aliās, aliārum, aliīs, aliīs - друга
 aliud, aliud, alīus, aliī, aliō, alia, alia, aliōrum, aliīs, aliīs - друго
 
-quis/quī, quem, cuius, cuī, quō, quī, quōs, quōrum, quibus, quibus - някой, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
-qua, quam, cuius, cuī, quā, quae, quās, quārum, quibus, quibus - някоя, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
-quid/quod, quid/quod, cuius, cuī, quō, qua, quas, quōrum, quibus, quibus - някое, но само в изречения за непряки въпроси и условни изречения (sī, nisi, nē, num)
+quis/quī, quem, cuius, cuī, quō, quī, quōs, quōrum, quibus, quibus - някой, но само в изречения за непреки въпроси и условни изречения (sī, nisi, nē, num)
+qua, quam, cuius, cuī, quā, quae, quās, quārum, quibus, quibus - някоя, но само в изречения за непреки въпроси и условни изречения (sī, nisi, nē, num)
+quid/quod, quid/quod, cuius, cuī, quō, qua, quas, quōrum, quibus, quibus - някое, но само в изречения за непреки въпроси и условни изречения (sī, nisi, nē, num)
 
 aliquis, aliquem, alicuius, alicuī, aliquō, aliquī, aliquōs, aliquōrum, aliquibus, aliquibus - някой
 aliqua, aliquam, alicuius, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя

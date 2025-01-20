@@ -109,7 +109,7 @@ musca, -ae, f - муха
 culex, culicis, m - комар
 pūlex, pūlicis, m - бълха
 scarabæus, -ī, m - скарабей, бръмбар
-anguis, -is, m/f - змя, змей
+anguis, -is, m/f - змия, змей
 serpēns, -entis, m/f - змия, влечуго
   vīpera, -ae, f - усойница (змия), усойница (лош човек), пепелянка
   coluber, colubrī, m - мъжка змия

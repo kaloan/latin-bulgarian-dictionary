@@ -21,20 +21,20 @@ septem, indecl - седем
 octō, indecl - осем
 novem, indecl - девет
 decem, indecl - десет
-ūndecim, indecl - единайсет
-duodecim, indecl - дванайсет
-trēdecim, indecl - тринайсет
-quattuordecim, indecl - четиринайсет
-quīndecim, indecl - петнайсет
-sēdecim, indecl - шеснайсет
-sepemdecim, indecl - седемнайсет
-duodēvīgintī, indecl - осемнайсет
-ūndēvīgintī, indecl - деветнайсет
-vīgintī, indecl - двайсет
-trīginta, indecl - трийсет
-quadrāginta, indecl - четирийсет
+ūndecim, indecl - единадесет, единайсет
+duodecim, indecl - дванадесет, дванайсет
+trēdecim, indecl - тринадесет, тринайсет
+quattuordecim, indecl - четиринадесет, четиринайсет
+quīndecim, indecl - петнадесет, петнайсет
+sēdecim, indecl - шестнадесет, шестнайсет
+sepemdecim, indecl - седемнадесет, седемнайсет
+duodēvīgintī, indecl - осемнадесет, осемнайсет
+ūndēvīgintī, indecl - деветнадесет, деветнайсет
+vīgintī, indecl - двадесет, двайсет
+trīginta, indecl - тридесет, трийсет
+quadrāginta, indecl - четиридесет, четиресет
 quīnquāginta, indecl - петдесет
-sexāginta, indecl - шейсет
+sexāginta, indecl - шестдесет, шейсет
 septuāginta, indecl - седемдесет
 octōginta, indecl - осемдесет
 nōnāginta, indecl - деветдесет
@@ -43,7 +43,7 @@ ducentī - двеста
 trecentī - триста
 quadringentī - четиристотин
 quīngentī - петстотин
-sescentī - шестотин
+sescentī - шестстотин
 septingentī - седемстотин
 octingentī - осемстотин
 nōngentī - деветстотин

@@ -22,7 +22,7 @@ autumnus, -ī, m - есен
 hiems, -is, f - зима
 mēnsis, -is, m - месец
 hebdomas, hebdomadis, f - седмица
-hebdomada, -ае, f - седмица
+hebdomada, -ae, f - седмица
 septimāna, -ae, f - седмица
 fēria, -ae, f - ден от седмицата, празник, панаир
 quadrīduum, -ī, n - четиридневие
