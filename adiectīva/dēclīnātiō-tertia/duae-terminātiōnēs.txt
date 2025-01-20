@@ -15,7 +15,7 @@ glaciālis, -is - леден, вледенен
 trīstis, -is - тъжен, натъжен
 brevis, -is - къс
 gravis, -is - тежък
-levis, -is - лек
+levis, -is - лек (за тегло), лек (пъргав), лек (незначителен)
 fortis, -is - силен, могъщ, смел
 sēmis, -is - половин
 tālis, -is - такъв
@@ -146,6 +146,9 @@ frangibilis, -is - чуплив, трошлив
 taeniensis, -is - живеещ по рифове
 ancillāris, -is - слугински
 cōnābilis, -is - усилен, напрегнат, трудоемък
+dēsīderābilis, -is - желан, копнян, липсван
+effābilis, -is - изразим, произносим
+ineffābilis, -is - неизразим, непроизносим
 
 Laurēns, Laurentis - Лаурентов
 Cereālis - Цереров, (преносно) земеделски/житен

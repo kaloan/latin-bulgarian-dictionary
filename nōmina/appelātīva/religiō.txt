@@ -41,6 +41,11 @@ prōcantātor - заклинател, магьосник
 incantātiō, -ōnis, f - баене, заклинание, магия, обаяние (с магия)
 incantāmentum, -ī, n - заклинание, вълшебство
 cantāmen, -inis, n - заклинание, магия
+fascinātor, -ōris, m - чародей
+fascinātiō, -ōnis, f - чародейство
+fascinum, -ī, n - чар, магия
+effascinātiō, -ōnis, f - чародейство
+dēvōtiō, -ōnis, f - клетва, заклеване, отдаденост, преданост, набожност, проклятие, проклеване, заклинание, вълшебство
 
 prophēta, -ae, m - пророк, предсказател
 praedictum, -ī, n - предсказание
@@ -81,7 +86,8 @@ hymnus, -ī, m - химн
 paradīsus, -ī, m - рай
 Scrīptūrae, -ārum, f pl - Писанията (Вехтия завет)
 daps, dapis, f - курбан
-peregrīnātiō, -ōnis, f - странстване, поклонение
+peregrīnātiō, -ōnis, f - поклонение
+peregrīnātor, -ōris, m - поклонник
 sacristia, -ae, f - сакристия, ризница, дяконикон
 capelānus, -ī, m - капелан
 sacellum, -ī, m - църквичка, параклис
@@ -94,6 +100,7 @@ trīnitās, -ātis, f - троица, Светата Троица
 incarnātiō, -ōnis, f - въплъщение
 reincarnātiō, -ōnis, f - превъплъщение
 exorcismus, -ī, m - екзорсизъм
+indulgentia, -ae, f - прошка, индулгенция
 
 baptisma, baptismatis, n - кръщение, покръстване, Потопа
 baptismum, -ī, n - кръщение, покръстване

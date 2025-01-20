@@ -21,7 +21,8 @@ metallum, -ī, n - метал
   argentum, -ī, n - сребро
   ferrum, -ī, n - желязо, оръжие
   plumbum, -ī, n - олово
-carbō, -ōnis, m - въглища
+carbō, -ōnis, m - въглен, въглища
+carbunculus, -ī, m - въгленче
 tūs, tūris, n - тамян
 myrrha, -ae, f - миро
 smaragdus, -ī, m - смарагд
