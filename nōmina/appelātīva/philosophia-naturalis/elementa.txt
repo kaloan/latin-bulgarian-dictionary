@@ -13,6 +13,7 @@ aura, -ae, f - въздух, миризма, вятър
   frīgus, frīgoris, n - студ, студено място/район, мраз, лед, смърт, треска, равнодушие
   frīgor, frīgōris, m - студ, мраз
   frīgiditās, -ātis, f - студенина
+  algor, algōris, m - студ, студенина
 tellus, -ūs, f - земя (като елемента), Земята, земя (като на каквото стъпваме)
 humus, -ī, m - земя, почва
 solum, -ī, n - почва
@@ -36,7 +37,7 @@ lympha, -ae, f - вода, прозрачна течност, лимфа
   frīgida, -ae, f - студена вода
   tepida, -ae, f - хладка вода
   calida, -ae, f - топла вода
-  ūmor, ūmōris, m - влага
+  ūmor, ūmōris, m - влага, влажност
 ignis, -is, m - огън
   scintilla, -ae, f - искра
   incendium, -ī, n - пожар
@@ -44,6 +45,7 @@ ignis, -is, m - огън
   fūmus, -ī, m - пушек, дим
   cinis, cineris, m - пепел, въглени
   fūlīgō, fūlīginis, f - сажди
+  siccitās, -ātis, f - сухота, суша
 
 
 gutta, -ae, f - капка

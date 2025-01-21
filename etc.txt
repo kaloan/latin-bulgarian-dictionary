@@ -266,6 +266,10 @@ prō virīlī parte/portiōne - по собствен дял
 kalendae Graecae - когато цъфнат налъмите
 Martiae kalendae - Матроналия
 lābem dare - разпадам се, рухвам
+opus esse - необходимо е
+opus esse (+nom/abl) - има нужда от
+
+diēs tertius - другиден (???)
 
 nōn commitam ut - не допускам
 in eō esse ut - редовно правя, отвреме на време правя

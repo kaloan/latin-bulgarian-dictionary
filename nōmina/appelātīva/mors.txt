@@ -21,7 +21,9 @@ planca, -ae, f - надгробна плоча/дъска
 lāmentātor, -ōris, m -надаващ вопли мъж
 lāmentātrīx, -īcis, f - надаваща вопли жена
 
+medicīna, -ae, f - медицина, лечение, лекуване
 medicāmentum, -ī, n - лекарство, медикамент
+remedium, -ī, n - лек, лекарство, цяр
 
 venēnum, -ī, n - отрова
 pestilentia, -ae, f - чума, болест
