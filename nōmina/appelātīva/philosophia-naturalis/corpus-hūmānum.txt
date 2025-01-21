@@ -9,7 +9,7 @@ cutis, -is, f - кожа, обелка
   caulae, -ārum, f pl - пори, дупки
 tāctus, -ūs, m - допир
 tempus, temporis, n - слепоочие
-caput, capitis, n - глава
+kaput/caput, capitis, n - глава
 capitulum, -ī, n - главичка
   cranium - череп
   faciēs, faciēī, f - лице, предна част
@@ -35,6 +35,7 @@ capitulum, -ī, n - главичка
   mandibula, -ae, f - челюстна кост
   ōs, ōris, n - уста
     labrum, -ī, n - устна
+    labellum, -ī, n - устничка
     dēns, dentis, m - зъб
     lingua, -ae, f - език
     cavea, -ae, f - небце
@@ -136,6 +137,7 @@ vīscera, vīscerum, n pl - вътрешности
     ileum, -ī, n - хълбочно черво
   intestīnum crassum - дебело черво
 ōs, ossis, n - кост
+  medulla, -ae, f - костен мозък
 artēria, -ae, f - артерия, дихателна тръба, трахея
 vēna, vēnae, f - жила, жилка, кръвоносен съд, вена, пикочен канал
 statūra, -ae, f - ръст

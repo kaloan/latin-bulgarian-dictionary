@@ -7,7 +7,6 @@ plangere, planxisse, planctum - бия се в гърдите от печал
 pingere, pīnxisse, pictum - рисувам
 consciscere, consciisse/conscivisse, conscitum - да реша
 consciscere (+sibi) - да си навлека
-molere, moluisse, molitum - стривам
 pluere, pluisse - вали
 compescere, compescuisse - въздържам се, преграждам, утолявам
 bibere, bibisse, bibitum - пия
@@ -81,7 +80,6 @@ mingere, mīnxisse, mictum - пикая
 resipīscere - връщам се на себе си
 rancēscere, ??? - загнивам, гранясвам, развалям се
 macrēscere, macruisse - отслабвам, вталявам се
-collabascere, ??? - клатушкам се, клатя се
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -339,8 +337,8 @@ cēdere, cessisse, cessum - движа се, местя се
   succēdere - изкачвам се, придвижвам се, следвам, наследявам власт
 vīvere, vīxisse, victum - живея
   pervīvere - надживявам
-sinere, sivisse/sisse, situm - позволявам, разрешввам
-  dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам
+sinere, sīvisse/sisse, situm - позволявам, разрешввам, оставям
+  dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам, отказвам се
 fluere, fluxisse, fluxum - тека
   affluere - притека, прииждам, стичаме се
   affluere (+abl) - изобилствам (с), обсипан съм (с), имам много (от)
@@ -655,3 +653,7 @@ calēscere, caluisse - топля се, грея се, загрявам се, в
   incalēscere - стоплям се, сгрявам се
 pavēscere, pavisse - изплашвам се, страхувам се от
   expavēscere, expavisee - ужасявам се, ужасявам се от, потресавам се
+labascere, ??? - разпадам се, колебая се
+  collabascere, ??? - клатушкам се, клатя се
+molere, moluisse, molitum - меля, стривам
+  ēmolere - измеля, стривам

@@ -73,8 +73,7 @@ Bēthania, -ae, f - Витания
 Emmaus, indecl, ??? - Емаус
 Tyrus, -ī, f - Тир
 
-Karthagō, -inis, f - Картаген
-Carthagō, -inis, f - Картаген
+Karthagō/Carthagō, -inis, f - Картаген
 Utica, -ae, f - Утика
 Scillium, -ī, n - Сцилиум, Схеле
 

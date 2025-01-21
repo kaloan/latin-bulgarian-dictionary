@@ -22,9 +22,11 @@ cognitiō, -ōnis, f - съдебен процес, разследване, по
     stuprum, -ī, n - изнасилване, разврат, прелюбодейство
     homicīdium, -ī, n - убийство
     homicīda, -ae, m/f - убиец, убийца
+    necātrīx, necātrīcis, f - убийца
     suspectus, -ūs, m - заподозряно лице
     plagiārius, -ī, m - похитител
     plagiāria, -ae, f - похитителка
+    necātor, -ōris, m - убиец
   līs, lītis, f - иск, кавга, спор
   iūdex, iūdicis, m - съдия, съдник
   causidicus, -ī, m - баристер, адвокат
