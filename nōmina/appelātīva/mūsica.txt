@@ -1,0 +1,38 @@
+mūsica, -ae, f - музика
+mūsicē, mūsicēs, f - музика
+organum, -ī, n - музикален инструмент, инструмент, приспособление
+poēta, -ae, m/f - поет
+bardus, -ī, m - бард
+lyra, -ae, f - лира
+fidēs, -is, f - лира, струнен инструмент
+cithara, -ae, f - лира, лютня, китара
+  violīna, -ae, f - цигулка
+tībīcen, -inis, m - флейтист
+tībia, -ae, f - флейта, свирка (понеже първоначално се правили от пищяли)
+fistula, -ae, f - флейта, свирка
+clārinētum, -ī, n - кларинет
+sȳrinx, sȳringos!, f - тръстикова флейта, флейта
+tympanum, -ī, n - тимпан, тъпан, барабан (музикален инструмент), барабан (цилиндричен въртящ механизъм)
+fidicen, -inis, m - лирист
+symphōnia, -ae, f - съзвучие, симфония
+tubicen, -inis, m - тромпетист
+tuba, -ae, f - тръба (музикален инструмент), боен сигнал, тръбене
+būcina, -ae, f - рог, тръба, духов музикален инструмент (?)
+lituus, -ī, m - военен тромпет, тръба леко извита в края
+lingula/ligula, -ae, f - мундщук
+chorus, -ī, m - хор
+melos, indecl, n - песен
+cantus, -ūs, m - песен
+carmen, -inis, n - песен, поема
+cantilēna, -ae, f - стара песен, поговорка, клюка, бръщолевене, брътвеж
+cantiō, -ōnis, f - пеене
+melōdia, -ae, f - мелодия, приятна песен
+melōdina, -ae, f - мелодийка, песничка
+campāna, -ae, f - камбана
+tintinnābulum, -ī, n - звънче
+saltātor/saltor, -ōris, m - танцьор
+saltātrīx/saltrīx, -īcis, f - танцьорка
+saltātiō, -ōnis, f - танцуване, танц
+chorēae, -ārum, f pl - хоро, танц в кръг
+cantor, -ōris, m - певец
+cantrīx, -īcis, f - певица

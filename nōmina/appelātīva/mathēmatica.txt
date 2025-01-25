@@ -14,3 +14,6 @@ conclūsiō, -ōnis, f - заключение
 conclūsluncula, -ae, f - тривиално разсъждение, дребнаво заключенийце
 frāctiō, -ōnis, f - дроб, счупване
 ēiectūra, -ae, f - удължена част на права
+latitūdō, -inis, f - ширина, широчина
+longitūdō, -inis, f - височина, дължина
+magnitūdō, magnitūdinis, f - размер, величина

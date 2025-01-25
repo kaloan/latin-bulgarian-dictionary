@@ -13,6 +13,7 @@ liber, librī, m - книга, свитък
   poēma, poēmatis, n - поема, стихотворение
   cōnscrīptiō, -ōnis, f - записка
 titulus, -ī, m - заглавие
+īnscrīptiō, -ōnis, f - надпис, заглавие, наслов
 praefātiō, -ōnis, f - предговор
 capitulum, -ī, n - глава в книга
 pāgina, -ae, f - страница
@@ -41,6 +42,13 @@ chīrographus, -ī, m - уверение, ръчно написано удост
 documentum, -ī, n - поука, урок, назидание, документ
 scirpus, -ī, m - гатанка, загадка
 
+
+disciplīna, -ae, f - дисциплина, учение, обучение, строй
+studium, -ī, n - учение
+doctrīna, -ae, f - учение, доктрина
+audītiō, -ōnis, f - урок, лекция, слух (като мълва), слух (като сетиво)
+lēctiō, -ōnis, f - лекция, урок
+dictātum, -ī, n - диктовка
 lūdus, -ī, m - училище, игра
 schola, -ae, f - училище, школа, течение
 rēctor, -ōris, m - ректор, управител, водач
@@ -57,3 +65,4 @@ discipulus, -ī, m - ученик
 discipula, -ae, f - ученичка
 condiscipulus, -ī, m - съученик
 condiscipula, -ae, f - съученичка
+exāmen, exāminis, n - изпит, обмисляне
