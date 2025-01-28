@@ -81,6 +81,9 @@ resipīscere - връщам се на себе си
 rancēscere, ??? - загнивам, гранясвам, развалям се
 macrēscere, macruisse - отслабвам, вталявам се
 algēscere, alsisse - студувам, помръзвам
+adscīscere/ascīscere, adscīvisse/ascīvisse, adscītum/ascītum - усвоявам
+adscīscere/ascīscere sē - присвоявам
+adhaerēscere, adhaesisse, adhaesum - прилепвам се
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -112,7 +115,7 @@ algēscere, alsisse - студувам, помръзвам
 
 legere, lēgisse, lēctum - чета, бера, избирам, събирам
   allicere -iō (!), allēxisse, allēctum - привличам, примамвам
-  colligere, collēgisse, collēctum - събирам в група, събирам богатство, заключавам
+  colligere, collēgisse, collēctum - скупчвам, събирам в група, събирам богатство, заключавам
   ēligere, ēlēgisse, ēlēctum - отбирам, избирам
   illicere -iō (!), illēxisse, illēctum - привличам, примамвам, съблазнявам
   intellegere, intellēxisse, intellēctum - разбирам
@@ -222,6 +225,9 @@ emere, ēmisse, ēmptum - купувам, придобивам
     absūmere - изземвам, използвам, изтребвам, унищожавам, убивам
     assūmere - вземам, приемам, получавам, узурпирам
     cōnsūmere - използвам, употребявам, изяждам, унищожавам, консумирам
+    dēsūmere - избирам
+    īnsūmere - харча, използвам, предоставям
+    praesūmere - взимам първо/предно, предполагам, очаквам, приемам на доверие, проявявам сляпо доверие
     resūmere - продължавам, въсзтановявам се
 agere, ēgisse, āctum - действам, върша
   abigere, abēgisse, abāctum - пъдя, прокуждам, отстранявам болест, вадя,
@@ -390,10 +396,10 @@ claudere, clausisse, clausum - затварям
   occlūdere, occlūsisse, occlūsum - затварям (врата), затварям (арестувам), затварям (магазин), запирам, заключвам, възпирам чувства
   praeclūdere, praeclūsisse, praeclūsum - затварям, блокирам, запирам
   reclūdere, reclūsisse, reclūsum - отварям откривам
-frangere, frēgisse, frāctum - чупя, пречупя, дробя
+frangere, frēgisse, frāctum - чупя, пречупя, дробя, ломя
   affringere - счуквам, смазвам
   cōnfringere - разчупвам, раздробявам, унищожавам
-  dēfringere - отчупвам, раздробявам, унищожавам
+  dēfringere - отчупвам, раздробявам, кърша, сломявам, унищожавам
   diffringere - разчупвам, раздробявам, разбивам
   effringere - отчупвам, счупвам
   īnfringere - отчупвам, отслабвам, намалявам
@@ -480,8 +486,8 @@ scandere, scandisse, scānsum - катеря се
   īnscendere, īnscendisse, īnscensum - възкачвам
 poscere, poposcisse - питам, настоявам
   dēposcere - жално моля, пожелавам, умолявам, безпрекословно изисквам
-rumpere, rupisse, ruptum - чупя, ломя, късам
-  abrumpere - отчупвам, отломявам, откъсвам, секвам, прекъсвам
+rumpere, rupisse, ruptum - чупя, ломя, късам, кърша
+  abrumpere - отчупвам, отломявам, откъсвам, секвам, прекъсвам, откършвам
   corrumpere - опетнявам, развалям, подкупвам, корумпирам
   ērumpere - изниквам, пробивам навън, избивам, проправям си път, избухвам
   irrumpere - прониквам, нахлувам, щурмувам
@@ -571,6 +577,7 @@ fervēscere - нажежавам се, кипвам
 extimēscere - ужасявам се
 trūdere - тласкам, бутам
   dētrūdere - изтласкам, избутам, събарям, сгромолясвам, повалям, прекатурвам
+  intrūdere - набутам, набъквам, вклинявам
 crēscere, crevisse, cretum - раста, проявявам се, повишавам, засилвам
   succrēscere - раста под, израствам, покарвам, изниквам
 lūcēscere, lūxisse - светя, зазоря

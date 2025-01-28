@@ -12,7 +12,7 @@ mātūrus, mātūrior, mātūrrimus/mātūrissimus - зрял, съзрял, н�
 immātūrus/inmātūrus, immātūrior/inmātūrior, immātūrrimus/inmātūrrimus/inmātūrissimus/immātūrissimus - незрял, недозрял, преждевременен
 posterus, posterior, postrēmus/postumus  - заден, по-заден, следващ
 senex, senior/māior nātū, māximus nātū - възрастен
-iuvenis, iuvenior/minor nātū, minimis nātū - млад
+iuvenis, iuvenior/minor nātū, minimis nātū - млад (~в детеродна възраст)
 vetus, veterior, veterrimus - вехт, стар
 
 facilis, facilior, facilimus - лесен

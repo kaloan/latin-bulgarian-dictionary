@@ -27,6 +27,7 @@ Eurōpa, -ae, f - Европа
     Liguria, -ae, f - Лигурия
     Samnium, -ī, n - Самниум
     Tūscia, -ae, f - Туския, Етрурия
+    Lūcānia, -ae, f - Лукания
   Macedonia, -ae, f - Македония
   Thracia, -ae, f - Тракия
 
@@ -51,6 +52,7 @@ Asia, -ae, f - Азия
   Samarīa, -ae, f - Самария
   Galilea, -ae, f - Галилея
   Phoenīcē, -ēs, f - Финикия
+  Iappōnia/Iapōnia, -ae, f - Япония
 
 Ãfrica, -ae, f - Африка
 Libya, -ae, f - Северна Африка (познатата част на Африка в древността)

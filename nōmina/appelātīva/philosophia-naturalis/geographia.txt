@@ -7,9 +7,10 @@ dīvum, -ī, n - открито небе
   astrum, -ī, n - звезда
   arcus, -ūs, m - дъга
   cohum, -ī, n - небосвод
+  meteōrum, -ī, n - метеор
 siccum, -ī, n - суша
 mōns, montis, m - планина
-furculae, -ārum, f pl - проход, пролом, клисура, дере, дефиле
+furculae, -ārum, f pl - проход, пролом, клисура, дере, дол, дефиле, ждрело
 prōmunturium, -ī, n - хребет, нос (в смисъл на скала издадена във водата)
 saxum, -ī, n - скала, канара
 scopulus, -ī, m - клиф, издадена скала, канара
@@ -19,7 +20,7 @@ spēlunca, -ae, f - пещера
 specus, -ūs, m - пещера, скривалище
 sȳringēs, -um, f pl - пещери, тунели
 cunī̆culus, -ī, m - мина, тунел, галерия
-vallis, -is, f - долина
+vallis, -is, f - долина, долчина, падина, низина, котловина, урва
 vallicula/vallēcula, -ae, f - долинка, клисура
 collis, -is, m - хълм
 tumulus, -ī, m - могила, хълмче
@@ -52,8 +53,9 @@ palūs, palūdis, f - мочурище, блато, езерце
 lustrum, -ī, n - блато, кочина
 mare, -is, n - море
 pontus, -ī, m - море
-vadum, -ī, n - плитчини
+vadum, -ī, n - плитчина, брод
 pelagus, -ī, m - открито море
+vortex/vertex, vortecis/verticis, m - водовъртеж, вихър
 ōra, ōrae, f - морски бряг
 lītus, litoris, n - плаж, бряг
 sinus, -ī, m - залив

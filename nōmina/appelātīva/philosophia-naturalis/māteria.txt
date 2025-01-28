@@ -29,3 +29,13 @@ smaragdus, -ī, m - смарагд
 bitūmen, bitūminis, n - битум
 vitrum, -ī, n - стъкло
 calx, calcis, f - вар, варовик
+gās, gāsis, n - газ
+gasium/gasum, -ī, n - газ
+
+electricitās, -ātis, f - електричество
+electrismus, -ī, m - електричество
+
+faex/fēx, faecis/fēcis, f - утайка/тиня (буквално), утайка/тиня (обидно), мътилка, саламура, руж, пивна мъст, калиев карбонат
+faecula, -ae, f - винен камък
+sedimen, sediminis, n - утайка, наслойка, нанос, седимент
+sedimentum, -ī, n - утаяване, седимент

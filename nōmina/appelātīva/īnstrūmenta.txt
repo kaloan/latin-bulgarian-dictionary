@@ -1,4 +1,4 @@
-īnstrūmentum, -ī, n - уред, оръдие, средство
+īnstrūmentum, -ī, n - уред, оръдие, средство, инструмент
 falx, falcis, f - сърп
 malleus, -ī, m - чук
 arātrum, -ī, n - рало, плуг
@@ -38,7 +38,7 @@ trabs, -is, f - греда, летва
 laqueus, -ī, m - примка, капан
 pedica, -ae, f - примка, окови, пранги, капан
 plaga, -ae, f - ловджийска мрежа, капан
-
+glazūra, -ae, f - глазура
 
 fax, facis, f - факла
 facula, -ae, f - малка факла

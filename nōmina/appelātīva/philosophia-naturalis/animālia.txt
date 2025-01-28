@@ -100,11 +100,19 @@ volucris, -is, f - летящо същество
 āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица
 aquilla, -ae, f - орел
+larus, -ī, m - чайка
+hairō, hairōnis, m - чапла
+phoenīcopterus, -ī, m - фламинго
+cōturnīx, -īcis, f - пъдпъдък
+qualea, -ae, f - пъдпъдък
+quaccola, -ae, f - пъдпъдък
 nīdus, -ī, m - гнездо
 pullus, -ī, m - младо животно
 apis, -is, f - пчела
 vespa, -ae, f - оса
 formīca, -ae, f - мравка
+lō̆custa, -ae, f - скакалец
+gryllus, -ī, m - щурец, скакалец, карикатура
 pāpiliō, -ōnis, m - пеперуда, молец
 musca, -ae, f - муха
 culex, culicis, m - комар
@@ -136,3 +144,5 @@ gigās, gigantis, m - гигант
 
 
 corallium, -ī, n - корал
+
+pestis, pestis, f - вредител
