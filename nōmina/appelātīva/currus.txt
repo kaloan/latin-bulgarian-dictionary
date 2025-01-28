@@ -25,4 +25,26 @@ vōmer, vōmeris, m - палешник, лемеж
 frontālia, -ium, n pl - челник, украшение за челото (обикновено за животни)
 sēiugae, -ārum, f pl - впряг от шест коня
 īnstrātus, -ūs, m - седло
+sella, -ae, f - седло, седалка
 radius, -ī, m - лъч, спица
+
+astarium, -ī, n - релса, линия
+ferrivia, -ae, f - релси, линия
+trāmen, -inis, n - влак
+currus tractorius - локомотив
+machina vectoria - локомотив
+hamaxa, -ae, f - локомотив
+vaporitraha, -ae, f - парен локомотив
+currus electricus - трамвай
+tramviarius, -ī, m - трамвай
+ferrivia subterrānea/mētropolītānа - метро
+orbita, -ae, f - коловоз, ЖП линия
+fūnis electricum - жица
+hortus trāminis - депо
+
+autoraeda, -ae, f - автомобил, кола
+autocinetum, -ī, n - автомобил, кола
+autovehiculum, -ī, n - автомобил
+
+currus volāns - летяща кола
+aerocurrus - летяща кола
