@@ -96,9 +96,11 @@ aedēs, -ium, f pl - жилище, блок
 forum, -ī, n - форум, мегдан
 mercātus, -ūs, m - пазар
 statua, -ae, f - статуя
+statunculum, -ī, n - статуйка, статуетка
 pōns, pontis, f - мост
 molaе, -ārum, f pl - мелница
 moletrīna/molīna, -ae, f - мелница
 arcus, -ūs, m - свод, арка
 vīvārium, -ī, n - парк, заграждение
 pavīmentum, -ī, n - настилка, паваж, калдъръм
+statūminātiō, -ōnis, f - слой настилка, подстилка, основа за настилката

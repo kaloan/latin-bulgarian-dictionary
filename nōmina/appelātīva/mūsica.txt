@@ -24,6 +24,7 @@ chorus, -ī, m - хор
 melos, indecl, n - песен
 cantus, -ūs, m - песен
 carmen, -inis, n - песен, поема
+ōda, ōdae, f - ода
 cantilēna, -ae, f - стара песен, поговорка, клюка, бръщолевене, брътвеж
 cantiō, -ōnis, f - пеене
 melōdia, -ae, f - мелодия, приятна песен

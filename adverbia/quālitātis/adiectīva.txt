@@ -82,6 +82,9 @@ continenter - въздържанo, непрекъснатo, непрестанн
 misericorditer - състрадателно
 immisericorditer - безчувствено, безмилостно, безпощадно
 virīliter - мъжествено
+essentiāliter - същностно, съществено
+ōscitanter - изморено, сънливо, равнодушно
+
 
 facile/faciliter - лесно
 difficile/difficiliter - трудно

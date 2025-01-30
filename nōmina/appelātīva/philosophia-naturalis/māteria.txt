@@ -29,6 +29,7 @@ smaragdus, -ī, m - смарагд
 bitūmen, bitūminis, n - битум
 vitrum, -ī, n - стъкло
 calx, calcis, f - вар, варовик
+gypsum, -ī, n - гипс, гипсова фигура
 gās, gāsis, n - газ
 gasium/gasum, -ī, n - газ
 
