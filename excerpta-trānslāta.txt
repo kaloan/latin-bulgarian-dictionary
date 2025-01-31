@@ -1,25 +1,60 @@
-Dōnec eris fēlīx, multōs numerābis amīcōs. Tempora si fuerint nūbila, sōlus eris! - Докато си успешен, ще броиш много приятели. Ако времената мътни бъдат, самичък ще бъдеш! [Ovidius, Trīstia I.9.5-6]
+Dōnec eris fēlīx, multōs numerābis amīcōs.
+Tempora si fuerint nūbila, sōlus eris!
 
-Amīcus certus in rē incertā cernitur. - Приятелят верен в дела несигурни се познава/проявява. [Cicerō, Laelius de Amīcitiā 64]
+Докато си успешен, ще броиш много приятели.
+Ако времената мътни бъдат, самичък ще бъдеш!
+[Ovidius, Trīstia I.9.5-6]
 
-Spectātum veniunt, veniunt spectentur ut ipsae! - [Ovidius, Ars amātōria I.99]
+
+Amīcus certus in rē incertā cernitur.
+Приятелят верен в дела несигурни се познава/проявява.
+
+Приятелят ясен в деля неясни са проявява/изявява.
+[Cicerō, Laelius de Amīcitiā 64]
+
+
+Spectātum veniunt, veniunt spectentur ut ipsae!
+
+Да гледат ходят, че да бъдат гледани самите!
+[Ovidius, Ars amātōria I.99]
+
 
 Nōn ego nōbilium sedeō studiōsus equōrum;
 cui tamen ipsa favēs vincat ut ille precor.
 Ut loquerer tēcum vēnī tēcumque sedērem,
-nē tibi nōn nōtus quetn facis esset atnor.
+nē tibi nōn nōtus quem facis esset amor.
 Tū cursūs spectās, ego tē — spectēmus uterque
 quod iuvat, atque oculōs pāscat uterque suōs!
+
+Не от благородните коне седя аз привлечен,
+когото обаче самата предпочиташ да победи и аз се надявам.
+Да говоря с тебе отидох, до тебе да седна,
+да не бъде неявна за тебе любовта дето възбуждаш.
+Ти търчането гледаш, аз тебе - да гледаме двамата
+каквото ни радва и нека очите си насищаме свои!
 [Ovidius, Amōrēs III.2]
 
-Saepe meae "Tandem" dīxī"discēde!" puellae
+
+Saepe meae "Tandem" dīxī "discēde!" puellae
 - in gremiō sēdit prōtinus illa meō!
-Saepe "Pndet" dīoā.Lacrimīs vix itta retentīs
+Saepe "Pudet" dīxī. Lacrimīs vix illa retentīs
 "Mē miseram! Iam tē" dīxit "amāre pudet?"
-Implicuitque suōs circum mea coila lacertōs
-ety quae me perdunt, ōscula mīlle dedit!
+Implicuitque suōs circum mea colla lacertōs
+et, quae me perdunt, ōscula mīlle dedit!
 Vincor, et ingenium sūmptīs revocātur ab armīs,
 rēsque domīgestās et mea bella canō.
+
+Често на момичето ми "Стига," казвах "тръгвай!"
+- в скута мой сядаше тутакси тя.
+Често "Срамя се" казвах. Съзите си едвам задържаща
+"Горката аз! Вече те е," казваше "срам да любиш?"
+И сключваше своите ръца около шията моя
+и, което ме погубваше, целувки хиляди даваше!
+Победен, мисълта си обратно зова от оръжията грабнати,
+вкъщи делата минали и моите войни* възпявам.
+
+*Тук има игра на думи "bella", значи красавица/хубавица, а "bellum" война.
+В стихотворенито се описва как не е могъл да пише трудовете си за Троянската война, но Овидий е известен и с  любовните си произведения.
 [Ovidius, Amōrēs II.18]
 
 
@@ -28,7 +63,7 @@ et quantum est hominum venustiōrum!
 Passer mortuus est meae puellae,
 passer, dēliciae meae puellae,
 quem plūs illa oculīs suīs amābat;
-nam mellītus erat suamqne nōrat
+nam mellītus erat suamque nōrat
 ipsam tam bene quam puella mātrem,
 nec sēsē ā gremiō illīus movēbat,
 sed circumsiliēns modo hūc modo illūc
@@ -41,10 +76,30 @@ tam bellum mihi passerem abstulistis.
 Ō factum male! Ō miselle passer!
 Tuā nunc operā meae puellae
 flendō turgidulī rubent ocellī!
+
+Скърбете, о Венери и Купидони
+и колкото сте хора чаровни!
+Врабчето мъртво е на мойто момиче,
+врабчето, любимец на мойта любима,
+което повече от очите си обичаше;
+понеже сладко беше и го познаваше
+добре колкото самата си майка,
+нито от скута неин помръдваше,
+а подскачаййки я насам, я натам
+към единствената господарка докрай пиукаше.
+Което сега минава по пътя мрачен,
+отдето отричат да се върне кой да е може.
+Но за тебе зло да е, зъл сумрак Орков,
+който всичко красиво поглъщаш:
+толкова красиво от мене врабче отмъкваш.
+О, дело зло! О, горкичко врабче!
+Сега причина си на мойто момиче
+от ридаене надути да червенеят очичките!   да се червят очичките надути от плачене!
 [Catullus, Carmina 3]
 
+
 Vīvāmus, mea Lesbia, atque amēmus,
-rūmōrēsque senun sevēriōrum
+rūmōrēsque senum sevēriōrum
 omnēs ūnīus aestimēmus assis!
 Sōlēs occidere et redīre possunt —
 nōbīs, cum semel occidit brevis lūx,
@@ -56,103 +111,219 @@ Dein, cum mīlia multa fecerīmus,
 conturbābimus illa, nē sciāmus,
 aut nē quis malus invidēre possit,
 cum tantum sciat esse bāsiōrum.
+
+Да живеем, моя Лесбия, и да обичаме,
+скуховете на по-строгите старци
+всите да равняваме на стотинка!
+Слънцата залязват и да се върнат могат -
+на наз, когато веднъж залезе кратката светлина,
+нощ вечна сънлива е отредена.
+Дай ми целувки хиляда, токаз стотина,
+после хиляда други, после повторно сто,
+след туй други хиляда, отпосле сто!
+Сетне, когато много хиляди сме си дали,
+ще объркаме броя, нека го не знаем,
+и да не мож ни завиди кой да е лош,
+когато само толкова научи са целувките.
 [Catullus, Carmina 5]
+
 
 'Nūllī sē' dīcit mulier mea 'nūbere mālle
 quam mihi, nōn sī sē luppiter ipse petat!'
 Dīcit. Sed mulier cupidō quod dīcit amantī
 in ventō et rapidā scrībere oportet aquā!
+
+"За никого," казва жената ми "да се омъжи предпочита
+пред мене, ако ще и неи Юпитер самият да потърси!"
+Казва. Но жената, което казва на желаещия любящ
+у вятъра и бързата вода да се запише е редно!
 [Catullus, Carmina 70]
 
+
 Ōdī et amō! Quārē id faciam, fortasse requīris?
-Nescio; sed fierī sentiō — et excrucior!"
+Nescio; sed fierī sentiō — et excrucior!
+
+Мразя и любя! Защо го правя навярно се питаш?
+Не зная, но тъй е чувствам - и се измъчвам!
 [Catullus, Carmina 85]
 
+
 Cēnābis bene, mī Fabulle, apud mē
-paucis, si tibi di favent, diebus
+paucis, sī tibi dī favent, diebus
 - sī tēcum attuleris bonam atque magnam
 cēnam, non sine candidā puellā
 et vīnō et sale et omnibus cachinnīs.
 Haec sī, inquam, attuleris, venuste noster,
-Cēnābis bene - nam tuī Catullī
-plenus sacculus est araneārum!
+cēnābis bene - nam tuī Catullī
+plēnus sacculus est araneārum!
 Sed contrā accipiēs merōs amōrēs
-seu quid suāvius ēlegantiusve est -
+seu quid suāvius ēlēgantiusve est -
 nam unguentum dabō, quod meae puellae
 dōnārunt Venerēs Cupīdinēsque,
 quod tū cum olfaciēs, deōs rogābis,
 tōtum ut tē faciant, Fabulle, nāsum.
+
+Ще вечеряш добре, мой Фабуле, с мен
+след няколко, ако боговете те подкрепят, дни
+- ако с теб донесеш добра и голяма
+вечеря, не без бело момиче
+и вино и сол и всичките кикоти.
+Тук ако, казвам, донесеш, красавецо наш,
+ще вечеряш добре - дето на твоя Катул
+пълна кесията е с паяжини!
+Но ответно ще получиш чиста любов
+или което по-блажено и изискано е -
+понеже благовонно масло ще дам, с което мойто момиче
+дариха Венерите и Купидоните,
+което ти, когато помиришеш, боговете ще молиш,
+целият да те превърнат, Фабуле, в нос.
 [Catullus, Carmina 13]
+
+
 
 
 Laudat, amat, cantat nostrōs mea Rōma libellōs,
 mēque sinūs omnēs, mē manus omnis habet.
 Ecce rubet quīdam, pallet, stupet, ōscitat, ōdit.
 Hoc volō: nunc nōbīs carmina nostra placent.
+
+Хвали, обича, пее моя Рим нашите книжки,
+мене в пазвите си всите, мене ръцете на всички имат.
+Ето, черви се някой си, бледнее, шашардисва се, прозява се, мрази.
+Това искам: сега на нас песните наши да се харесат.
 [Mārtiālis, Epigrammata VI.61]
+
 
 Cūr nōn mittō meōs tibi, Pontiliāne, libellōs?
 Nē mihi tū mittās, Pontiliāne, tuōs!
+
+Защо не пращам моите на тебе, Понтилиане, книги?
+Да не ми пратиш ти, Понтилиане, твоите!
 [Mārtiālis, Epigrammata VII.3]
+
 
 Versiculōs in mē nārrātur scrībere Cinna.
 Nōn scrībit, cuius carmina nēmō legit!
+
+Стихчета отправени към мене разказват пише Цина.
+Не пише, чиито песни никой не чете!
 [Mārtiālis, Epigrammata III.9]
+
 
 Nīl recitās — et vīs, Māmerce, poēta vidērī.
 Quidquid vīs, estō — dummodo nīl recitēs!
+
+Не рецитираш - а искаш, Мамерке, за поет да те смятат.
+Каквото и да искаш, нека да е - докато нищо не рецитираш!
 [Mārtiālis, Epigrammata II.88]
+
 
 Nōn amo tē, Sabidī, nec possum dīcere quārē.
 Hoc tantum possum dīcere: nōn amō tē!
+
+Не обичам те, Сабиде, не мога да кажа защо.
+Това единствено мога да кажа: не обичам те!
 [Mārtiālis, Epigrammata I.32]
+
 
 Nīl mihi dās vīvus, dīcis 'post fāta datūrum.'
 Sī nōn es stultus, scīs, Marō, quid cupiam!
+
+Нищо не даваш жив, казваш "след смъртта ще дадеш".
+Ако не си глупав, знаеш, Мароне, какво желая!
 [Mārtiālis, Epigrammata XI.67]
+
 
 'Esse nihil' dīcis, quidquid petis, improbe Cinna.
 Sī nīl, Cinna, petis, nīl tibi, Cinna, negō!
+
+'Нищо не е', казваш, за което молиш, калпазанино Цина.
+Ако за нищо, Цина, не молиш, нищо на тебе, Цина, не отказвам!
 [Mārtiālis, Epigrammata III.61]
+
 
 Nesciō tam multīs quid scrībās, Fauste, puellīs.
 Hoc sciō: quod scrībit nūlla puella tibī!
+
+Незнам защо на толкова много пишеш, Фаусте, момичета.
+Това знам: че не пише никое момиче на тебе!
 [Mārtiālis, Epigrammata XI.64]
+
 
 Thāis habet nigrōs, niveōs Laecānia dentēs.
 Quae ratiō est? Ēmptōs haec habet, illa suōs!
+
+Тая има черни, бели Лекания зъби.
+Каква е обяснението? Купени има едната, а другата своите!
 [Mārtiālis, Epigrammata V.43]
+
 
 Nūbere vīs Priscō; nōn mīror, Paula, sapīstī.
 Dūcere tē nōn vult Prīscus: et ille sapit!
+
+Да се омъжиш искаш за Приск; не се чудя, Паула, подбираш.
+Да се ожени не иска за теб Приск: и той подбира!
 [Mārtiālis, Epigrammata IX.5]
+
 
 Nūbere Paula cupit nōbīs, ego dūcere Paulam
 nōlō: anus est; vellem sī magis esset anus!
+
+Да се омъжи за нас щелае Паула, аз да се оженя за Паула
+не искам: бабка е; щях да искам, ако по-голяма бабка беше!
 [Mārtiālis, Epigrammata X.8]
+
 
 Dīcis 'fōrmōsam', dīcis tē, Bassa, 'puellam'.
 Istud quae nōn est, dīcere, Bassa, solet!
+
+Казваш "красиво," казваш си, Баса, "момиче".
+Туй което не е, да казваш, Баса, си свикнала!
 [Mārtiālis, Epigrammata V.45]
+
 
 Semper pauper eris, sī pauper es, Aemiliāne.
 Dantur opēs nūllīs nunc nisi dīvitibus.
+
+Всякога беден ще си, ако беден си, Емилиане.
+Богатствата дадени никому сегаз са освен на богатите.
 [Mārtiālis, Epigrammata V.81]
 
-Āmissum nōn flet, cwn sōla est, Gellia patrem;
+
+Āmissum nōn flet, cum sōla est, Gellia patrem;
 sī quis adest, iussae prōsiliunt lacrimae!
 Nōn lūget quisquis laudāri, Gellia, quaerit:
 ille dolet vērē quī sine teste dolet.
+
+Покойния баща не оплаква, когато сама е Гелия;
+ако някой присъства, повелени се сурват сълзите!
+Не оплаква, който да бъде похвален, Гелия, дири:
+страда истински този, който без свидетел страда.
 [Mārtiālis, Epigrammata I.33]
+
 
 Cui lēgisse satis nōn est epigrammata centum,
 nīl illī satis est, Caediciāne, malī!
+
+Комуто прочитането достатачно не е на сто епиграми,
+нему достатъчно не е, Цедициане, никое зло!
+
+Комуто не стига да прочете сто епиграми,
+нему не стига, Цедициане, никое зло!
 [Mārtiālis, Epigrammata I.118]
 
+
 Pulchre valet Charīnus, et tamen pallet.
-Parce bibit Charīnus, et tamen pallet.
+Parcē bibit Charīnus, et tamen pallet.
 Bene concoquit Charīnus, et tamen pallet.
 Sōle ūtitur Charīnus, et tamen pallet.
 Tingit cutem Charīnus, et tamen pallet.
 Cunnum Charīnus lingit, et tamen pallet.
+
+Добре здравее Харин, но обаче бледнее.
+Щадящо пие Харин, но обаче бледнее.
+Добре сготвя Харин, но обаче бледнее.
+Слънцето оползотворява Харин, но обаче бледнее.
+Маже кожата Харин, но обаче бледнее.
+Коте Харин лиже, но обаче бледнее.
 [Mārtiālis, Epigrammata V.77]
