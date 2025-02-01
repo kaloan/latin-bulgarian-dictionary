@@ -9,7 +9,7 @@ patiēns, patientis - търпелив
 impatiēns, impatientis - нетърпелив
 dīligēns, dīligentis - усърден
 absēns, absentis - отсъстващ, липсващ
-praesēns, praesentis - присъстващ, наличен, текущ
+praesēns, praesentis - присъстващ, наличен, сегашен, текущ, настоящ, благоприятен
 sapiēns, -ntis - умен, мъдър, разумен
 fervēns, -entis - кипящ, пламенен, жарък, въодушевен
 obstināns, -antis - инатлив
