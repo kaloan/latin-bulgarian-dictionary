@@ -598,6 +598,8 @@ vitreus - стъклен, прозрачен
 metallicus - метален
 cinereus - пепеляв
 vīteus - лозов
+sēricus - копринен
+sēricārius - копринен
 
 idōneus, magis idōneus, maximē idōneus - удобен, подходящ
 
@@ -606,3 +608,4 @@ Cyclōpius - Циклопов
 Sāturnius - Сатурнов
 Tiberīnus - Тибъров
 Sophoclēus - Софоклев
+Ascalōnius - Aшкелонов

@@ -26,3 +26,6 @@ Zakynthos, -ī, f - Закинтос
 Ithaca, -ae, f - Итака
 Leucadia, -ae, f - Левкада, Лефкада
 Cyprus, -ī, f - Кипър
+
+Formosa, -ae, f - Формоза, Тайван
+Taivania, -ae, f - Тайван, Формоза
