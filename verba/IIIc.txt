@@ -158,6 +158,8 @@ mittere, mīsisse, missum - пращам, освобождавам, мятам
   permittere - позволявам, допускам
   praemittere - пращам напред, пращам предварително
   praetermittere - изпускам, пропускам
+  prōmittere - пращам напред, обещавам
+    reprōmittere - обещавам като отклик на обещание, гарантирам
   remittere - връщам, мятам обратно
   submittere - поставям под друго, поднасям, понижавам, възпирам, подчинявам
 sistere, stitisse/stetisse, statum - спирам, проверявам
