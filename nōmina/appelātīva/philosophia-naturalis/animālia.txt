@@ -111,7 +111,7 @@ pullus, -ī, m - младо животно
 apis, -is, f - пчела
 vespa, -ae, f - оса
 formīca, -ae, f - мравка
-lō̆custa, -ae, f - скакалец
+lōcusta, -ae, f - скакалец
 gryllus, -ī, m - щурец, скакалец, карикатура
 pāpiliō, -ōnis, m - пеперуда, молец
 musca, -ae, f - муха
