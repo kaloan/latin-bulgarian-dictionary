@@ -19,7 +19,7 @@ algēre - студувам, мръзна
 frīgēre, frīguisse, frīgitum - студен съм (фигуративно), бездействам
 calēre, caluisse - топъл съм (фигуративно), зает съм
 dēlēre, dēlēvisse, dēlētum - премахвам, трия
-augēre, auxisse, auctum - увеличавам, засилвам, уголемявам
+augēre, auxisse, auctum - увеличавам, повишавам, засилвам, разраствам, уголемявам, удължавам
 silēre, siluisse - мълча, притихвам
 mordēre, momordisse, morsum - хапя
 merēre, meruisse, meritum - заслужавам

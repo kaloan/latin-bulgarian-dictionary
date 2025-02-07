@@ -5,6 +5,7 @@ Albānus - албански (в смисъл свързан с древния г
 Asiānus - азиатски
 Atticus - атически
 Britannus - британски
+Bulgaricus - български
 Campānus - кампански
 Cannēnsis - кански
 Capitōlīnus - капитолински
