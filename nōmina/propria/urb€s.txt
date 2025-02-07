@@ -74,6 +74,7 @@ Tiberias, -adis, f - Тиберия
 Bēthania, -ae, f - Витания
 Emmaus, indecl, ??? - Емаус
 Tyrus, -ī, f - Тир
+Ascalōn, -ōnis, f - Ашкелон
 
 Karthagō/Carthagō, -inis, f - Картаген
 Utica, -ae, f - Утика
