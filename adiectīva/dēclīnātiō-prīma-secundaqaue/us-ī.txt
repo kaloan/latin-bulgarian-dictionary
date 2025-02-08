@@ -563,6 +563,9 @@ sēdātīvus - успокояващ, със свойства на седатив
 statuārius - статуен
 ōscitābundus - прозяващ се
 parcus - щадящ, пестелив, спестовен, икономичен
+magnēsius - магнитен
+scūtārius - щитов
+scūtātus - въоръжен с щит
 
 tantus - толкова голям
 tantulus - толкова малък
@@ -609,3 +612,4 @@ Sāturnius - Сатурнов
 Tiberīnus - Тибъров
 Sophoclēus - Софоклев
 Ascalōnius - Aшкелонов
+Magnēsius - Магнезиев

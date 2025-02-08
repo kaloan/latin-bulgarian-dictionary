@@ -50,3 +50,5 @@ lāterna, -ae, f - лампа, фенер
 līnāmentum, -ī, n - фитил, ленена лента
 cremium, -ī, n - подпалка
 cōdicillī, -ōrum, m pl - подпалки
+tormentum, -ī, n - лебедка
+trochlea, -ae, f - макара, скрипец

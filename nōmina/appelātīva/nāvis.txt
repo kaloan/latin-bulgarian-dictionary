@@ -4,7 +4,8 @@ nāvis, -is, f - кораб
   barca, -ae, f - малък кораб, барк
   stlatta, -ae, f - товарен кораб, шлеп, баржа
   linter, lintris, m - лека лодка, кану, корито, вана
-ratis, -is, f - рафт, лодка
+  ratis, -is, f - рафт, лодка
+  mūsculus, -ī, m - малка лодка
 naufragiumm, -ī, n - корабокрушение
 naufragus, -ī, m - корабокрушенец
 vēlum, -ī, n - платно, ветрило (корабно), покривало, завеса
@@ -22,6 +23,7 @@ gubernātor, -ōris, m - капитан, командир, кормчия
 lintārius, -ī, m - лодкар
 piscātor, -ōris, m - рибар
 harundō, -inis, f - въдица
-rēte, rētis, n - мрежа
+rēte, rētis, n - рибарска мрежа
+  nōdī, -ōrum, m pl - рибарска мрежа с възли
 tridēns, tridentis, m - тризъбец
 ūrīnātor, -ōris, m - гмурец

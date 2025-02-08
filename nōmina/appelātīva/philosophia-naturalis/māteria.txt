@@ -21,6 +21,8 @@ metallum, -ī, n - метал
   argentum, -ī, n - сребро
   ferrum, -ī, n - желязо, оръжие
   plumbum, -ī, n - олово
+  manganum, -ī, n - магнан
+  magnēsium, -ī, n - магнезий
 carbō, -ōnis, m - въглен, въглища
 carbunculus, -ī, m - въгленче
 tūs, tūris, n - тамян
@@ -34,6 +36,8 @@ gās, gāsis, n - газ
 gasium/gasum, -ī, n - газ
 dēnsitās, -ātis, f - плътност, дебелина, обилие, изобилие
 cōnsistentia, -ae, f - консистенция
+tormentum, -ī, n - опън, натиск, усукване
+torsiō, -ōnis, f - усукване
 
 electricitās, -ātis, f - електричество
 electrismus, -ī, m - електричество

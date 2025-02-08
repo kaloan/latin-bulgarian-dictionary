@@ -11,6 +11,7 @@ asturcō, -ōnis, m - ат (от конете от Астурия)
 asinus, -ī, m - магаре
 mūlus, -ī, m - муле
 mūla, -ae, f - женско муле
+onager, onagrī, m - азиатско диво магаре
 rhīnoceros, -ōtis, m - носорог, човек с дълъг нос
 aquila, -ae, f - орел
 vultur, -is, m - лешояд
@@ -67,7 +68,8 @@ sīmia, -ae, f - маймуна
 macāca, -ae, f - макак
 gorilla, -ae, f - горила
 arānea, -ae, f - паяк, паяжина
-scorpios, scorpiī, m - скорпион
+scorpiоs/scorpius, scorpiī, m - скорпион
+scorpiō, scorpiōnis, m - скорпион
 rāna, -ae, f - жаба
 rubēta, -ae, f - жаба
 būfō, būfōnis, m - крастава жаба

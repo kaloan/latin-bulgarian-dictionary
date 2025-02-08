@@ -37,6 +37,8 @@ cubiculum, -ī, n - стая, спалня
   cēnātiō, -ōnis, f - трапезария
     fornāx, -ācis, f - фурна
     ferculum, -ī, n - поднос
+    scutra, -ae, f - плитка чиния, поднос, тепсия
+    scutella, -ae, f - плитка чинийчица, подносче
     pelvis, -is, f - паница
     catīnum, -ī, n - дълбока чиния
     caccabus, -ī, m - тенджера

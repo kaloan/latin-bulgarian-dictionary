@@ -139,6 +139,10 @@ vīscera, vīscerum, n pl - вътрешности
   intestīnum crassum - дебело черво
 ōs, ossis, n - кост
   medulla, -ae, f - костен мозък
+torus, -ī, m - месеста част, мускул
+mūsculus, -ī, m - мускул
+  tenōn, tenontis, m - сухожилие
+  tendō, tendinis, m - сухожилие
 artēria, -ae, f - артерия, дихателна тръба, трахея
 vēna, vēnae, f - жила, жилка, кръвоносен съд, вена, пикочен канал
 statūra, -ae, f - ръст

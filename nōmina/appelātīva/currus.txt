@@ -32,7 +32,7 @@ astarium, -ī, n - релса, линия
 ferrivia, -ae, f - релси, линия
 trāmen, -inis, n - влак
 currus tractorius - локомотив
-machina vectoria - локомотив
+māchina vectoria - локомотив
 hamaxa, -ae, f - локомотив
 vaporitraha, -ae, f - парен локомотив
 currus electricus - трамвай
