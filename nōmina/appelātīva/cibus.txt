@@ -9,31 +9,33 @@ alimentum, -ī, n - насъщност, прехрана, снабдяване, 
 saporēs, -um, m pl - вкусотия, деликатес
 epulae, -ārum, f pl - ястие, блюдо
 epulum, -ī, n - пир, пиршество, гуляй
+ientāculum, -ī, n - закуска
+prandium, -ī, n - обяд
+cēna, -āe, f - вечеря
+mīca, -ae, f - троха, зрънце, шушка, прашинка
 ferculum, -ī, n - гозба, ястие
-  ientāculum, -ī, n - закуска
-  prandium, -ī, n - обяд
-  cēna, -āe, f - вечеря
   gustātiō, -ōnis, f - разядка, предястие
   pulmentum, -ī, n - яхния, разядка
   pulmentārium, -ī, n - яхния
   iūs, iūris, n - сос, супа, сок
   caput, capitis, n - основно ястие
-  pānis, -is, m - хляб
-  placenta, -ae, f - кекс, торта
-  lībum, -ī, n - торта, палачинка (често като приношение към боговете)
-  lībācunculus, -ī, m - торте, тортичка
-  laganum, -ī, n - торта
   simila, -ae, f - брашно
   farīna, -ae, f - брашно
+    massa, -ae, f - тесто, буца, тежест, маса
+    sphaerīta, -ae, f - тестено топче
+    pānis, -is, m - хляб
+    offella, -ae, f - сладка бисквитка
+    placenta, -ae, f - кекс, торта
+    lībum, -ī, n - торта, палачинка (често като приношение към боговете)
+    lībācunculus, -ī, m - торте, тортичка
+    laganum, -ī, n - торта
   cuppēdia, -ae, f - лакомства
   cūpēdia/cūpīdia/cuppēdia, -ōrum, n pl - лакомства
-  mīca, -ae, f - троха, зрънце, шушка, прашинка
   scrūtillus, -ī, m - вид наденица
-  massa, -ae, f - тесто, буца, тежест, маса
-  būtȳrum, -ī, n - масло
-  offella, -ae, f - сладка бисквитка
-  sphaerīta, -ae, f - тестено топче
-  cāseus, -ī, m - сирене, кашкавал
+  lac/lacte, lactis, n - мляко, кърма
+    cramum, -ī, n - сметана, каймак?
+    būtȳrum, -ī, n - масло
+    cāseus, -ī, m - сирене, кашкавал
 pōtiō, -ōnis, f - напитка, питие
 pōtus, -ūs, m - питие, напитка
   vīnum, -ī, n - вино

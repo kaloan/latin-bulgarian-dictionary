@@ -464,6 +464,7 @@ quaerere (+īnf) - желая
 flectere, flexisse, flexum - вия, свивам
   dēflectere - отбивам
   īnflectere - свивам, скланям (граматически), спрягам (граматически)
+  reflectere - обръщам, отразявам
 nectere, nexuisse, nexum - плета, връзвам, мотая, обвързвам
   adnectere - вплитам, заплитам
 laedere. laesisse, laesum - удрям, ранявам, набия, пребия, обиждам

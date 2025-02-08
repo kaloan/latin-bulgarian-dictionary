@@ -32,6 +32,8 @@ calx, calcis, f - вар, варовик
 gypsum, -ī, n - гипс, гипсова фигура
 gās, gāsis, n - газ
 gasium/gasum, -ī, n - газ
+dēnsitās, -ātis, f - плътност, дебелина, обилие, изобилие
+cōnsistentia, -ae, f - консистенция
 
 electricitās, -ātis, f - електричество
 electrismus, -ī, m - електричество
