@@ -50,6 +50,11 @@ Thraex - тракийски
 Trōiānus - троянски
 Tūsculānus - тускулански
 Dyrrachinus - дирахиумов
+Argentīnus - аржентински
+Boliviānus - боливийски
+Brasīliānus - бразилски
+Perūviānus - перуански
+Guiānicus - гаянски
 
 Aesōpius - Езопов
 Chrīstiānus - Християнски

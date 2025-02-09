@@ -59,7 +59,32 @@ Asia, -ae, f - Азия
   Sīnae/Chinae, -ārum, f pl - Китай, Южен Китай достиган по вода
 
 Ãfrica, -ae, f - Африка
+  Guinea, -ae, f - Гвинея
 Libya, -ae, f - Северна Африка (познатата част на Африка в древността)
   Aegyptus, -ae, f - Египет
   Aethiopia, -ae, f - Етиопия
   Libya, -ae, f - Либия
+
+
+Amerīca, -ae, f - Америка (двата контитента в съвкупност)
+  Amerīca Septentriōnālis - Северна Америка
+    Terra Nova - Нюфаундленд
+  America Austrālis - Южна Америка
+    Aequātōria, -ae, f - Еквадор
+    Argentīna, -ae, f - Аржентина
+    Bolivia, -ae, f - Боливия
+    Brasīlia, -ae, f - Бразилия
+    Cile/Chile, -is, f - Чили
+    Chilia, -ae, f - Чили
+    Columbia, -ae, f - Колумбия
+    Guiāna, -ae, f - Гаяна
+    Paraguaia, -ae, f - Парагвай
+    Perūvia, -ae, f - Перу
+    Surinamia, -ae, f - Суринам
+    Uruguaia, -ae, f - Уругвай
+    Venetiola, -ae, f - Венецуела
+Austrālia, -ae, f - Австралия
+
+Ōceania, -ae, f - Океания
+
+Antarctica, -ae, f - Антарктика

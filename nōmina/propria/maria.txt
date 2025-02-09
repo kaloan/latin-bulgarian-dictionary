@@ -8,6 +8,8 @@ Hadriāticum - Адриатическо море
 Superum - Адриатическо море
 Internum - Средиземно море
 Nostrum - Средиземно море (букв. нашето море)
+Mediterrāneum - Средиземно море
+Magnum - Средиземно море
 Aegeum - Егейско море
 Īonium - Йонийско море
 Pontus - Черно море (от Pontus Euxinus)

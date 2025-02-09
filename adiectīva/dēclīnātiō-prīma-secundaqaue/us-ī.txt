@@ -566,6 +566,22 @@ parcus - щадящ, пестелив, спестовен, икономичен
 magnēsius - магнитен
 scūtārius - щитов
 scūtātus - въоръжен с щит
+terrēnus - земен
+terreus - земен
+  subterreus - подземен
+subterrāneus - подземен
+terrōsus - земен, с много суша
+terrigenus - земнороден, роден от земята, (поетически) първите човеци
+terricolus - обитаващ земята
+mediterrāneus - средиземен, навътре в земята
+mēnstruus - месечен
+intermēnstruus - новолунен
+argentīnus - сребрист
+frūmentārius - житен, зърнен
+mēnsōrius - мерителен, измерителен
+graphicus - достоен да бъде изрисуван, превъзходен, живописен, китен
+graphiārius - моливен
+globōsus - кълбовиден, свефичен
 
 tantus - толкова голям
 tantulus - толкова малък
