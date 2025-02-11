@@ -98,6 +98,7 @@ piscis, -is, m - риба
   sardīna, -ae, f - сардина
   scomber, scombrī, m - скумрия
   squalus, -ī, m - акула
+  mūrēna, -ae, f - мурена, змьорка
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица

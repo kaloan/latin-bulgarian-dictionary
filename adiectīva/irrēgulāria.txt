@@ -48,3 +48,5 @@ ulterior/ulterius, ultimus - по-далечен
 citerior/citerius, citimus - по-близък
 
 frūgī, indecl - годен, полезен, достоен, усърден, пестелив, честен
+
+mȳthicos, mȳthicē, mȳthicon - митичен

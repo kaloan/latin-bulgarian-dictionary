@@ -63,6 +63,7 @@ vortex/vertex, vortecis/verticis, m - водовъртеж, вихър
 ōra, ōrae, f - морски бряг
 lītus, litoris, n - плаж, бряг
 sinus, -ī, m - залив
+angulus, -ī, m - залив
 isthmus, -ī, m - провлак, проток
 fretum, -ī, n - проток
 ōceanus, -ī, m - океан

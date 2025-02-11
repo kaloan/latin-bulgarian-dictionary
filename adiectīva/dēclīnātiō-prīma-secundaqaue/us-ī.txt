@@ -96,7 +96,7 @@ pecūniōsus - богат
 gemmeus - със скъпоценни камъни
 nitidus - бестящ
 vīvus - жив
-sēmivīvus - полужив, полумъртъв
+sēmivīvus - полужив
 mortuus - мъртъв
 ferus - див, неопитомен
 stultus - глупав
@@ -280,6 +280,7 @@ tragicus - трагичен
 tragoedus - трагичен
 cōmicus - комичен
 cōmoedus - комичен
+bracchiātus - (за растение) с клонове, (за човек) с гривна
 rāmōsus - клонест, клонат
 oblīquus - наклонен, кос, полегат
 līmus - кос, полегат, накривен, наклонен
@@ -484,6 +485,11 @@ carbōnārius - въглищен
 venēnātus - отровен
 hāmātus - крив, закривен, с форма на кука
 triangulus - триъгълен
+quadriangulus/quadrangulus - четириъгълен, четвъртит
+quīnquangulus - петоъглен
+sexangulus - шестоъгълен
+septangulus - седмоъгълен
+rēctangulus - правоъгълен
 rabidus - бесен
 furibundus - вбеснен, побеснял, яростен, неистов, вдъхновен
 mōrātus - с определени нрави/маниери, маниерен, културен
@@ -597,6 +603,15 @@ vagus - блуждаещ, странстващ, скитащ, скиталчес
   Venerivagus - похотлив, сластен
   vulgivagus - скитащ, странстващ, променлив
 vagābundus - скитащ, шляещ се
+sēminārius - семенен, зърнен
+raucus - дрезгав, хриплив, стържещ, продран, прегракнал
+angulōsus - ъглест, ъгловат
+multangulus - многоъгълен
+mysticus - мистичен
+muriāticus - маринован, със саламура
+murrātus - миросан
+murricīdus/muricīdus - плашливец
+mūricātus - обсипан/защитен с шипове
 
 tantus - толкова голям
 tantulus - толкова малък

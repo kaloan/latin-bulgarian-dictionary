@@ -123,7 +123,7 @@ legere, lēgisse, lēctum - чета, бера, избирам, събирам
   perlegere - прочитам
   neglegere, neglēxisse, neglēctum - отнасям се небрежно, пренебрегвам, нехая, немаря, презирам, бездействам
   sēligere, sēligisse, sēlēctum - избирам, отбирам
-spargere, sparsisse, sparsum - сея, ръся, сипя
+spargere, sparsisse, sparsum - ръся, сипя, сея, пилея
   adspargere/adspergere/aspargere/aspergere, adsparsisse/adspersisse/asparsisse/aspersisse, adsparsum/adspersum/asparsum/aspersum - поръся, пръскам, посипя, обсипя, цапам
   cōnspergere, cōnspergere, cōnspersum - поръся, разпръсвам
   respergere, respersisse, respersum - поръся, пръсвам, осейвам, обсипвам
@@ -559,7 +559,7 @@ terere - трия, жуля, шкуря
   dēterere - протрия, изтрия, изжуля, премахна, отстраня, изшкуря, кастря
 vivēscere, vīxisse - oживявам се, съживявам се, съвземам се
   revivēscere/revīvīscere, revīxisse - съживявам се, свестявам се
-serere, sēvisse, satum - сея
+serere, sēvisse, satum - сея, садя, разпространявам, основавам
   disserere - разсявам, засаждам, изказвам се
 tribuere, tribuisse, tribūtum (+dat) - издължавам се, предавам, отстъпвам
   attribuere - приписвам, придавам, добавям, назначавам, възлагам, приобщавам, разпределям

@@ -38,6 +38,7 @@ dēnsitās, -ātis, f - плътност, дебелина, обилие, изо
 cōnsistentia, -ae, f - консистенция
 tormentum, -ī, n - опън, натиск, усукване
 torsiō, -ōnis, f - усукване
+mortārium, -ī, n - хоросан
 
 electricitās, -ātis, f - електричество
 electrismus, -ī, m - електричество

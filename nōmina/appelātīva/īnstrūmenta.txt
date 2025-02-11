@@ -48,7 +48,9 @@ candēlābrum, -ī, n - свещник
 lanterna, -ae, f - лампа, фенер
 lāterna, -ae, f - лампа, фенер
 līnāmentum, -ī, n - фитил, ленена лента
+myxa, -ae, f - чучур на маслена лампа, чучур
 cremium, -ī, n - подпалка
 cōdicillī, -ōrum, m pl - подпалки
 tormentum, -ī, n - лебедка
 trochlea, -ae, f - макара, скрипец
+alabrum/alibrum, -ī, n - макара, шпула
