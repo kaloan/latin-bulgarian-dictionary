@@ -13,7 +13,10 @@ purpureus - пурпурен
 ruber, rubrī - червен
 rūfus - риж, рижав, червен, червеникав
 surrūfus/subrūfus - рижавеещ, с цвят сходен до рижия
-caerŭleus - светло син
+caerŭleus - небесно син
+azurīnus - лазурен
+blavus/blaveus - син
+caesius - синьо-сив, синеок, сивоок
 rutilus - оранжев
 croceus - златно жълт
 crocinus - шафранено жълт

@@ -75,6 +75,9 @@ patria, -ae, f - родина, отечество
 hostis, -is, m - враг
 lūx, lūcis, f - светлина
 lūmen, lūminis, n - светлина, осветление
+lūmināre, -is, n - осветтление, прозорец
+lūmināria, -ium, n pl - небесно тяло
+lūminātor, -ōris, m - осветител
 initium, -ī, n - начало
 rēs, rеī, f - нещо, вещ, дело, работи
 factum, -ī, n - дело, деяние

@@ -7,6 +7,9 @@ grex, gregis, m - стадо
 exāmen, exāminis, n - рояк
 equus, -ī, m - кон, жребец
 equa, -ae, f - жребица
+caballus, -ī, m - кранта, товарен кон
+caballa, -ae, f - кобила
+caballiō, -ōnis, m - дребен кон, пони
 asturcō, -ōnis, m - ат (от конете от Астурия)
 asinus, -ī, m - магаре
 mūlus, -ī, m - муле
@@ -95,16 +98,32 @@ homunculus, -ī, m - човече
 homunciō, -ōnis, m - човече
 sēmihomō, sēmihominis, m - получовек
 piscis, -is, m - риба
+  apua, -ae, f - малка риба (обобщено понятие, не точен вид)
   sardīna, -ae, f - сардина
   scomber, scombrī, m - скумрия
   squalus, -ī, m - акула
   mūrēna, -ae, f - мурена, змьорка
+  perca, -ae, f - костур
+  aphyē, aphyēs, f - аншоа
+  cyprīnus, -ī, m - шаран
+  silūrus, -ī, m - сом
+  canīcula, -ae, f - бодилеста акула
+  salmō, salmōnis, m - сьомга
+  saurus, -ī, m - сафрид
+  saurellus, -ī, m - сафрид
+  tructa, -ae, f - пастърва
+  xiphiās, xiphiāe, m - риба меч
+  lūcius, -ī, m - вероятно щука
+  sturiō, sturiōnis, m - есетра
+  acipēnser, -is, m - вероятно есетра
+  raia, raiae, f - скат
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица
 aquilla, -ae, f - орел
 larus, -ī, m - чайка
 hairō, hairōnis, m - чапла
+truō, truōnis, m - морска птица с едра човка (вероятно корморан)
 phoenīcopterus, -ī, m - фламинго
 cōturnīx, -īcis, f - пъдпъдък
 qualea, -ae, f - пъдпъдък
@@ -138,9 +157,11 @@ vermis, -is, m - червей
   taenia, -ae, f - тения
 mūrex, mūricis, m - морски охлюв, от който се прави Тирското пурпурно, шип/ръбест камък (от формата на морския охлюв)
 concha, -ae, f - мида, стрида
+octōpūs, octōpodis, m - октопод
+sēpia/saepia, -ae, f - сепия, масло от сепия
+stella marina - морска звезда
 tarmes, tarmitis, m - дървоядова ларва, личинка
 vermiculus, -ī, m - личинка, ларва
-sēpia/saepia, -ae, f - сепия
 
 dracō, -ōnis, m - дракон, змей
 orcus, -ī, m - орк

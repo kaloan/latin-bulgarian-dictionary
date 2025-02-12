@@ -23,6 +23,7 @@ metallum, -ī, n - метал
   plumbum, -ī, n - олово
   manganum, -ī, n - магнан
   magnēsium, -ī, n - магнезий
+  bēryllus/bērillus, -ī, m - берилий
 carbō, -ōnis, m - въглен, въглища
 carbunculus, -ī, m - въгленче
 tūs, tūris, n - тамян
