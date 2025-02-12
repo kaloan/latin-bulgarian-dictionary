@@ -21,6 +21,7 @@ praefātiō, -ōnis, f - предговор
 capitulum, -ī, n - глава в книга
 pāgina, -ae, f - страница
 margo, marginis, m - край, граница
+corōnis, corōnidis, f - знак за завършек на книга, колофон
 versus, -ūs, m - ред, стих
 versiculus, ‑ī, m	- стихче
 nota, -ae, f - знак, буква, белег, татуировка, забележка, упрек, укор, нота

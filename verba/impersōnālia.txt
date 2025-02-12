@@ -9,3 +9,4 @@ miserēre, miseruisse (imp) (+acc) (+gen, īnf) - (някой) съжалява/
 taedēre, taesum esse (imp) (+acc) (+gen, īnf) - (на някой му) доскучава (от), (някой) се измъчва (от), (някой) се отвращава (от)
 pertaedere, pertaesum/pertisum esse (imp) (+acc) (+gen, īnf) - (на някой му) доскучава (от), (някой) го гнети (нещо)
 cōnstāre (imp) (+acc/īnf) - сигурно е
+vidēre, vīdisse (imp pāss) - изглежда ми вярно/правилно

@@ -151,7 +151,7 @@ mappa, -ae, f - кърпичка, салфетка
 mantēle, -is, n - кърпа
 clāvis, -is, f - ключ
 columna, -ae, f - колона
-tēctum, -ī, n - покрив, подслон, заслон, навес
+tēctum, -ī, n - покрив, таван, подслон, заслон, навес
 solum, -ī, n - под
 crepundia, -ōrum, n pl - залагалка
 pupa, -ae, f - кукла

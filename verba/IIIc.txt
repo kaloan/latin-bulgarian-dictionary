@@ -183,16 +183,6 @@ cadere, cecidisse - падам, умирам
   recidere, recidisse - случва се, падна се, да пада
 discere, didicisse -уча се
   ēdiscere, edidicisse - наизустявам
-rigēre - изправен съм, стоя, да съм твърд, да съм изтръпнал
-  corrigere - изправям, поправям
-  dērigēre, dērēxisse, dērēctum - изправям, насочвам
-  ērigere, ērēxisse, ērēctum - възбуждам, одързостявам, издигам
-  porrigere, porrēxisse, porrēctum - подавам
-  pergere, perrēxisse, perrēctum - продължавам, навлизам, ида
-  surgere, surrēxisse, surrēctum - ставам
-    cōnsurgere, cōnsurrēxisse, cōnsurrēctum - ставаме заедно, нападам из засада
-    exsurgere, exsurrēxisse, exsurrēctum - ставам, изправям се, възстановявам се
-    resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам
 trahere, trāxisse, tractum - влача, тегля, мъкна
   abstrahere - отвличам, отмъквам, отвеждам
   attrahere - довлача, дотегля, домъкна
@@ -537,7 +527,16 @@ tangere, tetigisse, tāctum - докосвам, пипам
   contingere, contigisse, contāctum - допирам,  достигам, окажа, случвам се
   obtingere, obtigisse - докосвам, попадам, случвам се
 regere, rēxisse, rēctum - владея, управлявам, направлявам, насочвам
-  porrigere - предлагам, разпростирам
+  corrigere, corrēxisse, corrēctum - изправям, поправям, коригирам, лекувам, излекувам, церя, изцерявам
+  corrigere sē - поправям се (за изказване), поправям се (за държание)
+  dērigere/dīrigere, dīrēxisse, dīrēctum - отправям, насочвам, изправям, (воеено) разпределям в редица/права
+  ērigere, ērēxisse, ērēctum - възбуждам, одързостявам, издигам
+  pergere, perrēxisse, perrēctum - продължавам, навлизам, ида
+  porrigere, porrēxisse, porrēctum - подавам, предлагам, разпростирам
+  surgere, surrēxisse, surrēctum - ставам
+    cōnsurgere, cōnsurrēxisse, cōnsurrēctum - ставаме заедно, нападам из засада
+    exsurgere, exsurrēxisse, exsurrēctum - ставам, изправям се, възстановявам се
+    resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам
 tremere, tremuisse - треперя, треса се
   intremere - втрисам
 rigescere - втвърдявам се, изтръпвам

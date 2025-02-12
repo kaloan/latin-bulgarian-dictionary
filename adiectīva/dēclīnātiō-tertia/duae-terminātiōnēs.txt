@@ -170,6 +170,9 @@ bracchiālis, -is - ръчен
 angulāris, -is - ъглов, четвъртит
 possibilis, -is - възможен
 impossibilis, -is - невъзможен
+regibilis, -is - управляем
+irregibilis, -is - неуправляем
+irreconciliābilis, -is - непримирим, несъвместим, невъзстановим
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, менструален
