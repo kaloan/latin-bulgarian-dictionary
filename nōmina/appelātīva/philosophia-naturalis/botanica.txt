@@ -28,6 +28,7 @@ dūmus, -ī, m - храст
   rubus, -ī, m - къпина, малина
   rosa, -ae, f - роза
   cynorhodon, -ī, m - шипка
+  rhūs, rhūs, m - сумак
 virgultum, -ī, n - шубрак, гъсталак, гъстак
 rāmus, -ī, m - клон
 papula, -ae, f - пъпка на растение
@@ -97,6 +98,7 @@ flōsculus, -ī, m - цветенце
   hyacinthus, -ī, m - зюмбюл
   carduus, -ī, m - магарешки бодил, бодил, бурен
   lotus, -ī, f - лотус, водна лилия
+  rhophalon, -ī, m - водна лилия
   sȳringa, -ae, f - люляк
   malva, -ae, f - слез
   lȳsimachia, -ae, f - блатия, върболист, ленивче

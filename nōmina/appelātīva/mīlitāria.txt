@@ -45,7 +45,7 @@ mīles, -itis, m - войник, воин, бранник, ратник
   ballistarius, -ī, m - артилерист
 exercitus, -ūs, n - войска, армия
   peditātus, -ūs, m - пехота
-  equitātus, -ūs, m - конница
+  equitātus, -ūs, m - конница, кавалерия, езда
 castellum, -ī, n - замък, цитадела
 arx. arcis, f - цитадела, крепост
 rōbur, rōboris, n - крепост
@@ -136,6 +136,7 @@ cālō, cālōnis, m - военнен прислужник
 praesidium, -ī, n - подкрепа, отбрана, гарнизон
 cūstōs, -ōdis, m - стража, охрана, надзирател, пазач
 classis, -is, f - флота
+nāvēs, -ium, f pl - флота (букв. кораби)
 victor, -ōris, m - победител
 victōria, -ae, f - победа
 

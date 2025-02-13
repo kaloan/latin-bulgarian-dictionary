@@ -2,15 +2,20 @@ animal, -ālis, n - животно
 bēstia, -ae, f - твар, животно, скот
 fera, -ae, f - звяр, диво животно
 bēlua, -ae, f - зверище, чудовище
-pecus, pecoris, n - добитък
+pecus, pecoris, n - добитък (буквално), добитък (обидно), стадо, добиче (обикновено едро като крава, кон, муле)
+pecus, pecudis, f - добиче (обикновено дребно като овца, коза, свиня), скот
 grex, gregis, m - стадо
 exāmen, exāminis, n - рояк
 equus, -ī, m - кон, жребец
 equa, -ae, f - жребица
+canthērius, -ī, m - кастриран кон, муле
 caballus, -ī, m - кранта, товарен кон
 caballa, -ae, f - кобила
 caballiō, -ōnis, m - дребен кон, пони
+mannus, -ī, m - пони
+verēdus, -ī, m - порода бърз кон
 asturcō, -ōnis, m - ат (от конете от Астурия)
+equitātus, -ūs, m - разгонена кобила
 asinus, -ī, m - магаре
 mūlus, -ī, m - муле
 mūla, -ae, f - женско муле
@@ -117,6 +122,7 @@ piscis, -is, m - риба
   sturiō, sturiōnis, m - есетра
   acipēnser, -is, m - вероятно есетра
   raia, raiae, f - скат
+  rhombus, -ī, m - калкан
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица

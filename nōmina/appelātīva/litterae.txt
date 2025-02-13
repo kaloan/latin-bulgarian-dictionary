@@ -24,6 +24,10 @@ margo, marginis, m - край, граница
 corōnis, corōnidis, f - знак за завършек на книга, колофон
 versus, -ūs, m - ред, стих
 versiculus, ‑ī, m	- стихче
+glōssa, -ae, f - глоса, обяснение на неясна, рядко срещана или пък чуждоезична дума
+glōssae, -ārum, f pl - речник
+glōssārium, -ī, n - речник
+glossēma, glossēmatis, n - речник
 nota, -ae, f - знак, буква, белег, татуировка, забележка, упрек, укор, нота
   hieroglyphicus, -ī, m - йероглиф
   littera, -ae, f - буква

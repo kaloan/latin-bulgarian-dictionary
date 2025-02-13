@@ -173,6 +173,8 @@ impossibilis, -is - невъзможен
 regibilis, -is - управляем
 irregibilis, -is - неуправляем
 irreconciliābilis, -is - непримирим, несъвместим, невъзстановим
+nāviculāris, -is - морско-търговски
+nāvigābilis, -is - плавателен
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, менструален
