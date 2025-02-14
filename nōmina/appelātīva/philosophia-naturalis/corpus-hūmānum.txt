@@ -19,6 +19,7 @@ capitulum, -ī, n - главичка
   crīnis, -is, m - коса, кичур, пискюл, шлейф
   fimbriae, -ārum, f pl - къдрица, грива
   frōns, frontis, m - чело, челна част на сграда
+  supercilium, -ī, n - вежда
   oculus, -ī, m - око
   ocellus, ‑ī, m - оченце
   cavea, -ae, f - очна орбита
