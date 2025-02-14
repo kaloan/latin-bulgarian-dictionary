@@ -10,6 +10,7 @@ nēquam (indecl), nēquior, nēquissimus - подъл, отвратителен,
 propinquus, propior, proximus - близък, близолежащ, сроден
 mātūrus, mātūrior, mātūrrimus/mātūrissimus - зрял, съзрял, навременен
 immātūrus/inmātūrus, immātūrior/inmātūrior, immātūrrimus/inmātūrrimus/inmātūrissimus/immātūrissimus - незрял, недозрял, преждевременен
+praemātūrus, praemātūrior, praemātūrrimus - преждевременен, предсрочен, случващ се изключително рано
 posterus, posterior, postrēmus/postumus  - заден, по-заден, следващ
 senex, senior/māior nātū, māximus nātū - възрастен
 iuvenis, iuvenior/minor nātū, minimis nātū - млад (~в детеродна възраст)

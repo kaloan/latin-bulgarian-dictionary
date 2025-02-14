@@ -1,11 +1,12 @@
 grammatica, -ae, f - граматика
-synōnymum - синоним
-antonymum - антоним
+synōnymum, -ī, n - синоним
+antonymum, -ī, n - антоним
 sententia, -ae, f - изречение, мисъл, идея
   vocābulum, -ī, n - дума
     syllaba, -ae, f - сричка
       vōcālis, -is, f - гласна
       cōnsonāns, -antis, f - съгласна
+      praeverbium, -ī, n - представка
 nōmen, n. - съществително име
   appellātīvum - нарицателно име
   proprium - собствено име

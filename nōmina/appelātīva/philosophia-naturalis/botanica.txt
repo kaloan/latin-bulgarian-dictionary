@@ -9,6 +9,7 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   cyprus, -ī, f - къна (Lawsonia inermis)
   cupressus, -ī, f - кипарис
   vītis, -is, f - лоза, асма
+  praecia/precia/pretia, -ae, f - вид лоза/увивно растение
   capreolus, -ī, m - кютюк, лозов ствол
   palma, -ae, f - палма
   ferula, -ae, f - ферула, род дървовидни от семейство Сенникови; пръчка от такова дърво с цел наказание

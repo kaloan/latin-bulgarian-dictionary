@@ -22,8 +22,15 @@ lāmentātor, -ōris, m -надаващ вопли мъж
 lāmentātrīx, -īcis, f - надаваща вопли жена
 
 medicīna, -ae, f - медицина, лечение, лекуване
+medicus, -ī, m - лекар
+medicātor, -ōris, m - лекар, доктор
+medicāmen, -inis, n - лекарство, антидот, грим, козметика, боя
 medicāmentum, -ī, n - лекарство, медикамент
+medicātus, -ūs, m - цяр, лекарство, отвара
+medicātiō, -ōnis, f - лечение, изцеление
 remedium, -ī, n - лек, лекарство, цяр
+veterīnārius, -ī, m - ветеринар
+pharmacopōla, -ae, m - аптекар, фармацевт, шарлатан
 
 venēnum, -ī, n - отрова
 pestis, pestis, f - чума, болест, зараза
@@ -41,6 +48,7 @@ morbus, -ī, m - болест, заболяване
   rabiēs, rabiēī, f - бяс
   fistula, -ae, f - фистула, язва
   pustula, -ae, f - пустула, цирей, гнойник
+  varus, -ī, m - пъпка (на кожата)
   papula, -ae, f - пъпка, пъпчица
   catarrhus, -ī, m - хрема, сопол, настинка, грип
   dysenteria, -ae, f - дизентерия

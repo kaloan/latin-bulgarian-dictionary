@@ -170,9 +170,9 @@ sistere, stitisse/stetisse, statum - спирам, проверявам
   obsistere, obstitisse - съпротивлявам се
   resistere, restitisse - не помръдвам, спирам да се движа, противя се, удържам
 iungere, iūnxisse, iūnctum - свързвам, сглобявам, събирам, сдвоявам
-  adiungere - захващам, сглабям, сглобявам
+  adiungere - захващам, сглабям, сглобявам, закачам, прибавям, запрягам/впрягам (животно)
   coniungere - свързвам, свързвам с брак, прилепям, слепям
-  disiungere  - разделям
+  disiungere  - разкачвам, развързвам, разделям, разпрягам
 cadere, cecidisse - падам, умирам
   accidere, accidisse - случва се, сбъдва се, съвпадне, да стане
   concidere, concidisse - падам, припадам, прималявам, сривам се, убиват ме, отслабвам, разпадам се
@@ -622,8 +622,6 @@ spuere - плюя
   respuere - плюя на
 fallere, fefellisse, falsum - греша, лъжа, мамя, излъгвам се, бъркам се
   refellere, refellisse - опровергавам, оборвам, оспорвам, споря
-lūcere, lūxisse - светя, излъчвам
-  collūcere - огрявам, озарявам, осветлявам
 lambere, lambisse, lambitum - лижа, ближа
   dēlambere - олижа, оближа
 lingere, linxisse, linctum - лижа, ближа
@@ -642,6 +640,7 @@ texere, texuisse, textum - тъка, плета, мрежа
 metere, messuisse, messum - жъна, кося
   dēmetere - изжъна, покося, откъсвам
   ēmetere - изжъна
+  praemetere - жина, изрязвам, отрязвам, скъсявам
 linere, linīvisse/lēvisse, litum - мажа, покривам
   illinere - намажа, помазвам, покривам
   sublinere - подмажа, намажа, измамвам
@@ -674,3 +673,5 @@ labascere, ??? - разпадам се, колебая се
   collabascere, ??? - клатушкам се, клатя се
 molere, moluisse, molitum - меля, стривам
   ēmolere - измеля, стривам
+mandere, mandisse, mānsum - дъвча, мляскам, ям
+  praemandere - сдъвквам/ям предварително
