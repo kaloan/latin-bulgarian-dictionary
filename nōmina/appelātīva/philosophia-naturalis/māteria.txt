@@ -32,7 +32,7 @@ myrrha, -ae, f - миро
 smaragdus, -ī, m - смарагд
 bitūmen, bitūminis, n - битум
 vitrum, -ī, n - стъкло
-calx, calcis, f - вар, варовик
+calx, calcis, f - вар, варовик, финална права
 gypsum, -ī, n - гипс, гипсова фигура
 gās, gāsis, n - газ
 gasium/gasum, -ī, n - газ
@@ -41,6 +41,7 @@ cōnsistentia, -ae, f - консистенция
 tormentum, -ī, n - опън, натиск, усукване
 torsiō, -ōnis, f - усукване
 mortārium, -ī, n - хоросан
+bulla, -ae, f - мехурче, ръкохватка, издатина, изпъкналост, кабър
 
 electricitās, -ātis, f - електричество
 electrismus, -ī, m - електричество

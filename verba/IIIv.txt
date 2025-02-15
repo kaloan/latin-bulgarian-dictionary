@@ -7,6 +7,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   dēficere ab - оставям, дезертирам
   efficere -iō, effēcisse, effectum - изработвам, извършвам, изпълнявам
   expergēfacere -iō - събуждам, разбуждам
+  fervēfacere -iō - загрявам, стопявам, кипвам
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
   labefacere -iō, labefēcisse, labefactum - клатя, разхлабвам, разпускам, отслабвам, събарям, унищожавам
   laetificāre (!!!), laetificāvisse, laetificātum - оплодотворявам, обогатявам, торя, радвам, зарадвам
@@ -21,7 +22,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
   praeficere -iō, praefēcisse, praefectum - поставям начело
   prōficere -iō, prōfēcisse, prōfectum - напредвам, подобрявам, доправя, довършвам, постигам
-  reficere -iō, refēcisse, refectum - преправям
+  reficere -iō, refēcisse, refectum - преправям, преустройвам, преустроявам
   satisfacere -iō, satisfēcisse, satisfаctum (+dat) - задоволявам, извинявам се, обезщетявам
   significāre (!!!), significāvisse, significātum - знача, правя знак, изразявам, показвам, вещая
   stupefacere -iō, stupefēcisse, stupefactum - обърквам, шашардисвам, зашеметявам, сковавам, вцепенявам, карам да изтръпне, притъпявам
@@ -90,6 +91,13 @@ sapere -iō, sapīvisse - имам вкус (храна), вкусвам, има
   praesipere -iō - предчувствам, предусещам
   supersapere -iō - имам чудесен вкус
 quatere iō, -!, quassum - клатя, треса, друсам
+lacere -iō, licuisse, lactum - увличам, омайвам, блазня
+  allicere -iō, allicuisse/allēxisse, allеctum - привличам, примамвам
+  dēlicere -iō, dēlicuisse, dēlictum - примамвам, подмамвам, наслаждавам
+  ēlicere -iō, ēlicuisse/ēlēxisse, ēlictum - изтеглям, обеждавам, примамвам, привличам, призовавам (дух, свръхесествена сила)
+  illicere -iō, illēxisse, illectum - омайвам, обайвам, примамвам, привличам, блъзня
+  pellicere -iō, pellēxisse, pellectum - съблазня, изкушавам, пленявам
+  prōlicere -iō, prōlicuisse, prōlectum - примамвам напред, подбуждам, подстрекавам, настървявам
 
 
 -cutere -iō, -cussisse, -cussum [троша]

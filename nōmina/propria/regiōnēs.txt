@@ -50,6 +50,7 @@ Asia, -ae, f - Азия
   Assyria, -ae, f - Асирия
   Mēdia, -ae, f - Мидия
   Idūmaea, -ae, f - Идумея, Едом
+  Idūmē/Idȳmē, Idūmēs/Idȳmēs, f - Идумея, Едом
   Samarīa, -ae, f - Самария
   Galilea, -ae, f - Галилея
   Phoenīcē, -ēs, f - Финикия

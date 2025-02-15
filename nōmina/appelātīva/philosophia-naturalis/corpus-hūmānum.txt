@@ -132,6 +132,7 @@ vīscera, vīscerum, n pl - вътрешности
   pulmō, pulmōnis, m - бял дроб
   praecordia, -ōrum, n pl - диафрагма, гръд
   iecur, iecoris, n - черен дроб
+  iecusculum, -ī, n - черно дробче
   fel, fellis, n - жлъчка
     bīlis, -is, f - жлъчен сок
   uterus, -ī, m - утроба, матка, лоно, недра
@@ -139,7 +140,7 @@ vīscera, vīscerum, n pl - вътрешности
   colon, colī, n - дебело черво
   intestīnum tenue - тънко черво
     duodenum, -ī, n - дванадесетопръстник
-    ieiunum, -ī, n - празно черво
+    iēiūnum, -ī, n - празно черво
     ileum, -ī, n - хълбочно черво
   intestīnum crassum - дебело черво
 ōs, ossis, n - кост

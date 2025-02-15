@@ -13,6 +13,7 @@ caballus, -ī, m - кранта, товарен кон
 caballa, -ae, f - кобила
 caballiō, -ōnis, m - дребен кон, пони
 mannus, -ī, m - пони
+mannulus, -ī, m - пони
 verēdus, -ī, m - порода бърз кон
 asturcō, -ōnis, m - ат (от конете от Астурия)
 equitātus, -ūs, m - разгонена кобила

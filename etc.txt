@@ -276,6 +276,7 @@ pīlum sēminārium - шило с което се бутали семена пр
 bene et nāviter - напълно
 alicui dictō audiēns - слушам заръките на някого
 dictō audiēns nōn esse - непорокен съм
+ūnus īdemque - един и същи
 
 in pūblicum - в държавни ръце/управление
 in pūblicum - в общественото благо, за доброто на обществото
@@ -412,5 +413,9 @@ dies Veneris, Fēria sexta - петък
 dies Saturni, Fēria septima, Sabbatum - събота
 
 diēs lūstrius - ден на свещено пречистване при който на детето се давал praenōmen
+
+ab oculīs - сляп
+iēiūnum intestīnum - празно черво
+iēiūna cavea - празно черво
 
 Ȳ, ȳ

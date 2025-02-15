@@ -64,6 +64,7 @@ herba, -ae, f - трева
   sōlānum, -ī, n - лудо биле, старо биле, беладона
   sināpis, -is, f - синап
   brassica, -ae, f - зеле, къдраво зеле, карфиол, броколи
+  illecebra, -ae, f - вид от семейство Дебелецови
   ālium/allium, -ī, n - чесън
   cēpa/caepa, -ae, f - лук
   thymum, -ī, n - мащерка

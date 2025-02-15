@@ -28,6 +28,7 @@ nāvigātor, -ōris, m - моряк
 gubernātor, -ōris, m - капитан, командир, кормчия
 lintārius, -ī, m - лодкар
 piscātor, -ōris, m - рибар
+piscātiō, -ōnis, f - риболов
 harundō, -inis, f - въдица
 rēte, rētis, n - рибарска мрежа
   nōdī, -ōrum, m pl - рибарска мрежа с възли
