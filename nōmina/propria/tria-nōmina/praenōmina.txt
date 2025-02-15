@@ -4,6 +4,7 @@ Decimus, -ī, m - Деций
 Gāius (Cāius), -ī, m - Гай
 Gnaeus (Cnaeus), -ī, m - Гней
 Jūlius, -ī, m - Юлий
+Kaesō/Caesō, -ōnis, m - Цезон
 Lūcius, -ī, m - Луций
 Lucumō, -ōnis, m - Лукумон
 Mārcius, -ī, m - Марций
@@ -12,4 +13,4 @@ Pūblius, -ī, m - Публий
 Quīntus, -ī, m - Квинт
 Servius, -ī, m - Сервий
 Sextus, -ī, m - Секст
-Kaesō/Caesō, -ōnis, m - Цезо
+Spurius, -ī, m - Спурий
