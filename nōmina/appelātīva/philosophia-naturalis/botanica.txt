@@ -5,9 +5,12 @@ acus, aceris, n - люспа, плява
 arbor, -is, f - дърво
 arbuscula, -ae, f - фиданка, дръвче, дървенце, храстче, бонзай
   quercus, -ūs, f - дъб
+  sūber, -is, n - корково дърво, корк
   rōbur, rōboris, m - дъб, дъбова дървесина
+  frāxinus, -ī, m - ясен
+  platanus, -ī, m - чинар, платан
+  acer, aceris, m - клен, явор?
   cyprus, -ī, f - къна (Lawsonia inermis)
-  cupressus, -ī, f - кипарис
   vītis, -is, f - лоза, асма
   praecia/precia/pretia, -ae, f - вид лоза/увивно растение
   capreolus, -ī, m - кютюк, лозов ствол
@@ -15,6 +18,7 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   ferula, -ae, f - ферула, род дървовидни от семейство Сенникови; пръчка от такова дърво с цел наказание
   laurus, -ī, m - лавър, дафина
   olea, -ae, f - маслиново дърво
+  vīburnum, -ī, n - калина
   tilia, -ae, f - липа
   ulmus, -ī, f - бряст
   salix, salicis, f - върба, ива, ракита
@@ -23,6 +27,17 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   vīnea, -ae, f - лозя
   iūniperus, -ī, m - хвойна
   myxa, -ae, f - дърво раждащо сливоподобни плодове (Cordia myxa)
+  betulla/betula, -ae, f - бреза
+  alnus, -ī, m - елша
+  carpinus, -ī, m - габър
+  corylus, -ī, m - леска, лешник (дърво)
+  acācia, -ae, f - акация, гума арабика
+  pīnus, -ī, m - бор, борова гора, борова дървесина
+  abiēs, abietis, f - ела
+  cupressus, -ī, f - кипарис
+  larix, laricis, f - лиственица
+  thuia, -ae, f - туя
+  taxus, -ī, m - тис
 dūmus, -ī, m - храст
   rūscum, -ī, n - див чемшир, самодивски чемшир, бодлив залист
   briscō, -ōnis, m - див чемшир, самодивски чемшир, бодлив залист
@@ -30,6 +45,7 @@ dūmus, -ī, m - храст
   rosa, -ae, f - роза
   cynorhodon, -ī, m - шипка
   rhūs, rhūs, m - сумак
+  filix, filicis, f - папрат
 virgultum, -ī, n - шубрак, гъсталак, гъстак
 rāmus, -ī, m - клон
 papula, -ae, f - пъпка на растение
@@ -57,6 +73,8 @@ herba, -ae, f - трева
   lolium, -ī, n - райграс
   urtīca, -ae, f - коприва
   lamium, -ī, n - мъртва коприва
+  cārex, cāricis, f - острица
+  rumex, rumicis, f - киселец, лапад
   lūtum, -ī, n - тревисто растение, от чийто цвят се получавал жълтеникав пигмент, Reseda luteola
   sonchus, -ī, m - тревист род растения от Цикориеви
   vitrium, -ī, n - тревисто растение от Кръстоцветни, от което се получава син пигмент, Isatis tinctoria, пигментът получен от това растение
@@ -65,6 +83,7 @@ herba, -ae, f - трева
   sināpis, -is, f - синап
   brassica, -ae, f - зеле, къдраво зеле, карфиол, броколи
   illecebra, -ae, f - вид от семейство Дебелецови
+  lactūca, -ae, f - маруля
   ālium/allium, -ī, n - чесън
   cēpa/caepa, -ae, f - лук
   thymum, -ī, n - мащерка
@@ -77,6 +96,7 @@ herba, -ae, f - трева
   piper, piperis, n - пипер
   armoracia, -ae, f - хрян
   patāta, -ae, f - картоф, батат
+  mūscus, -ī, m - мъх
 veprēs, -is, m - трънак
 sentis, -is, m - трънак
 spīnētum, -ī, n - трънак
@@ -99,8 +119,6 @@ flōsculus, -ī, m - цветенце
   viola, -ae, f - тененужка, виолетка
   hyacinthus, -ī, m - зюмбюл
   carduus, -ī, m - магарешки бодил, бодил, бурен
-  lotus, -ī, f - лотус, водна лилия
-  rhophalon, -ī, m - водна лилия
   sȳringa, -ae, f - люляк
   malva, -ae, f - слез
   lȳsimachia, -ae, f - блатия, върболист, ленивче
@@ -109,6 +127,14 @@ flōsculus, -ī, m - цветенце
   genista/genesta, -ae, f - жълтуга
   sisymbrium, -ī, n - свещена за Венера ароматна билка, вероятно водна мента
   nāsturtium, -ī, n - кресон, пореч
+  cōnferva, -ae, f - черен оман, чернокос, страсник (Symphytum officinale)
+  tulipa, -ae, f - лале
+  aphaca, -ae, f - глухарче
+alga, -ae, f - водорасло, водни растения, малоценност
+  cōnferva, -ae, f - сладководно водорасло
+  lotus, -ī, f - лотус, водна лилия
+  rhophalon, -ī, m - водна лилия
+līchēn, -is, m - лишей
 
 pābulum, -ī, n - сено, обоз
 fēnum, -ī, n - сено
@@ -119,7 +145,7 @@ strāmentum, -ī, n - слама, полог
 strāmen, -inis, n - слама за животинска постеля
 storea, -ae, f - сламена постеля/постелка/дюшек/матрак
 
-tālea, -ae, f - прът, върлина, пръчка, съчка, разсад
+tālea, -ae, f - прът, върлина, пръчка, съчка, разсад, присадка
 tāleola, -ae, f - стръкче, издънка
 
 viror, virōris, m - зеленина

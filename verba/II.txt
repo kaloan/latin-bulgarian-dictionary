@@ -108,6 +108,7 @@ vovēre, vōvisse, vōtum - заклевам се
 sedēre, sēdisse, sessum - седя, мирен съм (не мърдам)
   assidēre, assēdisse, assessum - доседя, грижа се за болни хора, обсаждам, блокирам, наподобявам, приличам
   circumsedēre, circumsēdisse, circumsessum - седя около, обкръжавам, заобикалям, обсаждам
+  consedēre, consēdisse, consessum - седя с някого, насядаме
   dēsidēre, dēsēdisse, dēsessum - заседя се, уседя, отивам по голяма нужда
   dissidēre, dissēdisse - седя далеч, отдалечен съм, не се съгласявам, различавам се
   īnsidēre, īnsēdisse, īnsessum - седя, яздя, възсядам, населявам, чакам в засада, окупирам, заемам място

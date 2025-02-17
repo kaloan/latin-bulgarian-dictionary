@@ -8,9 +8,11 @@ niger - бляскаво черен
 āter - матово черен
 pulus - тъмноцветен, черен
 prasinus - светло зелен
-viridis -is - зелен
+viridis, -is - зелен
 purpureus - пурпурен
 ruber, rubrī - червен
+rubeus/robeus - червен, червеникав
+rūbīginōsus/rōbīginōsus - ръждив, ръждиво-червен
 rūfus - риж, рижав, червен, червеникав
 surrūfus/subrūfus - рижавеещ, с цвят сходен до рижия
 caerŭleus - небесно син

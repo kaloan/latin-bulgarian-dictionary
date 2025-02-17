@@ -33,11 +33,11 @@ colliculus, -ī, m - хълмче
 tumulus, -ī, m - могила, хълмче
 campus, -ī, m - равнина
 ager, agrī, m - поле, имение
-arvum, -ī, n - нива
+arvum, -ī, n - нива, кър
 culta, -ōrum, n pl - обработвани земи
 prātum, -ī, n - ливада, обширно място в морето, заглавие на сборник
 prātulum, -ī, n - ливадка
-silva, -ae, f - гора
+silva/sylva, -ae, f - гора
 saltus, -ūs, m - планинска гора
 laurētum, -ī, n - лаврова гора
 olīvētum, -ī, n - маслинова гора

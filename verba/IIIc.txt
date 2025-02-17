@@ -83,6 +83,7 @@ algēscere, alsisse - студувам, помръзвам
 adscīscere/ascīscere, adscīvisse/ascīvisse, adscītum/ascītum - усвоявам
 adscīscere/ascīscere sē - присвоявам
 adhaerēscere, adhaesisse, adhaesum - прилепвам се
+exsolēscere/exolēscere - отвиквам
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -549,8 +550,10 @@ cernere, crēvisse, crētum - откроявам, очертавам, забел
   discernere - разпознавам, различавам, отличавам
   sēcernere - разделям, разединявам, откъсвам, отделям
 suēscere, suēvisse - свиквам
-  assuēscere, assuēvisse, assuētum (+dat) - свиквам, сближавам се
-  cōnsuēscere - свиквам
+  assuēscere, assuēvisse, assuētum (+dat) - привиквам, приучвам се, сближавам се
+  cōnsuēscere - навиквам, научвам се
+  dēsuēscere - отвиквам, отучвам се
+  mānsuēscere - опитомявам, укротявам, смекчавам, укротявам се, смекчавам се
 terere - трия, жуля, шкуря
   conterere - стрия, стрoша, охлузвам, износвам, пилея
   dēterere - протрия, изтрия, изжуля, премахна, отстраня, изшкуря, кастря
@@ -586,8 +589,8 @@ crēscere, crevisse, cretum - раста, проявявам се, повиша�
   succrēscere - раста под, израствам, покарвам, изниквам
 lūcēscere, lūxisse - светя, зазоря
   illūcēscere, illūxisse - засветя, зазоря
-stupēscere - изумея, вцепенявам се
-  obstupēscere - изумея, вцепенявам се, изтръпна
+stupēscere - изумявам се, вцепенявам се, сковавам се
+  obstupēscere - изумявам се, вцепенявам се, сковавам се, изтръпвам
 sternere, strāvisse, strātum - стеля, покривам, слоя, пластя, простирам, хъркам
   cōnsternere - разстеля, покривам, разпростирам
   īnsternere - постеля, настеля, покривам, наслоявам, напластявам
@@ -628,6 +631,7 @@ suere, suisse, sūtum - шия, везя, веза
   īnsuere - вшия
 olēscere, -!, -! - раста
   adolēscere, adolēvisse, adultum - пораствам
+  exolēscere, exolēvisse, exolētum - израствам
   obsolēscere, obsolēvisse, obsolētum - старея, остарявам
 texere, texuisse, textum - тъка, плета, мрежа
   intexere - втъкавам, вплитам

@@ -95,6 +95,8 @@ essentiāliter - същностно, съществено
 ōscitanter - изморено, сънливо, равнодушно
 gnāviter/nāviter - усърдно, изрядно, напълно
 furenter - яростно, ядливо, буйно, буйствено, бясно
+concorditer - единодушно, мирно
+discorditer - разногласно, размирно
 
 facile/faciliter - лесно
 difficile/difficiliter - трудно
