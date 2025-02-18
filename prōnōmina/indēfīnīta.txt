@@ -1,5 +1,8 @@
 nēmō, nēminem, nēminis/nūllīus, nēminī, nēmine/nūllō/nūllā - никой, никоя
 nōnnēmō, nōnnēminem, nōnnēminis/nōnnūllīus, nōnnēminī, nōnnēmine/nōnnūllō/nōnnūllā - някой, някоя
+nūllus, nūllum, nūllīus, nūllī, nūllō, nūllī, nūllōs, nūllōrum, nūllīs, nūllīs - никой
+nūlla, nūllam, nūllīus, nūllī, nūllā, nūllae, nūllās, nūllārum, nūllīs, nūllīs - никоя
+nūllum, nūllum, nūllīus, nūllī, nūllō, nūlla, nūlla, nūllōrum, nūllīs, nūllīs - никое, нищо
 nihil/nīl, nihil/nil, nullus rēī, nullī rēī, nulla rē  - нищо
 omnia, -ium - всичко
 
@@ -56,8 +59,3 @@ quodvīs, quodvīs, cuiusvīs, cuivīs, quōvīs, quaevīs, quaevīs, quōrumvī
 quīlibet, quemlibet, cuiuslibet, cuilibet, quōlibet, quīlibet, quōslibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кой да е, кой ще, който харесаш
 quaelibet, quamlibet, cuiuslibet, cuilibet, quālibet, quaelibet, quāslibet, quārumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - коя да е, коя ще, която харесаш
 quodlibet, quodlibet, cuiuslibet, cuilibet, quōlibet, quaelibet, quaelibet, quōrumlibet, quibuslibet/quīslibet, quibuslibet/quīslibet - кое да е, което ще, което харесаш
-
-
-nōnnūllī, nōnnūllōs, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
-nōnnūllae, nōnnūllās, nōnnūāōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много
-nōnnūlla, nōnnūlla, nōnnūlōrum, nōnnūllīs, nōnnūllīs - няколко, някои, много

@@ -5330,9 +5330,9 @@ nongenties [наречие] - деветстотин пъти
 nongenti [прилагателно] - деветстотин
 nonnemo, nonneminem, nonneminis/nonnullius, nonnemini, nonnemine/nonnullo/nonnulla [местоимение] - някой, някоя
 nonne [наречие] - нали, не е ли (очаква се положителен отговор)
-nonnullae, nonnullas, nonnuaorum, nonnullis, nonnullis [местоимение] - няколко, някои, много
-nonnulla, nonnulla, nonnulorum, nonnullis, nonnullis [местоимение] - няколко, някои, много
-nonnulli, nonnullos, nonnulorum, nonnullis, nonnullis [местоимение] - няколко, някои, много
+nonnulla, nonnullam, nonnullius, nonnulli, nonnulla, nonnullae, nonnullas, nonnullarum, nonnullis, nonnullis [прилагателно] - някоя, някои, няколко
+nonnullum, nonnullum, nonnullius, nonnulli, nonnullo, nonnulla, nonnulla, nonnullorum, nonnullis, nonnullis [прилагателно] - някое, някои, няколко
+nonnullus, nonnullum, nonnullius, nonnulli, nonnullo, nonnulli, nonnullos, nonnullorum, nonnullis, nonnullis [прилагателно] - някой, някои, няколко
 nonnumquam/nonnunquam [наречие] - нерядко, доста често
 nonus [прилагателно] - девети
 non [наречие] - не
@@ -5375,8 +5375,11 @@ nucleus, -i, m [съществително] - зърно
 nudare [глагол] - оголвам (в см. на събличам), оголвам (в см. на оставям незащитено), оголвам (в см. на ограбвам)
 nudus [прилагателно] - гол
 nugae, -arum, f pl [съществително] - глупости, простотии, празни приказки, дреболии
+nulla, nullam, nullius, nulli, nulla, nullae, nullas, nullarum, nullis, nullis [местоимение] - никоя
 nullitas, -atis, f [съществително] - небитие, нищожество
+nullum, nullum, nullius, nulli, nullo, nulla, nulla, nullorum, nullis, nullis [местоимение] - никое, нищо
 nullus, -ius [прилагателно] - нула, без
+nullus, nullum, nullius, nulli, nullo, nulli, nullos, nullorum, nullis, nullis [местоимение] - никой
 Numa Pompilius [съществително] - Нума Помлилий, вторият римски цар, въвежда свещеническата колегия, календара, законите, като се грижил за мира, умира от естествена смърт
 numen, -inis, n [съществително] - провидение, божество
 numerare [глагол] - броя

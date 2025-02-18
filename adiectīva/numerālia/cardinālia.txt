@@ -2,6 +2,9 @@ tōtus, -īus - цял, пълен, целокупен
 sōlus, -īus - сам, единствен
 ūllus, -īus - някой, но винаги се използва с отрицание за получаване на никой/нито един
 nūllus, -īus - нула, без
+nōnnūllus, nōnnūllum, nōnnūllīus, nōnnūllī, nōnnūllō, nōnnūllī, nōnnūllōs, nōnnūllōrum, nōnnūllīs, nōnnūllīs - някой, някои, няколко
+nōnnūlla, nōnnūllam, nōnnūllīus, nōnnūllī, nōnnūllā, nōnnūllae, nōnnūllās, nōnnūllārum, nōnnūllīs, nōnnūllīs - някоя, някои, няколко
+nōnnūllum, nōnnūllum, nōnnūllīus, nōnnūllī, nōnnūllō, nōnnūlla, nōnnūlla, nōnnūllōrum, nōnnūllīs, nōnnūllīs - някое, някои, няколко
 ūnus, ūnum, ūnīus, ūnī, ūnō, ūnī, ūnōs, ūnōrum, ūnīs, ūnīs - един
 ūna, ūnam, ūnīus, ūnī, ūnā, ūnae, ūnās, ūnārum, ūnīs, ūnīs - една
 ūnum, ūnum, ūnīus, ūnī, ūnō, ūna, ūna, ūnōrum, ūnīs, ūnīs - едно
