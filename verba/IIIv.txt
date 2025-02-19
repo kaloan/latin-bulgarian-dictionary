@@ -66,8 +66,8 @@ specere/spicere -iō, spexisse, spectum - гледам, виждам
   suspicere -iō - гледам нагоре, изследвам, наблюдавам, гледам (из)под вежди, гледам (из)под око, подозирам, не се доверявам
 capere -iō, cepisse, captum - хващам, грабвам, държа, пленявам
   accipere -iō, accepisse, acceptum - взимам, получавам, приемам, допускам
-  excipere -iō, excepisse, exceptum - вадя, премахвам, изключвам, пропускам
   dēcipere -iō, dēcepisse, dēceptum - мамя
+  excipere -iō, excepisse, exceptum - вадя, премахвам, изключвам, пропускам
   incipere -iō, incepisse, inceptum - започвам
   occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям, окупирам
   praecipere -iō, praecepisse, praeceptum - ръководя, предвождам, заповядвам, назидавам, напътствам, наставлявам, очаквам, взимам предварително

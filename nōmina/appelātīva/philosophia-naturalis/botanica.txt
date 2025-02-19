@@ -82,6 +82,7 @@ herba, -ae, f - трева
   sōlānum, -ī, n - лудо биле, старо биле, беладона
   sināpis, -is, f - синап
   brassica, -ae, f - зеле, къдраво зеле, карфиол, броколи
+  ērūca, -ae, f - рукола
   illecebra, -ae, f - вид от семейство Дебелецови
   lactūca, -ae, f - маруля
   ālium/allium, -ī, n - чесън
@@ -130,11 +131,15 @@ flōsculus, -ī, m - цветенце
   cōnferva, -ae, f - черен оман, чернокос, страсник (Symphytum officinale)
   tulipa, -ae, f - лале
   aphaca, -ae, f - глухарче
+  plumbāgō, -inis, f - саркофай
+  cyclamen, -inis, n - циклама
+  cyclamīnos, -ī, f! - циклама
 alga, -ae, f - водорасло, водни растения, малоценност
   cōnferva, -ae, f - сладководно водорасло
   lotus, -ī, f - лотус, водна лилия
   rhophalon, -ī, m - водна лилия
 līchēn, -is, m - лишей
+tūber, -is, n - кореноплодно растение
 
 pābulum, -ī, n - сено, обоз
 fēnum, -ī, n - сено

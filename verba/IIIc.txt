@@ -83,7 +83,8 @@ algēscere, alsisse - студувам, помръзвам
 adscīscere/ascīscere, adscīvisse/ascīvisse, adscītum/ascītum - усвоявам
 adscīscere/ascīscere sē - присвоявам
 adhaerēscere, adhaesisse, adhaesum - прилепвам се
-exsolēscere/exolēscere - отвиквам
+exsolēscere/exolēscere, -!, -! - отвиквам
+vigēscere, viguisse - зацъфтявам, разцъфтявам се
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -124,8 +125,12 @@ spargere, sparsisse, sparsum - ръся, сипя, сея, пилея
   adspargere/adspergere/aspargere/aspergere, adsparsisse/adspersisse/asparsisse/aspersisse, adsparsum/adspersum/asparsum/aspersum - поръся, пръскам, посипя, обсипя, цапам
   cōnspergere, cōnspergere, cōnspersum - поръся, разпръсвам
   respergere, respersisse, respersum - поръся, пръсвам, осейвам, обсипвам
-colere, coluisse, cultum - грижа се, поддържам, развивам
-  incolere, incoluisse, incultum - живея, пребивавам
+colere, coluisse, cultum - грижа се, поддържам, развивам, закрилям, гледам, тача, почитам
+  accolere, accoluisse, accultum - пребивавам в близост, съсед съм на
+  circumcolere, cirumcoluisse, circumcultum - обитавам, населявам, пребивавам
+  excolere, excoluisse, excultum - отглеждам, обгрижвам, подобрявам, развивам, тача
+  incolere, incoluisse, incultum - живея, пребивавам, населявам
+  recolere, recoluisse, recultum - отглеждам отново, подновявам, премислям, спомням си
 mergere, mersisse, mersum - топя (в течност), цопвам, забивам
   dēmergere - потапям, потъвам, прикривам, заравям
   ēmergere - изплувам, излизам от водата
@@ -358,7 +363,7 @@ nōscere, nōvisse, notum - знам
   ignōscere (+dat) - прощавам (някому)
   internōscere - разпознавам
   praenōscere - предзная, предвиждам
-vincere, vīcisse, victum - побеждавам, завладявам, надвивам, надживявам
+vincere, vīcisse, victum - побеждавам, завладявам, надвивам, надживявам, надделявам
   convincere - убеждавам, скланям, показвам, доказвам
   dēvincere - побеждавам решително, подчинявам
 solvere, solvisse, solutum - пускам, освобождавам, разхлабвам, заплащам
@@ -529,7 +534,7 @@ regere, rēxisse, rēctum - владея, управлявам, направля
   corrigere, corrēxisse, corrēctum - изправям, поправям, коригирам, лекувам, излекувам, церя, изцерявам
   corrigere sē - поправям се (за изказване), поправям се (за държание)
   dērigere/dīrigere, dīrēxisse, dīrēctum - отправям, насочвам, изправям, (воеено) разпределям в редица/права
-  ērigere, ērēxisse, ērēctum - възбуждам, одързостявам, издигам
+  ērigere, ērēxisse, ērēctum - възбуждам, одързостявам, издигам, виря
   pergere, perrēxisse, perrēctum - продължавам, навлизам, ида
   porrigere, porrēxisse, porrēctum - подавам, предлагам, разпростирам
   surgere, surrēxisse, surrēctum - ставам
@@ -546,6 +551,7 @@ stringere, strinxisse, strictum - стържа, рендосвам, привър
   obstringere - обвързвам, давам клетва
   praestringere - замижа
 cernere, crēvisse, crētum - откроявам, очертавам, забелязвам, различавам, отличавам, определям, зървам
+  concernere - смесвам,
   dēcernere - отсъждам, присъждам, гласувам, разпореждам
   discernere - разпознавам, различавам, отличавам
   sēcernere - разделям, разединявам, откъсвам, отделям
@@ -572,7 +578,7 @@ pēdere - пърдя
 acuere, acuisse, acūtum - остря, подострям, точа, шиля, подобрявам, поставям ударение
   exacuere - изострям
 carpere, carpsisse, carptum - бера, скубя, късам, грабвам, издърпвам, гриза, паса, скубя/оскубвам (преносно), събарям, руша, наслаждавам се, клеветя, мърморя
-  concerpere, concerpsisse, concerptum - отскубвам, разкъсвам, раздирам, злоупотребявам
+  concerpere, concerpsisse, concerptum - отскубвам, разпердушинвам, разкъсвам, раздирам, злоупотребявам
   dēcerpere, dēcerpisse, dēcerptum - откъсвам, отскубвам
   discerpere, disceprsisse, discerptum - отскубвам, разкъсвам, раздирам
   excerpere, excerpsisse, excerptum - подбирам, пробирам, отбирам, избирам, откъсвам

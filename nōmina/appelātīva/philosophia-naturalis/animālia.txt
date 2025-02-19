@@ -50,7 +50,7 @@ iuvencus, -ī, m - зряло говедо
 taurus, -ī, m - бик
 vacca, -ae, f - крава
 vitulus, -ī, m - теле
-ariēs, arietis, m - овен
+ariēs, arietis, m - овен, коч
 vervex, vervecis, m - кастриран овен, овен
 ovis, -is, f - овца
 agnus, -ī, m - мъжко агне
@@ -145,7 +145,10 @@ formīca, -ae, f - мравка
 lōcusta, -ae, f - скакалец
 gryllus, -ī, m - щурец, скакалец, карикатура
 pāpiliō, -ōnis, m - пеперуда, молец
-bombȳx, bombȳcis, m - буба
+  ērūca, -ae, f - гъсеница
+  ūrīca, -ae, f - гъсеница
+  dolba, -ae, f - гъсеница
+  bombȳx, bombȳcis, m - буба
 musca, -ae, f - муха
 culex, culicis, m - комар
 pūlex, pūlicis, m - бълха
