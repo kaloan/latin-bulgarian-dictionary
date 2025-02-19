@@ -81,14 +81,22 @@ herba, -ae, f - трева
   tabācum, -ī, n - тютюн
   sōlānum, -ī, n - лудо биле, старо биле, беладона
   sināpis, -is, f - синап
+  nāpus, -ī, m - ряпица
+  rāpa, -ae, f - ряпа
+  rāpum, -ī, n - ряпа
   brassica, -ae, f - зеле, къдраво зеле, карфиол, броколи
   ērūca, -ae, f - рукола
   illecebra, -ae, f - вид от семейство Дебелецови
   lactūca, -ae, f - маруля
+  blitum, -ī, n - спанак
   ālium/allium, -ī, n - чесън
   cēpa/caepa, -ae, f - лук
   thymum, -ī, n - мащерка
   rōsmarīnus, -ī, m - розмарин
+  saturēia, -ae, f - чубрица
+  cunēla, -ae, f - вероятно риган
+  orīganum, -ī, n - риган, майорана
+  dracunculus, -ī, m - естрагон, тарос
   anēthum, -ī, n - анасон, копър
   petroselīnum, -ī, n - магданоз
   ōcimum, -ī, n - босилек

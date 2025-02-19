@@ -126,6 +126,7 @@ piscis, -is, m - риба
   acipēnser, -is, m - вероятно есетра
   raia, raiae, f - скат
   rhombus, -ī, m - калкан
+  dracunculus, -ī, m - риба от семейство Морски мишки
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица (букв. крилато)
 avis, -is, f - птица
@@ -176,6 +177,7 @@ tarmes, tarmitis, m - дървоядова ларва, личинка
 vermiculus, -ī, m - личинка, ларва
 
 dracō, -ōnis, m - дракон, змей
+dracunculus, -ī, m - драконче, змейче
 orcus, -ī, m - орк
 gigās, gigantis, m - гигант
 
