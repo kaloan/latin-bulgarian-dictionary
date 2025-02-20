@@ -61,6 +61,7 @@ haedus, -ī, m - козле
 capra, -ae, f - коза
 capella, -ae, f - козичка
 cervus, -ī, m - елен
+cerva, -ae, f - кошута
 tarandus, -ī, m - северен елен
 capreola, -ae, f - газела
 caprea, -ae, f - сърна

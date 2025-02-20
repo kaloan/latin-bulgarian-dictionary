@@ -3,6 +3,7 @@ lapis albus - мрамор
 sēnsus commūnis - common sense
 capite pūnīre - екзекутирам
 fratris filius, sorōris fīlius - племенник
+iter facere - пътувам
 ōvum frictum - яйце на очи
 ōvum dūrum - варено яйце
 ōvum permixta - бъркано яйце
@@ -280,6 +281,9 @@ dictō audiēns nōn esse - непорокен съм
 omnium prīmum - преди всичко
 sub iugum mittere - пращам под игото, унизителен ритуал в Италийските градове победените да трябва да минат под иго (или греда/копия символизиращи него) в знак на покоряване
 adicere/facere animōs alicui - вдигам нечий дух, ободрявам някого, въодушевявам някого
+dictō citius - преди да се (до-)изкаже
+
+ex parte - отчасти, частично
 
 in pūblicum - в държавни ръце/управление
 in pūblicum - в общественото благо, за доброто на обществото

@@ -62,9 +62,9 @@ stāgnum, -ī, n - мочурище, водоем
 palūs, palūdis, f - мочурище, блато, езерце
 lustrum, -ī, n - блато, кочина
 mare, -is, n - море
-pontus, -ī, m - море
+pontus, -ī, m - море, дълбини
 vadum, -ī, n - плитчина, брод
-pelagus, -ī, m - открито море
+pelagus, -ī, m - открито море, морски простор
 vortex/vertex, vortecis/verticis, m - водовъртеж, вихър
 ōra, ōrae, f - морски бряг
 lītus, litoris, n - плаж, бряг
