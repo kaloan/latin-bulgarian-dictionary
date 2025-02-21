@@ -25,6 +25,7 @@ triceps - триглав
 quadriceps - четириглав
 praeceps, praecipitis - стръмен, стремглав, прибързан, твърдоглав
 particeps, -ipis (+gen) - участващ (в), участник (в)
+deinceps, -ipis - следващ, последващ, сетнешен
 superstes, superstitis - оцелял, непокътнат
 pūbēs, pūberis - възрастен, зрял
 sollers, sollertis - ловък, умел, сръчен, находчив, проницателен
@@ -48,7 +49,6 @@ impudēns, -entis - безсрамен
 prūdens, prūdentis - разумен, осъзнат
 imprūdens, imprūdentis - неразумен
 libēns, libentis - желаещ, волеви, волен, весел, доволен
-innocēns, -entis - безобиден, невинен, благ, почтен, чистосърдечен
 frequēns, frequentis - чест, често срещан
 excellēns - отличен
 sōns, sontis - виновен

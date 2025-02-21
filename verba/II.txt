@@ -7,7 +7,7 @@ lūgēre, luxisse, luctum - оплаквам, жалея, скърбя, окай
 paenitēre, paenituisse - разкайвам се, съжалявам, гризе ме съвестта (!!!), изпитвам угризение, недоволствам
 egēre, eguisse (+abl) - нуждая се от, изпитвам нищета
 ārdēre, arsisse, arsum - горя, гневя се
-nocēre, nocuisse, nocitum - вредя, ранявам, пакостя
+nocēre, nocuisse, nocitum - вредя, увреждам, ранявам, пакостя
 cavēre, cāvisse, cautum - внимавам, предпазвам се
 cavēre (+dat) - гарантирам (на някого), давам гаранция (на някого)
 timēre, timuisse - страхувам се
