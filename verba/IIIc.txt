@@ -492,12 +492,17 @@ vādere, vāsisse - стъпвам, втурвам се, ходя
   invādere, invāsisse, invāsum - влизам, настъпвам, нахлувам
   pervādere, pervāsisse, pervāsum - престъпя, разпръскам, разпространя
 pellere, pepulisse, pulsum - гоня, не допускам, държа извън, пъдя, тласкам, удрям
-  appellere - добутам, акостирам, приземявам
-  compellere - принуждавам, насилвам, карам, притискам, стискам
-  dispellere - разгоня, разбутвам, разпилявам, разпръсквам
-  expellere - изгонвам, изпъдя, изтпаскам, изтиквам, изблъсквам
-  impellere - подтиквам
-  repellere - отблъсквам, пропъдя
+  appellere, appulisse, appulsum - добутам, акостирам, дебаркирам, приземявам
+  aspellere, aspulisse, aspulsum - гоня, премахвам, отстранявам
+  compellere, compulisse, compulsum - принуждавам, насилвам, карам, притискам, стискам
+  dēpellere, dēpulisse, dēpulsum - изгоня, изпъдя, изтласквам, прогонвам, изтласквам, отблъсквам, отбивам (променям посока), отбивам (преставам да кърмя)
+  dispellere, dispulisse, dispulsum - разгоня, разбутвам, разпилявам, разпръсквам
+  expellere, expulisse, expulsum - изгонвам, изпъждам, изтпаскам, изтиквам, изблъсквам
+  impellere, impulisse, impulsum - подтиквам, убеждавам, поразявам, разгромявам
+  interpellere, interpulisse, interpulsum - прекъсвам, възразявам, дразня, затруднявам
+  perpellere, perpulisse, perpulsum - халосвам, принуждавам, карам, ограничавам
+  prōpellere, prōpulisse, prōpulsum - тикам, тласкам/бутам напред, подтиквам
+  repellere, repulisse, repulsum - отблъсквам, пропъдя
 ruere, ruisse, rutum - падам, събарям, сгромолясвам, сривам, руша, унищожавам, превръщам в руини
   corruere - сгромолясвам се, срутвам се
   dīruere - разруша, разпръсквам
