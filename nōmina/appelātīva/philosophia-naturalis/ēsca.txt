@@ -2,33 +2,44 @@ pōmum, -ī, n - плод
   mālum, -ī, n - ябълка
   mālum paradīsī - грейпфрут
   mālum pūnicum - нар
+  grānātum, -ī, n - нар
+  mālogrānātum, -ī, n - нар
   mālum aurantium - портокал
+  aurantium, -ī, n - портокал
   mālum aureum - портокал
+  mālum cydōnium/cotōnium, -ī, n - дюля
+  armeniacum, -ī, n - дюля
+  praecoquium, -ī, n - дюля
   pirum, -ī, n - круша
   persica, -ae, f - праскова
   frāgum, -ī, n - ягода
+  mēmecylon, -ī, n - ягода
+  mespilum, -ī, n - мушмула
   prūnum, -ī, n - слива
-  aurantium, -ī, n - портокал
   līmō, -ōnis, m - лимон
   līmō viridis - лайм
-  armeniacum, -ī, n; praecoquium, -ī, n - дюля
   cerasum, -ī, n - череша
-  mōrum, -ī, n - къпина
+  mōrum, -ī, n - черница, къпина
   mōrum īdaeum - малина
-  vaccīnium, -ī, n ; myrtillus, -ī, m - боровинки
+  vaccīnium, -ī, n - боровинка
+  myrtillus, -ī, m - боровинка
   pepō, -ōnis, m - пъпеш, тиква
   mēlō, mēlōnis, m - пъпеш, диня
   mēlopepō, -ōnis, m - пъпеш, диня
   citrullus lānātus - диня
   cucurbita, -ae, f - тиква
-  banāna, -ae, f; mūsa, -ae, f; ariēna, -ae, f - банан
+  banāna, -ae, f - банан
+  mūsa, -ae, f - банан
+  ariēna, -ae, f - банан
   ananāsa, -ae, f - ананас
   lycopersica, -ae, f - домат
   cŭcŭmis, -eris, m - краставица
   olīva, -ae, f - маслина
   fīcus, -ūs, m - смокиня
   ūva, -ae, f - грозде
-  palmula, -ae, f; caryōta, -ae, f; dactylus, -ī, m - фурма
+  palmula, -ae, f - фурма
+  caryōta, -ae, f - фурма
+  dactylus, -ī, m - фурма
   frūx, frūgis, f - реколта, продоволствие, хранителен продукт
   redāctus, -ūs, m - реколта, родитба, берекет, остъпление, приход, доход, връщане, свеждане, намаление, снижение
   frūgēs, -um, f pl - провизии, припаси, запаси
@@ -37,12 +48,14 @@ pōmum, -ī, n - плод
   seges, segetis, f - небрана реколта, житни посеви, житен кър
   annōna, -ae, f - зърно, реколта, дажба, жътва
   frūmentum, -ī, n - жито
-    far, farris, n - спелта
+    alica, -ae, f - някакъв вид жито (спелта или лимец)
+    far, farris, n - някакъв вид жито (лимец или спелта)
     spīca, -ae, f - житен клас, свила
     stipula, -ae, f - безполезна част от житно растение, плява, свила, стрък
     furfur, -is, m - трици
     arista, -ae, f - свила
     trīticum, -ī, n - пшеница
+    ador, adōris, m - някакъв вид жито (ечемик, спелта или лимец)
   legūmen, -inis, n - бобово растение
     siliqua, -ae, f - рожков, шушулка
     faba, -ae, f - боб
@@ -51,6 +64,7 @@ pōmum, -ī, n - плод
     phasēlus, -ī, m - фасул
     cicer, ciceris, m - нахут
   cucumis, -eris, m - краставица
+  mēlongēna, -ae, f - патладжан
 holus/olus, holeris/oleris, n - зеленчук
 holusculum, -ī, n - зеленчуче, билчица
   bēta, -ae, f - цвекло, чукундур
