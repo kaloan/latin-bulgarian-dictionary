@@ -15,7 +15,7 @@ nōmen, n. - съществително име
   neutrum, neutr./n. - среден род
   cāsus, -ūs, m - падеж, случай
     dēclīnātiō, dēcl. - склонение
-    nominātīvus, nom. - именителен падеж
+    nōminātīvus, nom. - именителен падеж
     accūsātīvus, acc. - винителен падеж
     genetīvus, gen. - родителен падеж
     datīvus, dat. - дателен падеж
