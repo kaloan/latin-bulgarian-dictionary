@@ -338,7 +338,7 @@ cēdere, cessisse, cessum - движа се, местя се
 vīvere, vīxisse, victum - живея
   pervīvere - надживявам
 sinere, sīvisse/sisse, situm - позволявам, разрешввам, оставям
-  dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам, отказвам се
+  dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам, преставам, отказвам се
 fluere, fluxisse, fluxum - тека
   affluere - притека, прииждам, стичаме се
   affluere (+abl) - изобилствам (с), обсипан съм (с), имам много (от)

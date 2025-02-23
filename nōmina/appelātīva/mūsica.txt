@@ -21,6 +21,7 @@ būcina, -ae, f - рог, тръба, духов музикален инстру
 lituus, -ī, m - военен тромпет, тръба леко извита в края
 lingula/ligula, -ae, f - мундщук
 chorus, -ī, m - хор
+mūsa, -ae, f - песен, поема
 melos, indecl, n - песен
 cantus, -ūs, m - песен
 carmen, -inis, n - песен, поема
