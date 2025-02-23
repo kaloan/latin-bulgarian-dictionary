@@ -1,6 +1,7 @@
 cedo, cette (def) - варда!, отстъпи!, освободи!, подчини се!, тръгни!
-ait, āiunt (деф) - казва
+ait, āiunt (def) - казва
 inquit, inquiunt (def) - казва, използваа се при пряка реч
 ōdisse (def) - мразя, ненавиждам
 meminisse (def) (+acc) - спомням си
 meminisse (def) (+gen) - да внимавам за нещо, да имам нещо предвид
+coepisse (def) - започнал съм
