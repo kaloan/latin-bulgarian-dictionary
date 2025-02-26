@@ -28,7 +28,9 @@ mīrābilis, -is - чуден, причудлив
 rudis, -is - неук, груб
 mor­tālis, -is - смъртен
 immortālis, -is - безсмъртен
-commūnis, -is - споделен, всеобщ
+commūnis, -is - споделен, общ, всеобщ, обществен
+commūnālis, -is - обществен
+commūnicābilis, -is - съобщим, споделим
 circēnsis, -is - цирков
 hostīlis, -is - вражески, вражески, противнически
 illūstris, -is - бляскав, ясен, бележит, известен
@@ -199,6 +201,7 @@ animābilis, -is - от въздух/дъх, жив, жизнен
 capitālis, -is - на глава, углавен, смъртоносен
 gibber, -is - гърбав, гърбат
 acervālis, -is - скупчен
+dorsālis, -is - гръбен
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, менструален

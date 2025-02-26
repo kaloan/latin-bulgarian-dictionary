@@ -3,6 +3,7 @@ sexus, -ūs, m - пол
 membrum, -ī, n - крайник, полов член
 artus, -ūs, m - крайник
 pellis, -is, f - кожа, кожух
+pellicula, -ae, f - кожичка
 cutis, -is, f - кожа, обелка
   callum, -ī, n - мазол, твърд, твърдина
   porus, -ī, m - пора, телесен канал

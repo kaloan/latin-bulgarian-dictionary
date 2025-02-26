@@ -98,6 +98,7 @@ gnāviter/nāviter - усърдно, изрядно, напълно
 furenter - яростно, ядливо, буйно, буйствено, бясно
 concorditer - единодушно, мирно
 discorditer - разногласно, размирно
+commūniter - общо, обществено, заедно
 
 facile/faciliter - лесно
 difficile/difficiliter - трудно

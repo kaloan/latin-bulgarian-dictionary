@@ -5,7 +5,7 @@ unguis, -is, m - нокът
 pilus, -ī, m - козина
 cauda, -ae, f - опашка
 lāna, -ae, f - вълна
-dorsum, -ī, n - гръб
+dorsum, -ī, n - гръб, хребет/гребен на планина
 vellus, -eris, n - руно
 iuba, -ae, f - грива
 plūma, -ae, f - перо

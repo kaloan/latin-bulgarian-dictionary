@@ -57,7 +57,7 @@ salīre, sаluisse/saliisse, saltum - скачам, хвърлям се
   exsilīre, exsiluisse - изскачам
   īnsilīre, īnsiluisse - нахвърлям се
   prōsilīre - скачам напред, сурвам се
-  trānilīre - прескачам
+  trānsilīre - прескачам
 dormīre - спя
   obdormīre - заспивам
 venīre, vēnisse, ventum - идвам, стигам
@@ -102,5 +102,6 @@ gannīre, gannīvisse - скимтя, лая, крякам, ръмжа, бъбр
   ingannīre - мамя, заблуждавам
   oggannīre - ръмжа, говоря заплашително, бъбря
 mūnīre - укрепвам
+  commūnīre - укрепвам, барикадирам, подсигурявам
   praemūnīre - укрепвам предварително
   praemūnīre (+dat) - (поставен съм да) защитавам някого

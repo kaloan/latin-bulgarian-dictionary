@@ -242,7 +242,7 @@ classicus - флотийски, патрициански
 prōlētārius - пролетарски
 ūnicus - един-единствен
 peregrīnus - чужд, странен, чуждестранен
-serēnus - чист, бистър, спокоен
+serēnus - чист, бистър, спокоен, ведър
 cotīdiānus/cottīdiānus/quotīdiānus - всекидневен
 hodiernus - днешен
 dormītōrius - спален
@@ -655,6 +655,7 @@ animōsus - въодушевен, жизнен, оживен, с боен дух
 plumbōsus - съдържащ (твърде много) олово
 gibbus - гърбав
 gibbōsus - гърбат
+praestus - готов, наличен
 
 tantus - толкова голям
 tantulus - толкова малък
