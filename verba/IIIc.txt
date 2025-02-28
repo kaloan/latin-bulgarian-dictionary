@@ -209,8 +209,8 @@ emere, ēmisse, ēmptum - купувам, придобивам
   eximere, exēmisse, exēmptum - изкупувам, освобождавам, премахвам, прогонвам, пилея (време)
   interimere, interēmisse, iterēmptum - убивам, унищожавам
   perimere, perēmisse, perēmptum - убивам, унищожавам
-  prōmere, prōmpsisse, prōmptum - обещавам
-    dēprōmere, dēprōmpsisse, dēprōmptum - донасям, създавам, произвеждам
+  prōmere, prōmpsisse, prōmptum - изнасям, вадя от ножница/колчан, разкривам, показвам, предоставям, издавам (книга), обвинявам
+    dēprōmere, dēprōmpsisse, dēprōmptum - донасям, създавам, предоставям
     exprōmere, exprōmpsisse, exprōmptum - изнасям, изваждам, показвам, изказвам се
   redimere - откупя
   sūmere, sūmpsisse, sūmptum - вдигам, взимам

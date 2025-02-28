@@ -283,6 +283,10 @@ adicere/facere animōs alicui - вдигам нечий дух, ободрява
 dictō citius - преди да се (до-)изкаже
 praestō sum - наличен съм, пръсъствам, подслугвам, помагам
 
+in promptū esse/habēre/pōnere - разкрит съм, видим съм, в явен вид, очевиден съм
+in promptū esse/habēre - наличен съм, готов съм
+in promptū esse - лесен съм, постижим съм
+
 quīn etiam - че и, а също, но отгоре, още повече, даже
 quīn et - даже, че и
 quīn potius - по-скоро, всъщност

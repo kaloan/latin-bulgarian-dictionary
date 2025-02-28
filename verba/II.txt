@@ -147,6 +147,7 @@ miscēre, miscuisse, mixtum - меся
 monēre, monuisse, monitum - предупреждавам, съветвам, отбелязвам
   admonēre - посъветвам
   praemonēre - предупреждавам
+  prōmonēre - предупреждавам открито
 horrēre, horruisse - изправям се, да ми се изправят космите (т.е. страхувам се)
   abhorrēre ab - мразя, отвращавам се, извръщам се
 spondēre, spopondisse, spōnsum - обещавам, поръчителствам, сгодявам се
