@@ -170,7 +170,7 @@ columna, -ae, f - колона
 tēctum, -ī, n - покрив, таван, подслон, заслон, навес
 solum, -ī, n - под
 crepundia, -ōrum, n pl - залагалка
-pupa, -ae, f - кукла
+pūpa, pupae, f - кукла
 turbō, turbinis, m - пумпал, спирала, колело, въртене
 pila, -ae, f - топка
 ālea, -ae, f - зар, игра със зарове

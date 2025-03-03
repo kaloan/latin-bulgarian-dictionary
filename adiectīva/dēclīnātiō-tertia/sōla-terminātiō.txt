@@ -20,6 +20,7 @@ excors, excordis - глупав, тъп, лекомислен (действащ 
 misericors, misericordis - съчувствен, състрадателен
 immisericors, immisericordis - безчувствен, безмилостен, безпощаден
 inops, inopis - невещ, неможещ, жалък
+prīnceps, principis - пръв, главен, изтъкнат
 biceps - двуглав
 triceps - триглав
 quadriceps - четириглав

@@ -23,7 +23,10 @@ capitulum, -ī, n - главичка
   supercilium, -ī, n - вежда
   oculus, -ī, m - око
   ocellus, ‑ī, m - оченце
-  cavea, -ae, f - очна орбита
+    cavea, -ae, f - очна орбита
+    cora, -ae, f - зеница
+    pūpula, -ae, f - зеница
+    pūpilla, -ae, f - зеница
   vīsus, -ūs, m - зрение
   nāsus, -ī, m - нос
   odōrātus, -ūs, m - обоняние

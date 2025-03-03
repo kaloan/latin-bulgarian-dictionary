@@ -65,10 +65,10 @@ cerva, -ae, f - кошута
 tarandus, -ī, m - северен елен
 capreola, -ae, f - газела
 caprea, -ae, f - сърна
-capreolus, -ī, m - малък сръндел
 capreola, -ae, f - малка сърна
-caprāginus, -ī, m - сръндел
+capreolus, -ī, m - малък сръндак
 caprāgina, -ae, f - сърна
+caprāginus, -ī, m - сръндак
 aper, aprī, m - глиган
 elephantus, -ī, m - слон
 ursus, -ī, m - мечок
