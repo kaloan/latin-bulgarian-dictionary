@@ -46,6 +46,7 @@ soliditās, -ātis, f - твърдост, цялост, цялостност
 rūbīgō/rōbīgō, -ōnis, f - ръжда (метална)
 plumbāgō, -inis, f - графит
 plumbātūra, -ae, f - оловен припой, оловна спойка, оловна заварка
+pasta, -ae, f - паста
 
 electricitās, -ātis, f - електричество
 electrismus, -ī, m - електричество

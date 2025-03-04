@@ -231,7 +231,9 @@ agere, ēgisse, āctum - действам, върша
   peragere, perēgisse, perāctum - извършвам, довършвам, свършвам
   redigere, redēgisse, redāctum - връщам, намалявам, свеждам (преносно), събирам
   transigere, transēgisse, transāctum - извършвам, приключвам, промушвам, прекарвам време, преминавам (за време), слагам край
-pāscere, pāvisse, pāstum - паса, храня, насищам, гоя
+pāscere, pāvisse, pāstum - паса (водя животни), храня, насищам, гоя
+  compāscere - паса животни заедно
+  dēpāscere - паса (водя животни)
   perpāscere - угоявам
 vertere, vertisse, versum - въртя, обръщам, променям, унищожавам
   āvertere - обръщам се с гръб към някого, отвръщам се
@@ -289,7 +291,8 @@ tendere, tetendisse, tentum/tēnsum - опъвам, опвам, дърпам, н
   praetendere, praetendisse, praetentum/praetēnsum - протягам, опъвам, разпъвам, преструвам се
   prōtendere, prōtendisse, prōtēnsum - изпъвам, разпъвам, разтягам
   retendere, retendisse, retēnsum - отпускам, разгъвам
-dīcere, dīxisse, dictum - казвам
+dīcere, dīxisse, dictum - казвам, споменавам, обявявам, назоваавм
+dīcere ad - пледирам
   abdīcere - изземвам по закон
   addīcere - благосклонен съм, милостивя, приписвам, предавам, посвещавам
   benedīcere - благославям
