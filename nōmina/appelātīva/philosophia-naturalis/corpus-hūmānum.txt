@@ -27,6 +27,7 @@ capitulum, -ī, n - главичка
     cora, -ae, f - зеница
     pūpula, -ae, f - зеница
     pūpilla, -ae, f - зеница
+    rētīna, -ae, f - ретина
   vīsus, -ūs, m - зрение
   nāsus, -ī, m - нос
   odōrātus, -ūs, m - обоняние

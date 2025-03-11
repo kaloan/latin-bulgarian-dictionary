@@ -13,6 +13,7 @@ rota, -ae, f - колело
 stimulus, -ī, m - бич, камшик
 flagellum, -ī, n - камшик
 frēnum, -ī, n - юзда, повод, сбруя
+retina, -ae, f - юзда
 lōra, -ōrum, n pl - юзди
 habēnae, -ārum, f pl - оглавник, юлар
 iugum, -ī, n - иго, ярем, хомот

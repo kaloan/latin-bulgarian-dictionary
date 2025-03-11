@@ -44,7 +44,7 @@ morbus, -ī, m - болест, заболяване
   caecitās, -ātis, f - слепота
   albūgō, albūginis, f - левкома
   lepra, -ae, f - проказа
-  febris, -is, f - треска
+  febris, -is, f - температура, треска
   rabiēs, rabiēī, f - бяс
   fistula, -ae, f - фистула, язва
   pustula, -ae, f - пустула, цирей, гнойник

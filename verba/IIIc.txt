@@ -23,7 +23,7 @@ parcere ab - въздържам се от
 nūbere, nūpsisse (+dat) - забулвам се, омъжвам се (от древно римската практика младоженката да се забулва, по-късно се използва и разширено в смисъл "влизам в брак")
 plaudere, plausisse, plausum (+dat) - пляскам, ръкопляскам
 intuere - обследвам
-cōnsulere, cōnsuluisse, cōnsultum - посъветвам, посъветвам се, допитвам, консултирам
+cōnsulere, cōnsuluisse, cōnsultum - съветвам се, посъветвам се, допитвам се, консултирам се
 hiscere - зяпам
 crūdescere, crūduisse - подивявам, освирепявам, влошава се болестно състояние (!!!)
 īcere, īcisse, ictum - мушкам, жиля, наръгвам, удрям, шибам, сключвам (договор)
@@ -115,6 +115,7 @@ vigēscere, viguisse - зацъфтявам, разцъфтявам се
 
 legere, lēgisse, lēctum - чета, бера, избирам, събирам
   colligere, collēgisse, collēctum - скупчвам, събирам в група, събирам богатство, заключавам
+  dēligere, dēlēgisse, dēlēctum - откъсвам, отскубвам, избирам, мобилизирам
   ēligere, ēlēgisse, ēlēctum - отбирам, избирам
   intellegere, intellēxisse, intellēctum - разбирам
   perlegere - прочитам
@@ -266,7 +267,7 @@ fīgere, fīxisse, fīxum/fictum - стягам, закачам, захваща�
   dēfīgere - забивам, буча, изявявам се категорично, втренчвам се, изумявам
   īnfīgere - мушкам, убождам, вмъквам
   trānsfīgere - промуша, пробивам
-sīdere, sedisse/sidisse, sessum - сядам, потъвам
+sīdere, sēdisse/sīdisse, sessum - сядам, потъвам
   cōnsīdere - възсядам, утаявам
   īnsīdere - седя, яздя, населявам, чакам в засада
 vīsere, vīsisse - виждам, посещавам

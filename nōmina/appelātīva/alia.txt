@@ -64,6 +64,7 @@ proscēnium/proscaenium, -ī, m - авансцена
 lectīca, -ae, f - носилка
 lacrima, -ae, f - сълза
 pāstor, -ōris, m - пастир
+caprārius, -ī, m - козар
 umbra, -ae, f - сянка
 vestīgium, -ī, n - следа, диря, отпечатък, подкова, момент
 luxuria, -ae, f - лукс
@@ -542,6 +543,8 @@ prōmptus, -ūs, m - готовност, леснина, показност, я�
 pressus, -ūs, m - натиск
 pressiō, -ōnis, f - натискане, стискане, опора, опорна точка, подпора
 pressūra, -ae, f - натиск, натискане, талпа, дълбок сън, бреме
+ūsūrpātiō, -ōnis, f - употреба, узурпация
+ūsūrpātor, -ōris, m - узорпатор
 
 pellicula, -ae, f - филм, видео
 

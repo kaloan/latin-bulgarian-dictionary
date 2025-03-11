@@ -56,6 +56,8 @@ ovis, -is, f - овца
 agnus, -ī, m - мъжко агне
 agna, -ae, f - женско агне
 ovicula, -ae, f - овчица
+hircus, -ī, m - пръч (буквално), пръч (обидно)
+buccus, -ī, m - козел, пръч
 caper, caprī, m - козел
 haedus, -ī, m - козле
 capra, -ae, f - коза
