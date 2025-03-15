@@ -35,7 +35,7 @@ duodēvīgintī, indecl - осемнадесет, осемнайсет
 ūndēvīgintī, indecl - деветнадесет, деветнайсет
 vīgintī, indecl - двадесет, двайсет
 trīginta, indecl - тридесет, трийсет
-quadrāginta, indecl - четиридесет, четиресет
+quadrāginta, indecl - четиридесет, четирийсет
 quīnquāginta, indecl - петдесет
 sexāginta, indecl - шестдесет, шейсет
 septuāginta, indecl - седемдесет

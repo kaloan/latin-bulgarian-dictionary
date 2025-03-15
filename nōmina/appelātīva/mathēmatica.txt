@@ -1,5 +1,6 @@
 mathēmatica, -ae, f - математика
 aequātiō, -ōnis, f - равенство, изравняване
+prōportiō, -ōnis, m - пропорция, съотношение, симетрия, аналогия
 variātiō, -ōnis, f - изменение
 dēfīnitiō, -ōnis, f - дефиниция, определение, постановление
 modulus, -ī, m - размер, телосложение, кройка
@@ -14,7 +15,12 @@ magnitūdō, magnitūdinis, f - размер, величина
 superficiēs, superficiēī, f - повърхнина, повърхност
 
 ūniō, ūniōnis, f - единица
-dyas, dyadis, f - двойка
+dyas, dyadis, f - двойка, двоица
+bīniō, bīniōnis, m - двойка, двоица, две
+terniō, terniōnis, m - тройка, три
+quaterniō, quaterniōnis, m - четворка, четири, кватернион
+quīniō, quīniōnis, m - петорка, петица
+sēniō, sēniōnis, m - шесторка, шестица
 
 trochus, -ī, m - обръч
 angulus, -ī, m - ъгъл (математически), ъгъл (физически), кът, кътче, кьоше
