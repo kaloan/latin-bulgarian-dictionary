@@ -207,7 +207,7 @@ adversam [предлог] - срещу, към
 adversārius [прилагателно] - противников
 adversus [предлог] - срещу, към, в посока на
 adversus [прилагателно] - насрещен
-advocāre [глагол] - призовавам
+advocāre [глагол] - свиквам, призовавам
 advocātus, -ī, m [съществително] - адвокат
 advolāre [глагол] - долитам
 advolvere, advolvisse, advolūtum [глагол] - дотъркалям, въргалям
@@ -7017,6 +7017,7 @@ quaelibet, quamlibet, cuiuslibet, cuilibet, quālibet, quaelibet, quāslibet, qu
 quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam [местоимение] - че коя
 quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs [местоимение] - каква, която
 quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs [местоимение] - коя?
+quaequam, quamquam, cuiusquam, cuiquam, quāquam, quaequam, quāsquam, quārumquam, quibusquam, quibusquam [прилагателно] - някоя, но винаги се използва с отрицание за получаване на никоя
 quaerere (+īnf) [глагол] - желая
 quaerere, quaesīvisse, quaesītum [глагол] - търся, диря
 quaeritāre [глагол] - търся, диря
@@ -7081,7 +7082,8 @@ quīcumque, quemcumque, cuiuscumque, cuicumque, quōcumque, quīcumque, quōscum
 quīdam, quemdam/quendam, cuiusdam, cuidam, quōdam, quīdam, quōsdam, quōrumdam/quōrundam, quibusdam, quibusdam [местоимение] - еди-кой, един определен
 quidem [наречие] - наистина, определено, поне
 quidnī [наречие] - защо не
-quidquam/quicquam, quidquam/quicquam, cuiusquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] [местоимение] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
+quidquam/quicquam, quidquam/quicquam, cuiusquam, cuiquam, quōquam, quaequam, quaequam, quōrumquam, quibusquam, quibusquam [прилагателно] - някое, но винаги се използва с отрицание за получаване на никое
+quidquam/quicquam, quidquam/quicquam, cuiusquam, cuiquam, quōquam/quīquam [местоимение] - нещо, но винаги се използва с отрицание за получаване на нищо
 quid, quid, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs [местоимение] - кое, но само в неопределени въпроси, т.е. "quid est ...?", но не и "quid oppidum ...?"
 quidquid/quicquid, quidquid/quicquid, -, -, quōquō [местоимение] - какво да е
 quid/quod, quid/quod, cuius, cuī, quō, qua, quas, quōrum, quibus, quibus [местоимение] - някое, но само в изречения за непреки въпроси и условни изречения (sī, nisi, nē, num)
@@ -7136,7 +7138,8 @@ quirītāre [глагол] - зова/викам за помощ, простен
 Quirītēs, -ium, m pl [съществително] - квирити (т.е. римляни)
 quisnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam [местоимение] - че кой
 quispiam, quempiam, cuiuspiam, cuīpiam, quōpiam, quīpiam, quōspiam, quōrumpiam, quibuspiam, quibuspiam [местоимение] - кой-годе, все някой, кой да е
-quisquam, quemquam, cuiusquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] [местоимение] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
+quisquam, quemquam, cuiusquam, cuiquam, quōquam, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam [прилагателно] - някой, но винаги се използва с отрицание за получаване на никой
+quisquam, quemquam, cuiusquam, cuiquam, quōquam/quīquam [местоимение] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
 quis, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs [местоимение] - кой, но само в неопределени въпроси, т.е. "quis facit ...?", но не и "quis mercātor ...?"
 quisque, quemque, cuiusque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque [местоимение] - всеки
 quis/quī, quem, cuius, cuī, quō, quī, quōs, quōrum, quibus, quibus [местоимение] - някой, но само в изречения за непреки въпроси и условни изречения (sī, nisi, nē, num)

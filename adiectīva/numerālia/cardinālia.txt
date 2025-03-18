@@ -1,6 +1,9 @@
 tōtus, -īus - цял, пълен, целокупен
 sōlus, -īus - сам, единствен
 ūllus, -īus - някой, но винаги се използва с отрицание за получаване на никой/нито един
+quisquam, quemquam, cuiusquam, cuiquam, quōquam, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam - някой, но винаги се използва с отрицание за получаване на никой
+quaequam, quamquam, cuiusquam, cuiquam, quāquam, quaequam, quāsquam, quārumquam, quibusquam, quibusquam - някоя, но винаги се използва с отрицание за получаване на никоя
+quidquam/quicquam, quidquam/quicquam, cuiusquam, cuiquam, quōquam, quaequam, quaequam, quōrumquam, quibusquam, quibusquam - някое, но винаги се използва с отрицание за получаване на никое
 nūllus, -īus - нула, без
 nōnnūllus, nōnnūllum, nōnnūllīus, nōnnūllī, nōnnūllō, nōnnūllī, nōnnūllōs, nōnnūllōrum, nōnnūllīs, nōnnūllīs - някой, някои, няколко
 nōnnūlla, nōnnūllam, nōnnūllīus, nōnnūllī, nōnnūllā, nōnnūllae, nōnnūllās, nōnnūllārum, nōnnūllīs, nōnnūllīs - някоя, някои, няколко

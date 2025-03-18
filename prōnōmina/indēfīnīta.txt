@@ -32,8 +32,9 @@ aliquis, aliquem, alicuius, alicuī, aliquō, aliquī, aliquōs, aliquōrum, ali
 aliqua, aliquam, alicuius, alicuī, aliquā, aliquae, aliquās, aliquārum, aliquibus, aliquibus - някоя
 aliquod, aliquod, alicuius, alicuī, aliquō, aliqua, aliquas, aliquōrum, aliquibus, aliquibus - някое
 
-quisquam, quemquam, cuiusquam, cuīquam, quōquam[, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam] - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
-quidquam/quicquam, quidquam/quicquam, cuiusquam, cuīquam, quōquam[, quaquam, quasquam, quōrumquam, quibusquam, quibusquam] - някое/нещо, но винаги се използва с отрицание за получаване на никое/нищо
+
+quisquam, quemquam, cuiusquam, cuiquam, quōquam/quīquam - някой/някоя, но винаги се използва с отрицание за получаване на никой/никоя
+quidquam/quicquam, quidquam/quicquam, cuiusquam, cuiquam, quōquam/quīquam - нещо, но винаги се използва с отрицание за получаване на нищо
 
 
 quisque, quemque, cuiusque, cuīque, quōque, quīque, quōsque, quōrumque, quibusque, quibusque - всеки
