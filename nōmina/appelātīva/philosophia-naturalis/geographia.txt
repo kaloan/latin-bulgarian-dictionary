@@ -75,8 +75,9 @@ fretum, -ī, n - проток
 ōceanus, -ī, m - океан
 altum, -ī, n - дълбини
 
-oriēns, -entis, m - изток
-occidēns, -entis, m - запад
+oriēns, -entis, m - изток, изгрев
+occidēns, -entis, m - запад, залез, заник
+septentriō, -ōnis, m - север
 septentriōnēs, -um, m pl - север
 merīdiēs, meridiēī, m - юг
 

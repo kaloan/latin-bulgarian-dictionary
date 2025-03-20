@@ -37,6 +37,7 @@ memoria, -ae, f - памет
 audācia, -ae, f - смелост
 voluntās, -ātis, f - воля
 vōtum, -ī, n - воля
+mōs, mōris, m - воля, своеволие
 amīcitia, -ae, f - приятелство
 inimīcitia, -ae, f - враждебност
 valētūdō, -inis, f - здраве
