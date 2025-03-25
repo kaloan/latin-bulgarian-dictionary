@@ -12,3 +12,5 @@ pertaedere, pertaesum/pertisum esse (imp) (+acc) (+gen, īnf) - (на някой
 cōnstāre (imp) (+acc/īnf) - сигурно е
 vidēre, vīdisse (imp pāss) - изглежда ми вярно/правилно
 lūcescere/lūciscere, - (imp) - развиделява се, съмва се, разсъмва се, прояснява се
+ferre, tulisse, lātum (imp) - (понякога и в множествено число) донася се, казва се, смята се, помни се
+dīcere (imp pāss) - казва се, казват че

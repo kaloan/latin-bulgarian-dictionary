@@ -16,3 +16,7 @@ cuium, cuium, cuiī, cuiō, cuiō, cuia, cuia, cuiōrum, cuiīs, cuiīs - чие
 uter, utrum, utrīus, utrī, utrō, utrī, utrōs, utrōrum, utrīs, utrīs - кой от двата
 utra, utram, utrīus, utrī, utrā, utrae, utrās, utrārum, utrīs, utrīs - коя от двете
 utrum, utrum, utrīus, utrī, utrō, utra, utra, utrōrum, utrīs, utrīs - кое от двете
+
+hicine/hicne, huncine/huncne, huiusne, huicine/huicne, hōcine/hōcne, hīne, hōsne, hōrumne, hīsne, hīsne - този (намиращ се близо до говорителя/писателя) ли
+haecine/haecne, hancine/hancne, huiusne, huicine/huicne, hācine/hācne, haene, hāsne, hārumne, hīsne, hīsne - тази (намираща се близо до говорителя/писателя) ли
+hocine/hocne, hocine/hocne, huiusne, huicine/huicne, hōcine/hōcne, haecine/haecne, haecine/haecne, hōrumne, hīsne, hīsne - това (намиращо се близо до говорителя/писателя) ли

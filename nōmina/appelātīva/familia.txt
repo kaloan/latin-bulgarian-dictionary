@@ -11,6 +11,7 @@ līberī, -ōrum, m pl - деца
 prōpāgō, -inis, f - челяд, потомство, порода
 posterī, -ōrum, m pl - потомци, наследници
 stirps, stirpis, f - родословие, рода, потомство
+prōlēs, -is, f - чедо, чадо, рожба, потомство
 
 mamma, -ae, f - мама
 māter, mātris, f - майка
@@ -23,7 +24,6 @@ vītricus, -ī, m - доведен баща
 genitor, -ōris, m - родител, баща
 nātus, -ī, m - син, рожба
 nāta, -ae, f - дъщеря
-prōlēs, -is, f - чадо, рожба
 fīlius, -ī, m - син
 fīliolus, -ī, m - синче
 fīlia, -ae, f - дъщеря
@@ -82,14 +82,16 @@ nūptiae, -ārum, f pl - сватба, женитба
 cōnūbia, -ōrum, n pl - сватба, женитба
 coniugium, -ī, n - връзка, брак
 cōnūbium, -ī, n - брак
+prōnuba, -ae, f - женена жена, която придружавала булката до булченското ложе
 affīnis, -is, m/f - родственик по брак
-spōnsus, -ī, m - годеник, младоженец
+spōnsus, -ī, m - годеник, младоженец, жених
 spōnsa, -ae, f - годеница, младоженка
 uxor, uxoris, f - съпруга
 nūpta, -ae, f - съпруга, младоженка
 marītus, -ī, m - съпруг
 marīta, -ae, f - съпруга
 coniūnx, coniugis, m/f - съпруг, съпруга
+subnuba, -ae, f - наложница
 glōs, glōris, f - сестра на съпруг
 lēvir, lēvirī, m - брат на съпруг
 mātrōna, -ae, f - госпожа, омъжена жена, мадам, матрона
@@ -104,6 +106,7 @@ senectūs, -ūtis, f - старчество
 virīlitās, -ātis, f - мъжество (период от живота), мъжество (характер)
 geminus, -ī, m - близнак
 gemellus, -ī, m - близначе, близненце
+trigeminus, -ī, m - тризнак
 īnfāns, infantis, m/f - бебе
 īnfantulus, -ī, m - бебенце момче
 infantula, -ae, f - бебенце момиче

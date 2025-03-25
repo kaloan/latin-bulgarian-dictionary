@@ -3,7 +3,7 @@ macer, macrī - слаб, хилав, недохранен
 sinister, sinistrī - ляв, благоприятен (за римляните), неблагоприятен (за гърците), извратен
 dexter, dextrī - десен, сръчен, благосклонен
 faber, fabrī - изкусен
-integer, intergī - цял
+integer, intergī - цял, непокътнат
 sacer, sacrī - свещен, сакрален
 piger, pigrī - мързелив
 pulcher, pulchrī - хубав, красив

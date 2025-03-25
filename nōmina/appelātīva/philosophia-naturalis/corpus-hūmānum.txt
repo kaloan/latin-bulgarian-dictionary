@@ -36,6 +36,7 @@ capitulum, -ī, n - главичка
   auditus, -ūs, m - слух
   gena, -ae, f - буза
   māla. -ae, f - скула, буза
+  prōditiō, -ōnis, f - руменина
   maxilla, -ae, f - долна челюст
   rictus, -ūs, m - челюст
   mandibula, -ae, f - челюстна кост

@@ -33,6 +33,7 @@ cycnus, -ī, m - лебед
 luscinia, -ae, f - славей
 passer, -is, m - врабче
 psittacus, -ī, m - папагал
+corax, coracis, m - гарван
 corvus, -ī, m - гарван
 cornīx, -cis, f - врана
 gallus, -ī, m - петел

@@ -38,7 +38,6 @@ nōn sōlum ... sed etiam - не само че ..., но и
 etiam atque etiam - пак и пак
 iterum atque iterum - отново и отново
 in primīs - за начало, първо
-rēs pūblica - обществено дело
 satin' (satisne) - достатъчно ли
 paulō post - малко после
 prae omnibus - повече от всички
@@ -49,7 +48,6 @@ sub X rēge - по време на управлението на X, под вл�
 animum movēre - убеждавам, разчуствам
 dextram tenere - здрависвам се (!!!)
 praedam facere - плячкосвам
-bellum gerere - водя война
 famem tolerāre - гладувам
 clāmōrem tollere - вдигам врява, вдигам глас, вдигам шум, вдигам олелия, викам
 nōmen dare - давам име, именовам
@@ -71,6 +69,7 @@ opem ferre - помагам
 valēre (+īnf) - мога
 vertere in (+acc) - превръщам се в
 iussū (+gen) - по заповед/нареждане (на някого)
+iniussū (+gen) - против заповед/нареждане (на някого)
 obviam īre/prōgredī (+dat) - срещам (някого), попадам (на някого)
 animum dēspondēre - отчайвам се
 mala fortūna - лош късмет, смърт
@@ -123,17 +122,16 @@ necī dare - сея смърт
 lūdibrium habēre - вземам на присмех
 plūs aequō - повече от необходимото/правилното
 manum cōnserere - водя битка (сключвам ръце???)
-bellum īnferre (+dat) - воювам (с)
 prōmissīs stāre - изпълнявам обещанието си
 mandātum dare - давам заповеди
 in oculīs (+gen) - пред очите (на)
-bellum movēre - водя война
 pugnam committere - водя битка
 victōriā īnsignī potīrī - побеждавам
 sē cōnferre - движа се, пътувам, нося се
 manūs īnferre (+dat) - ранявам
 (diem suprēmum) obīre - умирам (преминавам последния си ден)
 forīs et domī - в чужбина и в родината
+mīlitiae - по време на война, на война
 domī mīlitiaeque - в мир и във война
 quod bonum sit - дано е за добро???
 omnēs ad ūnum - всички до един
@@ -148,7 +146,6 @@ grātiā valēre - благодарствам
 prō nihilō dūcere - омаловажавам, обезценявам, пренебрегвам
 poenās dare - наказвам
 cordī esse - благодарен съм, устройва ме
-bellum suscipere - започвам война
 (aedēs) solō aequāre - сравнявам със земята, руша до основи
 animō concidere - падам духом
 aliī aliō - едни тук, едни там
@@ -179,7 +176,6 @@ vōcem reddere - откликвам
 fundāmentum iacere - поставям основи
 partū ēdere - раждам
 animus cadere - падам духа
-bellum ostendere - обявявам война
 signa movēre - движа армията, обявявам поход
 sēdem capere - сядам
 locum fīnīre - ограничавам, определям границите
@@ -286,6 +282,30 @@ dictō citius - преди да се (до-)изкаже
 praestō sum - наличен съм, пръсъствам, подслугвам, помагам
 rēs repetere - търся компенсация/репарация
 foedus īcere - сключвам договор
+plūs (+num) - повече от
+quō ... eō (+comp) - колкото ..., толкова по-
+memor esse - помня, спомням си
+spectāculō esse alicui - гледан/наблядавам съм от другиго
+fugam capere - забягвам
+arbor īnfēlīx - бесило, бесилка
+secundum iūdicium - следвайки присъдата, според присъдата
+committere (+acc) (+dat) - доверявам/предавам (нещо) (на някого)
+Latīnē scīre - зная латински
+ut solet - както е навик, по навик
+nōn magis ... quam - не повече ... от, не толкова ... колкото
+in animō mihi est - решението ми е
+animus anceps - раздвоен, колебаещ се
+animum dēdere - отдавам внимание на,
+
+ante omnia - преди всичко
+ante litteram - преди да има наименование
+
+bellum gerere - водя война
+bellum īnferre (+dat) - воювам (с)
+bellum movēre - водя война
+bellum suscipere - започвам война
+bellum ostendere - обявявам война
+bellum indīcere - обявявам война
 
 in promptū esse/habēre/pōnere - разкрит съм, видим съм, в явен вид, очевиден съм
 in promptū esse/habēre - наличен съм, готов съм
@@ -341,7 +361,7 @@ in eō esse ut - редовно правя, отвреме на време пр�
 
 cum ... tum ... - като ... и ...; както ... така и ...
 quō ... eō ... - толкова .. колкото???
-inter haec - по това време,
+inter haec - по това време
 
 certum (+dat) est - (някой) разсъждава сигурно/решително
 
@@ -350,7 +370,7 @@ bene merēre dē aliquō - добро заслужавам от някого,
 molestē patī aliquid - не понасям нещо, ядосвам/гневя се на нещо
 molestē ferre - гложди ме, гневя се
 
-rēs pūblica - обществени дела, държавни дела
+rēs pūblica - обществено дело, обществени дела, държавни дела, гражданство
 rēs Rōmāna (rēs pūblica Rōmāna) - Римската република, Римското общество
 
 fās est - богоугодно е, редно е, спрямо божествените принципи трябва да
@@ -360,6 +380,8 @@ certum est (+dat) (+inf) - решено е (от) (да се извърши)
 aegrē ferre aliquid - сърдя се някому, гневя се поради нещо
 aliquem rē donāre - дарявам нещо другимо
 indignē ferre rem - не понасям нещо, гневя се на нещо
+aegrē patī - зле понасям нещо, гневя се поради нещо
+indignē patī - зле понасям нещо, гневя се поради нещо
 
 grātiā (+gen) - благодарение на (нещо)
 grātiā (+abl) - за благото на (някого)

@@ -8,7 +8,9 @@ familiāris, -is, m - другар, приятел
 amīcus, -ī, m - приятел
 amīca, -ae, f - приятелка
 inimīcus, -ī, m - неприятел, личен враг
-inimīca, -ae, f - неприятел
+inimīca, -ae, f - неприятелка
+hostis, -is, m - враг
+subnuba, -ae, f - враг, противник, узурпатор
 vīcīnus, -ī, m - съсед
 hospes, hospitis, m - гост, стопанин
 convīva, -ae, m/f - вечерен гост

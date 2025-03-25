@@ -54,6 +54,7 @@ fluvius, -ī, m - река
 rīvus, -ī, m - река, поток
 rīvulus, -ī, m - рекичка, поточе
 flūmen, flūminis, n - река
+cōnfluēns, -cōnfluentis, m - сливане на две реки
 rīpa, -ae, f - речен бряг
 alveus, -ī, m - речно корито
 lacus, -ūs, m - езеро

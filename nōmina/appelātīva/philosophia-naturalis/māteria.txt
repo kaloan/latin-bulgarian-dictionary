@@ -19,7 +19,7 @@ metallum, -ī, n - метал
   stannum, -ī, n - калай; сплав на сребро и олово
   aurum, -ī, n - злато
   argentum, -ī, n - сребро
-  ferrum, -ī, n - желязо, оръжие
+  ferrum, -ī, n - желязо, (метонимично) оръжие
   plumbum, -ī, n - олово
   manganum, -ī, n - магнан
   magnēsium, -ī, n - магнезий
