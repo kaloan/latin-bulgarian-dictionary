@@ -39,10 +39,10 @@ prior, prīmus - преден, предишен, предходен
 īnferior, -is - долен, по-долен, по-млад, по-дребен
 adulēscentior, -ōris - по-млад
 
-superus, superior, suprēmus/summus - горен, висок, пръв (в суперлатив), висш
+superus/supernus, superior, suprēmus/summus - горен, висок, пръв (в суперлатив), висш, небесен, божествен
 medius, medior, medioximus - среден
-īnferus, īnferior, īnfimus/īmus - долен, нисък, последен (в суперлатив), низш
-exterus, exterior, extrēmus - външен, по-краен, краен/последен
+īnferus/īnfernus, īnferior, īnfimus/īmus - долен, нисък, последен (в суперлатив), низш, адски, пъклен
+exterus/externus, exterior, extrēmus - външен, по-краен, краен/последен
 
 interior, intimus - по-вътрешен
 ulterior/ulterius, ultimus - по-далечен

@@ -33,7 +33,7 @@ patientia, -ae, f - търпение
 tranquillitās, -ātis, f - спокойствие
 laetitia, -ae, f - радост
 trīstitia, -ae, f - тъга
-memoria, -ae, f - памет
+memoria, -ae, f - памет, спомен, време на помен (?)
 audācia, -ae, f - смелост
 voluntās, -ātis, f - воля
 vōtum, -ī, n - воля
