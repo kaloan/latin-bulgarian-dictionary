@@ -299,6 +299,14 @@ animum dēdere - отдавам внимание на
 animum tollere - ставам по-смел, вдига се духът ми
 rēgnum agere - властвам, царувам
 quō pactō - как, по какъв начин
+in eandem sententiam īre - достигам до същия ред на мисли, съгласявам се
+aliquid in diem posterum proferre - протакам, отлагам
+aliquid in medium proferre - разгласявам, разкривам
+ventrem ferre - бременна съм
+summō locō nātus - от благородно потекло
+culmen hominis - глава
+quam prīmum - в първия възможен момент
+accīre mortem - самоубивам се (букв. каня смъртта)
 
 ante omnia - преди всичко
 ante litteram - преди да има наименование
@@ -476,3 +484,4 @@ amābō tē - моля (букв. ще те обикна)
 
 Ȳ, ȳ
 а̀ ѐ ѝ о̀ у̀
+ī̆

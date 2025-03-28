@@ -208,6 +208,7 @@ flēbilis, -is - печален, опечален, плачещ
 sānābilis, -is - излечим
 insānābilis, -is - неизлечим
 miserābilis, -is - жалък, жален, покъртителен, сърцераздирателен
+extorris, -is - изгнан
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, ежемесечен менструален
@@ -225,3 +226,4 @@ Augustālis, -is - Августов, императорски, имперски
 Brasīliēnsis, -is - бразилски
 Chilēnsis, -is - чилийски
 Mytilēnsis, -is - митиленски
+Corinthiēnsis, -is - коринтянски

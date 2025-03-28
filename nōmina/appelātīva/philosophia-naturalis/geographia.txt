@@ -25,7 +25,8 @@ antrum, -ī, n - пещера
 spēlunca, -ae, f - пещера, ниша
 specus, -ūs, m - пещера, скривалище
 sȳringēs, -um, f pl - пещери, тунели
-cunī̆culus, -ī, m - мина, тунел, галерия
+cunīculus, -ī, m - мина, тунел, галерия
+  salītae, -ārum, f - со̀лник, со̀лница
 vallis, -is, f - долина, долчина, падина, низина, котловина, урва
 vallicula/vallēcula, -ae, f - долинка, клисура
 collis, -is, m - хълм
