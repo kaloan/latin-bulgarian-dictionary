@@ -25,6 +25,7 @@ ferculum, -ī, n - гозба, ястие
   caput, capitis, n - основно ястие
   simila, -ae, f - брашно
   farīna, -ae, f - брашно
+  pollen, pollinis, n - фино брашно, фина прах
     massa, -ae, f - тесто, буца, блок, тежест, маса
     sphaerīta, -ae, f - тестено топче
     pānis, -is, m - хляб

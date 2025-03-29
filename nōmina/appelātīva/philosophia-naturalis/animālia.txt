@@ -81,6 +81,7 @@ sīmia, -ae, f - маймуна
 macāca, -ae, f - макак
 gorilla, -ae, f - горила
 arānea, -ae, f - паяк, паяжина
+  tēla, -ae, f - паяжина
 scorpiоs/scorpius, scorpiī, m - скорпион
 scorpiō, scorpiōnis, m - скорпион
 rāna, -ae, f - жаба

@@ -113,8 +113,8 @@ abolēscere, abolēvisse - разпадам се, изчезвам, пропад
 
 legere, lēgisse, lēctum - чета, бера, избирам, събирам
   colligere, collēgisse, collēctum - скупчвам, събирам в група, събирам богатство, заключавам
-  dēligere, dēlēgisse, dēlēctum - откъсвам, отскубвам, избирам, мобилизирам
-  ēligere, ēlēgisse, ēlēctum - отбирам, избирам
+  dēligere, dēlēgisse, dēlēctum - откъсвам, отскубвам, отбирам, мобилизирам
+  ēligere, ēlēgisse, ēlēctum - избирам, отбирам, откъсвам
   intellegere, intellēxisse, intellēctum - разбирам
   perlegere - прочитам
   neglegere, neglēxisse, neglēctum - отнасям се небрежно, пренебрегвам, нехая, немаря, презирам, бездействам
@@ -139,10 +139,11 @@ currere, cucurrisse, cursum - тичам, бягам
   dēcurrere, dēcucurrisse/dēcurrisse, dēcursum - да се стека, бягам/движа се надолу
   discurrere, discurrere, discursum - разбягваме се, разпръскваме се, скитам
   excurrere, excucurrisse/excurrisse, excursum - бягам от
+  incurrere, incucurrisse/incurrisse, incursum - бягам в, нападам, нахлувам, случвам се, падам
   occurrere, occucurrisse/occurrisse, occursum - срещам, изправен съм срещу, съвпадам
   percurrere, percucurrisse/percurrisse, percursum - пробягвам, обхождам
   praecurrere, praecucurrisse/praecurrisse, praecursum - тичам пред някого, предшествам, изпреварвам, задминавам
-  prōcurrere, prōcucurrisse/procurrisse, prōcursum - бягам напред, нападам,  атакувам стремглаво
+  prōcurrere, prōcucurrisse/procurrisse, prōcursum - бягам напред, нападам, атакувам стремглаво
   succurrere, succucurrisse/succurrisse, succursum - да се притека (на помощ), извиквам в съзнанието
 mittere, mīsisse, missum - пращам, освобождавам, мятам
   āmittere - губя, загубвам, пускам, освобождавам (слуга)
@@ -495,7 +496,7 @@ rumpere, rupisse, ruptum - чупя, ломя, късам, кърша
   irrumpere - прониквам, нахлувам, щурмувам
 vādere, vāsisse - стъпвам, втурвам се, ходя
   circumvādere, circumvāsisse - заобикалям, обкръжавам
-  ēvādere, ēvāsisse, ēvāsum - изстъпвам, излизам, отбягвам
+  ēvādere, ēvāsisse, ēvāsum - изстъпвам, излизам, отбягвам, показвам се, оказвам се, излиза/излезе че, преминавам, катеря ся
   invādere, invāsisse, invāsum - влизам, настъпвам, нахлувам
   pervādere, pervāsisse, pervāsum - престъпя, разпръскам, разпространя
 pellere, pepulisse, pulsum - гоня, не допускам, държа извън, пъдя, тласкам, удрям
