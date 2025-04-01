@@ -51,6 +51,7 @@ aedēs, -ium, f pl - жилище, блок
   pariēs, parietis, m - стена
     later, -is, m - тухла, плочка, кирпич, кюлче, слитък
   fundāmentum, -ī, n - основа, фундамент
+  gradūs, -uum, m pl - стъпала, стълби
   capitulum, -ī, n - най-висока част на колона, покрив
   tēgulum, -ī, n - покрив
     tēgula, -ae, f - керемида

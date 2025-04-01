@@ -13,7 +13,7 @@ immātūrus/inmātūrus, immātūrior/inmātūrior, immātūrrimus/inmātūrrimu
 praemātūrus, praemātūrior, praemātūrrimus - преждевременен, предсрочен, случващ се изключително рано
 posterus, posterior, postrēmus/postumus  - заден, по-заден, следващ
 senex, senior/māior nātū, māximus nātū - възрастен
-iuvenis, iuvenior/minor nātū, minimis nātū - млад (~в детеродна възраст)
+iuvenis, iuvenior/iūnior/minor nātū, minimis nātū - млад (~в детеродна възраст)
 vetus, veterior, veterrimus - вехт, стар
 
 facilis, facilior, facillimus - лесен
@@ -51,3 +51,5 @@ citerior/citerius, citimus - по-близък
 frūgī, indecl - годен, полезен, достоен, усърден, пестелив, честен
 
 mȳthicos, mȳthicē, mȳthicon - митичен
+
+potis/pote, potior/potius, potissimus - възможен (позитив); по-добър, предпочитаем, по-важен; най-важен

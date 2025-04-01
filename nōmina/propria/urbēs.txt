@@ -31,6 +31,7 @@ Antemnae, -ārum, f pl - Антемнa
 Curēs, -ium, f pl - Кури
 Clūsium, -ī, n - Клузиум (дн. Киузи)
 Tarquiniī, -ōrum, m pl - Тарквиния
+(Suessa) Pōmētia, -ae, f - (Суеса) Помеция
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
@@ -53,6 +54,8 @@ Būthrōtum, -ī, n - Бутринт
 Paphus, -ī, f - Пафос
 Mytilēnae, -ārum, f pl - Митилена
 Cydōnia, -ae, f - Кидония
+Ephesus, -ī, m - Ефес
+
 
 Saguntum, -ī, n - Сагунт
 Massilia, -ae, f - Масилия (дн. Марсилия)

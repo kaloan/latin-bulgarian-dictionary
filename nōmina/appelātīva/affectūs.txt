@@ -151,3 +151,6 @@ suspiciō, -ōnis, f - съмнение, недоверие
 decus, decoris, n - чест, доблест, достойнство
 cōgitātiō, -ōnis, f - обмисляне, мисъл, намерение, мнение
 interventiō, -ōnis, f - предпазливост
+habitus, -ūs, m - навик, нрав
+temeritās, -ātis, f - самонадеяност
+temeritūdō, -inis, f - самонадеяност

@@ -11,6 +11,7 @@ Eurōpa, -ae, f - Европа
     Chāonia, -ae, f - Хаония, Чамърия, Чамурия
     Magnēsia, -ae, f - Магнезия
   Gallia, -ae, f - Галия
+    Celtica, -ae, f - Келтика, келтската част на Галия
   Germānia, -ae, f - Германия
   Dacia, -ae, f - Дакия
   Hibērum, -ī, n - Иберия, реката Ебро

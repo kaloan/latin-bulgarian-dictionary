@@ -4,5 +4,7 @@ alacer, alacris, alacre - стремителен, деятелен, щастли
 silvester, silvesteris, silvestre - горски, див, необработен, неопитомен
 paluster, palustris, palustre - блатист, мочурлив
 celeber, celebris, celebre - претъпкан, гъсто населен, посещаван, с тълпа, многолюден
-anōmalos, anōmala, anōmalon - аномален, неправилен, особен, изключителен
 salūber, salūbris, salūbre - здрав, корав, крепък
+pedester, pedestris, pedestre - пеши, пешеходен, пехотински, обикновен
+
+anōmalos, anōmala, anōmalon - аномален, неправилен, особен, изключителен

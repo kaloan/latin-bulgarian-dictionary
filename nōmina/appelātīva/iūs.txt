@@ -34,6 +34,7 @@ cognitiō, -ōnis, f - съдебен процес, разследване, по
     necātor, -ōris, m - убиец
     necātrīx, necātrīcis, f - убийца
     parricīda, -ae, m/f - отцеубиец
+    parricīdium, -ī, n - отцеубийство, братоубийство, убийство на роднина
   līs, lītis, f - иск, кавга, спор
   prōlocūtor, -ōris, m - обвинител
   intentiō, -ōnis, f - обвинение
