@@ -98,6 +98,8 @@ herba, -ae, f - трева
   saturēia, -ae, f - чубрица
   cunēla, -ae, f - вероятно риган
   orīganum, -ī, n - риган, майорана
+  dictamnus, -ī, m/f - критски риган, росен
+  dictamnum, -ī, n - критски риган, росен
   dracunculus, -ī, m - естрагон, тарос
   anēthum, -ī, n - анасон, копър
   petroselīnum, -ī, n - магданоз

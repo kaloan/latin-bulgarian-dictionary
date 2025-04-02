@@ -88,3 +88,4 @@ discipula, -ae, f - ученичка
 condiscipulus, -ī, m - съученик
 condiscipula, -ae, f - съученичка
 exāmen, exāminis, n - изпит, обмисляне
+dictātiō, -ōnis, f - диктовка
