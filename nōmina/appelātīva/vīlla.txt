@@ -55,6 +55,7 @@ cubiculum, -ī, n - стая, спалня
     calix, calicis, m - чаша за вино
     culigna, -ae, f - чаша (физическа), чаша (обем)
     culter, cultrī, m - нож
+    rutābulum, -ī, n - шпатула (готварска)
     cochlear, -is, n - лъжица (физическа), лъжица (обем)
     lingula/ligula, -ae, f - лъжица, черпаче
     fuscinula, -ae, f - вилица

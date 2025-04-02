@@ -329,6 +329,8 @@ iūdicium exercēre - давам присъда
 pollen piperis - пипер на прах
 pollen tūris - тамян на прах
 
+spatula porcina - свински бут
+
 ante omnia - преди всичко
 ante litteram - преди да има наименование
 
