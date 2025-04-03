@@ -36,7 +36,8 @@ capitulum, -ī, n - главичка
   odōrātus, -ūs, m - обоняние
   auris, -is, n - ухо
   auricula, -ae, f - ушенце
-  auditus, -ūs, m - слух
+  audientia, -ae, f - слух, слушане, чуване
+  auditus, -ūs, m - слух (сетиво), слух (мълва)
   gena, -ae, f - буза
   māla. -ae, f - скула, буза
   prōditiō, -ōnis, f - руменина
