@@ -45,7 +45,13 @@ phāsiānus, -ī, m - фазан
 perdīx, -īcis, f - яребица
 rēgulus, -ī, m - кралче, близка до врабчето птица
 porcus, -ī, m - прасе
+porculus, -ī, m - прасенце
+porcellus, -ī, m - прасенце
+porca, -ae, f - свиня
+porcētra, -ae, f - свиня, която е раждала
 sūs, sūis, m/f - свиня, прасе
+sucula, -ae, f - свинче
+scrōfa, -ae, f - свиня за разплод
 bōs, bovis, m/f - говедо
 iuvencus, -ī, m - зряло говедо
 taurus, -ī, m - бик
@@ -167,6 +173,7 @@ serpēns, -entis, m/f - змия, влечуго
   colubra, -ae, f - женска змия
 lacerta, -ae, f - гущер
 delphinus, -ī, m - делфин
+  porcus marīnus - тъпонос делфин
 cancer, -ī, m - рак
 scorpiō, -ōnis, m - скорпион
 echīnus, -ī, m - таралеж, морски таралеж
