@@ -2,7 +2,8 @@ Iōseph, indecl, m - Иосиф
 Maria, -ae, f - Мария
 Iēsūs, -ū, m - Иисус, Исус
 Christus, -ī, m - Христос
-Salvātor, -ōris, m - Спасителя
+Salvātor, -ōris, m - Спасителя, епитет на Христос
+Аuctor vītae - Живототвореца, епитет на Христос
 Iōannēs, -is, m - Йоан Кръстител
 Andreās, -ae, m - Андрей Първозвани
 Iōannēs, -is, m - Йоан Богослов

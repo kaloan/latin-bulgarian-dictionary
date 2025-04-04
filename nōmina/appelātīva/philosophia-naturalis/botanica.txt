@@ -104,6 +104,7 @@ herba, -ae, f - трева
   anēthum, -ī, n - анасон, копър
   petroselīnum, -ī, n - магданоз
   ōcimum, -ī, n - босилек
+  salvia, -ae, f - градински чай, салвия
   coriandrum, -ī, n - кориандър
   capsicum, -ī, n - чушка
   piper, piperis, n - пипер

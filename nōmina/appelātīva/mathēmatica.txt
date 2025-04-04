@@ -10,9 +10,12 @@ conclūsluncula, -ae, f - тривиално разсъждение, дребн�
 frāctiō, -ōnis, f - дроб, счупване
 ēiectūra, -ae, f - удължена част на права
 latitūdō, -inis, f - ширина, широчина
-longitūdō, -inis, f - височина, дължина
+longitūdō, -inis, f - височина, дължина, (за текст) продължителност
+longitia, -ae, f - дължина
+longiturnitās, -ātis, f - продължителност (на време), времетраене
 magnitūdō, magnitūdinis, f - размер, величина
 superficiēs, superficiēī, f - повърхнина, повърхност
+
 
 ūniō, ūniōnis, f - единица
 dyas, dyadis, f - двойка, двоица
