@@ -141,6 +141,7 @@ vīscus, visceris, n - вътрешен органи
 interāneum, -ī, n - черво
 interānea, -ōrum, n pl - вътрешности
 vīscera, vīscerum, n pl - вътрешности
+exta, extōrum, n pl - вътрешности, дреболии
   venter, ventris, m - корем, стомах, вътрешности
   stomachus, -ī, m - хранопровод, стомах
   cor, cordis - сърце

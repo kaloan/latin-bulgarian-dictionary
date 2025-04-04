@@ -323,6 +323,7 @@ quid reī - какво нещо, какво
 dictō audiēns esse - слушам заповеди
 ad populum referre - допитвам се до народа/обществото
 caput porcī - клиновиден боен ред
+minās iactāre in - хвърлям заплахи по нечий адрес, заплашвам
 
 iūdicium facere - давам присъда
 iūdicium exercēre - давам присъда
@@ -445,6 +446,7 @@ eō tempore - тогава, по онова време
 illō tempore - тогава
 eā tempestāte - по онова време
 brevī tempore - малко след това
+id temporis - по това/такова време
 simul atque - веднага
 ut (+perf) - след като
 
