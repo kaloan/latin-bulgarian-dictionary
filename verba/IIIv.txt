@@ -4,6 +4,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   benefacere -iō (+dat) - правя добро
   calefacere -iō - стоплям, загрявам
   cōnficere -iō, cōnfēcisse, cōnfectum - изработвам, завършвам, използвам, причинявам, изморявам, прихващам, убивам
+  cōnsuēfacere -iō, cōnsuēfēcisse, cōnsuēfactum - приучавам, приучвам
   dēficere -iō, dēfēcisse, dēfectum - провалям се, разочаровам, изчерпан съм, смамалявам се, изоставям, нуждая се (когато е в пасив)
   dēficere ab - изменям, оставям, дезертирам, отцепвам се
   efficere -iō, effēcisse, effectum - изработвам, извършвам, изпълнявам
