@@ -224,6 +224,9 @@ longanimis, -is - търпелив, търпящ, многострадален
 vendibilis, -is - продаваем
 invendibilis, -is - непродаваем
 māchinālis, -is - машинен
+sēnsilis, -is - чувствителен
+sēnsuālis, -is - сетивен, осезателен
+sēnsibilis, -is - усетим, доловим
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, ежемесечен менструален

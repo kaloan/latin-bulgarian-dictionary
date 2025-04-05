@@ -26,6 +26,7 @@ facere -iō, fēcisse, fаctum - правя, върша
   prōficere -iō, prōfēcisse, prōfectum - напредвам, подобрявам, доправя, довършвам, постигам
   reficere -iō, refēcisse, refectum - преправям, преустройвам, преустроявам
   satisfacere -iō, satisfēcisse, satisfаctum (+dat) - задоволявам, извинявам се, обезщетявам
+  sensificāre/sentificāre (!!!), sensificāvisse/sentificāvisse, sensificātum/sentificātum - правя да бъде сетивен
   significāre (!!!), significāvisse, significātum - знача, правя знак, изразявам, показвам, вещая
   stupefacere -iō, stupefēcisse, stupefactum - обърквам, шашардисвам, зашеметявам, сковавам, вцепенявам, карам да изтръпне, притъпявам
   sufficere -iō, suffēcisse, suffectum - да е достатъчно, замествам, доставям

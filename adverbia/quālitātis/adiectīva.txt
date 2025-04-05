@@ -118,6 +118,7 @@ longanimiter - търпеливо, с търпение, многострадал
 aequāliter - равномерно, еднородно, равно, сходно
 aequābiliter - равномерно, еднородно, равно, сходно
 saeviter - свирепо, яростно, ядно
+sēnsibiliter - доловимо, възприемливо
 
 facile/faciliter - лесно
 difficile/difficiliter/difficulter - трудно
