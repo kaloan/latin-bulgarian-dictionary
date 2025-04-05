@@ -347,6 +347,8 @@ bellum suscipere - започвам война
 bellum sūmere - започвам война
 bellum ostendere - обявявам война
 bellum indīcere - обявявам война
+bellum fīnīre - приключвам война
+bellum pōnere - приключвам война
 
 in promptū esse/habēre/pōnere - разкрит съм, видим съм, в явен вид, очевиден съм
 in promptū esse/habēre - наличен съм, готов съм
