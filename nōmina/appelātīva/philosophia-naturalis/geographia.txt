@@ -59,7 +59,7 @@ rīvulus, -ī, m - рекичка, поточе
 flūmen, flūminis, n - река
 cōnfluēns, -cōnfluentis, m - сливане на две реки
 rīpa, -ae, f - речен бряг
-alveus, -ī, m - речно корито
+alveus, -ī, m - речно корито, русло
 lacus, -ūs, m - езеро
 lacūna, -ae, f - вир, гьол, езерце
 stāgnum, -ī, n - мочурище, водоем

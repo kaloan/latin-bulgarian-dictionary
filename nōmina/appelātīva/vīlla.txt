@@ -169,6 +169,7 @@ corbis, -is, f - кошница
 canistrum, -ī, n - плетена кошница
 fiscina, -ae, f - плетена кошница
 fiscella, -ae, f - малка плетена кошница
+crātis, -is, f - кошница, плет
 thēca, -ae, f - чанта
 pēra, -ae, f - чанта диагоналка
 mappa, -ae, f - кърпичка, салфетка

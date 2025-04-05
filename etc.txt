@@ -324,6 +324,9 @@ dictō audiēns esse - слушам заповеди
 ad populum referre - допитвам се до народа/обществото
 caput porcī - клиновиден боен ред
 minās iactāre in - хвърлям заплахи по нечий адрес, заплашвам
+aliquem hospitiō/domō excipere/recipere/accipere - посрещам гост
+in flagrante dēlictō - по време на провинението/лошата проява
+in mediō pōnere - изваждам на показ, показвам явно
 
 iūdicium facere - давам присъда
 iūdicium exercēre - давам присъда
@@ -439,7 +442,7 @@ salvēre iubēre - поздравявам
 salūtem dīcere (+dat) - поздравявам
 salūtem nūntiāre (+dat) - поздравявам
 salūtem ferre - поздравявам
-salūtī esse - поздравявам
+salūtī esse - поздравявам, спасителен съм
 
 hōc tempore - в/по това време
 eō tempore - тогава, по онова време
