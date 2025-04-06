@@ -100,6 +100,12 @@ sapere -iō, sapīvisse - имам вкус (храна), вкусвам, има
   praesipere -iō - предчувствам, предусещам
   supersapere -iō - имам чудесен вкус
 quatere iō, -!, quassum - клатя, треса, друсам
+  concutere -iō, concussisse, concussum - стърсвам, разтърсвам
+  dēcutere -iō, dēcussisse, dēcussum - бутам
+  excutere -iō, excussisse, excussum - отърсвам, прогонвам
+  incutere -iō, incussisse, incussum - внушавам, настройвам, насаждам, пораждам
+  percutere -iō, percussisse, percussum - блъскам, тропам, джасвам
+    repercutere -iō, repercussisse, repercussum - отблъсквам, отразявам
 lacere -iō, licuisse, lactum - увличам, омайвам, блазня
   allicere -iō, allicuisse/allēxisse, allеctum - привличам, примамвам
   dēlicere -iō, dēlicuisse, dēlictum - примамвам, подмамвам, наслаждавам
@@ -107,11 +113,3 @@ lacere -iō, licuisse, lactum - увличам, омайвам, блазня
   illicere -iō, illēxisse, illectum - омайвам, обайвам, примамвам, привличам, блъзня
   pellicere -iō, pellēxisse, pellectum - съблазня, изкушавам, пленявам
   prōlicere -iō, prōlicuisse, prōlectum - примамвам напред, подбуждам, подстрекавам, настървявам
-
-
--cutere -iō, -cussisse, -cussum [троша]
-  concutere -iō - стърсвам, разтърсвам
-  excutere -iō - отърсвам, прогонвам
-  incutere -iō - внушавам, настройвам, насаждам, пораждам
-  percutere -iō - блъскам, тропам, джасвам
-    repercutere -iō - отблъсквам, отразявам
