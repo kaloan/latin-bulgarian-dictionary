@@ -141,7 +141,7 @@ piscis, -is, m - риба
   dracunculus, -ī, m - риба от семейство Морски мишки
   alburnus, -ī, m - уклейка, блескач, пръскач, плюске, чаушан, терзийка
 volucris, -is, f - летящо същество
-āles, ālitis, f - птица (букв. крилато)
+āles, ālitis, f - птица, пернато (букв. крилато)
 avis, -is, f - птица
 aquilla, -ae, f - орел
 larus, -ī, m - чайка
@@ -163,6 +163,7 @@ pāpiliō, -ōnis, m - пеперуда, молец
   ūrīca, -ae, f - гъсеница
   dolba, -ae, f - гъсеница
   bombȳx, bombȳcis, m - буба
+coccinella, -ae, f - калинка, божа кравичка
 musca, -ae, f - муха
 culex, culicis, m - комар
 pūlex, pūlicis, m - бълха
@@ -184,6 +185,7 @@ vermis, -is, m - червей
   taenia, -ae, f - тения
 mūrex, mūricis, m - морски охлюв, от който се прави Тирското пурпурно, шип/ръбест камък (от формата на морския охлюв)
 concha, -ae, f - мида, стрида
+pecten, pectinis, m - кръгла мида
 octōpūs, octōpodis, m - октопод
 sēpia/saepia, -ae, f - сепия, масло от сепия
 stēlla marina - морска звезда

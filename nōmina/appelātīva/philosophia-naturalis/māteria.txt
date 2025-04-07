@@ -28,7 +28,8 @@ metallum, -ī, n - метал
 carbō, -ōnis, m - въглен, въглища
 carbunculus, -ī, m - въгленче
 thūs/tūs, thūris/tūris, n - тамян
-myrrha, -ae, f - миро
+myrrha/myrra/murra, -ae, f - смирна, мирра
+chrīsma/crisma, -ae, f - миро, елей, миропомазване
 smaragdus, -ī, m - смарагд
 bitūmen, bitūminis, n - битум
 vitrum, -ī, n - стъкло
