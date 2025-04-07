@@ -17,8 +17,10 @@ longitia, -ae, f - дължина
 longiturnitās, -ātis, f - продължителност (на време), времетраене
 magnitūdō, magnitūdinis, f - размер, величина
 superficiēs, superficiēī, f - повърхнина, повърхност
+fūnctiō, -ōnis, f - изпълнение, изпълняване, съблюдение, фунцкия
 
-
+digitus, -ī, n - цифра
+numerus, -ī, m - число
 ūniō, ūniōnis, f - единица
 dyas, dyadis, f - двойка, двоица
 bīniō, bīniōnis, m - двойка, двоица, две

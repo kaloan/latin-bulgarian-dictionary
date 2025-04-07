@@ -41,7 +41,7 @@ lympha, -ae, f - вода, прозрачна течност, лимфа
   calida, -ae, f - топла вода
   ūmor, ūmōris, m - влага, влажност
   testa, -ae, f - скреж
-ignis, -is, m - огън
+ignis, -is, m - огън, (метонимично) предупреждение чрез огън
   scintilla, -ae, f - искра
   incendium, -ī, n - пожар
   flamma, -ae - пламък, плам, любов
@@ -52,7 +52,9 @@ ignis, -is, m - огън
   siccitās, -ātis, f - сухота, суша (период без валежи)
 
 
-gutta, -ae, f - капка
+gutta, -ae, f - капка, сълза
+guttula, -ae, f - капчица, сълзица
+stīlla, -ae, f - капка
 flūctus, -ūs, m - вълна
   unda, -ae, f - вълничка
 vapor, -is, m - пара
@@ -68,6 +70,7 @@ imber, imbris, m - дъжд, валеж
   inundātiō, -ōnis, f - потоп, преливане, наплив
   pluvia, -ae, f - валеж, дъжд
   grandō, -ōnis, f - градушка
+  stīllicidium, -ī, n - падане капка по капка, ръмеж (?)
 flāmen, -inis, n - буря, вятър, полъх, бриз
 tempestās, -atis, f - буря, стихия
   tonitrus, -ī, m - гръмотевица, тътен
