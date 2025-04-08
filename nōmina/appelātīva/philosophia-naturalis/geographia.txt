@@ -37,6 +37,7 @@ collis, -is, m - хълм
 colliculus, -ī, m - хълмче
 tumulus, -ī, m - могила, хълмче
 campus, -ī, m - равнина
+cinerārius, -ī, m - обгорена земя
 ager, agrī, m - поле, имение
 arvum, -ī, n - нива, кър
 culta, -ōrum, n pl - обработвани земи

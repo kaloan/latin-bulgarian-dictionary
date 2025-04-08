@@ -8,6 +8,7 @@ grex, gregis, m - стадо
 exāmen, exāminis, n - рояк
 equus, -ī, m - кон, жребец
 equa, -ae, f - жребица
+pullus, -ī, m - конче, жребче
 canthērius, -ī, m - кастриран кон, муле
 caballus, -ī, m - кранта, товарен кон
 caballa, -ae, f - кобила
@@ -38,6 +39,10 @@ corvus, -ī, m - гарван
 cornīx, -cis, f - врана
 gallus, -ī, m - петел
 gallīna, -ae, f - кокошка
+pullus, -ī, m - пиле, петле
+pullulus, -ī, m - пиленце, петленце
+pullastra, -ae, f - ярка
+pullicēnus, -ī, m - пиле, пиленце
 tarda, -ae, f - дропла
 cucūlus, -ī, m - кукувица, куку
 platea, -ae, f - лопатарка
@@ -140,6 +145,7 @@ piscis, -is, m - риба
   rhombus, -ī, m - калкан
   dracunculus, -ī, m - риба от семейство Морски мишки
   alburnus, -ī, m - уклейка, блескач, пръскач, плюске, чаушан, терзийка
+  glaucus, -ī, m - син дракон, син ангел, морска лястовица
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица, пернато (букв. крилато)
 avis, -is, f - птица
@@ -152,7 +158,6 @@ cōturnīx, -īcis, f - пъдпъдък
 qualea, -ae, f - пъдпъдък
 quaccola, -ae, f - пъдпъдък
 nīdus, -ī, m - гнездо
-pullus, -ī, m - младо животно
 apis, -is, f - пчела
 vespa, -ae, f - оса
 formīca, -ae, f - мравка
@@ -196,8 +201,12 @@ dracō, -ōnis, m - дракон, змей
 dracunculus, -ī, m - драконче, змейче
 orcus, -ī, m - орк
 gigās, gigantis, m - гигант
+pix, picis, f - сфинкс
 
 
 corallium, -ī, n - корал
 
 pestis, pestis, f - вредител
+
+pullus, -ī, m - малко (младо животно)
+pullulus, -ī, m - малко (младо животно)

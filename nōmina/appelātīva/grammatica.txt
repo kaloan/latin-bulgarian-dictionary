@@ -46,6 +46,7 @@ verbum, v. - глагол, дума, слово
   singulāris, sing./sg. - единствено число
   plūrālis, plūr./pl. - множествено число
   persōna - маска, роля, лице (юридически), лице (граматически)
+  persolla, -ae, f - масчица
   praesēns, praes. - сегашно време
   praeteritum, praet. - минало време
   futūrum, fut. - бъдеще време
