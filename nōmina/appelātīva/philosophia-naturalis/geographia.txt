@@ -17,6 +17,7 @@ siccum, -ī, n - суша, земя
 mōns, montis, m - планина
 vortex/vertex, vortecis/verticis, m - връх, хребет, превал, гребен, полюс
 colophōn, -is, m - връх, хребет, пик
+apex, apicis, f - връх
 furculae, -ārum, f pl - проход, пролом, клисура, дере, дол, дефиле, ждрело, овраг
 prōmunturium/prōmоnturium, -ī, n - хребет, нос (в смисъл на скала издадена във водата)
 saxum, -ī, n - скала, канара

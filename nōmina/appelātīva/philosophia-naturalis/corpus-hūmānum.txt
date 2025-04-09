@@ -35,6 +35,7 @@ capitulum, -ī, n - главичка
     pūpula, -ae, f - зеница
     pūpilla, -ae, f - зеница
     rētīna, -ae, f - ретина
+    album, -ī, n - склера
   vīsus, -ūs, m - зрение
   nāsus, -ī, m - нос
   odōrātus, -ūs, m - обоняние

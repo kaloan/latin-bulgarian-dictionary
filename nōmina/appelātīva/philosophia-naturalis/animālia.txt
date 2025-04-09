@@ -62,6 +62,7 @@ iuvencus, -ī, m - зряло говедо
 taurus, -ī, m - бик
 vacca, -ae, f - крава
 vitulus, -ī, m - теле
+vitellus, -ī, m - теленце
 ariēs, arietis, m - овен, коч
 vervex, vervecis, m - кастриран овен, овен
 ovis, -is, f - овца
@@ -71,7 +72,8 @@ ovicula, -ae, f - овчица
 hircus, -ī, m - пръч (буквално), пръч (обидно)
 buccus, -ī, m - козел, пръч
 caper, caprī, m - козел
-haedus, -ī, m - козле
+capellus, -ī, m - козле, яре
+haedus, -ī, m - козле, яре
 capra, -ae, f - коза
 capella, -ae, f - козичка
 cervus, -ī, m - елен
@@ -181,6 +183,7 @@ serpēns, -entis, m/f - змия, влечуго
 lacerta, -ae, f - гущер
 delphinus, -ī, m - делфин
   porcus marīnus - тъпонос делфин
+vitulus marīnus - тюлен
 cancer, -ī, m - рак
 scorpiō, -ōnis, m - скорпион
 echīnus, -ī, m - таралеж, морски таралеж
