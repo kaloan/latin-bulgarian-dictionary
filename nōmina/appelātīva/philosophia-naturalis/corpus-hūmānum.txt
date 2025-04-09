@@ -24,6 +24,7 @@ capitulum, -ī, n - главичка
   coma, -ae, f - коса, грива, руно, вълна
   crīnis, -is, m - коса, кичур, пискюл, шлейф
   nix, nivis, f - посивяла/побеляла коса
+  gradus, -ūs, f - плитка
   fimbriae, -ārum, f pl - къдрица, грива
   cincinnus, -ī, m - къдрица
   frōns, frontis, m - чело, челна част на сграда

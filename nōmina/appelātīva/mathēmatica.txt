@@ -18,6 +18,7 @@ longiturnitās, -ātis, f - продължителност (на време), в
 magnitūdō, magnitūdinis, f - размер, величина
 superficiēs, superficiēī, f - повърхнина, повърхност
 fūnctiō, -ōnis, f - изпълнение, изпълняване, съблюдение, фунцкия
+gradus, -ūs, m - градус (мярка за ъгъл)
 
 digitus, -ī, n - цифра
 numerus, -ī, m - число
