@@ -82,6 +82,7 @@ aedēs, -ium, f pl - жилище, блок
   mausōlēum, -ī, n - мавзолей
   carcer, -eris, m - затвор
   cūstōdia, -ae, f - затвор, охрана, закрилa, защита
+  tenebrae, -ārum, f pl - тъмница
   labyrinthus, -ī, m - лабиринт
   basilica, -ae, f - обществена сграда за различни дейности
   porticus, -ūs, f - портик, стоа, колонада

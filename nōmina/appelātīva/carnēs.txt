@@ -2,9 +2,13 @@ carō, carnis, f - месо, плът, месеста част
 gallīnācea, -ae, f - пилешко
 būbula, -ae, f - говеждо
 vitulina, -ae, f - телешко
-porcīna, -ae, f; sūina, -ae, f - свинско
+porcīna, -ae, f - свинско
+sūina, -ae, f - свинско
 ovilla, -ae, f - овче
 agnīna, -ae, f - агнешко
+
+glandula, -ae, f - свински сливицa, която била деликатес
+glandium, -ī, n - мека малка част в свинско месо
 tegus, tegoris, n - рибица, бонфиле, контрафиле, месо около гръбнака
 frūstum, -ī, n - пържола
 īsicium, -ī, n - кюфте

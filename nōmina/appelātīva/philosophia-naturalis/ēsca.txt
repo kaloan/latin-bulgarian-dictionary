@@ -74,3 +74,8 @@ holusculum, -ī, n - зеленчуче, билчица
   porrum, -ī, n - праз, резанец
 nux, nucis, f - ядка, плод с черупка
   avellāna, -ae, f - лешник
+  glāns, glandis, f - жълъд, буков жълъд, кестен
+  glandula, -ae, f - жълъдче, буково жълъдче, кестенче
+  glandō, glandinis, f - жълъд, буков жълъд, кестен
+  iūglāns, iūglandis,f - орех (плод)
+  castanea, -ae, f - кестен (плод)

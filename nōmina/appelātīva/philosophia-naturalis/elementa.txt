@@ -59,7 +59,7 @@ stīlla, -ae, f - капка
 flūctus, -ūs, m - вълна
   unda, -ae, f - вълничка
 vapor, -is, m - пара
-nūbēs, nubis, f - облак
+nūbēs, nubis, f - облак, облачност
   nūbēcula, -ae, f - облаче
   nimbus, -ī, m - буреносен облак
   nebula, -ae, f - мъгла

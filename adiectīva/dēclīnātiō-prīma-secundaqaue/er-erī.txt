@@ -6,6 +6,7 @@ lāniger, lānigerī - вълнен, покрит с вълна, пухкав
 asper, asperī - грапав, неравен, груб, труден, суров, свиреп
 aestīfer, astiferī - зноен
 armiger, armigerī - въоръжен (букв. носещ оръжие)
+ēnsifer, ēnsiferī - мечоносец, епитет на съзвездието Орион
 exter, exterī - чужденец
 adulter, adulterī - прелюбодеен
 metallifer, metalliferī - металодобивен
@@ -20,3 +21,4 @@ sēnsifer, sēnsiferī - усетим, носещ усещане, възприе
 pestifer, pestiferī - смъртоносен
 āliger, āligerī - крилат (букв. крилоносещ)
 margarītifer, margarītiferī - бисерноносещ, даващ бисери/перли/маргарити
+glandifer, glandiferī - жълъдоносещ, раждащ жълъди

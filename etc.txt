@@ -26,7 +26,6 @@ inter sē aspiciunt - споглеждат се
 haud sciō an/nesciō an/dubitō an - предполагам че
 sēstertium (sēstertiōrum) - сестерции
 adversa fortūna - зла съдба
-nāvis longa - боен кораб
 etiam atque etiam - пак и пак, отново и отново
 sanguinem mittere - пускане на кръв, древна практика (предложена поне от времето на Херодот) за "лечение" на различни състояния и заболявания
 mentiōnem facere - споменавам
@@ -332,6 +331,13 @@ alicuius mūnia obīre/implēre/servāre - поемам/изпълнявам н�
 in crīmen vocāre - обвинявам в престъпление
 positā morā - без забавяне
 ōrdō signōrum - Зодиака
+
+nāvis longa - боен кораб
+nāvī/nāvibus - по море, с кораб
+nāvem solvere - заплавам
+reī pūblicae nāvis - държавния кораб
+in eādem nāvī esse - в една лодка сме, в същата ситуация сме
+nāvibus atque quadrīgīs - с все сили, по всички начини (букв. с кораби и колесници)
 
 ōsculum dare - давам целувка, целувам
 ōsculum ferre - давам целувка, целувам

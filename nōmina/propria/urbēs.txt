@@ -33,6 +33,7 @@ Clūsium, -ī, n - Клузиум (дн. Киузи)
 Tarquiniī, -ōrum, m pl - Тарквиния
 (Suessa) Pōmētia, -ae, f - (Суеса) Помеция
 Apiolae, -ae, f - Апиоле
+Marruvium/Marrubium, -ī, n - Марувиум (главен град на марсите на брега на Лаго Фучино)
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
@@ -56,6 +57,7 @@ Paphus, -ī, f - Пафос
 Mytilēnae, -ārum, f pl - Митилена
 Cydōnia, -ae, f - Кидония
 Ephesus, -ī, m - Ефес
+Iōlcus, -ī, m - Йолк
 
 
 Saguntum, -ī, n - Сагунт

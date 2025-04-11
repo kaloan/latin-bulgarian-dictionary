@@ -10,7 +10,11 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   frāxinus, -ī, m - ясен
   platanus, -ī, m - чинар, платан
   acer, aceris, m - клен, явор?
+  castanea, -ae, f - кестен (дърво)
+  castaneārius/castanārius, -ī, m - кестен (дърво)
+  iūglāns, iūglandis, f - орех (дърво)
   cyprus, -ī, f - къна (Lawsonia inermis)
+  vīnea, -ae, f - лоза, израстък на лоза
   vītis, -is, f - лоза, асма
   praecia/precia/pretia, -ae, f - вид лоза/увивно растение
   capreolus, -ī, m - кютюк, лозов ствол
@@ -25,7 +29,6 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   salix, salicis, f - върба, ива, ракита
   vītex, vīticis, f - витекс, аврамово дърво, Vitex agnus-castus, средиземноморско дърво
   prūnus, -ī, m - слива
-  vīnea, -ae, f - лозя
   iūniperus, -ī, m - хвойна
   myxa, -ae, f - дърво раждащо сливоподобни плодове (Cordia myxa)
   betulla/betula, -ae, f - бреза
@@ -116,10 +119,13 @@ herba, -ae, f - трева
   ōcimum, -ī, n - босилек
   salvia, -ae, f - градински чай, салвия
   coriandrum, -ī, n - кориандър
+  menta/mentha/mintha, -ae, f - мента
+  marruvium/marrubium, -ī, n - пчелник (Marrubium vulgare)
   capsicum, -ī, n - чушка
   piper, piperis, n - пипер
   armoracia, -ae, f - хрян
   patāta, -ae, f - картоф, батат
+  mandragorās, -ae, f - мандрагора
   mūscus, -ī, m - мъх
 veprēs, -is, m - трънак
 sentis, -is, m - трънак
@@ -136,6 +142,7 @@ scirpus, -ī, m - папур
 limeum, -ī, n - отровно растение, с което галите намазвали стрелите си
 līnum, -ī, n - лен, ленен плат, ленен конец, връв, фитил
 corymbus, -ī, m - грозд, чепка, китка, съцветие
+spādīx, spādīcis, m - съцветие на палма
 flōs, floris, m - цвете
 flōsculus, -ī, m - цветенце
   mōrus, -ī, m - черница, църница, дуда
@@ -188,3 +195,9 @@ viror, virōris, m - зеленина
 stāmen, -inis, n - тичинка
 
 foliātum, -ī, n - масло от нард, спиканард
+
+vīnētum, -ī, n - лозе
+vīnea, -ae, f - лозе
+castanētum, -ī, n - кестенова гора
+platanētum, -ī, n - чинарова гора
+olīvētum, -ī, n - маслинова гора

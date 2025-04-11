@@ -6,6 +6,7 @@ bardus, -ī, m - бард
 lyra, -ae, f - лира
 fidēs, -is, f - лира, струнен инструмент
 cithara, -ae, f - лира, лютня, китара
+  spādīx, spādīcis, m - спадикс, вид лира
   violīna, -ae, f - цигулка
   pecten, pectinis, m - перце за свирене
 tībīcen, -inis, m - флейтист

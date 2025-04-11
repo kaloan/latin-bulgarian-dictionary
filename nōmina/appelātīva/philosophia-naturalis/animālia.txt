@@ -34,6 +34,8 @@ cycnus, -ī, m - лебед
 luscinia, -ae, f - славей
 passer, -is, m - врабче
 psittacus, -ī, m - папагал
+pīcus, -ī, m - кълвач
+pīca, -ae, f - сврака
 corax, coracis, m - гарван
 corvus, -ī, m - гарван
 cornīx, -cis, f - врана
@@ -181,6 +183,7 @@ serpēns, -entis, m/f - змия, влечуго
   coluber, colubrī, m - мъжка змия
   colubra, -ae, f - женска змия
 lacerta, -ae, f - гущер
+testūdō, -inis, f - костенурка, коруба на костенурка
 delphinus, -ī, m - делфин
   porcus marīnus - тъпонос делфин
 vitulus marīnus - тюлен
