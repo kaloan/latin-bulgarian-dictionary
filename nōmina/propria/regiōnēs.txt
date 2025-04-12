@@ -38,6 +38,7 @@ Asia, -ae, f - Азия
   Arabia, -ae, f - Арабия
   Armenia, -ae, f - Армения
   Bīthȳnia, -ae, f - Витиния
+  Lycia, -ae, f - Ликия
   Colchis, -idis, f - Колхида, т.е. Грузия
   Iūdaea, -ae, f - Юдея
   Persia, -ae, f - Персия

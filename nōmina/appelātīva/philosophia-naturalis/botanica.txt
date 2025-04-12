@@ -5,11 +5,14 @@ acus, aceris, n - люспа, плява
 arbor, -is, f - дърво
 arbuscula, -ae, f - фиданка, дръвче, дървенце, храстче, бонзай
   quercus, -ūs, f - дъб
-  sūber, -is, n - корково дърво, корк
-  rōbur, rōboris, m - дъб, дъбова дървесина
+    rōbur, rōboris, m - дъб, дъбова дървесина
+    īlex, īlicis, f - каменен дъб
+    aesculus, -ī, m - благун
+    sūber, -is, n - корково дърво, корк
   frāxinus, -ī, m - ясен
   platanus, -ī, m - чинар, платан
-  acer, aceris, m - клен, явор?
+  acer, aceris, m - явор, клен
+    opulus, -ī, f - вид клен
   castanea, -ae, f - кестен (дърво)
   castaneārius/castanārius, -ī, m - кестен (дърво)
   iūglāns, iūglandis, f - орех (дърво)
@@ -29,22 +32,34 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   salix, salicis, f - върба, ива, ракита
   vītex, vīticis, f - витекс, аврамово дърво, Vitex agnus-castus, средиземноморско дърво
   prūnus, -ī, m - слива
+  ornus, -ī, f - офика, самодивско дърво
+  ccornus, -ī, f - дрян, дървесина от дрян
+  sambūcus, -ī, f - бъз, бъзак
+  arbutus, -ī, f - кумарка, ягодово дърво, арбутус
+  cedrus, -ī, f - кедър, хвойна, дървесина от кедрово дърво
+    cedrus Lycia - червена хвойна (Juniperus oxycedrus)
+    cedrus Phoenīcia - хвойна (Juniperus phoenicea)
+    cedrus magna - ливански кедър (Cedrus libani)
   iūniperus, -ī, m - хвойна
   myxa, -ae, f - дърво раждащо сливоподобни плодове (Cordia myxa)
   betulla/betula, -ae, f - бреза
   alnus, -ī, m - елша
-  carpinus, -ī, m - габър
+  carpīnus/carpinus, -ī, m - габър
   corylus/corulus, -ī, m - леска, лешник (дърво)
   acācia, -ae, f - акация, гума арабика
   pīnus, -ī, m - бор, борова гора, борова дървесина
   picea, -ae, f - смърч, смилист бор
   abiēs, abietis, f - ела
-  cupressus, -ī, f - кипарис
+  cypressus/cupressus, -ī, f - кипарис
+  cypressus/cupressus, -ūs, f - кипарис
   larix, laricis, f - лиственица
   thuia, -ae, f - туя
   taxus, -ī, m - тис
   palma, -ae, f - палма, финикова палма
+  citrus, -ī, m - цитроненото дърво; вид туя (Tetraclinis articulata, Callitris quadrivalvis)
+    citrum, -ī, n - дървесина на цитроненото дърво
 dūmus, -ī, m - храст
+  buxus, -ī, m - чемшир, чимшир, дървесината на това дърво, нещо изработено от дървесината
   rūscum, -ī, n - див чемшир, самодивски чемшир, бодлив залист
   briscō, -ōnis, m - див чемшир, самодивски чемшир, бодлив залист
   rubus, -ī, m - къпина, малина
@@ -54,7 +69,14 @@ dūmus, -ī, m - храст
   filix, filicis, f - папрат
     asplēnon, -inis, n - изтравниче, волски език
   laburnum, -ī, n - лабурнум, златен дъжд
+  fīcus, -ī, m/f - смокиня (дърво/храст), смокиня (плод)
+  fīcus, -ūs, m/f - смокиня (дърво/храст), смокиня (плод)
+  mespilum, -ī, n - мушмула (дърво/храст), мушмула (плод)
+dūmētum, -ī, n - храсталак, гъсталак
 virgultum, -ī, n - шубрак, гъсталак, гъстак
+veprēs, -is, m - трънак
+sentis, -is, m - трънак
+spīnētum, -ī, n - трънак
 rāmus, -ī, m - клон
 papula, -ae, f - пъпка на растение
 gemma, -ae, f - пъпка на растение
@@ -127,17 +149,15 @@ herba, -ae, f - трева
   patāta, -ae, f - картоф, батат
   mandragorās, -ae, f - мандрагора
   mūscus, -ī, m - мъх
-veprēs, -is, m - трънак
-sentis, -is, m - трънак
-spīnētum, -ī, n - трънак
-dūmētum, -ī, n - гъсталак
 planta, -ae, f - фиданка, присад, филиз, издънка, кълн, трева
 fistula, -ae, f - папур, тръстика, кухо стебло
 calamus, -ī, m - тръстика, кухо стебло
 harundō, -inis, f - тръстика (голяма/дълга)
 canna, -ae, f - тръстика (малка)
+cannula, -ae, f - тръстичица
 sȳrinx, sȳringos!, f - камъш, тръстика
 iuncus, -ī, m - тръстика, камъш, шавар
+combrētum, -ī, n - неизвестен вид тръстика
 scirpus, -ī, m - папур
 limeum, -ī, n - отровно растение, с което галите намазвали стрелите си
 līnum, -ī, n - лен, ленен плат, ленен конец, връв, фитил
@@ -149,7 +169,7 @@ flōsculus, -ī, m - цветенце
   lilium, -ī, n - крем, лилия, лилиум
   viola, -ae, f - тененужка, виолетка
   hyacinthus, -ī, m - зюмбюл
-  carduus, -ī, m - магарешки бодил, бодил, бурен
+  carduus, -ī, m - магарешки бодил, бодил, бурен; артишок
   sȳringa, -ae, f - люляк
   malva, -ae, f - слез
   lȳsimachia, -ae, f - блатия, върболист, ленивче
@@ -169,6 +189,8 @@ flōsculus, -ī, m - цветенце
   calluna, -ae, f - калуна, растение от семейство Пиренови
   brūcus, -ī, m - калуна
   brūgāria, -ae, f - калуна
+  caltha, -ae, f - невен, блатняк, блатник, блатниче, гергьовче
+  īris, īridis, f - ирис, перуника
   papāver, -eris, m/n - мак, маково семе
 alga, -ae, f - водорасло, водни растения, малоценност
   cōnferva, -ae, f - сладководно водорасло
@@ -196,8 +218,26 @@ stāmen, -inis, n - тичинка
 
 foliātum, -ī, n - масло от нард, спиканард
 
-vīnētum, -ī, n - лозе
-vīnea, -ae, f - лозе
+
+arbustum, -ī, n - овощна градина, плантация за дървета
+arborētum, -ī, n - дендрарий, дървена плантация
+  vīnētum, -ī, n - лозе
+  vīnea, -ae, f - лозе
+  citrētum, -ī, n - цитронова овощна градина
+  buxētum, -ī, n - чемширова плантация
+  fīcētum, -ī, n - смокинена овощна градина
+
 castanētum, -ī, n - кестенова гора
 platanētum, -ī, n - чинарова гора
 olīvētum, -ī, n - маслинова гора
+īlicētum, -ī, n - гора от каменни дъбове
+aesculētum, -ī, n - благунова гора
+carduētum, -ī, n - трънак от магарешки бодил
+cedrētum, -ī, n - хвойнова гора
+cornētum, -ī, n - дрянова гора
+corylētum/corulētum, -ī, n - лескова гора
+cupressētum, -ī, n - кипарисова гора
+harundinētum, -ī, n - блато с голяма тръстика
+cannētum, -ī, n - блато с малка тръстика
+iuncētum, -ī, n - блато с тръстика/камъш/шавар
+erīcētum, -ī, n - блато с ерика/пирен
