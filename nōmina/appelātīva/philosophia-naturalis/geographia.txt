@@ -2,6 +2,7 @@ mundus, -ī, m - свят, свят/мир като противовес на Ц
 plāneta, -ae, f - планета
 planētula, -ae, f - планетичка
 caelum, -ī, n - небе
+caerula, -ōrum, n pl - небесния простор, синева, лазур
 dīvum, -ī, n - открито небе
   sōl, solis, m - слънце
   luna, -ae, f - луна
@@ -44,6 +45,7 @@ asprētum, -ī, n - неравно място, място с напукана з
 collis, -is, m - хълм
 colliculus, -ī, m - хълмче
 tumulus, -ī, m - могила, хълмче
+aequum, -ī, n - равна земя, равнопоставеност
 campus, -ī, m - равнина
 cinerārius, -ī, m - обгорена земя
 ager, agrī, m - поле, имение
@@ -87,6 +89,8 @@ pontus, -ī, m - море, дълбини
 vadum, -ī, n - плитчина, брод
 syrtis, -is, f - пясъчна плитчина, банка
 pelagus, -ī, m - открито море, морски простор
+aequor, -ōris, m - равна шир, равнина, спокойно море, морско ширине, морска височина
+caerula, -ōrum, n pl - сини води
 vortex/vertex, vortecis/verticis, m - водовъртеж, вихър
 ōra, ōrae, f - морски бряг
 lītus, litoris, n - плаж, бряг

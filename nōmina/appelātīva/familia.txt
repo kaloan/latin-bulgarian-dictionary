@@ -109,7 +109,7 @@ virīlitās, -ātis, f - мъжество (период от живота), мъ
 geminus, -ī, m - близнак
 gemellus, -ī, m - близначе, близненце
 trigeminus, -ī, m - тризнак
-īnfāns, infantis, m/f - бебе
+īnfāns, infantis, m/f - бебе, пеленаче, кърмаче, сукалче
 īnfantulus, -ī, m - бебенце момче
 infantula, -ae, f - бебенце момиче
 parvulus, -ī, m - малчуган, мъник

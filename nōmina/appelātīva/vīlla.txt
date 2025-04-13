@@ -55,6 +55,7 @@ cubiculum, -ī, n - стая, спалня
     pōculum, -ī, n - чаша
     calix, calicis, m - чаша за вино
     culigna, -ae, f - чаша (физическа), чаша (обем)
+    gradālis, -is, f - чаша, купа, бокал, граал
     culter, cultrī, m - нож
     rutābulum, -ī, n - шпатула (готварска)
     cochlear, -is, n - лъжица (физическа), лъжица (обем)
@@ -179,7 +180,9 @@ pēra, -ae, f - чанта диагоналка
 mappa, -ae, f - кърпичка, салфетка
 mantēle, -is, n - кърпа
 clāvis, -is, f - ключ
-columna, -ae, f - колона
+columna, -ae, f - колона, стълб, дирек
+columella, -ae, f - колонка, стълбче, дирече
+columen, -inis, n - колона, стълб, дирек
 tēctum, -ī, n - покрив, таван, подслон, заслон, навес
 solum, -ī, n - под
 crepundia, -ōrum, n pl - залагалка

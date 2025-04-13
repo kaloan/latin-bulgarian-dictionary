@@ -5,6 +5,7 @@ poēta, -ae, m/f - поет
 bardus, -ī, m - бард
 lyra, -ae, f - лира
 fidēs, -is, f - лира, струнен инструмент
+  nervus, -ī, m - струна
   cithara, -ae, f - лира, лютня, китара
   psaltērium - лютня
   spādīx, spādīcis, m - спадикс (вид лира)

@@ -4,6 +4,7 @@ pōmum, -ī, n - плод
   mālum pūnicum - нар
   grānātum, -ī, n - нар
   mālogrānātum, -ī, n - нар
+  mālum grānātum - нар
   mālum aurantium - портокал
   aurantium, -ī, n - портокал
   mālum aureum - портокал
@@ -73,7 +74,10 @@ holusculum, -ī, n - зеленчуче, билчица
   bēta, -ae, f - цвекло, чукундур
   carōta, -ae, f - морков
   lactūca, -ae, f - маруля, салата
-  porrum, -ī, n - праз, резанец
+  pōrum/porrum/purrum, -ī, n - праз, резанец
+  porrus, -ī, m - праз, резанец, влашец
+  porrīna, -ae, f - парцел с праз
+  ulpicum, -ī, n - вид праз
 nux, nucis, f - ядка, плод с черупка
   avellāna, -ae, f - лешник
   glāns, glandis, f - жълъд, буков жълъд, кестен
