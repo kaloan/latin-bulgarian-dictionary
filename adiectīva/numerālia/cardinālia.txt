@@ -1,13 +1,27 @@
-tōtus, -īus - цял, пълен, целокупен
-sōlus, -īus - сам, единствен
-ūllus, -īus - някой, но винаги се използва с отрицание за получаване на никой/нито един
+tōtus, tōtum, tōīus, tōtī, tōtō, tōtī, tōtōs, tōtōrum, tōtīs, tōtīs - цял, пълен, целокупен
+tōta, tōtam, tōīus, tōtī, tōtā, tōtae, tōtās, tōtārum, tōtīs, tōtīs - цяла, пълна, целокупна
+tōtum, tōtum, tōīus, tōtī, tōtō, tōta, tōta, tōtōrum, tōtīs, tōtīs - цяло, пълно, целокупно
+
+sōlus, sōlum, sōlīus, sōlī, sōlō, sōlī, sōlōs, sōlōrum, sōlīs, sōlīs - сам, единствен
+sōla, sōlam, sōlīus, sōlī, sōlā, sōlae, sōlās, sōlārum, sōlīs, sōlīs - сама, единствена
+sōlum, sōlum, sōlīus, sōlī, sōlō, sōla, sōla, sōlōrum, sōlīs, sōlīs - само, единствено
+
+ūllus, ūllum, ūllīus, ūllī, ūllō, ūllī, ūllōs, ūllōrum, ūllīs, ūllīs - някой, но винаги се използва с отрицание за получаване на никой/нито един
+ūlla, ūllam, ūllīus, ūllī, ūllā, ūllae, ūllās, ūllārum, ūllīs, ūllīs - някой, но винаги се използва с отрицание за получаване на никой/нито един
+ūllum, ūllum, ūllīus, ūllī, ūllō, ūlla, ūlla, ūllōrum, ūllīs, ūllīs - някой, но винаги се използва с отрицание за получаване на никой/нито един
+
 quisquam, quemquam, cuiusquam, cuiquam, quōquam, quīquam, quōsquam, quōrumquam, quibusquam, quibusquam - някой, но винаги се използва с отрицание за получаване на никой
 quaequam, quamquam, cuiusquam, cuiquam, quāquam, quaequam, quāsquam, quārumquam, quibusquam, quibusquam - някоя, но винаги се използва с отрицание за получаване на никоя
 quidquam/quicquam, quidquam/quicquam, cuiusquam, cuiquam, quōquam, quaequam, quaequam, quōrumquam, quibusquam, quibusquam - някое, но винаги се използва с отрицание за получаване на никое
-nūllus, -īus - нула, без
+
+nūllus, nūllum, nūllīus, nūllī, nūllō, nūllī, nūllōs, nūllōrum, nūllīs, nūllīs - никой, никои, николко
+nūlla, nūllam, nūllīus, nūllī, nūllā, nūllae, nūllās, nūllārum, nūllīs, nūllīs - никоя, никои, николко
+nūllum, nūllum, nūllīus, nūllī, nūllō, nūlla, nūlla, nūllōrum, nūllīs, nūllīs - никое, никои, николко
+
 nōnnūllus, nōnnūllum, nōnnūllīus, nōnnūllī, nōnnūllō, nōnnūllī, nōnnūllōs, nōnnūllōrum, nōnnūllīs, nōnnūllīs - някой, някои, няколко
 nōnnūlla, nōnnūllam, nōnnūllīus, nōnnūllī, nōnnūllā, nōnnūllae, nōnnūllās, nōnnūllārum, nōnnūllīs, nōnnūllīs - някоя, някои, няколко
 nōnnūllum, nōnnūllum, nōnnūllīus, nōnnūllī, nōnnūllō, nōnnūlla, nōnnūlla, nōnnūllōrum, nōnnūllīs, nōnnūllīs - някое, някои, няколко
+
 ūnus, ūnum, ūnīus, ūnī, ūnō, ūnī, ūnōs, ūnōrum, ūnīs, ūnīs - един
 ūna, ūnam, ūnīus, ūnī, ūnā, ūnae, ūnās, ūnārum, ūnīs, ūnīs - една
 ūnum, ūnum, ūnīus, ūnī, ūnō, ūna, ūna, ūnōrum, ūnīs, ūnīs - едно
@@ -20,6 +34,7 @@ ambae, ambās, ambārum, ambābus, ambābus - и двете (женски род
 ambō, ambō, ambōrum, ambōbus, ambōbus - и двете (среден род)
 trēs, trēs, trium, tribus, tribus - три (мъжки и женски род)
 tria, tria, trium, tribus, tribus - три (среден род)
+
 quattuor, indecl - четири
 quīnque, indecl - пет
 sex, indecl - шест
@@ -56,4 +71,5 @@ nōngentī - деветстотин
 mīlle, indecl - хиляда
 mīlia, mīlium - хиляди
 duo mīlia - две хиляди
+
 omnis, -is - всички, цял
