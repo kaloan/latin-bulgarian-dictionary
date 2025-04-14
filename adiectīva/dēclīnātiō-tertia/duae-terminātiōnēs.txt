@@ -248,13 +248,18 @@ nervālis, -is - нервов
 articulāris, -is - ставен
 
 intermēstris, -is - месечен, не повече от месечен
-mēnstruālis, -is - месечен, ежемесечен менструален
+mēnstruālis, -is - месечен, ежемесечен, менструален
+mēnsuālis, -is - едномесечен
 bimēstris, -is - двумесечен
 trimēstris, -is - тримесечен
 quadrimēstris, -is - четиримесечен
 quīnquemēstris, -is - петмесечен
 sēmēstris, -is - шестмесечен
-septemmēstris, -is - седмомесечен
+septemmēstris, -is - седеммесечен
+octōmēstris, -is - осеммесечен
+novemmēstris, -is - деветмесечен
+decemmēstris, -is - десетмесечен
+undecemmēstris, -is - единадесеткесечен, единайсетмесечен
 
 Laurēns, Laurentis - Лаурентов
 Cereālis, -is - Цереров, (преносно) земеделски/житен
