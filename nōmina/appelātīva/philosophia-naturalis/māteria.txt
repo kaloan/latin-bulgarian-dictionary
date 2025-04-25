@@ -50,6 +50,7 @@ plumbāgō, -inis, f - графит
 plumbātūra, -ae, f - оловен припой, оловна спойка, оловна заварка
 pasta, -ae, f - паста
 pix, picis, f - катран, зифт
+ammōniacum, -ī, n - амоняк
 
 electricitās, -ātis, f - електричество
 electrismus, -ī, m - електричество

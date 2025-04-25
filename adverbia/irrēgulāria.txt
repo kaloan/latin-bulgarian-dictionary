@@ -6,9 +6,10 @@ magnopere/valdē, magis, māximē - силно, здраво
 multum, plūs, plūrimum - много
 nēquiter, nēquius, nēquissimē - подло, отвратително, низко, безполезно
 saepe, saepius, saepissimē - често
+  saepiculē - честичко
 rārō, rārius, rārissimē - рядко
 mātūrē, mātūrius, māturrimē - навреме, навременно
-praemātūrē, praemātūrius, praemāturrim-e - предвременно, твърде рано
+praemātūrē, praemātūrius, praemāturrimē - предвременно, твърде рано
 prope, propius, proximē - близо, близко
 nūper, -(!), nūperrimē - скоро, наскоро, преди малко
 -(!), prius (+abl), prīmō - преди (някого/нещо) (компаратив); първо, в първо време (суперлатив)

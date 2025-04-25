@@ -1,18 +1,18 @@
 pōmum, -ī, n - плод
-  mālum, -ī, n - ябълка
+  mālum, -ī, n - ябълка (плод), месест плод
   mālum paradīsī - грейпфрут
   mālum pūnicum - нар
   grānātum, -ī, n - нар
   mālogrānātum, -ī, n - нар
   mālum grānātum - нар
-  mālum aurantium - портокал
-  aurantium, -ī, n - портокал
+  (mālum) aurantium, -ī, n - портокал
   mālum aureum - портокал
-  mālum cydōnium/cotōnium, -ī, n - дюля
-  armeniacum, -ī, n - дюля
-  praecoquium, -ī, n - дюля
-  pirum, -ī, n - круша
+  (aurantium) clēmentīnum, -ī, n - мандарина
+  (mālum) cydōnium/cotōnium/cotōneum, -ī, n - дюля (плод)
+  praecoquium, -ī, n - кайсия (плод) (???)
+  (mālum) armeniacum, -ī, n - кайсия (плод)
   persica, -ae, f - праскова
+  pirum, -ī, n - круша (плод)
   frāgum, -ī, n - ягода
   mēmecylon, -ī, n - ягода
   mespilum, -ī, n - мушмула

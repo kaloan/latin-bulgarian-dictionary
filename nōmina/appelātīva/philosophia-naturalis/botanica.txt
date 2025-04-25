@@ -16,6 +16,10 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   castanea, -ae, f - кестен (дърво)
   castaneārius/castanārius, -ī, m - кестен (дърво)
   iūglāns, iūglandis, f - орех (дърво)
+  mālus, -ī, f - ябълка (дърво)
+  pirus, -ī, f - круша (дърво)
+  cotōneus, -ī, f - дюла (дърво)
+  armeniaca, -ae, f - кайсия (дърво) (понеже кайсията била разпространена от Армения)
   cyprus, -ī, f - къна (Lawsonia inermis)
   vīnea, -ae, f - лоза, израстък на лоза
   vītis, -is, f - лоза, асма
@@ -152,12 +156,14 @@ herba, -ae, f - трева
   coriandrum, -ī, n - кориандър
   menta/mentha/mintha, -ae, f - мента
   marruvium/marrubium, -ī, n - пчелник (Marrubium vulgare)
+  valeriāna, -ae, f - дилянка, валериана
   capsicum, -ī, n - чушка
   piper, piperis, n - пипер
   armoracia, -ae, f - хрян
   vicia, -ae, f - фий
   avēna, -ae, f - овес, сламка
   bromos, -ī, m - овес
+  aristolochia, -ae, f - вълча ябълка
   patāta, -ae, f - картоф, батат
   mandragorās, -ae, f - мандрагора
   mūscus, -ī, m - мъх

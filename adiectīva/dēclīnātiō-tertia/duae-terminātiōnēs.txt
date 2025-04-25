@@ -246,6 +246,7 @@ tiliāris, -is - липов
 nervālis, -is - нервов
 ēnervis, -is - изнемощял, немощен, слаб
 articulāris, -is - ставен
+torculāris, -is - свързан с преса за грозде/маслини
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, ежемесечен, менструален

@@ -757,6 +757,7 @@ fūmigābundus - опушен, задимен
 fūmificus - пушещ, димящ
 fimicolus - обитаващ тор, торен
 strāgulus - покривен
+praecoquus - ранозрял
 
 auricomus - рус
 flāvicomus - рус
@@ -834,6 +835,7 @@ arboreus - дървен
   tiliāgineus - от липова дървесина
   sambūceus - от бъз
   galbaneus - галбанов, от смола на ферула
+  cotōneus - дюлев
 
 aurātus - позлатен
 argentātus - посребрен
