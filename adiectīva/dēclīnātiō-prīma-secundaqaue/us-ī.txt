@@ -756,6 +756,7 @@ fūmidus - задимен, опушен
 fūmigābundus - опушен, задимен
 fūmificus - пушещ, димящ
 fimicolus - обитаващ тор, торен
+strāgulus - покривен
 
 auricomus - рус
 flāvicomus - рус

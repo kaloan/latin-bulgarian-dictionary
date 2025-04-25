@@ -153,6 +153,7 @@ piscis, -is, m - риба
   dracunculus, -ī, m - риба от семейство Морски мишки
   alburnus, -ī, m - уклейка, блескач, пръскач, плюске, чаушан, терзийка
   glaucus, -ī, m - син дракон, син ангел, морска лястовица
+  anguīlla, -ae, f - змиорка, ягула
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица, пернато (букв. крилато)
 avis, -is, f - птица
@@ -181,6 +182,7 @@ culex, culicis, m - комар
 pūlex, pūlicis, m - бълха
 scarabæus, -ī, m - скарабей, бръмбар
 anguis, -is, m/f - змия, змей
+anguīlla, -ae, f - змийче
 serpēns, -entis, m/f - змия, влечуго
   vīpera, -ae, f - усойница (змия), усойница (лош човек), пепелянка
   coluber, colubrī, m - мъжка змия
@@ -208,6 +210,7 @@ sēpia/saepia, -ae, f - сепия, масло от сепия
 stēlla marina - морска звезда
 tarmes, tarmitis, m - дървоядова ларва, личинка
 vermiculus, -ī, m - личинка, ларва
+pulmō marīnus - медуза
 
 dracō, -ōnis, m - дракон, змей
 dracunculus, -ī, m - драконче, змейче

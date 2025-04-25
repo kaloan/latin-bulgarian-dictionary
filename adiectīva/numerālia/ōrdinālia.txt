@@ -26,7 +26,7 @@ septuāgēsimus - седемдесети
 octōgēsimus - осемдесети
 nōnāgēsimis - деветдесети
 centēsimus - стотни
-duocentēsimus - двустотни
+ducentēsimus - двустотни
 trecentēsimus - тристотни
 quadringentēsimus - четиристотни
 quīngentēsimus - петстотни
@@ -34,6 +34,7 @@ sescentēsimus - шестстотни
 septingentēsimus - седемстотни
 octingentēsimus - осемстотни
 nōngentēsimus - деветстотни
+ūndēmīllēsimus - деветстотин деветдесет и девети
 mīllēsimus - хилядни
 bis mīllēsimus - двехилядни
 postrēmus - последен

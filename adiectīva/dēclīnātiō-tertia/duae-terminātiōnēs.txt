@@ -260,6 +260,7 @@ octōmēstris, -is - осеммесечен
 novemmēstris, -is - деветмесечен
 decemmēstris, -is - десетмесечен
 undecemmēstris, -is - единадесеткесечен, единайсетмесечен
+saeculāris, -is - столетен, светски (нецърковен)
 
 Laurēns, Laurentis - Лаурентов
 Cereālis, -is - Цереров, (преносно) земеделски/житен
