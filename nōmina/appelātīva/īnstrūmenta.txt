@@ -21,8 +21,6 @@ perspicillum, -ī, n - леща, телескоп, бинокъл, микрос�
 perspicilla, -ōrum, n pl - очила
 furca, -ae, f - вила за сено с два зъба
 verū, -ūs, n - шиш, шило, стрела, диакритичен знак
-scōpa, -ae, f - клон, метла
-ēverriculum, -ī, n - метла
 sūrus, -ī, m - прът, кол
 termes, termintis, m - прът, върлина
 longurius, -ī, m - върлина, дълъг прът
@@ -52,6 +50,10 @@ vāra, -ae, f - триножник, статив, вилица (първонач
 pyxis/puxis/pixis, -is, f - компас
 articulus, -ī, m - става, сглоб, сглобка, муфа, снадка, място на съединение
 articulātiō, -ōnis, f - сглобена конструкция
+
+scōpae, -ārum, f pl - метла от пръчки
+rūscum, -ī, n - метла от пръчки
+ēverriculum, -ī, n - метла
 saeta, -ae, f - четка
 
 alveārium, -ī, n - кошер, нощви

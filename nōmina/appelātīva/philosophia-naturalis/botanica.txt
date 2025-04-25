@@ -81,7 +81,8 @@ virgultum, -ī, n - шубрак, гъсталак, гъстак
 veprēs, -is, m - трънак
 sentis, -is, m - трънак
 spīnētum, -ī, n - трънак
-rāmus, -ī, m - клон
+rāmus, -ī, m -
+scōpa, -ae, f - клон
 papula, -ae, f - пъпка на растение
 gemma, -ae, f - пъпка на растение
 rāmusculus, -ī, m - клонче, клонка, гранка, съчка, клечка, пръчка
@@ -154,6 +155,9 @@ herba, -ae, f - трева
   capsicum, -ī, n - чушка
   piper, piperis, n - пипер
   armoracia, -ae, f - хрян
+  vicia, -ae, f - фий
+  avēna, -ae, f - овес, сламка
+  bromos, -ī, m - овес
   patāta, -ae, f - картоф, батат
   mandragorās, -ae, f - мандрагора
   mūscus, -ī, m - мъх

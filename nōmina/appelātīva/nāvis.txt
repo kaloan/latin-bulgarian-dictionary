@@ -53,5 +53,7 @@ piscātiō, -ōnis, f - риболов
 harundō, -inis, f - въдица
 rēte, rētis, n - рибарска мрежа
   nōdī, -ōrum, m pl - рибарска мрежа с възли
+  trāgula, -ae, f - трал
+  ēverriculum, -ī, n - голяма мрежа, трал
 tridēns, tridentis, m - тризъбец
 ūrīnātor, -ōris, m - гмурец
