@@ -53,27 +53,27 @@ sepemdecim, indecl - седемнадесет, седемнайсет
 duodēvīgintī, indecl - осемнадесет, осемнайсет
 ūndēvīgintī, indecl - деветнадесет, деветнайсет
 vīgintī, indecl - двадесет, двайсет
-duodētrīginta, indecl - двадесет и осем, двайсет и осем
-ūndētrīginta, indecl - двадесет и девет, двайсет и девет
-trīginta, indecl - тридесет, трийсет
-duodēquadrāginta, indecl - тридесет и осем, трийсет и осем
-ūndēquadrāginta, indecl - тридесет и девет, трийсет и девет
-quadrāginta, indecl - четиридесет, четирийсет
-duodēquīnquāginta, indecl - четиридесет и осем, четирийсет и осем
-ūndēquīnquāginta, indecl - четиридесет и девет, четирийсет и девет
-quīnquāginta, indecl - петдесет
-duodēsexāginta, indecl - петдесет и осем
-ūndēsexāginta, indecl - петдесет и девет
-sexāginta, indecl - шестдесет, шейсет
-duodēseptuāginta, indecl - шестдесет и осем, шейсет и осем
-ūndēseptuāginta, indecl - шестдесет и девет, шейсет и девет
-septuāginta, indecl - седемдесет
-duodēoctōginta, indecl - седемдесет и осем
-ūndēoctōginta, indecl - седемдесет и девет
-octōginta, indecl - осемдесет
-duodēnōnāginta, indecl - осемдесет и осем
-ūndēnōnāginta, indecl - осемдесет и девет
-nōnāginta, indecl - деветдесет
+duodētrīgintā, indecl - двадесет и осем, двайсет и осем
+ūndētrīgintā, indecl - двадесет и девет, двайсет и девет
+trīgintā, indecl - тридесет, трийсет
+duodēquadrāgintā, indecl - тридесет и осем, трийсет и осем
+ūndēquadrāgintā, indecl - тридесет и девет, трийсет и девет
+quadrāgintā, indecl - четиридесет, четирийсет
+duodēquīnquāgintā, indecl - четиридесет и осем, четирийсет и осем
+ūndēquīnquāgintā, indecl - четиридесет и девет, четирийсет и девет
+quīnquāgintā, indecl - петдесет
+duodēsexāgintā, indecl - петдесет и осем
+ūndēsexāgintā, indecl - петдесет и девет
+sexāgintā, indecl - шестдесет, шейсет
+duodēseptuāgintā, indecl - шестдесет и осем, шейсет и осем
+ūndēseptuāgintā, indecl - шестдесет и девет, шейсет и девет
+septuāgintā, indecl - седемдесет
+duodēoctōgintā, indecl - седемдесет и осем
+ūndēoctōgintā, indecl - седемдесет и девет
+octōgintā, indecl - осемдесет
+duodēnōnāgintā, indecl - осемдесет и осем
+ūndēnōnāgintā, indecl - осемдесет и девет
+nōnāgintā, indecl - деветдесет
 nōnāgintā octō, indecl - деветдесет и осем
 nōnāgintā novem, indecl - деветдесет и девет
 centum, indecl - сто
