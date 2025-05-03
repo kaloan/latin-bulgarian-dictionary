@@ -119,6 +119,7 @@ aedēs, -ium, f pl - жилище, блок
 forum, -ī, n - форум, мегдан
 mercātus, -ūs, m - пазар
 statua, -ae, f - статуя
+staticulum, -ī, n - статуйка, статуетка
 statunculum, -ī, n - статуйка, статуетка
 pōns, pontis, f - мост
 molaе, -ārum, f pl - мелница
