@@ -18,7 +18,7 @@ capitulum, -ī, n - главичка
   calva, -ae, f - череп
   calvāria, -ae, f - череп
   testa, -ae, f - череп
-  faciēs, faciēī, f - лице, предна част
+  faciēs, faciēī, f - лице, лик, предна част
   vultus, -ūs, m - лице, израз
   capillus, -ī, m - коса
   coma, -ae, f - коса, грива, руно, вълна

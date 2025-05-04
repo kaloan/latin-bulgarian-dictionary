@@ -11,7 +11,7 @@ propinquus, propior, proximus - близък, близолежащ, сроден
 mātūrus, mātūrior, mātūrrimus/mātūrissimus - зрял, съзрял, навременен
 immātūrus/inmātūrus, immātūrior/inmātūrior, immātūrrimus/inmātūrrimus/inmātūrissimus/immātūrissimus - незрял, недозрял, преждевременен
 praemātūrus, praemātūrior, praemātūrrimus - преждевременен, предсрочен, случващ се изключително рано
-posterus, posterior, postrēmus/postumus  - заден, по-заден, следващ
+posterus, posterior/posterius, postrēmus/postumus  - заден, следващ; по-заден, следващ, по-нататък в реда, (по-)малковажен; последен, последнороден
 senex, senior/māior nātū, māximus nātū - възрастен
 iuvenis, iuvenior/iūnior/minor nātū, minimis nātū - млад (~в детеродна възраст)
 vetus, veterior, veterrimus - вехт, стар
@@ -44,7 +44,9 @@ medius, medior, medioximus - среден
 īnferus/īnfernus, īnferior, īnfimus/īmus - долен, нисък, последен (в суперлатив), низш, адски, пъклен
 exterus/externus, exterior, extrēmus - външен, по-краен, краен/последен
 
-interior, intimus - по-вътрешен
+interior/interiius, intimus - по-вътрешен
+anterior/anterius - преден, по-раншен, предишен, бивш
+posterior/posterius - заден, по-
 ulterior/ulterius, ultimus - по-далечен
 citerior/citerius, citimus - по-близък
 

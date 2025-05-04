@@ -71,8 +71,9 @@ puteus, -ī, m - кладенец
 amnis, -is, m - голяма/бърза река, бързей
 amniculus, -ī, m - поток, ручей
 fluvius, -ī, m - река
-rīvus, -ī, m - река, поток
-rīvulus, -ī, m - рекичка, поточе
+rīvus, -ī, m - река, поток, ручей
+rīvulus, -ī, m - рекичка, поточе, ручейче
+rīvora, -ōrum, n pl - ручеи
 flūmen, flūminis, n - река
 cōnfluēns, -cōnfluentis, m - сливане на две реки
 rīpa, -ae, f - речен бряг

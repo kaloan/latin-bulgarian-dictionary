@@ -1,11 +1,11 @@
 pāx, pācis, f - мир, спокойствие
-bellum, -ī, n - война
-  dīmicātiō, -ōnis, f - сражение
+bellum, -ī, n - война, бран
+  dīmicātiō, -ōnis, f - сражение, стълкновение
   impetus, -ūs, m - атака, настъпление
   impes, impetis, m - нападение
   pugna, -ae, f - бой, битка
   certāmen, -inis, n - бой, битка
-  proelium, -ī, n - битка
+  proelium, -ī, n - битка, схватка
   oppugnātiō, -ōnis, f - нападение, атака
   incursiō, -ōnis, f - набег, нашествие, нахлуване
   expugnātiō, -ōnis, f - превземане

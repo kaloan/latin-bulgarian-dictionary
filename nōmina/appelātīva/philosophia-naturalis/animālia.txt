@@ -1,7 +1,9 @@
 animal, -ālis, n - животно
 bēstia, -ae, f - твар, животно, скот
+vīvum, -ī, n - това, което е живо; живец, жива плът
 fera, -ae, f - звяр, диво животно
 bēlua, -ae, f - зверище, чудовище
+hibrida, -ae, f - мелез, хибрид
 pecus, pecoris, n - добитък (буквално), добитък (обидно), стадо, добиче (обикновено едро като крава, кон, муле)
 pecus, pecudis, f - добиче (обикновено дребно като овца, коза, свиня), скот
 grex, gregis, m - стадо
@@ -21,6 +23,8 @@ equitātus, -ūs, m - разгонена кобила
 asinus, -ī, m - магаре
 mūlus, -ī, m - муле
 mūla, -ae, f - женско муле
+hinnus, -ī, m - катър
+hinnulus, -ī, m - катърче
 onager, onagrī, m - азиатско диво магаре
 rhīnoceros, -ōtis, m - носорог, човек с дълъг нос
 aquila, -ae, f - орел
@@ -85,6 +89,7 @@ capella, -ae, f - козичка
 cervus, -ī, m - елен
 cerva, -ae, f - кошута
 tarandus, -ī, m - северен елен
+hinnuleus/hinnulus, -ī, m - еленче
 capreola, -ae, f - газела
 caprea, -ae, f - сърна
 capreola, -ae, f - малка сърна
@@ -114,7 +119,7 @@ sōrex, sōricis, m - полска мишка
 rattus, -ī, m - плъх
 viverra, -ae, f - фретка, пор
 fūrunculus, -ī, m - фретка, пор, хермелин
-canis, -is, m/f - куче/кучка
+canis, -is, m/f - куче/кучка, хрът, хрътка, пес, псе, помияр
 catulus, -ī, m - паленце, кученце, вълче
   molossus, -ī, m - куче от порода сходна с мастифа
 lupus, -ī, m - вълк
@@ -156,6 +161,7 @@ piscis, -is, m - риба
   glaucus, -ī, m - син дракон, син ангел, морска лястовица
   anguīlla, -ae, f - змиорка, ягула
   mūllus, -ī, m - барбун, султанка, червен милет
+  tructa, -ae, f - пъстърва
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица, пернато (букв. крилато)
 avis, -is, f - птица
@@ -170,6 +176,7 @@ larus, -ī, m - чайка
 hairō, hairōnis, m - чапла
 truō, truōnis, m - морска птица с едра човка (вероятно корморан)
 phoenīcopterus, -ī, m - фламинго
+himantopūs, himantopodis, m - кокилобегач
 cōturnīx, -īcis, f - пъдпъдък
 qualea, -ae, f - пъдпъдък
 quaccola, -ae, f - пъдпъдък
