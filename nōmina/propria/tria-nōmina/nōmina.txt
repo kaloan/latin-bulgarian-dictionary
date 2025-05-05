@@ -42,3 +42,6 @@ Caesennius, -ī, m - Цезений
 Turpilius, -ī, m - Турпилий
 Turpiliānus, -ī, m - Турпилиан
 Gāvius, -ī, m - Гавий
+Flāvius, -ī, m - Флавий
+Mānlius, -ī, m - Манлий
+Furius, -ī, m - Фурий

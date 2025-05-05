@@ -334,6 +334,9 @@ positā morā - без забавяне
 sub aliō agere - под нечия власт съм
 vulnus adversum - рана на гърдите
 vīvus vidēnsque - жив и адекватен, жив и с всичкия си
+placēre ut/nē - решено е
+Sūtrium īre - тръгвам подготвен (букв. отивам към Сутриум, от успешната военна кампания на Марк Фурий Камил)
+honōrem dēferre - отдавам почести
 
 pars ... pars ... - едни ..., други ...
 
@@ -360,7 +363,7 @@ ante litteram - преди да има наименование
 
 bellum gerere - водя война
 bellum īnferre (+dat) - воювам (с)
-bellum movēre - водя война
+bellum movēre/commovēre - водя война
 bellum incipere - започвам война
 bellum suscipere - започвам война
 bellum sūmere - започвам война
@@ -368,6 +371,7 @@ bellum ostendere - обявявам война
 bellum indīcere - обявявам война
 bellum fīnīre - приключвам война
 bellum pōnere - приключвам война
+spolia opīma - военен трофей от убит в битка вражески главнокомандващ отдаван в чест на Юпитер, има 3 такива трофея, един от Ромул, един от Авъл Корнелий Кос и един от Марк Клавдий Марцел
 
 in promptū esse/habēre/pōnere - разкрит съм, видим съм, в явен вид, очевиден съм
 in promptū esse/habēre - наличен съм, готов съм
@@ -492,11 +496,13 @@ duodecim scrīpta, lūdus duodecim scrīptōrum - вид табла
 pīla trigōnālis - игра за трима с подаване на топка
 
 A. (Aulus) - Авел
+Ap. (Appius) - Апий
 C. (Gāius) - Гай
 Cn. (Gnaeus) - Гней
 D. (Decimus) - Деций
 L. (Lūcius) - Луций
 M. (Mārcus) - Марк
+M'. (Mānius) - Маний
 P. (Pūblius) - Публий
 Q. (Quīntus) - Квинт
 Sex. (Sextus) - Секст

@@ -36,6 +36,10 @@ cognitiō, -ōnis, f - съдебен процес, разследване, по
     homicīda, -ae, m/f - убиец, убийца
     necātor, -ōris, m - убиец
     necātrīx, necātrīcis, f - убийца
+    trucīdātiō, -ōnis, f - касапство, клане, убийство
+    trucīdātor, -ōris, m - касапин (убиец)
+    occīsiō, -ōnis, f - убийство, клане
+    occīsor, -ōris, m - убиец
     parricīda, -ae, m/f - отцеубиец
     parricīdium, -ī, n - отцеубийство, братоубийство, убийство на роднина
   līs, lītis, f - иск, кавга, спор
