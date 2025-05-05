@@ -24,12 +24,15 @@ Eurōpa, -ae, f - Европа
     Ãpūlia, -ae, f - Апулия (дн Пулия)
     Campānia, -ae, f - Кампания
     Etrūria, -ae, f - Етрурия, Туския
+    Umbria, -ae, f - Умбрия
     Falernum, -ī, n - Фалерно
     Latium, -ī, n - Латиум
     Liguria, -ae, f - Лигурия
     Samnium, -ī, n - Самниум
+    Pīcēnum, -ī, n - Пиценум
     Tūscia, -ae, f - Туския, Етрурия
     Lūcānia, -ae, f - Лукания
+    Bruttium, -ī, n - Брутум (дн. Калабрия)
   Macedonia, -ae, f - Македония
   Thracia, -ae, f - Тракия
 

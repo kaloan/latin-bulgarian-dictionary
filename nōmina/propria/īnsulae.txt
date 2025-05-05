@@ -3,6 +3,8 @@ Sardinia, -ae, f - Сардиния
 Sicilia, -ae, f - Сицилия
 Melita, -ae, f - Малта
 Ortygia, -ae, f - Ортигия
+Aeolia, -ae, f - Еолийски острови
+Aegātēs, -ium, m pl - Егади, Егадските острови
 
 Crēta, -ae, f - Крит
 Rhodus, -ī, f - Родос

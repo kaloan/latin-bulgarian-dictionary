@@ -23,7 +23,7 @@ diū, diūtius, diūtissimē - задълго
 aliquamdiū - за някакво време, доста време
 paulisper - закратко
 paulumper - закратко
-inde ab (+abl) - откакто
+inde ab (+abl) - откакто, от тогава, от когато
 ūsque ad (+acc) - докато, чак до
 dōnec - докато, доколкото
 quoad - докато не, чак до

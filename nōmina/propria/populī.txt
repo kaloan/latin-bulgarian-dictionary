@@ -51,14 +51,26 @@ Sīnae/Chīnae, -ārum, f pl - китайци
 Sērēs, Sērum, m pl - китайци
 Corinthiī, -ōrum, m pl - коринтяни
 Volcae, -ārum, m pl - волки
+Paelignī, -ōrum, m pl - пелигни
 Mārsī, -ōrum, m pl - марси (племе обитаващо района на Лаго Фучино)
 Hernicī, -ōrum, m pl - херники
 Sūtrīnī, -ōrum, m pl - сутрийци
 Praenestini, -ōrum, m pl - пренестинци
+Senonēs, -um, m pl - сенони
+Macedōnēs, -um, m pl - македонци
+Umbrī, -ōrum, m pl - умбри
+Bruttiī, -ōrum, m pl - брути
+Sālentīnī, -ōrum, m pl - салентини
+Samnītēs, -ium, m pl - самнити
+  Caudinī, -ōrum, m pl - каудини
 
 Celta, -ae, m - келт
 Celtae, -ārum, m pl - келти
-Senonēs, -um, m pl - сенони
+
+Gothus, -ī, m - гот
+Gothī, -ōrum, m pl - готи
+Visigothus, -ī, m - визигот
+Visigothī, -ōrum, m pl - визиготи
 
 Numida, Numidae, f - нумидиец, номад
 Nomas, Nomadis, m - нумидиец, номад

@@ -16,8 +16,12 @@ Antium, -ī, n - Антиум
 Caere, indecl, n - Кере, Цере, Кисра, Кайсра, Агила
 Cūmae, -ārum, f pl - Куме
 Capua, -ae, f - Капуа
+Casilīnum, -ī, n - Казилинум (дн. част от Капуа)
 Cāiēta, -ae, f - Гаета
 Lilybaeum, -ī, n - град Лилебеум (дн. Марсала)
+Tauromenium, -ī, n - Тауромениум (дн. Таормина)
+Agrigentum, -ī, n - Агригентум (дн. Агригенто)
+Catina, -ae, f - Катина (дн. Катана)
 Drepanum, -ī, n - Дрепана (дн. Трапани)
 Segesta, -ae, f - Сегеста
 Acesta, -ae, f - Акеста, Сегеста
@@ -39,6 +43,18 @@ Faleriī, -ōrum, m pl - Фалерии (дн. Чивита Кастелана)
 Sūtrium, -ī, n - Сутриум (дн. Сутри)
 Velītrae, -ārum, f pl - Велитре (дн. Велетри)
 Praeneste, -is, n - Пренест (дн. Палестрина)
+Faesulae, -ārum, f pl - Фесуле (дн. Фиезоле)
+Arīminum, -ī, n - Ариминум
+Arpīnum, -ī, n - Арпинум (дн. Арпино)
+Fregellae, -ārum, f pl - Фрагеле
+Caudium, -ī, n - Каудиум (дн. Монтесаркио)
+Sālernum, -ī, n - Салернум (дн. Салерно)
+Canusium, -ī, n - Канизиум (дн. Каноза)
+Cannae, -ārum, f pl - Кана
+Venusia, -ae, f - Венузия (дн. Веноза)
+Beneventum, -ī, n - Беневентум (дн. Беневенто)
+Nola, -ae, f - Нола
+Neāpolis, -is, f - Неапол в Италия, Кавала в Гърция, Набеул в Тунис, Наблус в Палестина, Симферопол в Крим
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
@@ -96,6 +112,8 @@ Ascalōn, -ōnis, f - Ашкелон
 Karthagō/Carthagō, -inis, f - Картаген
 Utica, -ae, f - Утика
 Scillium, -ī, n - Сцилиум, Схеле
-
-Cannae, -ārum, f pl - Кана
+Hadrūmētum, -ī, n - Хадруметум (дн. Сус)
+Clypea, -ae, f - Клипеа
 Zama, -ae, f - Зама
+
+Alexandrīa, -ae, f - Александрия

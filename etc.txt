@@ -2,6 +2,7 @@ frāter germānus - кръвен брат, пълен брат
 lapis albus - мрамор
 sēnsus commūnis - common sense
 capite pūnīre - екзекутирам
+capitis damnāre - осъждам на смърт
 fratris filius, sorōris fīlius - племенник
 iter facere - пътувам
 ōvum frictum - яйце на очи
@@ -31,6 +32,8 @@ sanguinem mittere - пускане на кръв, древна практика 
 mentiōnem facere - споменавам
 honōris causā - в чест на
 in diēs - с дните, ден по ден, всеки ден
+in diēs (comp) - всеки ден по-
+cotidiē (comp) - всеки ден по-
 in malam rem - към смъртта
 magnīs itineribus - бързо
 nōn sōlum ... sed etiam - не само че ..., но и
@@ -180,7 +183,6 @@ signa movēre - движа армията, обявявам поход
 sēdem capere - сядам
 locum fīnīre - ограничавам, определям границите
 dē integrō - отново
-pācem parere - сключвам мир
 morēs alicui referre - държа се като някого, наподобавам някого
 vās ēscārium - домакински съд
 vās ligneum - каца, варел
@@ -337,6 +339,11 @@ vīvus vidēnsque - жив и адекватен, жив и с всичкия с
 placēre ut/nē - решено е
 Sūtrium īre - тръгвам подготвен (букв. отивам към Сутриум, от успешната военна кампания на Марк Фурий Камил)
 honōrem dēferre - отдавам почести
+rēctum aspicere - гледам напред
+
+domī - вкъщи, вътре
+humī - на земята, на пода
+rūrī - в провинцията
 
 pars ... pars ... - едни ..., други ...
 
@@ -361,6 +368,8 @@ spatula porcina - свински бут
 ante omnia - преди всичко
 ante litteram - преди да има наименование
 
+pācem parere - сключвам мир
+pācem solvere - нарушавам мир
 bellum gerere - водя война
 bellum īnferre (+dat) - воювам (с)
 bellum movēre/commovēre - водя война
@@ -546,4 +555,5 @@ amābō tē - моля (букв. ще те обикна)
 
 Ȳ, ȳ
 а̀ ѐ ѝ о̀ у̀
+а́ е́ и́ о́ у́
 ā̆ ī̆

@@ -16,7 +16,7 @@ Plīnius, -ī, m - Плиний
 Pompëius, -ī, m - Помпей
 Scipiō, -ōnis, m - Сципион
 Septimius, -ī, m - Септимий
-Servīlius, -ī, m - Сержилий
+Servīlius, -ī, m - Сервилий
 Sosius, -ī, m - Сосий
 Subrius, -ī, m - Субрий
 Sulpicius, -ī, m - Сулпиций
@@ -44,4 +44,15 @@ Turpiliānus, -ī, m - Турпилиан
 Gāvius, -ī, m - Гавий
 Flāvius, -ī, m - Флавий
 Mānlius, -ī, m - Манлий
-Furius, -ī, m - Фурий
+Fūrius, -ī, m - Фурий
+Aurēlius, -ī, m - Аврелий
+Cornēlius, -ī, m - Корнелий
+Lārcius, -ī, m - Ларций
+Cassius, -ī, m - Касий
+Claudius, -ī, m - Клавдий
+Genūcius, -ī, m - Генуций
+Caecilius, -ī, m - Цецилий
+Papīrius, -ī, m - Папирий
+
+
+Albīnus, -ī, m - Албин

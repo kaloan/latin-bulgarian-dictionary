@@ -45,6 +45,8 @@ ferculum, -ī, n - гозба, ястие
   cūpēdia/cūpīdia/cuppēdia, -ōrum, n pl - лакомства
   scrūtillus, -ī, m - вид наденица
   lac/lacte, lactis, n - мляко, кърма
+    serū, indecl, n - суроватка, водниста течност, серум
+    serum, -ī, n - суроватка, водниста течност, серум
     cramum, -ī, n - сметана, каймак?
     būtȳrum, -ī, n - масло
     cāseus, -ī, m - сирене, кашкавал
