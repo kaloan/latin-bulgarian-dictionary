@@ -30,7 +30,7 @@ Italicus - италийски, апенински
 Italus - италиански
 Iūdaeus - юдейски
 Iūdaicus - юдейски
-Karthāginiēnsis - картагенски
+Karthāginiēnsis/Carthāginiēnsis - картагенски
 Latīnus - латински
 Libycus - либийски, северноафрикански
 Lūsītānus - лузитански, т.е. португалски
@@ -62,6 +62,7 @@ Collātīnus - колацински
 Hibēricus - иберийски (испански), иберийски (грузински)
 Armeniacus/Armenicus - арменски
 Sūtrīnus/Sūtrius - сутрийски
+Helvētius - хелветски
 
 Macedō, -onis - македонски
 

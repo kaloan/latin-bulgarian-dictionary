@@ -60,12 +60,28 @@ Senonēs, -um, m pl - сенони
 Macedōnēs, -um, m pl - македонци
 Umbrī, -ōrum, m pl - умбри
 Bruttiī, -ōrum, m pl - брути
-Sālentīnī, -ōrum, m pl - салентини
+Sālentīnī/Sallentīnī, -ōrum, m pl - салентини
+Tarentinī, -ōrum, m pl - тарентини
+Lūcānī, -ōrum, m pl - лукани
+Pīcēntēs, -ium, m pl - пицени
+Brundisīnī, -ōrum, m pl - брундизийци
+Tauromenītānī, -ōrum, m pl - тауроменитани
+Catinēnsēs, -ium, m pl - катинанци
+Siculī, -ōrum, m pl - сицилийци
+Syrācūsānī, -ōrum, m pl - сиракузци
 Samnītēs, -ium, m pl - самнити
   Caudinī, -ōrum, m pl - каудини
+Helvetiī, -ōrum, m pl - хелвети
+Ligurēs, -um, m pl - лигури
+Sardiniēnsēs, -ium, m pl - сардинци
+Sardī, Sardōrum, m pl - сардинци
+Illyriī, -ōrum, m pl - илири
+Lacedaemoniī, -ōrum, m pl - лакедемонци (т.е. спартанци)
 
+Gallī, -ōrum, m pl - гали
 Celta, -ae, m - келт
 Celtae, -ārum, m pl - келти
+Īnsubrēs, -um, m pl - инсубри
 
 Gothus, -ī, m - гот
 Gothī, -ōrum, m pl - готи

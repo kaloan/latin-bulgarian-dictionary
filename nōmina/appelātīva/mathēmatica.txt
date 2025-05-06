@@ -20,6 +20,7 @@ magnitūdō, magnitūdinis, f - размер, величина
 superficiēs, superficiēī, f - повърхнина, повърхност
 fūnctiō, -ōnis, f - изпълнение, изпълняване, съблюдение, фунцкия
 gradus, -ūs, m - градус (мярка за ъгъл)
+clima, -ae, f - наклон
 
 digitus, -ī, n - цифра
 numerus, -ī, m - число

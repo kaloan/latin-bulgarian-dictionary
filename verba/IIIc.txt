@@ -205,7 +205,7 @@ cadere, cecidisse, cāsum - падам, изпадам, отпадам, губя
 discere, didicisse - уча се
   dēdiscere, dēdidicisse - отучвам се, забравям
   ēdiscere, edidicisse - наизустявам
-trahere, trāxisse, tractum - влача, тегля, мъкна
+trahere, trāxisse, tractum - влача, тегля, мъкна, извличам, плячкосвам, удължавам, обмислям, грабвам внимание, получавам подкрепа, убеждавам
   abstrahere - отвличам, завличам, отмъквам, отвеждам
   attrahere - довлача, дотегля, домъкна
   contrahere - притеглям, придърпвам, увличам, сбръчквам, свивам, съкръщавам
@@ -253,9 +253,9 @@ agere ut (+coni) - стремя се да, целя се да
   circumagere, circumēgisse, circumāctum - въртя се, извъртам се, развеждам, разстройвам, разколебавам
   exigere, exēgisse, exāctum - издействам, извърша, изпълнявам, пъдя, изискам, налагам, меря, събирам данъци, понасям, определям, изпитвам
   peragere, perēgisse, perāctum - извършвам, довършвам, свършвам
-  redigere, redēgisse, redāctum - връщам, намалявам, свеждам (преносно), събирам
+  redigere, redēgisse, redāctum - връщам, намалявам, свеждам (преносно), събирам, прибирам
   subigere, subēgisse, subāctum - минавам под, ора, остря, подострям, подчинявам, побеждавам, подбуждам, заставям
-  transigere, transēgisse, transāctum - извършвам, приключвам, промушвам, прекарвам време, преминавам (за време), слагам край
+  transigere, transēgisse, transāctum - извършвам, приключвам, промушвам, прекарвам време, (за време/събитие) преминавам, слагам край
 pāscere, pāvisse, pāstum - паса (водя животни), храня, насищам, гоя
   compāscere - паса животни заедно
   dēpāscere - паса (водя животни)
@@ -303,7 +303,7 @@ tinguere, tinxisse, tinctum - намокрям, топвам
 stinguere, stinxisse, stinctum  - гася, унищожавам
   exstinguere, еxstinxisse, exstinctum - угасявам, убивам, унищожавам
   restinguere, restinxisse, restinctum - изгасявам, убивам, унищожавам
-tendere, tetendisse, tentum/tēnsum - опъвам, опвам, дърпам, напрягам, насочвам оръжие (от опъвам тетивата), пъна се, напрягам се, запътил съм се
+tendere, tetendisse, tentum/tēnsum - опъвам, опвам, дърпам, напрягам, насочвам оръжие (от опъвам тетивата), пъна се, напрягам се, запътя се
   attendere, attendisse, attentum - насочвам внимание, внимавам, грижа се
   contendere, contendisse, contentum - натягам, настройвам струнен музикален инструмент, шири се, пътувам, боря се, придвижвам се, опъвам (лък), напрягам се
   detendere, detendisse, detentum - отхлабвам, свивам военния лагер (подготвям се за поход)
@@ -430,7 +430,7 @@ frangere, frēgisse, frāctum - чупя, пречупя, дробя, ломя
   dēfringere - отчупвам, раздробявам, кърша, сломявам, унищожавам
   diffringere - разчупвам, раздробявам, разбивам
   effringere - отчупвам, счупвам
-  īnfringere - отчупвам, отслабвам, намалявам
+  īnfringere - отчупвам, отслабвам, намалявам, (за воля/дух) пречупвам
   offringere - разривам
   perfringere - разчупвам, пречупвам
   praefringere - чупя края на нещо, почупя
@@ -581,7 +581,7 @@ lūdere, lūsisse, lusum - играя
   illūdere - подиграя, гавря се, надсмивам се
 tangere, tetigisse, tāctum - докосвам, пипам
   attingere, attigisse, atttēctum - докосвам, допирам, гранича, вкусвам, достигам
-  contingere, contigisse, contāctum - допирам,  достигам, окажа, случвам се
+  contingere, contigisse, contāctum - допирам,  достигам, окажа
   obtingere, obtigisse - докосвам, попадам, случвам се
 regere, rēxisse, rēctum - владея, управлявам, направлявам, насочвам
   corrigere, corrēxisse, corrēctum - изправям, поправям, коригирам, лекувам, излекувам, церя, изцерявам
@@ -737,8 +737,8 @@ calēscere, caluisse - топля се, грея се, загрявам се, в
   incalēscere - стоплям се, сгрявам се
 pavēscere, pavisse - изплашвам се, страхувам се от
   expavēscere, expavisee - ужасявам се, ужасявам се от, потресавам се
-labascere, ??? - разпадам се, колебая се
-  collabascere, ??? - клатушкам се, клатя се
+labāscere, ??? - разпадам се, колебая се
+  collabāscere, ??? - клатушкам се, клатя се
 molere, moluisse, molitum - меля, стривам
   ēmolere - измеля, стривам
 mandere, mandisse, mānsum - дъвча, мляскам, ям
