@@ -1,6 +1,12 @@
+sophia, -ae, f - мъдрост
 sophus, -ī, m - мъдрец
+philosophia, -ae, f - философия
 philosophus, -ī, m - философ
 sapiēns, sapientis, m - мъдрец, философ
+Solō, Solōnis, m - Солон
+Pȳthagorās, -ae, m - Питагор
+Empedoclēs, -is, m - Емпедокъл
+Dēmocritus, -ī, m - Демокрит
 Sōcratēs, -is, m - Сократ
 Platō, -ōnis, m - Платон
 Aristotelēs, -is, m -Аристотел
@@ -8,7 +14,10 @@ Epicūrus, -ī, m - Епикур
 Empedoclēs, -is, m - Емпедокъл
 Phaedōn, -ōnis, m - Федон Елийски
 Xenophōn, -ōntis, m - Ксенофонт
+Zēnō, Zēnōnis, m - Зенон
 
+astrologus, -ī, m - астролог, астроном
+astrologia, -ae, f - астрология, астрономия
 
 Stōa, -ae, f - Стоа, Стоицизъм
 Stōicus, -ī, m - Стоик

@@ -32,6 +32,10 @@ hinnulus, -ī, m - катърче
 onager, onagrī, m - азиатско диво магаре
 rhīnoceros, -ōtis, m - носорог, човек с дълъг нос
 aquila, -ae, f - орел
+accipiter, accipitris, m - ястреб, чучулигар, (преносно) граблив човек
+astur, -is, m - ястреб
+epilēus, -ī, m - чучулигар
+falcō, falcōnis, m - сокол, (преносно) човек с извити навътре пръсти на краката
 vultur, -is, m - лешояд
 columba, -ae, f - гълъб
 hirundō, hirundinis, f - лястовица
@@ -177,7 +181,6 @@ strīx, strīcis, f - кукумявка, забулена сова, (прено
 ulula, -ae, f - госка улулица
 parra, -ae, f - креслива птица смятана за лоша поличба (вероятно забулена сова или папуняк)
 upupa, -ae, f - папуняк
-aquilla, -ae, f - орел
 larus, -ī, m - чайка
 hairō, hairōnis, m - чапла
 truō, truōnis, m - морска птица с едра човка (вероятно корморан)

@@ -132,6 +132,7 @@ victōriā īnsignī potīrī - побеждавам
 sē cōnferre - движа се, пътувам, нося се
 manūs īnferre (+dat) - ранявам
 (diem suprēmum) obīre - умирам (преминавам последния си ден)
+mortem obīre - умирам
 forīs et domī - в чужбина и в родината
 mīlitiae - по време на война, на война
 domī mīlitiaeque - в мир и във война
@@ -344,6 +345,12 @@ hostem cònficere - требя враг
 admirātiōne tenerī (+gen) - имам почит (към)
 in fidem accipere - приемам предадено
 in catēnās conicere - турям вериги/окови
+coniectūram facere - допускам, правя заключение
+inter omnēs constāre - съгласувам се с всички
+memoriae trādere/mandāre - оставям сведения
+praecipitem dare - мятам, хвърлям (с главата напред)
+vitā fungī - умирам
+īnsuper habēre - презирам, гледам извисоко
 
 domī - вкъщи, вътре
 humī - на земята, на пода
@@ -558,6 +565,9 @@ iēiūna cavea - празно черво
 clāvis trochī - подобен на ключ инструмент, с чиято помощ се завъртал пумпал
 
 amābō tē - моля (букв. ще те обикна)
+
+aurōra boreālis - (букв. северна светлина) Серерното сияние
+aurōra austrālis - (букв. южна светлина) Южното сияние
 
 ut - решено е от сената да
 

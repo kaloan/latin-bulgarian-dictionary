@@ -1,14 +1,22 @@
+Lūcius Līvius Andronīcus - Луций Ливий Андроник, живял III век пр. Хр., баща на римската литература, превежда Одисеята и създава първите латински пиеси
 Quīntus Fabius Pictor - Квинт Фабий Пиктор, сенатор и римски историк от III век пр. Хр.
 Saevius Nicanor - Севий Никанор, първият известен граматик сред римляните
-Menippus, -ī, m - Менип
-Titus Maccius Plautus - Тит Макций Плавт
+Mārcus Porcius Catō Cēnsōrius - Марк Порций Катон Цензор, един от първите пишещи на латински писатели, известен със строгостта си цензор, противник на елинизацията на римската култура
+Titus Maccius Plautus - Тит Макций Плавт, комик
+Quīntus Ennius - Ений, поет от III-II век пр. Хр., баща на римската поезия
+Caecilius - Цецилий, комик
+Pūblius Terentius Āfer - Теренций, трагик
+Mārcus Pācuvius - Пакувий, комик
+Lūcius Accius - Акций, трагик
+Gāius Lūcīlius - Гай Луцилий, сатирик
+Lūcius Cassius - Луций Касий, историк от II век пр. Хр.
 Pūblius Ovidius Nāsō - Овидий
 Gāius Valerius Catullus - Катул
 Mārcus ­Valerius Mārtiālis - Марциал
-Pūblius Terentius Āfer - Теренций
 Mārcus Terentius Varrō - Варон Реатински
 Pūblius Terentius Varrō Atacinus - Варон Атацин
 Pūblius Vergilius Marō - Вергилий
+Cornēlius Nepōs - Корнелий Непот, историк от I век пр. Хр.
 Aulus Fūrius Antiās - Авъл Фурий Антий, поет от I век пр. Хр.
 Mārcus Fūrius Bibaculus - Марк Фурий Бибакул, поет от I век пр.Хр. следващ парливия стил на Катул
 Licinius Calvus - Лициний Калв, поет от средата на I век пр. Хр.
@@ -40,7 +48,15 @@ Titus Līvius - Тит Ливий, историк (59 пр. Хр. - 17 сл. Х�
 Lūcius Iūnius Moderātus Columella - Луций Юнмй Модерат Колумела, пише трактата "За селските дела" по земеделие и градинарство
 Flāvius Eutropius - Флавий Евтропий, римски политик и историк от IV век сл. Хр.
 
-Sophoclēs - Софокъл
+Homērus, -ī, m - Омир, писател/поет
+Hēsiodus, -ī, m - Хезиод, историк
+Archilochus, -ī, m - Архилох, поет
+Thūcȳdidēs, -is, m - Тукидид, историк
+Sophoclēs, -is, m - Софокъл, трагик
+Eurīpidēs, -is, m - Еврипид, трагик
+Hippocratēs, -is, m - Хипократ, лекар
+Menander, Menandrī, m - Менандър, комик
+Menippus, -ī, m - Менип, сатирик
 
 Pūblius Rutilius Lupus - Публий Рутилий Луп, граматик и ретор от началото на I в.
 Postumius Rūfius Fēstus Avienius - Постумий Руфий Фест Авиений, римски писател от IV в.

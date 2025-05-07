@@ -3,7 +3,8 @@ celer, celeris, celere - бърз
 alacer, alacris, alacre - стремителен, деятелен, щастлив, бърз, храбър
 silvester, silvesteris, silvestre - горски, див, необработен, неопитомен
 paluster, palustris, palustre - блатист, мочурлив
-celeber, celebris, celebre - претъпкан, гъсто населен, посещаван, с тълпа, многолюден
+celeber, celebris, celebre - претъпкан, гъсто населен, посещаван, с тълпа, многолюден, славен, знаменит, известен
+  inceleber, incelebris, incelebre - незнаменит, неизвестен
 salūber, salūbris, salūbre - здрав, корав, крепък
 pedester, pedestris, pedestre - пеши, пешеходен, пехотински, обикновен
 

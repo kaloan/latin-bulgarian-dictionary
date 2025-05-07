@@ -3,7 +3,7 @@ Eurōpa, -ae, f - Европа
   Graecia, -ae, f - Гърция
     Arcadia, -ae, f - Аркадия
     Attica, -ae, f - Атика
-    Boeotia, -ae, f - Беотия
+    Boeōtia, -ae, f - Беотия
     Ēpīrus, -ī, f - Епир
     Thessalia, -ae, f - Тесалия
     Peloponnēsus, -ī, m - Пелопонес
