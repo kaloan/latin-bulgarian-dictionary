@@ -52,7 +52,7 @@ iacere -iō, iēcisse, iactum - хвърлям, мятам
   obicere -iō, obiēcisse, obiēctum - противопоставям, опълчвам, срещуполагам
   prōicere -iō, prōiēcisse, prōiēctum - хвърлям напред, падам пред
   rēicere -iō, rēiēcisse, rēiēctum - отхвърлям, отричам
-  trāicere -iō, trāiēcisse, trāiēctum - прехвърлям, промушвам
+  trāicere -iō, trāiēcisse, trāiēctum - прехвърлям (буквално), прехвърлям (превеждам/прoкарвам), промушвам
   subicere -iō, subiēcisse, subiēctum - подлагам, хвърлям под, поставям под, подхвърлям, разкривам, допълвам текст
 fugere -iō, fugisse, fugitum - бягам от някого/нещо, избягвам, чезна
   aufugere -iō, aufugisse - бягам от някого/нещо, изчезвам

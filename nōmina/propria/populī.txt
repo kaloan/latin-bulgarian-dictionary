@@ -78,11 +78,19 @@ Sardī, Sardōrum, m pl - сардинци
 Illyriī, -ōrum, m pl - илири
 Lacedaemoniī, -ōrum, m pl - лакедемонци (т.е. спартанци)
 Thēbānī, -ōrum, m pl - тиванци
+Baleārēs, -ium, m pl - балеарци
+Saguntīnī, -ōrum, m pl - сагунтийци
+Allobrogēs, -um, m pl - алоброги
 
 Gallī, -ōrum, m pl - гали
 Celta, -ae, m - келт
 Celtae, -ārum, m pl - келти
 Īnsubrēs, -um, m pl - инсубри
+Gallaecī, -ōrum , m pl - галици
+Vaccaeī, -ōrum, m pl - вакцеи
+Celtibērī, -ōrum, m pl - келтибери
+Carpetānī, -ōrum, m pl - карпетани
+Olcadēs, -um, m pl - олкади
 
 Gothus, -ī, m - гот
 Gothī, -ōrum, m pl - готи
@@ -91,5 +99,11 @@ Visigothī, -ōrum, m pl - визиготи
 
 Numida, Numidae, f - нумидиец, номад
 Nomas, Nomadis, m - нумидиец, номад
+Massȳlī, -ōrum, m pl - масили
+Massaesȳlī, -ōrum, m pl - масесили
+Gaetūlī, -ōrum, m pl - гетули
+Maurī, -ōrum, m pl - маври (мавританци); маври (мюслюлманите от Северозападна Африка и Испания)
+
+Āfer, Āfrī, m - картагенец (букв. африканец), (по-точно) епитет на Ханибал
 
 Guiānī, -ōrum, m pl - гаянци

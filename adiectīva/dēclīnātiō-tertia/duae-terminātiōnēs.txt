@@ -254,6 +254,7 @@ permeābilis, -is - можещ да се измине/пропътува, про
 cōnsulāris, -is - консулски
 infāmis, -is - безславен, позорен
 nātūrālis, -is - естествен, натурален, натуралистичен
+habilis, -is - умел, можещ, сръчен, пъргав, компетентен, подходящ
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, ежемесечен, менструален
@@ -269,7 +270,21 @@ novemmēstris, -is - деветмесечен
 decemmēstris, -is - десетмесечен
 undecemmēstris, -is - единадесеткесечен, единайсетмесечен
 annālis, -is - годишен, ежегоден
+biennālis, -is - двугодишен
+triennālis, -is - тригодишен
+quadriennālis, -is - четиригодишен
+quīnquennālis, -is - петгодишен
+sexennālis, -is - петгодишен
+septennālis, -is - петгодишен
+octennālis, -is - петгодишен
+novennālis, -is - петгодишен
+decennālis, -is - десетгодишен
+ūndecennium, -is - единайсетгодишен
+duodecennium, -is - дванайсетгодишен
+trēdecennium, -is - тринайсетгодишен
+vīcennālis, -is - двайсетгодишен
 saeculāris, -is - столетен, светски (нецърковен)
+mīllenālis, -is - хилядагодишен
 
 orientālis, -is - източен
 occidentālis, -is - западен
