@@ -355,6 +355,11 @@ vitā fungī - умирам
 capere animō - приемам, възприемам, схващам, осъзнавам
 rem differre - забавям дейност
 in sē convertere - обърщам на своя страна
+dē rē referre (ad senātum) - поставям въпрос за ръзглеждане в сената
+opera dare - давам грижи, давам внимание, внимавам, грижа се за
+operā experīrī - (Древен латински) знам от опит
+unā/eādem operā - по същия начин, действайки еднакво
+aciē - на фронта
 
 domī - вкъщи, вътре
 humī - на земята, на пода
@@ -535,6 +540,7 @@ Ser. (Servius) - Сервий
 Sex. (Sextus) - Секст
 Sp. (Spurius) - Спурий
 T. (Titus) - Тит
+Ti./Tib. (Tiberius) - Тиберий
 HS. (IIS., II sēmisque) - сестерция
 COS (consul) - консул
 AUG (Augustus) - август
