@@ -53,6 +53,7 @@ piscātor, -ōris, m - рибар
 piscātiō, -ōnis, f - риболов
 harundō, -inis, f - въдица
 rēte, rētis, n - рибарска мрежа
+rēticulum, -ī, n - рибарска мрежичка
   nōdī, -ōrum, m pl - рибарска мрежа с възли
   trāgula, -ae, f - трал, драга
   ēverriculum, -ī, n - голяма мрежа, трал

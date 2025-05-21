@@ -9,8 +9,8 @@ pōmum, -ī, n - плод
   mālum aureum - портокал
   (aurantium) clēmentīnum, -ī, n - мандарина
   (mālum) cydōnium/cotōnium/cotōneum, -ī, n - дюля (плод)
-  praecoquium, -ī, n - кайсия (плод) (???)
-  (mālum) armeniacum, -ī, n - кайсия (плод)
+  praecoquium, -ī, n - кайсия/зарзала/зарзалия (плод) (???)
+  (mālum) armeniacum, -ī, n - кайсия/зарзала/зарзалия (плод)
   persica, -ae, f - праскова
   pirum, -ī, n - круша (плод)
   sorbum, -ī, n - скоруша/оскруша (плод), брекина (плод)
@@ -38,7 +38,8 @@ pōmum, -ī, n - плод
   cŭcŭmis, -eris, m - краставица
   olīva, -ae, f - маслина
   fīcus, -ūs, m - смокиня
-  ūva, -ae, f - грозде
+  ūva, -ae, f - грозде, грозд
+  ūvula, -ae, f - гозденце
   palmula, -ae, f - фурма, финик
   caryōta, -ae, f - фурма, финик
   dactylus, -ī, m - фурма, финик

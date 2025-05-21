@@ -197,6 +197,7 @@ quaccola, -ae, f - пъдпъдък
 nīdus, -ī, m - гнездо
 apis, -is, f - пчела
 vespa, -ae, f - оса
+crābrō, -ōnis, m - стършел
 formīca, -ae, f - мравка
 lōcusta, -ae, f - скакалец
 gryllus, -ī, m - щурец, скакалец, карикатура

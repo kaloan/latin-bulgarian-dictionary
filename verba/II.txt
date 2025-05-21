@@ -146,11 +146,12 @@ vidēre, vīdisse, vīsum - виждам, гледам, зра, прозирам
   praevidēre - предвиждам
   prōvidēre - предвиждам, провиждам
   prōvidēre (+dat) - грижа се, подготвям
-miscēre, miscuisse, mixtum - меся
+miscēre, miscuisse, mixtum - меся, бъркам
   admiscēre - добавям, включвам, омеся
   commiscēre - смеся
   immiscēre - вмеся, омеся, смеся
   immiscēre sē (+dat/īnf) - вмеся се, забърквам се, разпръсквам се
+  permiscēre - размеся, смеся, (образно) обърквам/слисвам/сащисвам
   remiscēre - премеся
 monēre, monuisse, monitum - предупреждавам, съветвам, отбелязвам
   admonēre (+gen) - посъветвам (за)

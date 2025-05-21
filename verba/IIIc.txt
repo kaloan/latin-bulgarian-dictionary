@@ -203,7 +203,7 @@ cadere, cecidisse, cāsum - падам, изпадам, отпадам, губя
   dēcidere, dēcidisse - падам надолу, тупвам, потъвам, умирам
   incidere, incidisse (+dat/+in+acc) - падам връз, попадам на, нападам, попадам под нечия власт
   occidere, occidisse, occāsum - падам, залязвам, загивам, умирам, загубен съм, унищожен съм
-  prōcidere, prōcidisse - сривам се, падам по лице
+  prōcidere, prōcidisse - сривам се, срутвам се, събарям се, падам по лице
   recidere, recidisse - случва се, падна се, да пада
 discere, didicisse - уча се
   dēdiscere, dēdidicisse - отучвам се, забравям
@@ -473,6 +473,7 @@ caedere, cecīdisse, caesum - разрязвам, порязвам, поразя
   trucīdere - коля, съсичам, посичам, убивам жестоко, погубвам, унищожавам, разнебитвам
 volvere, volvisse, volūtum - въртя, увивам, въртя се в кръг, търкалям, валям
   advolvere, advolvisse, advolūtum - дотъркалям, въргалям
+  convolvere, convolvisse, convolūtum - търкалям заедно, намотавам, увивам
   ēvolvere, ēvolvisse, ēvolūtum - развивам, отварям книга, разтварям
   involvere, involvisse, involūtum - обвивам, обгръщам
   revolvere, revolvisee, revolūtum - отвъртам, превъртам, премислям
@@ -543,7 +544,7 @@ vādere, vāsisse - стъпвам, втурвам се, ходя
   circumvādere, circumvāsisse - заобикалям, обкръжавам
   ēvādere, ēvāsisse, ēvāsum - изстъпвам, излизам, отбягвам, показвам се, оказвам се, излиза/излезе че, преминавам, катеря ся
   invādere, invāsisse, invāsum - влизам, настъпвам, нахлувам
-  pervādere, pervāsisse, pervāsum - престъпя, разпръскам, разпространя
+  pervādere, pervāsisse, pervāsum - престъпя, разпръскам, разпространявам, обхващам, обземам
 pellere, pepulisse, pulsum - гоня, не допускам, държа извън, пъдя, тласкам, удрям
   appellere, appulisse, appulsum - добутам, акостирам, дебаркирам, приземявам
   aspellere, aspulisse, aspulsum - гоня, премахвам, отстранявам
@@ -678,6 +679,7 @@ tegere, tēxisse, tēctum - покривам, прикривам
 cingere, cīnxisse, cīnctum - заобикалям, увивам се, слагам колан, навивам
   accingere - препасвам, обгръщам, слагам колан, слагам чанта през рамо/на гръб, въоръжавам се (от слагам колана с ножницата)
   recingere - развивам, разхлабвам, развръзвам, пренавивам
+  succingere - опасвам, препасвам, подготвям за действие
 rēpere, rēpsisse, rēptum[това е непреходен глагол, защо има супин???] - лазя, пълзя, пъпля, промъквам се
   irrēpere - припълзя, проявявам се постепенно, разпространявам се протяжно, намеквам
   obrēpere - промъквам се, припълзявам, изненадвам

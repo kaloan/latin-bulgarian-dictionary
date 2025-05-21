@@ -27,3 +27,5 @@ lardum, -ī, n - бекон
   album, -ī, n - белтък
   vitellus, -ī, m - жълтък
   vitellum, -ī, n - жълтък
+
+spatula porcīna - свински бут
