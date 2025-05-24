@@ -7,5 +7,6 @@ celeber, celebris, celebre - претъпкан, гъсто населен, по
   inceleber, incelebris, incelebre - незнаменит, неизвестен
 salūber, salūbris, salūbre - здрав, корав, крепък
 pedester, pedestris, pedestre - пеши, пешеходен, пехотински, обикновен
+equester, equestris, equeste - коннически, кавалерийски
 
 anōmalos, anōmala, anōmalon - аномален, неправилен, особен, изключителен
