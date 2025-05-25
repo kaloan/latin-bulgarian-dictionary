@@ -86,3 +86,4 @@ tempestās, -atis, f - буря, стихия
   tonitrus, -ī, m - гръмотевица, тътен
   fulgur, -is, n - светкавица
   fulmen, -inis, n - мълния, светкавица, проблясък
+mōtus terrae - земетресение

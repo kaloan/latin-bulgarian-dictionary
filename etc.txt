@@ -53,7 +53,6 @@ prasidia pōnere - поставам укрепления
 fugam temptāre - опитвам да избягам
 fugam capere - бягам
 ad diem - навреме (букв. на деня)
-ab urbe conditā - от построения град, т.е. от създаването на Рим
 adversa fortūna - лоша съдба
 inmātūra mors - преждевременна смърт
 causam agere - защитавам
@@ -357,6 +356,7 @@ quātenus est (+subj) - има праг на
 praeter spem - без надежда (?)
 sub idem tempus - почти по едно и също време
 omitte (+īnf) - не говори за (нещо), пропосни (нещо), прескочи (нещо)
+certum habēre - знам съм сигурност
 
 dē rē referre (ad senātum) - поставям въпрос за ръзглеждане в сената
 senātum alicui dare - давам думата в сената някому
@@ -552,13 +552,14 @@ Sp. (Spurius) - Спурий
 T. (Titus) - Тит
 Ti./Tib. (Tiberius) - Тиберий
 HS. (IIS., II sēmisque) - сестерция
-COS (consul) - консул
-AUG (Augustus) - август
+cōs (cōnsul) - консул
+Aug (Augustus) - Aвгуст
 
 s. d. (salutem dīcit) - поздравявам
 a. C. (ante Chrīstum) - преди Христа
 p. C. (post Chrīstum) - след Христа
-a. d. (annō Domimī) - в летото Господне
+a. d. (annō Dominī) - в летото Господне
+a.u.c. (ab urbe conditā) - от построения град, т.е. от създаването на Рим
 
 "abstrahit (me) sermonis egestas" = the poorness of the language stops me
 

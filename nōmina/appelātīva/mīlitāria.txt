@@ -59,6 +59,7 @@ bellātor, -ōris, m - воин, борец, войник
   tīrō, tīrōnis, m - новобранец
 exercitus, -ūs, n - войска, армия
   peditātus, -ūs, m - пехота
+    levis armātūra, -ae, f - лека пехота
   equitātus, -ūs, m - конница, кавалерия, езда
 cānabae/cannabae, -ārum, f pl - военен лагер
 castellum, -ī, n - замък, цитадела
@@ -79,6 +80,7 @@ castra, -ōrum, n pl - укрепление, военен лагер, стан
   statīva, -ōrum, n pl - военна база, постоянен военен лагер
   carrāgō, -inis, f - барикада от каруци
 arma, -ōrum, n pl - оръжие
+armātūra, -ae, f - въоръжение, снаряжение, доспехи
   mucrō, -ōnis, m - острие, връх
   gladius, -ī, m - меч
   ēnsis, -is, m - меч, (образно) война, (метонимично) съзвездието Орион

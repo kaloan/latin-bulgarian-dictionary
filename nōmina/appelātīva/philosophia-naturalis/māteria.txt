@@ -56,7 +56,8 @@ pasta, -ae, f - паста
 pix, picis, f - катран, зифт
 ammōniacum, -ī, n - амоняк
 sulpur/sulphur, -is, n - сяра
-  sulphur vīvum
+  sulphur vīvum -
+pūmex, pūmicis, f - пемза
 
 electricitās, -ātis, f - електричество
 electrismus, -ī, m - електричество

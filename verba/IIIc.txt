@@ -103,6 +103,7 @@ findere, fidisse, fissum - ломя, троша, цепя, деля
 celebrēscere, -(!) - прославям се
 cluere, -(!) - чистя, прочистя
 vergere, versisse - свивам, завивам, накланям, наклонен съм, под наклон съм, намирам се,
+patēscere, patuisse - открехвам се, отварям се, бивам открит, бивам разкрит, изяснявам се
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -492,6 +493,7 @@ fīdere, fīsum (+dat) - вярвам (на)
   diffīdere (+dat) - не вярвам (на)
 fundere, fūdisse, fūsum - пълня, лея, обръщам в бягство, надвивам
   cōnfundere - смесвам, сливам, омешвам, развълнувам, обърквам, разбърквам
+  circumfundere - обливам, тълпя се, обкръжавам
   effundere - изливам, изпразвам
   īnfundere - пълня, вливам
   perfundere - прелея, изпълвам, развълнувам, вдъхновявам
@@ -596,7 +598,8 @@ regere, rēxisse, rēctum - владея, управлявам, направля
   ērigere, ērēxisse, ērēctum - възбуждам, одързостявам, издигам, виря
   pergere, perrēxisse, perrēctum - продължавам, навлизам, ида
   porrigere, porrēxisse, porrēctum - подавам, предлагам, разпростирам
-  surgere, surrēxisse, surrēctum - ставам
+  surgere, surrēxisse, surrēctum - ставам, изправям се
+    assurgere, assurrēxisse, assurrēctum - ставам, изправям се, издигам се, извисявам се, набъбвам, набирам се, възбуждам се, въодушевявам се
     cōnsurgere, cōnsurrēxisse, cōnsurrēctum - ставаме заедно, нападам из засада
     exsurgere, exsurrēxisse, exsurrēctum - ставам, изправям се, възстановявам се
     resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам
@@ -690,6 +693,7 @@ scindere, scidisse, scissum - късам, режа, нарязвам, късам
   cōnscindere - срязвам, посичам
   discindere - разкъсвам, разрязвам
   exscindere - сривам до основи, избивам
+  rescindere - отрязвам, разглобявам, унищожавам, анулирам
 spuere - плюя
   cōnspuere - оплюя
   exspuere - изплюя

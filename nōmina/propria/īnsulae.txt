@@ -6,7 +6,7 @@ Ortygia, -ae, f - Ортигия
 Aeolia, -ae, f - Еолийски острови
 Aegātēs, -ium, m pl - Егади, Егадските острови
 
-Baleārēs, -ium, m pl - Балеарските острови
+Baleārēs/Baliārēs, -ium, m pl - Балеарските острови
   Maiorca, -ae, f - Майорка
   Minorca, -ae, f - Менорка
   Pityūsae, -ārum, f pl - Питуиски острови
