@@ -16,6 +16,7 @@ Quirinalis, -is, n - Квиринал
 Aetna, -ae, f - Етна
 Eryx, Erycis, m - Ерикс, Ериче, Еричи
 Algidus, -ī, m - Алгид
+Callicula, -ae, f - Каликула (малка планина в Кампания)
 
 Pachȳnus, -ī, m - нос Пахинум, нос Пасеро
 Pachȳnum, -ī, n - нос Пахинум, нос Пасеро

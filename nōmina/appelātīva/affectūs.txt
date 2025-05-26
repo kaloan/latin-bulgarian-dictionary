@@ -34,6 +34,7 @@ officium, -ī, n - задължение (морално), задължение (
 ōtium, -ī, n - спокойствие, безгрижие, мир, свободно време
 negōtium, -ī, n - заетост, действане
 patientia, -ae, f - търпение
+impatientia, -ae, f - нетърпение
 tranquillitās, -ātis, f - спокойствие
 laetitia, -ae, f - радост
 trīstitia, -ae, f - тъга
