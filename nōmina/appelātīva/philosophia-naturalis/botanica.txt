@@ -120,6 +120,7 @@ herba, -ae, f - трева, билка, растение
   lolium, -ī, n - райграс
   agrōstis, -idis, f - пирей, пълзяй пирей, житник
   persollāta, -ae, f - репей
+  seneciō, -ōnis, m - спореж, кръстец
   trifolium, -ī, n - детелина, трефа
   glastum, -ī, n - сърпица (Isatis tinctoria)
   īsatis, īsatidis, f - сърпица (Isatis tinctoria)

@@ -42,6 +42,8 @@ cunīculus, -ī, m - мина, тунел, галерия
   salītae, -ārum, f - со̀лник, со̀лница
   fodīna, -ae, f - рудник, мина
   metallum, -ī, n - метален рудник
+lapidicīnae/lapicīdīnae, -ārum, f pl - кариера, каменоломна
+  cōtōria, -ae, f - кариера за камък за точила
 vallis, -is, f - долина, долчина, падина, низина, котловина, урва
 vallicula/vallēcula, -ae, f - долинка, клисура
 convallis, -is, f - тясна долина, пролом, дефиле

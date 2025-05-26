@@ -17,6 +17,7 @@ Ticinus, -ī, m - Тичино
 Tagus, -ī, m - Тахо
 Tīcīnus, -ī, m - Тичино
 Aufidus, -ī, m - Офанто
+Allia, -ae, f - Алия
 
 Ēridanus, -ī, m - По (по римски), Еридан (по гръцки)
 Asopus, -ī, m - Азоп
