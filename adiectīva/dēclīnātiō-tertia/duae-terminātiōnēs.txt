@@ -101,8 +101,8 @@ līberālis, -is - щедър, почтен, достоен
 illīberālis, -is - лаком, непочтен, подъл
 hilaris, -is - весел, жизнерадостен
 optābilis, -is - желателен
-tolerābilis, -is - поносим
-intolerābilis, -is - непоносим
+tolerābilis, -is - поносим, търпим
+intolerābilis, -is - непоносим, нетърпим
 memorābilis, -is - паметен, забележителен
 variābilis, -is - променлив
 satis, -is - достатъчен

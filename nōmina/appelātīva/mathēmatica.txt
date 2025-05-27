@@ -26,6 +26,7 @@ analysis, -ī, n - анализ
 
 digitus, -ī, n - цифра
 numerus, -ī, m - число
+dīmidium, -ī, n - половина
 ūniō, ūniōnis, f - единица
 dyas, dyadis, f - двойка, двоица
 bīniō, bīniōnis, m - двойка, двоица, две

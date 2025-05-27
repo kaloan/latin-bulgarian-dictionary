@@ -105,6 +105,7 @@ rīdēre, risisse, risum - смея се
   dērīdēre - надсмивам се
   irrīdēre - присмивам се
 terrēre, terruisse, territum - плаша
+  absterrēre - изплашвам, сплашвам, наплашвам, обезсърчавам
   conterrēre - изплаша
   dēterrēre - сплашвам, възпирам
   exterrēre - изплаша
