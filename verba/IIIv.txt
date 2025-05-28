@@ -1,4 +1,5 @@
 facere -iō, fēcisse, fаctum - правя, върша
+  abolēfacere, abolēfēcisse, abolēfactum - заличавам, унищожавам, премахвам, отстранявам
   aedificāre (!!!), aedificāvisse, aedificātum - съграждам, изграждам, строя, създавам
   amplificāre (!!!), amplificāvisse, amplificātum - уголемявам, усилвам, разраствам, възхвалявам, величая
   beātificāre (!!!), beātificāvisse, beātificātum - ощастливявам, зарадвам, възрадвам, правя блажен, благославям, беатифицирам
@@ -76,18 +77,18 @@ specere/spicere -iō, spexisse, spectum - гледам, виждам, зра
 apere -iō, apisse, aptum - захващам, свързвам, вприпчвам
   coēpere -iō, -(!), -(!) - (Древен латински) захващам се (преносно), започвам, начевам, предприемам
   coepere -iō, coepisse, coeptum - (Късен латински) понечвам, захващам/залавям се (преносно), подхващам, започвам, начевам, предприемам
-capere -iō, cepisse, captum - хващам, грабвам, държа, пленявам
-  accipere -iō, accepisse, acceptum - взимам, получавам, приемам (буквално), приемам (преносно), допускам, научавам/разбирам за, понасям, възприемам, тълкувам, занимавам/развличам гости, занимавам се, справям се
-  dēcipere -iō, dēcepisse, dēceptum - мамя
-  excipere -iō, excepisse, exceptum - вадя, премахвам, изключвам, пропускам
-  incipere -iō, incepisse, inceptum - започвам
-  intercipere -iō, intercepisse, interceptum - прихващам, прекъсвам, потушавам (преносно), крада
+capere -iō, cēpisse, captum - хващам, грабвам, държа, пленявам
+  accipere -iō, accēpisse, acceptum - взимам, получавам, приемам (буквално), приемам (преносно), допускам, научавам/разбирам за, понасям, възприемам, тълкувам, занимавам/развличам гости, занимавам се, справям се
+  dēcipere -iō, dēcēpisse, dēceptum - мамя
+  excipere -iō, excēpisse, exceptum - вадя, премахвам, изключвам, пропускам
+  incipere -iō, incēpisse, inceptum - започвам
+  intercipere -iō, intercēpisse, interceptum - прихващам, прекъсвам, потушавам (преносно), крада
   occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям, окупирам
-  praecipere -iō, praecepisse, praeceptum - ръководя, предвождам, заповядвам, назидавам, напътствам, наставлявам, очаквам, взимам предварително
-  recipere -iō, recepisse, receptum - приемам, връщам си
+  praecipere -iō, praecēpisse, praeceptum - ръководя, предвождам, заповядвам, назидавам, напътствам, наставлявам, очаквам, взимам предварително
+  recipere -iō, recēpisse, receptum - приемам, връщам си
   recipere sē - връщам се
     reciperāre/recuperāre - връщам, възвръщам, възстановявам
-  suscipere -iō, suscepisse, susceptum - гледам нагоре, възхищавам се, потвърждавам, услужвам, подкрепям, приемам (обект), приемам (обичаи/религия), поддавам се, понасям, подемам
+  suscipere -iō, suscēpisse, susceptum - гледам нагоре, възхищавам се, потвърждавам, услужвам, подкрепям, приемам (обект), приемам (обичаи/религия), поддавам се, понасям, подемам
 rapere -iō, rapuisse, raptum - грабя, отмъквам, отвличам, изнасилвам
   abripere -iō, abripuisse, abreptum - ограбя, обирам
   arripere -iō, arripuisse, arreptum - заграбя

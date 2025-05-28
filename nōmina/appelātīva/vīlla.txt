@@ -206,7 +206,7 @@ columella, -ae, f - колонка, стълбче, дирече
 columen, -inis, n - колона, стълб, дирек
 tēctum, -ī, n - покрив, таван, подслон, заслон, навес
 solum, -ī, n - под
-crepundia, -ōrum, n pl - залагалка
+crepundia, -ōrum, n pl - кречетало, дрънкалка, залагалка (?)
 pūpa, pupae, f - кукла
 turbō, turbinis, m - пумпал, спирала, колело, въртене
 pila, -ae, f - топка
