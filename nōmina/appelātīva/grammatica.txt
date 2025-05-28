@@ -3,6 +3,7 @@ synōnymum, -ī, n - синоним
 antonymum, -ī, n - антоним
 sententia, -ae, f - изречение, мисъл, идея
   vocābulum, -ī, n - дума
+    thema, thematis, n - корен (на дума)
     syllaba, -ae, f - сричка
       vōcālis, -is, f - гласна
       cōnsonāns, -antis, f - съгласна

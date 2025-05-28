@@ -37,5 +37,10 @@ Leucadia, -ae, f - Левкада, Лефкада
 Cyprus, -ī, f - Кипър
 Salamīs, Salamīnos, f - Саламин
 
+Hibernia, -ae, f - Хиберния, Ирландия
+Iūverna/Iūberna, -ae, f - Ирландия
+Iverna/Ierna, -ae, f - Ирландия
+Iernē, Iernēs, f - Ирландия
+
 Formosa, -ae, f - Формоза, Тайван
 Taivania, -ae, f - Тайван, Формоза

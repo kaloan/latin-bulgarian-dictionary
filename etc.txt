@@ -406,6 +406,7 @@ ante omnia - преди всичко
 ante litteram - преди да има наименование
 
 pācem parere - сключвам мир
+pācem compōnere - водя мирни преговори
 pācem solvere - нарушавам мир
 bellum gerere - водя война
 bellum īnferre (+dat) - воювам (с)
