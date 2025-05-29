@@ -231,6 +231,9 @@ flōsculus, -ī, m - цветенце
   vērātrum, -ī, n - чемерика
   helleborus, -ī, m - кукуряк
   geranium, -ī, n - здравец
+  rānunculus, -ī, m - лютиче
+  gallicrūs, gallicrūris, n - лютиче
+  narcissus, -ī, m - нарцис
 alga, -ae, f - водорасло, водни растения, малоценност
   cōnferva, -ae, f - сладководно водорасло
   lotus, -ī, f - лотус, водна лилия

@@ -124,6 +124,8 @@ arānea, -ae, f - паяк, паяжина
 scorpiоs/scorpius, scorpiī, m - скорпион
 scorpiō, scorpiōnis, m - скорпион
 rāna, -ae, f - жаба
+rānula, -ae, f - жабичка, попова лъжичка
+rānunculus, -ī, m - жабичка, попова лъжичка
 rubēta, -ae, f - жаба
 būfō, būfōnis, m - крастава жаба
 lepus, leporis, m - заек
@@ -181,6 +183,7 @@ piscis, -is, m - риба
   tructa, -ae, f - пъстърва
   bōx, bōcis, m - вид риба (вероятно гопа)
   carassius, -ī, m - каракуда, таранка
+  hirundō, hirundinis, f - летяща риба (?)
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица, пернато (букв. крилато)
 avis, -is, f - птица

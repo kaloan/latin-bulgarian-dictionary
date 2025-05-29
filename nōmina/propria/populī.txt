@@ -1,4 +1,3 @@
-Germānī, -ōrum, m pl - германци
 Rōmānī, -ōrum, m pl - римляни
 Quirītēs, -ium, m pl - квирити (т.е. римляни)
 Graecī, -ōrum, m pl - гърци
@@ -93,6 +92,9 @@ Vaccaeī, -ōrum, m pl - вакцеи
 Celtibērī, -ōrum, m pl - келтибери
 Carpetānī, -ōrum, m pl - карпетани
 Olcadēs, -um, m pl - олкади
+
+Germānī, -ōrum, m pl - германи
+  Sicambrī, -ōrum, m pl - сикамбри
 
 Gothus, -ī, m - гот
 Gothī, -ōrum, m pl - готи
