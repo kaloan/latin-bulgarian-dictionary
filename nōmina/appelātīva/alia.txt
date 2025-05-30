@@ -446,8 +446,6 @@ torus, -ī, m - цицина, подутина
 planētārium, -ī, n - планетарий
 terrigena, -ae, m/f - живеещо в почвата животно
 terrēna, -ae, f - земни твари, земни събития, земни неща
-aggressiō, -ōnis, f - настъпление, приближение, нападение, агресия
-mæander, meandrī, m - меандър, криволица, завъртулка, крива линия
 impositor, -ōris, m - именуващ човек, назовател
 impostor, -ōris, m - самозванец, шарлатан
 impostūra, -ae, f - самозвание, шарлатанство, мошеничество
@@ -629,6 +627,34 @@ abolitor, -ōris, m - заличител, унищожител, отстрани
 crepātūra, -ae, f - цепнатина, пукнатина
 discrepātiō, -ōnis, f - несъгласие, спор
 discrepantia, -ae, f - неподобие, несъответствие, несъгласие
+īnfitiātor, -ōris, m - отрицател (?)
+īnfitiātiō, -ōnis, f - отрицание, отричане
+īnfitiae, -(!), f pl [acc] - [среща се само във фраза] защита по съдебен иск, възражение (?)
+calumnia, -ae, f - хитрина, хитруване, трик, уловка, увъртане, заблуда
+
+aggressiō, -ōnis, f - настъпление, приближение, нападение, агресия
+aggressor, -ōris, m - нападател, агресор
+aggressūra, -ae, f - настъпление, нападение
+aggressus, -ūs, m - настъпление, нападение
+congressiō, -ōnis, f - среща, конгрес, схватка, сблъсък, съвкупление
+congressus, -ūs, m - събор, събрание, конгес, съвкупление
+dīgressiō, -ōnis, f -
+dīgressus, -ūs, m -
+ēgressiō, -ōnis, f -
+ēgressus, -ūs, m -
+ingressiō, -ōnis, f -
+ingressus, -ūs, m -
+prōgressiō
+prōgressor
+prōgressus
+regressiō
+regressus
+retrōgradātiō
+retrōgressus
+supergressus
+trānsgressiō
+trānsgressor
+trānsgressus
 
 orbita, -ae, f - обиколка, орбита
 circumversiō, -ōnis, f - обиколка, обикаляне, въртене

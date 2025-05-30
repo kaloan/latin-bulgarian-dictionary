@@ -805,6 +805,8 @@ mactus - тачен, почитан
 senātōrius - сенаторски
 senectus - застарен, стар
 palūdōsus - блатист, мочурлив
+prōgressīvus - прогресивен
+retrōgradus - ретрограден
 
 cōnsulārius - консулски
 praetōrius - преторски

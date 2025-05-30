@@ -360,6 +360,7 @@ omitte (+īnf) - не говори за (нещо), пропосни (нещо),
 certum habēre - знам съм сигурност
 ad multum diēī - до късно
 senātūs cōnsultum - решение/постановление на сената
+īnfitiās īre - отричам
 
 exemplī grātiā - например
 
