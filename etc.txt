@@ -73,7 +73,7 @@ animum dēspondēre - отчайвам се
 mala fortūna - лош късмет, смърт
 mala crux - лоща съдба, смърт
 mē animus fallit - греша, бъркам се
-operam dare - трудя се
+operam dare - давам си зор, трудя се
 ratiōnem inīre (+gen) - изброявам (нещо)
 diēs fēstus - празник
 culpae proximus - виновен
@@ -127,8 +127,6 @@ pugnam committere - водя битка
 victōriā īnsignī potīrī - побеждавам
 sē cōnferre - движа се, пътувам, нося се
 manūs īnferre (+dat) - ранявам
-(diem suprēmum) obīre - умирам (преминавам последния си ден)
-mortem obīre - умирам
 forīs et domī - в чужбина и в родината
 mīlitiae - по време на война, на война
 domī mīlitiaeque - в мир и във война
@@ -136,7 +134,6 @@ quod bonum sit - дано е за добро???
 omnēs ad ūnum - всички до един
 nōn/nec dubitō quid (+coni) - без съмнение, определено
 nōn/nec ultrā - никога насетне
-excēdere vitā - умирам
 caedēs prōmiscua - всевъзможна сеч
 lētō dare - убивам
 lētō darī - умирам
@@ -150,14 +147,12 @@ animō concidere - падам духом
 aliī aliō - едни тук, едни там
 rē vērā - всъщност
 odiō habēre - тая омраза, мразя
-dēfungī vitā - приключва живота ми, умирам
 cūram agere alicuius - грижа се за някого
 in sē - на себе си, трезв
 plūs (+abl) - повече от (някой)
 ōrātiōnem habēre - изнасям реч
 orīginem trahere - водя началото си от
 iam iam(-que) - още сега, веднага
-vītam effundere - изтича ми живота, умирам
 sē offerre - явявам се, показвам се
 pedem efferre - тръгвам си
 comēs īre (+dat) - придружавам (някого)
@@ -344,7 +339,6 @@ coniectūram facere - допускам, правя заключение
 inter omnēs constāre - съгласувам се с всички
 memoriae trādere/mandāre - оставям сведения
 praecipitem dare - мятам, хвърлям (с главата напред)
-vitā fungī - умирам
 īnsuper habēre - презирам, гледам извисоко
 animō capere - приемам, възприемам, схващам, осъзнавам
 rem differre - забавям дейност
@@ -360,6 +354,17 @@ omitte (+īnf) - не говори за (нещо), пропосни (нещо),
 certum habēre - знам съм сигурност
 ad multum diēī - до късно
 senātūs cōnsultum - решение/постановление на сената
+īnfitiās īre - отричам
+in suspectiōnem addūcere - поставям под съмнение, създавам съмнение
+nōn dubitāre (+īnf) - не се бавя
+rem cēlāre aliquem - крия нещо от някого, пазя нещо в тайна от друг
+
+(diem suprēmum) obīre - умирам (преминавам последния си ден)
+mortem obīre - умирам
+excēdere vitā - умирам
+vītam effundere - изтича ми живота, умирам
+animam/vītam dēpōnere - умирам
+vītā fungī/dēfungī - приключва живота ми, умирам
 
 exemplī grātiā - например
 

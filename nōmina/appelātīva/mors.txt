@@ -63,6 +63,7 @@ morbus, -ī, m - болест, заболяване
   tussis, -is, f - кашляне
   podagra, -ae, f - подагра
   caecitās, -ātis, f - слепота
+  dēbilitās, -ātis, f - слабост, сакатост, недъгавост
   albūgō, albūginis, f - левкома
   lepra, -ae, f - проказа
   febris, -is, f - температура, треска
