@@ -15,6 +15,7 @@ inimīcus, -ī, m - неприятел, личен враг
 inimīca, -ae, f - неприятелка
 hostis, -is, m - враг
 subnuba, -ae, f - враг, противник, узурпатор
+adversārius, -ī, m - противник
 vīcīnus, -ī, m - съсед
 hospes, hospitis, m - гост, стопанин
 hospita, -ae, f - гостенка, стопанка

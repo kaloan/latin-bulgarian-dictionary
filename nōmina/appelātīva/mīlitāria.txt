@@ -62,6 +62,7 @@ bellātor, -ōris, m - воин, борец, войник
   fugitīvus, -ī, m - беглец, дезертьор, избягал роб
   perfuga, -ae, m - изменник, дезертьор, ренегат
   trānsfuga, -ae, m/f - изменник, дезертьор, ренегат
+  classiāriī, -ōrum, m pl - моряци, военноморски сили
 exercitus, -ūs, n - войска, армия
   peditātus, -ūs, m - пехота
     levis armātūra, -ae, f - лека пехота

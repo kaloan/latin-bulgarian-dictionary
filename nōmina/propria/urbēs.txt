@@ -58,6 +58,7 @@ Neāpolis, -is, f - Неапол в Италия, Кавала в Гърция, 
 Mediolānum, -ī, n - Медиоланум (дн. Минално)
 Clastidium, -ī, n - Кластидиум (дн. Кастеджо)
 Ravenna, -ae, f - Равена
+Fregellae, -ārum, f pl - Фрегеле
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
@@ -76,6 +77,7 @@ Clazomenae, -ārum, f pl - Клазомена (дн. Урла)
 Actium, -ī, n - Акциум
 Pharsālus, -ī, f - Фарсала
 Argī, -ōrum, m pl - Аргос
+Argos, -(!), n (nom, acc) - Аргос
 Būthrōtum, -ī, n - Бутринт
 Paphus, -ī, f - Пафос
 Mytilēnae, -ārum, f pl - Митилена
@@ -86,6 +88,11 @@ Marathōn, -ōnis, m - Маратон
 Leuctra, -ae, f - Левктра
 Chaerōnēa, -ae, f - Херонея
 Citium, -ī, n - Китион
+Gortȳna, -ae, f - Гортина, Гортин
+Bȳzantium, -ī, n - Византион
+
+Pergamum, -ī, n - Пергамон/Пергам (дн. Бергама)
+Selgē, Selgēs, f - Селге
 
 Saguntum, -ī, n - Сагунт
 Massilia, -ae, f - Масилия (дн. Марсилия)
@@ -122,6 +129,7 @@ Bēthania, -ae, f - Витания
 Emmaus, indecl, ??? - Емаус
 Tyrus, -ī, f - Тир
 Ascalōn, -ōnis, f - Ашкелон
+Samarīa, -ae, f - Самария (дн. Себастия)
 
 Karthāgō/Carthāgō, -inis, f - Картаген
 Utica, -ae, f - Утика

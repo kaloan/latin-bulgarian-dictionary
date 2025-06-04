@@ -99,6 +99,7 @@ pārēre, paruisse, paritum (+dat) - подчинявам се, изпълняв
   compārēre - появявам се
 bēre, beavisse, beatum - облагородявам, ощастливявам
   praebēre - давам, предлагам, доставям, причинявам
+  praebēre sē - показвам че имам качества, действам с,
 tenēre, tenuisse, tentum - държа (физически), държа (притежавам), поддържам, задържам, придобивам, продължавам, достигам
   abstinēre, abstinuisse, abstentum - въздържам се
   attinēre, attinuisse, attentum - придържам

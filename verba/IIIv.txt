@@ -46,6 +46,7 @@ iacere -iō, iēcisse, iactum - хвърлям, мятам
   conicere -iō, coniēcisse, coniēctum - струпвам, заключавам, подразделям, изсипвам
   conicere sē - бързам
   dēicere -iō, dēiēcisse, dēiēctum - захвърлям
+  disicere -iō, disiēcisse, disiēctum - разхвърлям, разпръсквам, разрушавам, вкарвам в бяг
   ēicere -iō, ēiēcisse, ēiēctum - изхвърлям
   ēicere sē - изхвърлям се, хвърлям се, нахвърлям се
   inicere -iō, iniēcisse, iniēctum - захвърлям, нахвърлям, вмятам, подмятам (намек), намеквам, споменавам, причинявам, придавам
@@ -53,8 +54,8 @@ iacere -iō, iēcisse, iactum - хвърлям, мятам
   obicere -iō, obiēcisse, obiēctum - противопоставям, опълчвам, срещуполагам
   prōicere -iō, prōiēcisse, prōiēctum - хвърлям напред, падам пред
   rēicere -iō, rēiēcisse, rēiēctum - отхвърлям, отричам
-  trāicere -iō, trāiēcisse, trāiēctum - прехвърлям (буквално), прехвърлям (превеждам/прoкарвам), промушвам
   subicere -iō, subiēcisse, subiēctum - подлагам, хвърлям под, поставям под, подхвърлям, разкривам, допълвам текст
+  trāicere -iō, trāiēcisse, trāiēctum - прехвърлям (буквално), прехвърлям (превеждам/прoкарвам), промушвам
 fugere -iō, fugisse, fugitum - бягам от някого/нещо, избягвам, чезна
   aufugere -iō, aufugisse - бягам от някого/нещо, изчезвам
   cōnfugere -iō, cōnfugisse - прибягвам, намирам убежище
@@ -79,6 +80,7 @@ apere -iō, apisse, aptum - захващам, свързвам, вприпчва
   coepere -iō, coepisse, coeptum - (Късен латински) понечвам, захващам/залавям се (преносно), подхващам, започвам, начевам, предприемам
 capere -iō, cēpisse, captum - хващам, грабвам, държа, пленявам
   accipere -iō, accēpisse, acceptum - взимам, получавам, приемам (буквално), приемам (преносно), допускам, научавам/разбирам за, понасям, възприемам, тълкувам, занимавам/развличам гости, занимавам се, справям се
+  concipere -iō, concēpisse, coneptum - хващам, държа, получавам, схващам, възприемам, измислям, замислям, намислям
   dēcipere -iō, dēcēpisse, dēceptum - мамя
   excipere -iō, excēpisse, exceptum - вадя, премахвам, изключвам, пропускам
   incipere -iō, incēpisse, inceptum - започвам

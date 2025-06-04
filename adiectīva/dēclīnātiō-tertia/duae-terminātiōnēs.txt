@@ -267,6 +267,9 @@ partilis, -is - делим, разделим, отделен
 partibilis, -is - делим, разделим
 participiālis, -is - (граматически) причастен
 particulāris, -is - частичен
+fictilis, -is - глинен, керамичен
+numerābilis, -is - изброим
+innumerābilis, -is - неизброим, безчетен
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, ежемесечен, менструален
@@ -319,3 +322,4 @@ Alliēnsis - алийски
 
 Citiēnsis, -is - китионски
 Cȳrēnēnsis, -is - киренски
+Gortȳnis, -is - гортински

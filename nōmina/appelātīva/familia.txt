@@ -41,6 +41,7 @@ sobrīnus, -ī, m - племенник, син на сестра
 sobrīna, -ae, f - племенница, дъщеря на сестра
 avus, -ī, m - дядо
 avia, -ae, f - баба
+prōpatruus, -ī, m - прачичо
 proavus, -ī, m - прадядо
 proavia, -ae, f - прабаба
 abavus, -ī, m - прапрадядо

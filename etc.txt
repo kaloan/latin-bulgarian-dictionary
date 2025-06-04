@@ -337,7 +337,7 @@ in fidem accipere - приемам предадено
 in catēnās conicere - турям вериги/окови
 coniectūram facere - допускам, правя заключение
 inter omnēs constāre - съгласувам се с всички
-memoriae trādere/mandāre - оставям сведения
+memoriae trādere/mandāre/prōdere - оставям сведения
 praecipitem dare - мятам, хвърлям (с главата напред)
 īnsuper habēre - презирам, гледам извисоко
 animō capere - приемам, възприемам, схващам, осъзнавам
@@ -360,6 +360,16 @@ nōn dubitāre (+īnf) - не се бавя
 rem cēlāre aliquem - крия нещо от някого, пазя нещо в тайна от друг
 manum cōnserere - учасвам в схватка, сражавам се
 verba dare - измамвам (давам само думи, не дела)
+palam facere - разкривам
+potestātem facere - давам шанс, давам възможност
+in prōpatulō - под открито небе, открито, публично, за продан
+vāsa fictilia - грънци, керамични съдове, керамика
+patrēs cōnscrīptī - сенатори
+mūnerī/dōnō dare - подарявам
+ūsū venīre - идва момент, случва се
+nox obducta - непрогледна нощ
+tempus est nōs - време ни е
+uxōrem dūcere - женя се
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
@@ -395,6 +405,7 @@ crīmen pūblicum - престъпление срещу народа/държа�
 domī - вкъщи, вътре
 humī - на земята, на пода
 rūrī - в провинцията
+bellī - на война
 
 nāvis longa - боен кораб
 nāvī/nāvibus - по море, с кораб
@@ -617,6 +628,14 @@ aurōra austrālis - (букв. южна светлина) Южното сиян
 
 ut - решено е от сената да
 
+ad hoc/haec - още повече, допълнително, отгоре на това
+ad id quod - освен че
+ad tempus - в определено време, за някакво време, според случая
+ad praesēns - за момента, текущо, за сега
+ad locum - намясто
+ad verbum - дума по дума, буквално
+ad summam - общо взето, в общия случай, общо казано
+ad extrēmum/ultimum/postrēmum - накрая, най-накрая
 
 Ȳ, ȳ
 а̀ ѐ ѝ о̀ у̀

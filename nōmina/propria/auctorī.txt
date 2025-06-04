@@ -58,6 +58,7 @@ Eurīpidēs, -is, m - Еврипид, трагик
 Hippocratēs, -is, m - Хипократ, лекар
 Menander, Menandrī, m - Менандър, комик
 Menippus, -ī, m - Менип, сатирик
+Polybius, -ī, m - Полибий, историк (ок. 200 - 118 пр. Хр.), известен с "Всеобща история"
 
 Pūblius Rutilius Lupus - Публий Рутилий Луп, граматик и ретор от началото на I в.
 Postumius Rūfius Fēstus Avienius - Постумий Руфий Фест Авиений, римски писател от IV в.

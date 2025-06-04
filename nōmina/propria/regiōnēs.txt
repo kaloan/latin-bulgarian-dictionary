@@ -43,9 +43,15 @@ Eurōpa, -ae, f - Европа
 
 
 Asia, -ae, f - Азия
+  Asia Minor - Мала Азия, Анатолия
+    Bīthȳnia, -ae, f - Витиния
+    Pīsīdia, -ae, f - Писидия
+    Phrygia, -ae, f - Фригия
+    Pamphȳlia, -ae, f - Памфилия
+    Cilicia, -ae, f - Киликия
+    Pontus, -ī, m - Понтика
   Arabia, -ae, f - Арабия
   Armenia, -ae, f - Армения
-  Bīthȳnia, -ae, f - Витиния
   Lycia, -ae, f - Ликия
   Colchis, -idis, f - Колхида, т.е. Грузия
   Iūdaea, -ae, f - Юдея
@@ -54,7 +60,6 @@ Asia, -ae, f - Азия
   Mesopotamia, -ae, f - Месопотамия
   Chanaan, -ae, f - Ханаан
   Palestīna, -ae, f - Палестина
-  Pontus, -ī, m - Понтика
   Iuda, -ae, f - Юдея
   Isrāēl, -is, m - Израил/Израел
   Assyria, -ae, f - Асирия
