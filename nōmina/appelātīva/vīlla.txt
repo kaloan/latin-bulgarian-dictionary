@@ -66,6 +66,7 @@ cubiculum, -ī, n - стая, спалня
     gradālis, -is, f - чаша, купа, бокал, граал
     culter, cultrī, m - нож
     rutābulum, -ī, n - шпатула (готварска)
+    spatha, -ae, f - шпатула
     cochlear, -is, n - лъжица (физическа), лъжица (обем)
     lingula/ligula, -ae, f - лъжица, черпаче
     fuscinula, -ae, f - вилица

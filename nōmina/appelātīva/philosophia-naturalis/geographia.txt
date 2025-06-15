@@ -12,7 +12,7 @@ dīvum, -ī, n - открито небе
   cōnstēllātiō, -ōnis, f - съзвездие
   arcus, -ūs, m - дъга
   īris, īridis, f - дъга
-  cohum, -ī, n - небосвод
+  cohum, -ī, n - небосвод, небосклон
   meteōrum, -ī, n - метеор
   eclīptica, -ae, f - еклиптика
   eclīpsis, -is, f - слънчево затъмнение
