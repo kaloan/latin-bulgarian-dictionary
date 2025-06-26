@@ -817,6 +817,7 @@ prōpatulus - открит, отворен
 classiārius - флотийски, военноморски
 nauticus - морски
 coctīvus - ставащ за готвене
+venēficus - отровен, вещерски
 
 cōnsulārius - консулски
 praetōrius - преторски

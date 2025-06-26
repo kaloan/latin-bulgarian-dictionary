@@ -370,6 +370,10 @@ mūnerī/dōnō dare - подарявам
 nox obducta - непрогледна нощ
 tempus est nōs - време ни е
 uxōrem dūcere - женя се
+accūsāre aliquem dē vī - обвинявам в насилие
+accūsāre aliquem dē venēficiīs - обвинявам в отровителство
+lucrum facere ex - правя печалба от
+damnum facere ex - правя загуба от
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
