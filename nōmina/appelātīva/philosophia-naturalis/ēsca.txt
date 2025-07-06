@@ -92,5 +92,6 @@ nux, nucis, f - ядка, плод с черупка
   glāns, glandis, f - жълъд, буков жълъд, кестен
   glandula, -ae, f - жълъдче, буково жълъдче, кестенче
   glandō, glandinis, f - жълъд, буков жълъд, кестен
+  aculos, -ī, f - жълъд на каменен дъб
   iūglāns, iūglandis,f - орех (плод)
   castanea, -ae, f - кестен (плод)

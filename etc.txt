@@ -374,6 +374,9 @@ accūsāre aliquem dē vī - обвинявам в насилие
 accūsāre aliquem dē venēficiīs - обвинявам в отровителство
 lucrum facere ex - правя печалба от
 damnum facere ex - правя загуба от
+viam caedere - пробивам път
+aculeum ēmittere - оставям жилото си или отровата си в рана
+aculeun in mentibus/aninimīs (+gen) relinquere - бивам запомнен с парливо изказване
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно

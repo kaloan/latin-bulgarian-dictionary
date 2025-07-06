@@ -7,7 +7,7 @@ pudēre, puduisse, puditum (imp) (+acc) (+gen, īnf) - срам (го) е (от)
 pigēre, piguisse (imp) (+acc) (+gen, īnf) - (някой) се отвращава (от нещо)
 paenitēre, paenituisse (imp) (+acc) (+gen, īnf) - (някой) съжалява (за действието си)
 miserēre, miseruisse (imp) (+acc) (+gen, īnf) - (някой) съжалява/съчувсвтва/състрадава (някого/нещо)
-taedēre, taesum esse (imp) (+acc) (+gen, īnf) - (на някой му) доскучава (от), (някой) се измъчва (от), (някой) се отвращава (от)
+taedēre, taesum esse (imp) (+acc) (+gen, īnf) - (на някого му) доскучава (от), (някой се) отегчава (от), (някой) се измъчва (от), (някой) се отвращава (от)
 pertaedere, pertaesum/pertisum esse (imp) (+acc) (+gen, īnf) - (на някой му) доскучава (от), (някой) го гнети (нещо)
 cōnstāre (imp) (+acc/īnf) - сигурно е
 vidēre, vīdisse (imp pāss) - изглежда ми вярно/правилно

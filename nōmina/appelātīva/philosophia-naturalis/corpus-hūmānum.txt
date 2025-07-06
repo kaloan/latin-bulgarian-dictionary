@@ -16,7 +16,7 @@ tempus, temporis, n - слепоочие
 kaput/caput, capitis, n - глава
 capitulum, -ī, n - главичка
   cranium, -ī, n - череп
-  calva, -ae, f - череп
+  calva, -ae, f - голо теме, скалп, череп
   calvāria, -ae, f - череп
   testa, -ae, f - череп
   faciēs, faciēī, f - лице, лик, предна част
