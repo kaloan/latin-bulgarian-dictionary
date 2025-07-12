@@ -27,7 +27,7 @@ anceps, ancipitis - двуглав, насочен към/от две посок
 biceps, bicipitis - двуглав
 triceps, tricipitis - триглав
 quadriceps, quadricipitis - четириглав
-praeceps, praecipitis - стръмен, стремглав, прибързан, твърдоглав
+praeceps, praecipitis - стръмен, стремглав, прибързан, припрян, твърдоглав
 particeps, -ipis (+gen) - участващ (в), участник (в)
 deinceps, -ipis - следващ, последващ, сетнешен
 superstes, superstitis - оцелял, непокътнат
