@@ -14,8 +14,6 @@ Baleārēs/Baliārēs, -ium, m pl - Балеарските острови
     Frūmentaria, -ae, f - Форментера
 
 Crēta, -ae, f - Крит
-Rhodus, -ī, f - Родос
-Naxus, -ī, f - Наксос
 Samos, -ī, f - Самос
 Samē, Samēs, f - Сама (митологичен остров в Одисеята в Йонийско море близо до Итака и Кефалония)
 Cephalēnia, -ae, f - Кефалония
@@ -28,7 +26,6 @@ Scheria, -ae, f - Схерия, Феакия
 Cia/Cēa, -ae, f - Кея, Кеос
 Egina, -ae, f - Егина
 Tenedos, -ī, f - Тенедос, Бозджаада
-Dēlos, -ī, f - Делос, Дилос
 Strophadēs, -um, f pl - Строфади
 Zacynthus, -ī, f - Закинтос
 Zakynthos, -ī, f - Закинтос
@@ -36,6 +33,44 @@ Ithaca, -ae, f - Итака
 Leucadia, -ae, f - Левкада, Лефкада
 Cyprus, -ī, f - Кипър
 Salamīs, Salamīnos, f - Саламин
+Cycladēs, -um, f pl - Циклади
+  Amorgos, -ī, f - Аморгос
+  Anaphē, Anaphēs, f - Анафи
+  Andros, -ī, f - Андрос
+  Antimēlos, -ī, f - Антимилос
+  Antiparos, -ī, f - Антипарос
+  Cea/Cia, -ae, f - Кеа
+  Ceos/Ceus, -ī, f - Кеа
+  Cimolos, -ī, f - Кимолос
+  Cuphonesia, -ōrum, n pl - Куфонисия
+    Ceros, -ī, f - Керос
+    Cuphonesium inferius, -ī, n - Като Куфониси
+    Cuphonesium superius, -ī, n - Пано Куфониси
+  Cythnos, -ī, f - Китнос
+  Dēlos, -ī, f - Делос, Дилос
+  Gyaros, -ī, f - Ярос
+  Helenē, Helenēs, f - Макронисос
+  Hēraclea, -ae, f - Ираклея
+  Ios, -ī, f - Иос
+  Oinoē, Oinoēs, f - Ойное (древно име на Сикинос, значещо "остров на виното")
+  Macronesos, -ī, f - Макронисос
+  Mēlos, -ī, f - Милос
+  Myconos, -ī, f - Миконос
+  Naxos/Naxus, -ī, f - Наксос
+  Paros, -ī, f - Парос
+  Pholegandros, -ī, f - Фолегандрос
+  Polyaigos, -ī, f - Полиегос (???)
+  Rēnea, -ae, f - Ринея
+  Schoenusa, -ae, f - Схинуса
+  Sicinos, -ī, f - Сикинос
+  Sifnos, -ī, f - Сифнос
+  Serifos, -ī, f - Серифос
+  Sȳros/Sȳrus, -ī, f - Сирос
+  Tēnos, -ī, f - Тинос
+  Thēra, -ae, f - Тира, Санторини
+Dodecanesī, -ōrum, m pl - Додеканези (???)
+  Rhodus, -ī, f - Родос
+Sporadēs, -um, f pl - Споради
 
 Hibernia, -ae, f - Хиберния, Ирландия
 Iūverna/Iūberna, -ae, f - Ирландия
