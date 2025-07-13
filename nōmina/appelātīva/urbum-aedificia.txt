@@ -129,6 +129,7 @@ aedēs, -ium, f pl - жилище, блок
     hospitāculum, -ī, n - гостоприемница
     hospitiolum, -ī, n - ханче, гостоприемница
     caupōna, -ae, f - странноприемница
+    dēversōrium/dīversōrium, -ī, n - странноприемница
     sūtrīna, -ae, f - обущарница, обущарски занаят
     cūpēdō/cuppēdō, -inis, f - сладкарница
     cānaba/cannaba, -ae, f - кръчма, бар, селище от търговци и уволнени войници

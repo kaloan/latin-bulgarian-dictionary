@@ -46,6 +46,7 @@ Samius - самоски
 Sēricus - китайски
 Siculus - сицилийски
 Syrācūsānus - сиракузски
+Syrācosius - сиракузски
 Thraex - тракийски
 Trōiānus - троянски
 Tūscus - туски/тускски (т.е. етруски/етрускски) (!!!)
@@ -65,6 +66,7 @@ Sūtrīnus/Sūtrius - сутрийски
 Helvētius - хелветски
 
 Macedō, -onis - македонски
+Sȳrius - сироски
 
 Celticus - келтски
 Senonicus - сенонски
@@ -75,5 +77,7 @@ Sōcraticus - Сократичен
 Iūstīniānus - Юстинианов
 
 Phoenīx, Phoenīcis - финикийски
+Syrophoenīx, Syrophoenīcis - финикийски
 Phoenīcius - финикийски
+Syrius - сирийски
 Syricus - сирийски

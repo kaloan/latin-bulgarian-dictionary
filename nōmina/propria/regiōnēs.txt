@@ -82,7 +82,7 @@ Libya, -ae, f - Северна Африка (познатата част на А
   Libya, -ae, f - Либия
   Numidia, -ae, f - Нумидия
   Maurītānia/Maurētānia, -ae, f - Мавритания
-
+    Tingitāna, -ae, f - Тингиска Мавритания (т.е. Западна Мавритания)
 
 Amerīca, -ae, f - Америка (двата контитента в съвкупност)
   Amerīca Septentriōnālis - Северна Америка

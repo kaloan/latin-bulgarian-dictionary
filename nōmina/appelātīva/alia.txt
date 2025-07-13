@@ -923,6 +923,10 @@ statuāria, -ae, f - изкуството на създаване на стат�
 graphicē, -ēs, f - живопис
 signifex, signifecis, m - резбар, скулптор
 īnsignītor, -ōris, m - гравьор
+toreuma, -atis, n - релеф (изпъкнала скулптора), украсен с релеф предмет
+toreuta, -ae, m - гравьор на релефи
+cestrum/cestron, -ī, n - инструмент за гравиране
+cestrus/cestros, -ī, m - инструмент за гравиране
 
 Ligurīnus, -ī, m - Лигурин
 Libanus, -ī, m - Либаний

@@ -32,7 +32,7 @@ arbuscula, -ae, f - фиданка, дръвче, дървенце, храстч
   laurus, -ī, m - лавър, дафина
   lōra, -ae, f - лавър, дафина
   olea, -ae, f - маслиново дърво
-  vīburnum, -ī, n - калина
+  vīburnum, -ī, n - черна калина
   tilia, -ae, f - липа
   ulmus, -ī, f - бряст
   salix, salicis, f - върба, ива, ракита
@@ -84,12 +84,13 @@ dūmus, -ī, m - храст
   mespilum, -ī, n - мушмула (дърво/храст), мушмула (плод)
   appendix, -icis, f - барбарис
   ligustrum, -ī, n - птиче грозде, лигуструм
+  tīnus, -ī, f - лавролистна калина
 dūmētum, -ī, n - храсталак, гъсталак
 virgultum, -ī, n - шубрак, гъсталак, гъстак
 veprēs, -is, m - трънак
 sentis, -is, m - трънак
 spīnētum, -ī, n - трънак
-rāmus, -ī, m -
+rāmus, -ī, m - клон
 scōpa, -ae, f - клон
 papula, -ae, f - пъпка на растение
 gemma, -ae, f - пъпка на растение
@@ -153,6 +154,8 @@ herba, -ae, f - трева, билка, растение
   blitum, -ī, n - спанак
   ālium/allium, -ī, n - чесън
   cēpa/caepa, -ae, f - лук
+  syron, -ī, n - вид чесън [molon]
+  molon, -ī, n - вид чесън [syron]
   agrimōnia/argemōnia, -ae, f - камшик
   rheum, -ī, n - ревен
   thymum, -ī, n - мащерка
@@ -183,6 +186,8 @@ herba, -ae, f - трева, билка, растение
   mūscus, -ī, m - мъх
   inūtilis herba - плевел (букв. безполезно растение)
     spondylion, -ī, n - хераклеум
+  syreon, -ī, n - нузла
+  tordȳlon, -ī, n - нузла
 planta, -ae, f - фиданка, присад, филиз, издънка, кълн, трева
 surculus, -ī, m - фиданка, съчка, пръчка
 sarmentum, -ī, n - фиданка, съчка, пръчка

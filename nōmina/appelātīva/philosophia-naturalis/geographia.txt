@@ -115,6 +115,8 @@ oriēns, -entis, m - изток, изгрев
 occidēns, -entis, m - запад, залез, заник
 septentriō, -ōnis, m - север
 septentriōnēs, -um, m pl - север
+arctos, -ī, f - север
+arctoe, -ōrum, f pl - север
 merīdiēs, meridiēī, m - юг
 
 lābēs, lābis, f - срутване, свлачище, беда, бедствие; петно по кожата, заради което животното не ставало за жертва; петно (преносно)
