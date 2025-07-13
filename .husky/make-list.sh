@@ -27,6 +27,8 @@ do
         partOfSpeech="вметнат израз" ;;
       "coniūctiōnēs")
         partOfSpeech="съюз" ;;
+      "morphemae")
+        partOfSpeech="морфема" ;;
       *)
         echo "Unkown directory name $dir" ;;
     esac
