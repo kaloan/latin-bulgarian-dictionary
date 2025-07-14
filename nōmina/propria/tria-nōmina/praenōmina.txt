@@ -5,7 +5,7 @@ Decimus, -ī, m - Децим
 Cāius/Gāius, -ī, m - Гай
 Cnaeus/Gnaeus, -ī, m - Гней
 Jūlius, -ī, m - Юлий
-Kaesō/Caesō, -ōnis, m - Цезон
+Kaesō/Caesō, -ōnis, m - Кезо
 Lūcius, -ī, m - Луций
 Lucumō, -ōnis, m - Лукумон, име-титла на етруски жреци и принцове
 Māmercus, -ī, m - Мамерк, преномен използван от Емилиите
@@ -18,3 +18,5 @@ Sextus, -ī, m - Секст
 Spurius, -ī, m - Спурий
 Mānius, -ī, m - Маний
 Tiberius, -ī, m - Тиберий
+Arrūns, Arruntis, m - Арунт
+Opiter, Opitris, m - Опитер

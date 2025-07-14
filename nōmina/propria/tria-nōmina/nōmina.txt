@@ -64,3 +64,6 @@ Ennius, -ī, m - Ений
 Patulcius, -ī, m - Патулций
 Suētōnius, -ī, m - Светоний
 Mānīlius, -ī, m - Манилий
+Arruntius, -ī, m - Арунций
+Opiternius, -ī, m - Опитерний
+Verginius, -ī, m - Вергиний

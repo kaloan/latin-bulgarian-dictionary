@@ -825,6 +825,8 @@ syntheticus - синтетичен, част от синтез
 tineōsus - пълен с личинки
 tinnulus - звънлив, звънък, звънтящ
 tintinnāculus - звънтящ
+virgineus - девичи, девически, момински
+virgōsus - пълен с пръчки
 
 cōnsulārius - консулски
 praetōrius - преторски

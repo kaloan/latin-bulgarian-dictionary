@@ -48,6 +48,7 @@ Cycladēs, -um, f pl - Циклади
     Cuphonesium superius, -ī, n - Пано Куфониси
   Cythnos, -ī, f - Китнос
   Dēlos, -ī, f - Делос, Дилос
+  Donusa, -ae, f - Донуса
   Gyaros, -ī, f - Ярос
   Helenē, Helenēs, f - Макронисос
   Hēraclea, -ae, f - Ираклея
@@ -68,9 +69,9 @@ Cycladēs, -um, f pl - Циклади
   Sȳros/Sȳrus, -ī, f - Сирос
   Tēnos, -ī, f - Тинос
   Thēra, -ae, f - Тира, Санторини
-Dodecanesī, -ōrum, m pl - Додеканези (???)
-  Rhodus, -ī, f - Родос
 Sporadēs, -um, f pl - Споради
+  Dodecanesī, -ōrum, m pl - Додеканези, Южни Споради
+    Rhodus, -ī, f - Родос
 
 Hibernia, -ae, f - Хиберния, Ирландия
 Iūverna/Iūberna, -ae, f - Ирландия

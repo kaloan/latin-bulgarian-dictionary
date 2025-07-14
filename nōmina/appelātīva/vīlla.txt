@@ -52,6 +52,7 @@ cubiculum, -ī, n - стая, спалня
     catīnum, -ī, n - дълбока чиния
     caccabus, -ī, m - тенджера
     plumbeum, -ī, n - оловна тенджера
+    vatillum, -ī, n - тиган
     ōlla, -ae, f - гърне, буркан
     matula, -ae, f - гърне
     matella, -ae, f - гърненце

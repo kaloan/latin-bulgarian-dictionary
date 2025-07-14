@@ -91,6 +91,7 @@ sucula, -ae, f - макара, лебедка
 
 pāla, pālae, f - лопата, бел, лизгар
 rutrum, -ī, n - лопата, бел, лизгар
+vatillum, -ī, n - лопата
 pecten, pectinis, m - гребло, грапа, търмък
 rāster, rāstrī, m - гребло, мотика
 rāstellus, -ī, m - гребло, мотика
@@ -105,6 +106,7 @@ dolābra, -ae, f - кирка
 dolābella, -ae, f - киркичка
 pabō, pabōnis, m - количка
 testa, -ae, f - саксия
+vannus, -ī, m - веялка
 
 pistillum, -ī, n - чукало, токмак, пестик
 pīsō, pīsōnis, m - хаванче, чуканче (?)

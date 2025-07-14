@@ -583,6 +583,7 @@ D. (Decimus) - Деций
 L. (Lūcius) - Луций
 M. (Mārcus) - Марк
 M'./ꟿ (Mānius) - Маний
+Mam. (Māmercus) - Мамерк
 P. (Pūblius) - Публий
 Q. (Quīntus) - Квинт
 Ser. (Servius) - Сервий
@@ -597,7 +598,7 @@ prōcōs. (prōcōnsul) - проконсул
 prōcōss. (prōcōnsulēs) - проконсули
 Aug. (Augustus) - Aвгуст
 
-s. d. (salutem dīcit) - поздравявам
+s. d. (salutem dīcere) - поздравявам
 a. C. (ante Chrīstum) - преди Христа
 p. C. (post Chrīstum) - след Христа
 a. d. (annō Dominī) - в летото Господне
