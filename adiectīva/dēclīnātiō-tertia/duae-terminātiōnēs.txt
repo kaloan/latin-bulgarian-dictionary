@@ -85,7 +85,7 @@ familiāris, -is - семеен, приятелски, роден, уместе�
 īnnsignis, -is - отличен, бележит
 nātālis, -is - рожден
 pinguis, -is - пълен, дебел
-exīlis, -is - мършав, хилав, слаб
+exīlis, -is - мършав, хилав, слаб, дръглив
 potis, -is - възможен
 agrestis, -is - полски, селски, див, некултурен, груб
 pāstōrālis, -is - овчарски
@@ -328,3 +328,4 @@ Alliēnsis - алийски
 Citiēnsis, -is - китионски
 Cȳrēnēnsis, -is - киренски
 Gortȳnis, -is - гортински
+Aventīnēnsis, -is - авентински

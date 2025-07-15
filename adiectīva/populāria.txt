@@ -64,6 +64,7 @@ Hibēricus - иберийски (испански), иберийски (груз
 Armeniacus/Armenicus - арменски
 Sūtrīnus/Sūtrius - сутрийски
 Helvētius - хелветски
+Aequīcus - еквийски
 
 Macedō, -onis - македонски
 Sȳrius - сироски

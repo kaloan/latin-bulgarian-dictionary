@@ -17,7 +17,7 @@ sextus decimus - шестнайсти
 septimus decimus - седемнайсти
 duodēvīcēsimus - осемнайсти
 ūndēvīcēsimus - деветнайсти
-vīcēsimus - двайсти
+vīcēsimus/vīgēsimus - двайсти
 trīcēsimus - трийсти
 quadrāgēsimus - четирийсти
 quīnquāgēsimus - петдесети

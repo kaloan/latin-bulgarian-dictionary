@@ -40,7 +40,8 @@ Laurentēs, -ium, m pl - лауренти
 Sabīnī, -ōrum, m pl - сабини
 Latīnī, -ōrum, m pl - латини
 Vēientēs, -ium, m pl - вейиени
-Fīdēnātēs/Fidēnātēs, -ium, m pl - фиденати (?)
+Aequī, Aequōrum, m pl - екви
+Fīdēnātēs/Fidēnātēs, -ium, m pl - фиденати
 Caenīnēnsēs, -ium, m pl - ценини (?)
 Crustumīnī, -ōrum, m pl - крустомерийци (?)
 Antemnātēs, -ium, m pl - антемни (?)
@@ -85,6 +86,7 @@ Campānī, -ōrum, m pl - кампани
 Alpicī, -ōrum, m pl - алпийци
 Rhodiī, -ōrum, m pl - родийци
 Gortȳniī, -ōrum, m pl - гортинци
+Faliscī, -ōrum, m pl - фалиски
 
 Gallī, -ōrum, m pl - гали
 Celta, -ae, m - келт

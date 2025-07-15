@@ -31,6 +31,10 @@ mūla, -ae, f - женско муле
 hinnus, -ī, m - катър
 hinnulus, -ī, m - катърче
 onager, onagrī, m - азиатско диво магаре
+camēlis, -is, m - камила
+camēlopardalis, -is, m - жираф
+camēlopardalus, -ī, m - жираф
+camēlopardus, -ī, m - жираф
 rhīnoceros, -ōtis, m - носорог, човек с дълъг нос
 aquila, -ae, f - орел
 accipiter, accipitris, m - ястреб, чучулигар, (преносно) граблив човек

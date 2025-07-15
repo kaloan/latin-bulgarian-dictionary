@@ -61,6 +61,7 @@ Ravenna, -ae, f - Равена
 Fregellae, -ārum, f pl - Фрегеле
 Polītōrium, -ī, n - Политориум
 Medullum, -ī, n - Медулум
+Tībur, -is, n - Тибур (дн. Тиволи)
 
 Sparta, -ae, f - Спарта
 Delphī, -ōrum, m pl - Делфи
