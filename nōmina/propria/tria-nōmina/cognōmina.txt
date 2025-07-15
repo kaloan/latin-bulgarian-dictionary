@@ -38,7 +38,7 @@ Cossus, -ī, m - Кос
 Coriolānus, -ī, m - Кориолан
 Poenus/Pennus, -ī, m - Пен
 Camillus, -ī, m - Камил
-Rutilus, -ī, m - Рутил
+Rutilus, -ī, m - Рутил/Руцил
 Scaevola, -ae, m - Сцевола
 Bibaculus, -ī, m - Бибакул
 Māximus, -ī, m - Максим
@@ -68,3 +68,5 @@ Pulvillus, -ī, m - Пулвил
 Vecellinus/Vicellinus/Viscellinus, -ī, m - Вицелин
 Vibulānus, -ī, m - Вибулан
 Strūctus, -ī, m - Структ
+Tricostus, -ī, m - Трикост
+Esquilinus, -ī, m - Есквилин

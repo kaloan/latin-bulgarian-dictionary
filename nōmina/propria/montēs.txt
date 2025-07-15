@@ -6,11 +6,18 @@ Sacer, Sacrī, m - Свещената планина
 Aventīnus, -ī, m - Авентин
 Aventīnum, -ī, n - Авентин
 Palātium, -ī, n - Палатин
+Palātīnus, -ī, m - Палатин
 Capitōlium, -ī, n - Капитолин
 Capitōlīnus, -ī, m - Капитолин
 Tarpēius, -ī, m - Капитолин
 Caelium, -ī, n - Целин
+Caelius, -ī, m - Целин
 Esquilinum, -ī, n - Есквилин
+Esquilīnus, -ī, m - Есквилин
+Esquiliae, -ārum, f pl - Есквилин, квартал намиращ се на Есквилин
+  Cispius/Cespius, -ī, m - връх на Есквилин
+  Oppius, -ī, m - връх на Есквилин
+  Urbius/Orbius, -ī, m - склон на Есквилин, източно от [(vīcus) Cyprius]
 Viminalis, -ī, n - Виминал
 Quirinalis, -is, n - Квиринал
 Aetna, -ae, f - Етна
