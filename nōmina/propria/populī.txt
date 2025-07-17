@@ -2,9 +2,9 @@ Rōmānī, -ōrum, m pl - римляни
 Quirītēs, -ium, m pl - квирити (т.е. римляни)
 Graecī, -ōrum, m pl - гърци
 Iūdaeī, -ōrum, m pl - юдеи
-Rutulī, -ōrum, m pl - рутули (!!!)
-Volscī, -ōrum, m pl - волски (!!!)
-Cheruscī, -ōrum, m pl - херуски (!!!)
+Rutulī, -ōrum, m pl - рутули
+Volscī, -ōrum, m pl - волски
+Cheruscī, -ōrum, m pl - херуски
 Scillitānī, -ōrum, m pl - сцилианци (Сцилиум)
 Trōiānī, -ōrum, m pl - троянци
 Trōēs, Trōum, m pl - троянци
@@ -56,7 +56,6 @@ Mārsī, -ōrum, m pl - марси (племе обитаващо района �
 Hernicī, -ōrum, m pl - херники
 Sūtrīnī, -ōrum, m pl - сутрийци
 Praenestini, -ōrum, m pl - пренестинци
-Senonēs, -um, m pl - сенони
 Macedōnēs, -um, m pl - македонци
 Umbrī, -ōrum, m pl - умбри
 Bruttiī, -ōrum, m pl - брути
@@ -97,6 +96,8 @@ Vaccaeī, -ōrum, m pl - вакцеи
 Celtibērī, -ōrum, m pl - келтибери
 Carpetānī, -ōrum, m pl - карпетани
 Olcadēs, -um, m pl - олкади
+Senonēs, -um, m pl - сенони
+Boiī, Boiōrum, m pl - бои
 
 Germānī, -ōrum, m pl - германи
   Sicambrī, -ōrum, m pl - сикамбри

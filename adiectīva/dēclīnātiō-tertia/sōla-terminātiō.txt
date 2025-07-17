@@ -55,7 +55,8 @@ clēmēns, clēmentis - благ, щадящ, мек
   inclēmēns, inclēmentis - крут, суров, жесток, груб, безжалостен
 impudēns, impudentis - безсрамен
 prūdens, prūdentis - разумен, осъзнат
-imprūdens, imprūdentis - неразумен
+  imprūdens, imprūdentis - неразумен
+  iūrisprūdēns, iūrisprūdentis - юриспрудентски, вещ в законите
 libēns, libentis - желаещ, волеви, волен, весел, доволен
 frequēns, frequentis - чест, често срещан
 excellēns, excellentis - отличен

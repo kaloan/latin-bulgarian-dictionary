@@ -37,7 +37,6 @@ Torquātus, -ī, m - Торкват
 Cossus, -ī, m - Кос
 Coriolānus, -ī, m - Кориолан
 Poenus/Pennus, -ī, m - Пен
-Camillus, -ī, m - Камил
 Rutilus, -ī, m - Рутил/Руцил
 Scaevola, -ae, m - Сцевола
 Bibaculus, -ī, m - Бибакул
@@ -74,3 +73,16 @@ Calvus, -ī, m - Калв
 Ahāla, -ae, m - Ахала
 Aventīnēnsis, -is, m - Авентинензис
 Ambustus, -ī, m - Амбуст
+Imperiōsus, -ī, m - Империоз
+Crispīnus, -ī, m - Криспин
+Caecus, -ī, m - Цек
+Censōrīnus, -ī, m - Цензорин
+Peticus, -ī, m - Петик
+Stolō, Stolōnis, m - Столон
+Laterānus, -ī, m - Латеран
+Sextīnus, -ī, m - Секстин
+Gurges, Gurgitis, m - Гург
+Varrūcōsus, -ī, m - Варукоз
+Dentātus, -ī, m - Дентат
+Luscīnus, -ī, m - Лусцин
+Dolābella, -ae, m - Долабела
