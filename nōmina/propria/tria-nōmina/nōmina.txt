@@ -59,7 +59,6 @@ Albīnus, -ī, m - Албин
 Lūcīlius, -ī, m - Луцилий
 Accius, -ī, m - Акций
 Pācuvius, -ī, m - Пакувий
-Caecilius, -ī, m - Цецилий
 Ennius, -ī, m - Ений
 Patulcius, -ī, m - Патулций
 Suētōnius, -ī, m - Светоний
@@ -75,3 +74,5 @@ Ogulnius, -ī, m - Огулний
 Calavius, -ī, m - Калавий
 Curius, -ī, m - Курий
 Fabricius, -ī, m - Фабриций
+Semprōnius, -ī, m - Семпроний
+Atīlius, -ī, m - Атилий

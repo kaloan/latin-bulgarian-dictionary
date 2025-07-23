@@ -1,5 +1,8 @@
 galliciniō - по първи петли
 māne - сутрин
+antemerīdiem - сутрин, предобедно
+merīdiē - по обед, обедно, по пладне
+postmerīdiem/pōmerīdiem - следобед, следобедно
 vesperi - вечер
 hodiē - днес
 cotīdiē/cottīdiē/quotīdiē - всеки ден
@@ -8,7 +11,6 @@ prīdiē - през предишния ден
 crās - утре
 postrīdiē - на следващия ден
 perendiē - другиден
-pomerīdiem - следобед
 noctū - нощно, през нощта, нощес, нощем
 interdiū - дневно, през деня
 diurnē - всекидневно

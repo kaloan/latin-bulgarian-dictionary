@@ -275,6 +275,7 @@ triviālis, -is - уличен, разпътен, тривиален
 pedūlis, -is - ходилен
 cruciābilis, -is - мъчителен, мъчен, болезнен
 virginālis, -is - девичи, девически
+canifōrmis, -is - кучевиден
 
 intermēstris, -is - месечен, не повече от месечен
 mēnstruālis, -is - месечен, ежемесечен, менструален
@@ -316,6 +317,7 @@ austrālis, -is - южен
 Laurēns, Laurentis - Лаурентов
 Cereālis, -is - Цереров, (преносно) земеделски/житен
 Augustālis, -is - Августов, императорски, имперски
+Canīculāris, -is - Сириусов
 
 Brasīliēnsis, -is - бразилски
 Chilēnsis, -is - чилийски
@@ -324,6 +326,7 @@ Corinthiēnsis, -is - коринтянски
 Austrālis/Austrāliēnsis, -is - австралийски
 Cannēnsis - кански
 Alliēnsis - алийски
+Narbōnēnsis - нарбонски, провансалски
 
 Citiēnsis, -is - китионски
 Cȳrēnēnsis, -is - киренски

@@ -47,7 +47,7 @@ Rulliānus, -ī, m - Рулиян
 Arvīnus, -ī, m - Арвин
 Calvīnus, -ī, m - Калвин
 Caudīnus, -ī, m - Каудин
-Mūs, Mūris, m - Муз
+Mūs, Mūris, m - Мус/Муз
 Libō, Libōnis, m - Либон
 Cōdex/Caudex, -icis, m - Кавдекс
 Scīpiō, Scīpiōnis, m - Сциопион
@@ -86,3 +86,14 @@ Varrūcōsus, -ī, m - Варукоз
 Dentātus, -ī, m - Дентат
 Luscīnus, -ī, m - Лусцин
 Dolābella, -ae, m - Долабела
+Laevīnus, -ī, m - Левин
+Saverriō, -ōnis, m - Саверио
+Canīna, -ae, m - Канина
+Dorsuō, -ōnis, m - Дорсуон
+Gallus, -ī, m - Гал
+Bubulcus, -ī, m - Бубулк
+Russus, -ī, m - Рус
+Sophus, -ī, m - Соф
+Rēgulus, -ī, m - Регул
+Vulsō, -ōnis, m - Вулсон/Вулзон
+Pēra, Pērae, m - Пера
