@@ -97,3 +97,7 @@ Sophus, -ī, m - Соф
 Rēgulus, -ī, m - Регул
 Vulsō, -ōnis, m - Вулсон/Вулзон
 Pēra, Pērae, m - Пера
+Vitulus, -ī, m - Витул
+Megellus, -ī, m - Мегел
+Paetīnus, -ī, m - Петин
+Augurīnus, -ī, m - Авгурин
