@@ -41,6 +41,7 @@ Eurōpa, -ae, f - Европа
     Bruttium, -ī, n - Брутум (дн. Калабрия)
   Macedonia, -ae, f - Македония
   Thracia, -ae, f - Тракия
+  Scythia, -ae, f - Скития
 
 
 Asia, -ae, f - Азия

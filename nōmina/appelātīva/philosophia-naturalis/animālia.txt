@@ -232,6 +232,8 @@ serpēns, -entis, m/f - змия, влечуго
   vīpera, -ae, f - усойница (змия), усойница (лош човек), пепелянка
   coluber, colubrī, m - мъжка змия
   colubra, -ae, f - женска змия
+  aspis, aspidis, f - аспида, усойница
+  natrīx, natrīcis, f - водна змя
 lacerta, -ae, f - гущер
 testūdō, -inis, f - костенурка, коруба на костенурка
 delphinus, -ī, m - делфин

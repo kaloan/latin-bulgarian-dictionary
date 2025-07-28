@@ -101,3 +101,6 @@ Vitulus, -ī, m - Витул
 Megellus, -ī, m - Мегел
 Paetīnus, -ī, m - Петин
 Augurīnus, -ī, m - Авгурин
+Cālātīnus, -ī, m - Калатин
+Pacilus, -ī, m - Пацил
+Fūsus, -ī, m - Фуз
