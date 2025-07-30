@@ -12,3 +12,7 @@ quodcumque, quodcumque, cuiuscumque, cuicumque, quōcumque, quaecumque, quaecumq
 cuius, cuium, cuiī, cuiō, cuiō, cuiī, cuiōs, cuiōrum, cuiīs, cuiīs - чийто, чиито (за мъжки род в множествено число)
 cuia, cuiam, cuiae, cuiae, cuiā, cuiī, cuiās, cuiārum, cuiīs, cuiīs - чиято, чиито (за женски род в множествено число)
 cuium, cuium, cuiī, cuiō, cuiō, cuia, cuia, cuiōrum, cuiīs, cuiīs - чието, чиито (за среден род в множествено число)
+
+utercumque, utrumcumque, utrīuscumque, utrīcumque, utrōcumque, utrīcumque, utrōscumque, utrōrumcumque, utrīscumque, utrīscumque - кой да е от двата
+utracumque, utramcumque, utrīuscumque, utrīcumque, utrācumque, utraecumque, utrāscumque, utrārumcumque, utrīscumque, utrīscumque - коя да е от двете
+utrumcumque, utrumcumque, utrīuscumque, utrīcumque, utrōcumque, utracumque, utracumque, utrōrumcumque, utrīscumque, utrīscumque - кое да е от двете

@@ -133,6 +133,7 @@ puerulus, -ī, m - момченце
 puera, -ae, f - момиче, девойка
 puella, -ae, f - момиче, хлапачка
 puellula, -ae, f - момиченце
+pūsiō, pūsiōnis, m - момче, момък
 pūpus, pūpī, m - хлапак, хлапе
 pūpa, pūpae, f - хлапачка
 embryō, embryōnis, m - зачатък, зародиш

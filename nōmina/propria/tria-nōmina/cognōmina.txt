@@ -46,7 +46,7 @@ Cursor, -ōris, m - Курсор
 Rulliānus, -ī, m - Рулиян
 Arvīnus, -ī, m - Арвин
 Calvīnus, -ī, m - Калвин
-Caudīnus, -ī, m - Каудин
+Caudīnus, -ī, m - Каудин/Кавдин
 Mūs, Mūris, m - Мус/Муз
 Libō, Libōnis, m - Либон
 Cōdex/Caudex, -icis, m - Кавдекс
@@ -104,3 +104,10 @@ Augurīnus, -ī, m - Авгурин
 Cālātīnus, -ī, m - Калатин
 Pacilus, -ī, m - Пацил
 Fūsus, -ī, m - Фуз
+Pullus, -ī, m - Пул
+Catulus, -ī, m - Катул
+Albīnus, -ī, m - Албин
+Cercō, Cercōnis, m - Церкон
+Faltō, Faltōnis, m - Фалтон
+Falcō, Falcōnis, m - Фалкон
+Varus, -ī, m - Вар

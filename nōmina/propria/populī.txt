@@ -100,6 +100,7 @@ Olcadēs, -um, m pl - олкади
 Senonēs, -um, m pl - сенони
 Boiī, Boiōrum, m pl - бои
 Volcae, -ārum, m pl - волци
+Gaesatī, -ōrum, m pl - гестати
 
 Germānī, -ōrum, m pl - германи
   Sicambrī, -ōrum, m pl - сикамбри
@@ -108,6 +109,8 @@ Gothus, -ī, m - гот
 Gothī, -ōrum, m pl - готи
 Visigothus, -ī, m - визигот
 Visigothī, -ōrum, m pl - визиготи
+
+Ardiaei, -ōrum, m pl - ардиеи
 
 Numida, Numidae, f - нумидиец, номад
 Nomas, Nomadis, m - нумидиец, номад

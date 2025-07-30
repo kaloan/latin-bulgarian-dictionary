@@ -593,7 +593,7 @@ lūdus lātrunculōrum - вид шах
 duodecim scrīpta, lūdus duodecim scrīptōrum - вид табла
 pīla trigōnālis - игра за трима с подаване на топка
 
-A. (Aulus) - Авел
+A. (Aulus) - Авъл
 Ap. (Appius) - Апий
 C. (Gāius) - Гай
 Cn. (Gnaeus) - Гней
@@ -622,6 +622,8 @@ a. C. (ante Chrīstum) - преди Христа
 p. C. (post Chrīstum) - след Христа
 a. d. (annō Dominī) - в летото Господне
 a.u.c. (ab urbe conditā) - от построения град, т.е. от създаването на Рим
+
+cū/g (cum) - с, заедно
 
 "abstrahit (me) sermonis egestas" = the poorness of the language stops me
 
