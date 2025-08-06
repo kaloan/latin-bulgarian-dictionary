@@ -11,14 +11,12 @@ Sōcratēs, -is, m - Сократ
 Platō, -ōnis, m - Платон
 Aristotelēs, -is, m -Аристотел
 Epicūrus, -ī, m - Епикур
-Empedoclēs, -is, m - Емпедокъл
 Phaedōn, -ōnis, m - Федон Елийски
 Xenophōn, -ōntis, m - Ксенофонт
-Zēnō, Zēnōnis, m - Зенон
 
 astrologus, -ī, m - астролог, астроном
 astrologia, -ae, f - астрология, астрономия
 
 Stōa, -ae, f - Стоа, Стоицизъм
 Stōicus, -ī, m - Стоик
-Zēnō, -ōnis, m - Зенон
+Zēnō, Zēnōnis, m - Зенон
