@@ -35,7 +35,7 @@ diēcula, -ae, f - кратък ден, кратка почивка
   gallicinium, -ī, n - първи петли
   ortus, -ūs, m - изгрев, изток
   aurōra, -ae, f - изгрев, зарево, светлината по изгрев
-  māne. indecl, n - сутрин
+  māne, indecl, n - сутрин
   merīdiēs/medīdiēs, merīdiēī/medīdiēī, m - обед, пладне
   vesper, -is, m - вечер
   occāsus, -ūs, m - залез, заник, запад

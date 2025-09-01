@@ -529,7 +529,7 @@ flectere, flexisse, flexum - вия, свивам
 nectere, nexuisse, nexum - плета, връзвам, мотая, обвързвам
   adnectere - вплитам, заплитам
   prōnectere - продължавам да плета
-laedere. laesisse, laesum - удрям, ранявам, набия, пребия, обиждам
+laedere, laesisse, laesum - удрям, ранявам, набия, пребия, обиждам
   collīdere, collīsisse, collīsum - сблъсквам, счуквам, смачквам, дърдоря, пляскам, настървявам, насъсквам
   ēlīdere, ēlīsisse, ēlīsum - троша, премахвам
 struere, strūxisse, strūctum - строя, градя, тъкмя, стъкмявам, кроя

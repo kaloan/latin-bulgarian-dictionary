@@ -136,7 +136,7 @@ rēgīnula, -ae, f - царицица, принцеса
 pharaō, -ōnis, m - фараон
 sūfes/suffes, sūfetis/suffetis, m - суфет, един от двама висши държавни лица в Картаген след падането на монархията
 tyrannis, tyrannidis, m - тирания
-tyrannus, -ī. m - тиран
+tyrannus, -ī, m - тиран
 despota, -ae, m - деспот
 despotismus, -ī, m - деспотизъм
 dynastēs, -ae, m - владетел
