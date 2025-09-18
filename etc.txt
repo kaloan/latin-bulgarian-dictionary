@@ -416,6 +416,9 @@ excēdere vitā - умирам
 vītam effundere - изтича ми живота, умирам
 animam/vītam dēpōnere - умирам
 vītā fungī/dēfungī - приключва живота ми, умирам
+mortem sibi cōnscīscere - самоубивам се
+sē vitā privāre - лишавам се от живот
+vitae fīnem facere - слагам край на живота си
 
 exemplī grātiā - например
 
@@ -678,6 +681,6 @@ ad summam - общо взето, в общия случай, общо казан
 ad extrēmum/ultimum/postrēmum - накрая, най-накрая
 
 Ȳ, ȳ
-а̀ ѐ ѝ о̀ у̀
-а́ е́ и́ о́ у́
+а̀ ѐ ѝ о̀ у̀ ъ̀
+а́ е́ и́ о́ у́ ъ́
 ā̆ ī̆

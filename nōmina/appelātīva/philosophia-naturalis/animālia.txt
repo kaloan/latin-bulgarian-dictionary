@@ -80,6 +80,7 @@ platea, -ae, f - лопатарка
 phāsiānus, -ī, m - фазан
 perdīx, -īcis, f - яребица
 tetraō, -ōnis, m - глухар, тетрев, мъжки фазан, тундрова яребица
+rallus, -ī, m - (Средновековен латински) крещалец, воден дърдавец
 rēgulus, -ī, m - кралче, близка до врабчето птица
 porcus, -ī, m - прасе
 porculus, -ī, m - прасенце
@@ -193,6 +194,8 @@ piscis, -is, m - риба
   carassius, -ī, m - каракуда, таранка
   hirundō, hirundinis, f - летяща риба (?)
   lamia, -ae, f - вид плоска риба
+  lacerta, -ae, f - вид риба (вероятно скумрия/сафрид)
+  lacertus, -ī, m - вид риба (вероятно скумрия/сафрид)
 volucris, -is, f - летящо същество
 āles, ālitis, f - птица, пернато (букв. крилато)
 avis, -is, f - птица
@@ -236,6 +239,7 @@ serpēns, -entis, m/f - змия, влечуго
   aspis, aspidis, f - аспида, усойница
   natrīx, natrīcis, f - водна змя
 lacerta, -ae, f - гущер
+lacertus, -ī, m - гущер
 testūdō, -inis, f - костенурка, коруба на костенурка
 delphinus, -ī, m - делфин
   porcus marīnus - тъпонос делфин

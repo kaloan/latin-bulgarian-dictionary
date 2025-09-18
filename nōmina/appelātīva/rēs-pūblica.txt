@@ -160,6 +160,7 @@ praesidēns, praesidentis, m - председател, президент
 audientia, -ae, f - аудиенция, изслушване
 iūstitiārius, -ī, m - юстициарий, съдия
 iūstitiāria, -ae, f - юстициарство, съдийство
+vassallus, -ī, m - васал
 
 
 nātiō, nātiōnis, f - народ, рождение, нация

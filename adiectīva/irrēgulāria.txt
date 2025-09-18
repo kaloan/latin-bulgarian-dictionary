@@ -47,7 +47,9 @@ exterus/externus, exterior, extrēmus - външен, по-краен, крае�
 interior/interiius, intimus - по-вътрешен
 anterior/anterius - преден, по-раншен, предишен, бивш
 posterior/posterius - заден, по-
-ulterior/ulterius, ultimus - по-далечен
+ulterior/ulterius, ultimus - (в компаратив) по-далечен; (в суберлатив) най-далечен, последен
+  paenultimus/pēnultimus - предпоследен
+  antepaenultimus/antepēnultimus - предпредпоследен
 citerior/citerius, citimus - по-близък
 
 frūgī, indecl - годен, полезен, достоен, усърден, пестелив, честен

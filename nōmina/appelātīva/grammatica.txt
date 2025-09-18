@@ -8,6 +8,7 @@ sententia, -ae, f - изречение, мисъл, идея
       vōcālis, -is, f - гласна
       cōnsonāns, -antis, f - съгласна
       praeverbium, -ī, n - представка
+      paenultima, -ae, f - предпоследна сричка
 nōmen, n. - съществително име
   appellātīvum - нарицателно име
   proprium - собствено име

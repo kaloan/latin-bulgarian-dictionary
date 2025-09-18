@@ -28,9 +28,11 @@ digitus, -ī, n - цифра
 numerus, -ī, m - число
 dīmidium, -ī, n - половина
 ūniō, ūniōnis, f - единица
-dyas, dyadis, f - двойка, двоица
+monas, monadis, f - монада, единица, единство
 bīniō, bīniōnis, m - двойка, двоица, две
+dyas, dyadis, f - двойка, двоица
 terniō, terniōnis, m - тройка, три
+trias, triadis, f - триада, тройка
 quaterniō, quaterniōnis, m - четворка, четири, кватернион
 quīniō, quīniōnis, m - петорка, петица
 sēniō, sēniōnis, m - шесторка, шестица

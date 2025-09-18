@@ -114,7 +114,7 @@ virīlitās, -ātis, f - мъжество (период от живота), мъ
 geminus, -ī, m - близнак
 gemellus, -ī, m - близначе, близненце
 trigeminus, -ī, m - тризнак
-īnfāns, infantis, m/f - бебе, пеленаче, кърмаче, сукалче
+īnfāns, infantis, m/f - бебе, пеленаче, кърмаче, сукалче, отрок, отроче, младенец
 īnfantulus, -ī, m - бебенце момче
 infantula, -ae, f - бебенце момиче
 parvulus, -ī, m - малчуган, мъник
@@ -129,16 +129,19 @@ fēmina, -ae, f - жена, женска (при съчетание с друг�
 fēmella, -ae, f - женичка, момиче
 mulier, -is, f - жена
 puer, puerī, m - момче, хлапе, момчинство
-puerulus, -ī, m - момченце
+puerculus/puerulus, -ī, m - момченце
+pūsus, -ī, m - момченце
 puera, -ae, f - момиче, девойка
 puella, -ae, f - момиче, хлапачка
 puellula, -ae, f - момиченце
 pūsiō, pūsiōnis, m - момче, момък
 pūpus, pūpī, m - хлапак, хлапе
 pūpa, pūpae, f - хлапачка
+catulaster, catulastrī, m - юноша, младеж, момък
 embryō, embryōnis, m - зачатък, зародиш
 viduus, -ī, m - вдовец
 vidua, -ae, f - вдовица
+orba, -ae, f - вдовица
 iuventūs, -ūtis, f - младост, младеж (съвкупността от млади хора), зрялост [???]
 iuventās, -ātis, f - младост
 iuventa, -ae, f - младост, младини
