@@ -15,6 +15,7 @@ dīvum, -ī, n - открито небе
   īris, īridis, f - дъга
   cohum, -ī, n - небосвод, небосклон
   meteōrum, -ī, n - метеор
+  comētēs, -ae, m - комета
   eclīptica, -ae, f - еклиптика
   eclīpsis, -is, f - слънчево затъмнение
   dēliquium, -ī, n - слънчево затъмнение

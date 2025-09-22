@@ -63,6 +63,7 @@ Sg. Nom., Sg. Acc., Sg. Gen., Sg. Dat., Sg. Abl., Pl. Nom., Pl. Acc., Pl. Gen., 
 22. [Българската флора онлайн](https://bgflora.net) - за превода на имената на някои растения
 23. [Речник - морски термини](https://zamoreto.com/rechnik-morski-termini/) - за превода на някои термини от мореплаването
 24. [Latin Phrase-Book](https://www.gutenberg.org/ebooks/50280), написана на немски от Carl Meissner, превод на английски от Henry William Auden, оригиналната книга е "Lateinische Phraseologie für die oberen Gymnasialklassen. Leipzig: B. G. Teubner, 1880" - за някои фразеологизми
+25. [Harper's Dictionary of Classical Literature and Antiquities](https://archive.org/details/cu31924027019482), автор Harry Thurston Peck, издателство "Harper & brothers", 1896 - енциклопедия с допълнителна информация за вида/употребата на предмети, кратка история на държавни формирования, философски школи, границите на топоними, описанията варират по обем от няколко думи до няколко страници
 
 Тъй като повечето от източниците в 1 са учебници стил "естествен метод", то понякога се налага използването на 2 и 3, като 3 си показват собствените източници.
 Понякога е ползван и 20, но обикновено само при наличие на много на брой значения на думата или несъответстие на преводите в 2 и 3.

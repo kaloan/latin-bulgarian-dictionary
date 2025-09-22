@@ -19,6 +19,7 @@ vestis, -is, f - дреха
   pallium, -ī, n - наметало
   paenula, -ae, f - наметало
   amictus, -ī, m - наметало, облекло, тоалет, кат
+  abolla, -ae, f - дебело гръбо наметало, служещо ролята на ямурлук
   epitogium, -ī, n - наметка
   mantum, -ī, n - мантия
   dormītōria, -ae, f - пижама
