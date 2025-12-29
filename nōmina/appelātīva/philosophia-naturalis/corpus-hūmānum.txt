@@ -53,6 +53,7 @@ capitulum, -ī, n - главичка
   audientia, -ae, f - слух, слушане, чуване
   auditus, -ūs, m - слух (сетиво), слух (мълва)
   gena, -ae, f - буза
+  follēs, -ium, m pl - (поетично) надути бузи
   māla. -ae, f - скула, буза
   prōditiō, -ōnis, f - руменина
   maxilla, -ae, f - долна челюст
@@ -118,6 +119,7 @@ bracchiolum, -ī, n - ръчица, ръчичка
     quārtus, -ī, m - безименен пръст
 gaster - корем
 abdōmen, -inis, n - корем, шкембе, тумбак, търбух, чревоугодничество, лакомия
+follis, -is, m - търбух, корем
 scapula, -ae, f - лопатка, рамо
 spatula, -ae, f - лопатка
 umerus, -ī, m - рамо, раменна кост
@@ -149,6 +151,7 @@ lumbī, -ōrum, m pl - слабини, гениталии
   glāns pēnis - главичка на пениса
   testis, -is, m - семенник, тестис
   testiculus, -ī, m - семенник, тестикул
+  folliculus, -ī, m - скротум
   mentula, -ae, f - кур
   mūtō, -ōnis, m - чатал
   verpa, -ae, f - чатал
