@@ -151,7 +151,7 @@ spargere, sparsisse, sparsum - ръся, сипя, сея, пилея
   adspargere/adspergere/aspargere/aspergere, adsparsisse/adspersisse/asparsisse/aspersisse, adsparsum/adspersum/asparsum/aspersum - поръся, пръскам, посипя, обсипя, цапам
   cōnspergere, cōnspergere, cōnspersum - поръся, разпръсвам
   respergere, respersisse, respersum - поръся, пръсвам, осейвам, обсипвам
-colere, coluisse, cultum - грижа се, поддържам, развивам, закрилям, гледам, тача, почитам
+colere, coluisse, cultum - грижа се, поддържам, развивам, стопанисвам, закрилям, гледам, тача, почитам
   accolere, accoluisse, accultum - пребивавам в близост, съсед съм на
   circumcolere, cirumcoluisse, circumcultum - обитавам, населявам, пребивавам
   excolere, excoluisse, excultum - отглеждам, обгрижвам, подобрявам, развивам, тача

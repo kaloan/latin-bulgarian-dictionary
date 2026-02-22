@@ -1,4 +1,6 @@
+#!/usr/bin/env bash
 #!/bin/bash
+
 files="$(find . -name "*.txt" | grep -vE "collātiō\.txt|etc\.txt|collātiō-simplex\.txt")"
 buffer=$RANDOM
 bufferPlain=$RANDOM
