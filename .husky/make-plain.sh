@@ -1,12 +1,13 @@
-#!/usr/bin/env bash
-#!/bin/bash
+#!/bin/sh
 
 buffer=$$RANDOM
 touch "$buffer"
-regEx="^(.*) (- .*)$"
+lineRegEx="^(.+?) (- .*)$" # BASH HAS NO LAZY MATCHING!!!
+# lineRegEx="^([^-]*) (- .*)$"
+
 while read p
 do
-  if [[ $p =~ $regEx ]]
+  if [[ $p =~ $lineRegEx ]]
   then
     plain="${BASH_REMATCH[1]//ā/a}"
     plain="${plain//ē/e}"

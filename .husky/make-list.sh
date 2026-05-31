@@ -1,11 +1,11 @@
-#!/usr/bin/env bash
-#!/bin/bash
+#!/bin/sh
 
 files="$(find . -name "*.txt" | grep -vE "collātiō\.txt|etc\.txt|collātiō-simplex\.txt")"
 buffer=$RANDOM
 bufferPlain=$RANDOM
 dirRegEx="\./(\w*)/.*"
-lineRegEx="^(.*) (- .*)$"
+lineRegEx="^(.+?) (- .*)$" # BASH HAS NO LAZY MATCHING!!!
+# lineRegEx="^([^-]*) (- .*)$"
 
 for filename in $files
 do
