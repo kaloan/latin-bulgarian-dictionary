@@ -20,3 +20,4 @@ cadere, cecidisse, cāsum (imp) - оказва се, излиза че
   incidere, incidisse (imp) - появява се, случва се, попадам на
 abhorrēre ab (imp) - неудачно е, не пасва, противно на
 contingere (imp) (+dat) - сполети, сполетява, случва се, предоставя се, касае
+interesse (imp) - има разлика, има значение, касае

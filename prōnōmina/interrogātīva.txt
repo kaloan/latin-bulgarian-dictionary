@@ -5,7 +5,7 @@ quī, quem, cuius, cui, quō, quī, quōs, quōrum, quibus/quīs, quibus/quīs -
 quae, quam, cuius, cui, quā, quae, quās, quārum, quibus/quīs, quibus/quīs - коя?
 quod, quod, cuius, cui, quō, quae, quae, quōrum, quibus/quīs, quibus/quīs - кое?
 
-quisnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam - че кой
+quisnam/quīnam, quemnam, cuiusnam, cuinam, quōnam, quīnam, quōsnam, quōrumnam, quibusnam, quibusnam - че кой
 quaenam, quamnam, cuiusnam, cuinam, quānam, quaenam, quāsnam, quārumnam, quibusnam, quibusnam - че коя
 quodnam, quodnam, cuiusnam, cuinam, quōnam, quaenam, quaenam, quōrumnam, quibusnam, quibusnam - че кое
 
