@@ -9,7 +9,6 @@ consciscere (+sibi) - да си навлека
 pluere, pluisse - вали
 compescere, compescuisse - въздържам се, преграждам, утолявам
 bibere, bibisse, bibitum - пия
-canere, cecinisse, cantum - пея
 arcessere, arcessiisse/arcessīvisse, arcessītum - извиквам, каня, призовавам
 dīvidere, divīsisse, divīsum - деля, разделям, различавам
 metuere, metuisse, metutum - боя се, страхувам се
@@ -164,7 +163,7 @@ mergere, mersisse, mersum - топя (в течност), тъна, цопвам
 currere, cucurrisse, cursum - тичам, бягам
   accurrere, accucurrisse/accurrisse, accursum - бягам към
   concurrere, concucurrisse/concurrisse, concursum - стичаме се, съгласявам се, наподобявам
-  dēcurrere, dēcucurrisse/dēcurrisse, dēcursum - да се стека, бягам/движа се надолу
+  dēcurrere, dēcucurrisse/dēcurrisse, dēcursum - да се стека, бягам/движа се надолу, отправям се, прибягвам (устремявам се) към сражение, прибягвам (преносно)
   discurrere, discurrere, discursum - разбягваме се, разпръскваме се, скитам
   excurrere, excucurrisse/excurrisse, excursum - бягам от
   incurrere, incucurrisse/incurrisse, incursum - бягам в, нападам, нахлувам, случвам се, падам
@@ -237,7 +236,7 @@ premere, pressisse, pressum - надвивам, натискам, потиска
   imprimere - натискам в/върху, щамповам
   opprimere - насилвам, надвивам, затварям, прикривам, изнасилвам
   reprimere - потискам, ограничавам, предотвратявам
-emere, ēmisse, ēmptum - купувам, придобивам
+emere, ēmisse, ēmptum - купувам, придобивам, сдобивам се
   adimere, adēmisse, adēmptum - лишавам, отнемам, спасявам
   coēmere, coēmisse, coēmptum - изкупувам
   cōmere, cōmpsisse, cōmptum - събирам, подреждам, рѐша, сресвам, плета плитка, украсявам, гиздя
@@ -509,6 +508,7 @@ fīdere, fīsum (+dat) - вярвам (на)
 fundere, fūdisse, fūsum - пълня, лея, обръщам в бягство, надвивам
   cōnfundere - смесвам, сливам, омешвам, развълнувам, обърквам, разбърквам
   circumfundere - обливам, тълпя се, обкръжавам
+  diffundere - разливам, разсипвам, разпилявам, размазвам
   effundere - изливам, изпразвам
   īnfundere - пълня, вливам
   perfundere - прелея, изпълвам, развълнувам, вдъхновявам
@@ -818,3 +818,5 @@ flīgere, flīxisse, flīctum - блъскам
   efflīgere - убивам, усмъртявам, унищожавам
   īnflīgere - налагам (удрям), причинявам (рана), нанасям (щета)
   prōflīgāre, prōflīgāvisse, prōflīgātum - побеждавам главоломно, сразявам, сломявам
+canere, cecinisse, cantum - пея
+  concinere - пригласям, пея в хор, музикално съпровождам, довеждам до съзвучие
