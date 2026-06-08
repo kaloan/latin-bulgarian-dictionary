@@ -58,6 +58,7 @@ tepidārius - хладъко воден
 scaevus - ляв
 opulentus - богат
 prīstinus - вехт
+prīscus - бивш, древен, вехт, архаичен, старовремски, старомоден, от старата школа
 novissimus - последен
 commodus - удобен, подходящ, учтив, лесен
 incommodus - неприятен
@@ -856,6 +857,8 @@ cataphractārius/catafractārius - брониран
 cataphractātus/catafractātus - брониран
 cataphractus/catafractus - брониран
 morātōrius - мораторен, отлагащ, водещ до закъснение
+cālīginōsus - мъгляв, (преносно) мъгляв (преносно), тъмен
+mīrābundus - учуден, смаян, захласнат, удивен
 
 cōnsulārius - консулски
 praetōrius - преторски

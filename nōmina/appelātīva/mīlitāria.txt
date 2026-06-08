@@ -81,7 +81,7 @@ arx, arcis, f - цитадела, крепост
 rōbur, rōboris, n - крепост
 clausūra, -ae, f - укрепление
 castra, -ōrum, n pl - укрепление, военен лагер, стан
-  (castra) hiberna, -ōrum, n pl - зимен военен лагер
+  (castra) hīberna, -ōrum, n pl - зимен военен лагер
   vāllum, -ī, n - палисада, заграждение, защитна стена
   fossa, -ae, f - ров, окоп, траншея
   scrobis, -is, f - яма, канавка, изкоп, ров, траншея, дига

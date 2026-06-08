@@ -171,6 +171,7 @@ fundāmentum iacere - поставям основи
 partū ēdere - раждам
 animus cadere - падам духа
 signa movēre - движа армията, обявявам поход
+signa cōnferre - започвам битка
 sēdem capere - сядам
 locum fīnīre - ограничавам, определям границите
 dē integrō - отново
@@ -423,6 +424,7 @@ orbis doctrinae - общо/основно образование, енцикло
 nōmen fallere -
 prō formā - само наглед
 imperium affectāre - упражнявам власт
+prīscī Latīnī - предримското население на Латиум
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно

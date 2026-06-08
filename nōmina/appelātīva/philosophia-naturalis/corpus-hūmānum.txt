@@ -17,6 +17,7 @@ kaput/caput, capitis, n - глава
 capitulum, -ī, n - главичка
   cranium, -ī, n - череп
   calva, -ae, f - голо теме, скалп, череп
+  ārea, -ae, f - плешиво петно, плешивост
   calvāria, -ae, f - череп
   testa, -ae, f - череп
   occipitium, -ī, n - тил
