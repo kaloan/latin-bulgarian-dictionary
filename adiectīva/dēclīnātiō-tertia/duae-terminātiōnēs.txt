@@ -64,6 +64,7 @@ vīlis, -is - пошъл
 immānis, -is - необхватен, просторен
 vulgāris, -is - народен, общ, обществен
 inermis, -is - невъоръжен, обезоръжен
+sēmiermis, -is - полувъоръжен
 mīlitāris, -is - военен
 equestris, -is - конен
 puerīlis, -is - момчешки, детински

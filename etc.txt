@@ -425,6 +425,7 @@ nōmen fallere -
 prō formā - само наглед
 imperium affectāre - упражнявам власт
 prīscī Latīnī - предримското население на Латиум
+conventus cīvium Rōmānōrum - римско малцинство/общност в чужд град
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
@@ -651,6 +652,7 @@ cōs. (cōnsul) - консул
 cōss. (cōnsulēs) - консули
 prōcōs. (prōcōnsul) - проконсул
 prōcōss. (prōcōnsulēs) - проконсули
+tr. pl. (tribūnus plēbis) - трибун на плебеите
 Aug. (Augustus) - Aвгуст
 
 s. d. (salutem dīcere) - поздравявам
