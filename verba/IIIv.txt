@@ -13,7 +13,8 @@ facere -iō, fēcisse, fаctum - правя, върша
   efficere -iō, effēcisse, effectum - изработвам, извършвам, изпълнявам
   expergēfacere -iō - събуждам, разбуждам
   fervēfacere -iō - загрявам, стопявам, кипвам
-  fructificāre, fructificāvisse, fructificātum - давам плод,
+  fructificāre, fructificāvisse, fructificātum - давам плод, пониквам, прораствам, (за растения) израствам
+  īnficere -iō, īnfēcisse, īnfectum - топя, боядисвам, обагрям, шаря, пъстря, развалям, отравям, извращавам
   interficere -iō, interfēcisse, interfectum - умъртвявам, убивам
   interficere sē - самоубивам се
   labefacere -iō, labefēcisse, labefactum - клатя, разхлабвам, разпускам, отслабвам, събарям, унищожавам
@@ -88,6 +89,7 @@ capere -iō, cēpisse, captum - хващам, грабвам, държа, пле
   incipere -iō, incēpisse, inceptum - започвам
   intercipere -iō, intercēpisse, interceptum - прихващам, прекъсвам, потушавам (преносно), крада
   occupāre, occupāvisse, occupātum - заемам, вземам, наемам, започвам, заговарям, окупирам
+    praeoccupāre - предварително вземам стратегическо положение, предварително си осигурявам, грабвам нечие внимание, предугаждам, предварвам, предотвратявам
   praecipere -iō, praecēpisse, praeceptum - ръководя, предвождам, заповядвам, назидавам, напътствам, наставлявам, очаквам, взимам предварително
   recipere -iō, recēpisse, receptum - приемам, връщам си
   recipere sē - връщам се

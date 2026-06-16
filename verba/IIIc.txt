@@ -54,7 +54,6 @@ concupīscere - копнея, жадувам, бленувам
 clangere - боботя, шумя, вия, лая
 plectere, plexisse, plexum - наказвам
 lacessere, lacessīvisse, lacessitum - подстрекавам, предизвиквам, насъсквам, нападам
-dēlitēscere, dēlituisse - прикривам
 exārdēscere, exārsisse - разпалвам се, запалвам се
 polluere, polluisse, pollūtum - мърся
 frondēscere, fronduisse - разклонявам се, разлиствам се, озеленявам, покълвам
@@ -191,6 +190,7 @@ mittere, mīsisse, missum - пращам, освобождавам, мятам
     reprōmittere - обещавам като отклик на обещание, гарантирам
   remittere - връщам, мятам обратно
   submittere - поставям под друго, поднасям, понижавам, възпирам, подчинявам
+  trānsmittere - препращам през, прехвърлям (преминавам), превалям, (за време) отминавам, преминавам на вража страна, пренебрегвам, нехая
 sistere, stitisse/stetisse, statum - спирам, проверявам
   adsistere, adstitisse - спирам, заставам на място
   circumsistere, circumstitisse - обикалям, обкръжавам, от всички страни съм
@@ -314,7 +314,7 @@ tinguere, tinxisse, tinctum - намокрям, топвам
 stinguere, stinxisse, stinctum  - гася, унищожавам
   exstinguere, еxstinxisse, exstinctum - угасявам, убивам, унищожавам
   restinguere, restinxisse, restinctum - изгасявам, убивам, унищожавам
-tendere, tetendisse, tentum/tēnsum - опъвам, опвам, дърпам, напрягам, насочвам оръжие (от опъвам тетивата), пъна се, напрягам се, запътя се
+tendere, tetendisse, tentum/tēnsum - опъвам, опвам, дърпам, напрягам, насочвам оръжие (от опъвам тетивата), пъна се, напрягам се, зоря се, запътя се
   attendere, attendisse, attentum - насочвам внимание, внимавам, грижа се
   contendere, contendisse, contentum - натягам, настройвам струнен музикален инструмент, шири се, пътувам, боря се, придвижвам се, опъвам (лък), напрягам се
   detendere, detendisse, detentum - отхлабвам, свивам военния лагер (подготвям се за поход)
@@ -359,8 +359,9 @@ dūcere, dūxisse, ductum - водя, считам, оценявам, взима
   subdūcere - повеждам, влача, свличам, събарям, спъвам, акостирам, дебаркирам
   subterdūcere - крада
   superdūcere - превеждам над, покривам
-  trādūcere - превеждам (водя през), превеждам (от един на друг език), преминавам, проправям, прoкарвам
+  trādūcere - превеждам (водя през), превеждам (от един на друг език), преминавам, проправям, прoкарвам, пилея си времето
 cēdere, cessisse, cessum - движа се, местя се
+cēdere (+acc) (+dat) - по своя воля давам (нещо) (някому), удостоявам (нещо) (някому)
   abscēdere - махам се, придвижвам се, размествам се
   accēdere - идвам, приближавам се, прибавен съм
   antecēdere - движа се пред/преди някого, предшествам, предхождам, превъзхождам, отличавам се
@@ -383,7 +384,7 @@ vīvere, vīxisse, victum - живея
   convīvere - съжителствам
   pervīvere - преживявам, надживявам, оцелявам
   supervīvere - надживявам, преживявам, оцелявам
-sinere, sīvisse/sisse, situm - позволявам, разрешввам, оставям
+sinere, sīvisse/siisse, situm - позволявам, разрешввам, оставям [в перфектните форми при siisse може ie да се слее в ī, напр sierīs -> sīrīs]
   dēsinere, dēsivisse/dēsiise, dēsitum - прекратявам, спирам, преставам, отказвам се
 fluere, fluxisse, fluxum - тека
   affluere - притека, прииждам, стичаме се
@@ -398,6 +399,7 @@ vehere, vēxisse, vectum - нося, пренасям, (пасив) яздя/п�
   āvehere - отнасям
   advehere - донасям
   convehere - принасям, скупчвам, отрупвам, натрупвам, накамарвам, събирам
+  dēvehere - отнасям, пренасям, превозвам по вода, (пасив) снижен/спуснат съм
   ēvehere - изнасям
   invehere - внасям (нося в), внасям (от чужбина), внасям (въвеждам), (за вода) донасям, нося (крепя), нападам внезапно, щурмувам, врязвам се, влитам, (пасив) яздя/пътувам с превозно средство
   praetervehere - подминавам, отърквам, отмивам
@@ -514,6 +516,7 @@ fundere, fūdisse, fūsum - пълня, лея, обръщам в бягство
   perfundere - прелея, изпълвам, развълнувам, вдъхновявам
   profundere - изливам, изричам, пропилявам
   suffundere (+dat) - подпълня, запълня, прониквам, изпълвам
+  superfundere sē - преливам, заливам (покривам с течност), заливам (разпростирам се)
 rubēscere, rubuisse - почервенявам
   ērubēscere - изчервявам се
 quaerere, quaesīvisse, quaesītum - търся, диря
@@ -583,7 +586,7 @@ petere, petiisse/petīvisse, petitum - влизам, стремя се към, �
   appetere - навлизам, приближавам
   impetere - нападам
   oppetere - умирам
-  repetere - завръщам се
+  repetere - завръщам се, повтарям
   suppetere - наличен съм, присъствам
 ūrere, ussisse, ustum - горя
   ambūrere - парвам, обгарям, овъглявам, карам да измръзне
@@ -612,11 +615,11 @@ regere, rēxisse, rēctum - владея, управлявам, направля
   dērigere/dīrigere, dīrēxisse, dīrēctum - отправям, насочвам, изправям, (воеено) разпределям в редица/права
   ērigere, ērēxisse, ērēctum - възбуждам, одързостявам, издигам, виря
   pergere, perrēxisse, perrēctum - продължавам, навлизам, ида
-  porrigere, porrēxisse, porrēctum - подавам, предлагам, разпростирам
+  porrigere, porrēxisse, porrēctum - подавам, протягам, предлагам, разпростирам
     exporrigere, exporrēxisse, exporrēctum - разстилам, разширявам, разраствам
   surgere, surrēxisse, surrēctum - ставам, изправям се
     assurgere, assurrēxisse, assurrēctum - ставам, изправям се, издигам се, извисявам се, набъбвам, набирам се, възбуждам се, въодушевявам се
-    cōnsurgere, cōnsurrēxisse, cōnsurrēctum - ставаме заедно, нападам из засада
+    cōnsurgere, cōnsurrēxisse, cōnsurrēctum - ставам, ставаме заедно, нападам из засада
     exsurgere, exsurrēxisse, exsurrēctum - ставам, изправям се, възстановявам се
     resurgere, ressurrēxisse, ressurēctum - възкръсвам, повторно ставам
 tremere, tremuisse - треперя, треса се
@@ -676,6 +679,7 @@ trūdere - тласкам, бутам
 crēscere, crevisse, cretum - раста, проявявам се, повишавам, засилвам
   succrēscere - раста под, израствам, покарвам, изниквам
 lūcēscere, lūxisse - светя, зазоря
+  dīlūcēscere, dīlūxisse - засветя, зазоря
   illūcēscere, illūxisse - засветя, зазоря
 stupēscere - изумявам се, вцепенявам се, сковавам се
   obstupēscere - изумявам се, вцепенявам се, сковавам се, изтръпвам
@@ -820,3 +824,5 @@ flīgere, flīxisse, flīctum - блъскам
   prōflīgāre, prōflīgāvisse, prōflīgātum - побеждавам главоломно, сразявам, сломявам
 canere, cecinisse, cantum - пея
   concinere - пригласям, пея в хор, музикално съпровождам, довеждам до съзвучие
+latēscere, latuisse - крия се
+  dēlitēscere, dēlituisse - прикривам се
