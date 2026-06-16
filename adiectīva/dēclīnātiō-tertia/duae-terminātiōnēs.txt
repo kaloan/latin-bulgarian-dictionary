@@ -332,9 +332,9 @@ Chilēnsis, -is - чилийски
 Mytilēnsis, -is - митиленски
 Corinthiēnsis, -is - коринтянски
 Austrālis/Austrāliēnsis, -is - австралийски
-Cannēnsis - кански
-Alliēnsis - алийски
-Narbōnēnsis - нарбонски, провансалски
+Cannēnsis, -is - кански
+Alliēnsis, -is - алийски
+Narbōnēnsis, -is - нарбонски, провансалски
 
 Citiēnsis, -is - китионски
 Cȳrēnēnsis, -is - киренски
