@@ -4,6 +4,9 @@ falx, falcis, f - сърп
 malleus, -ī, m - чук
 arātrum, -ī, n - рало, плуг
 carrūca/carūca, -ae, f - (Средновековен латински) тежък плуг с колела
+būris, -is, m - дървената част на рало
+būra, būrae, f - дървената част на рало
+urvum, -ī, n - дървената част на рало
 hirpex, hirpicis, f - брана
 occa, -ae, f - брана
 traha/trahea/trаga, -ae, f - диканя
