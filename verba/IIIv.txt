@@ -68,6 +68,8 @@ fugere -iō, fugisse, fugitum - бягам от някого/нещо, избя�
   profugere -iō, profugisse - бягам, избягам
   refugere -iō, refugisse - избягам, убягвам, побягвам, oтбягвам
   trānsfugere -iō, trānsfugisse, trānsfugitum - бягам при врага, преминавам на вража страна
+  suffugere -iō, suffugisse - бягам към заслон/подслон/прикритие, бързо се отдалечавам от някого
+  suffugere (+acc) - успявам да избягам или да се прикрия от някого/наказание
 specere/spicere -iō, spexisse, spectum - гледам, виждам, зра
   aspicere -iō - поглеждам
   circumspicere -iō - оглеждам, диря
@@ -109,6 +111,7 @@ fodere -iō, fōdisse, fossum - копая, бъркам, убождам, про
   cōnfodere -iō, cōnfōdisse, cōnfossum - дупча, пронизвам, пробивам
   effodere -iō, effōdisse, effossum - изкопая, издълбая, тършувам
   trānsfodere -iō, trānsfodisse, trānsfossum - пронизвам, промушвам
+  suffodere - подкопавам, муша в долната част
 sapere -iō, sapīvisse - имам вкус (храна), вкусвам, имам вкус (преносно), зная, разбирам
   cōnsipere -iō - вменяем съм, разумен съм
   dēsipere -iō - лудувам, палувам, луд съм, не съм на себе си
