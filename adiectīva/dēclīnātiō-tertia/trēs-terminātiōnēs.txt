@@ -6,7 +6,7 @@ palūster, palūstris, palūstre - блатист, мочурлив
 palūdester, palūdestris, palūdestre - блатист, мочурлив
 celeber, celebris, celebre - претъпкан, гъсто населен, посещаван, с тълпа, многолюден, славен, знаменит, известен
   inceleber, incelebris, incelebre - незнаменит, неизвестен
-salūber, salūbris, salūbre - здрав, корав, крепък
+salūber, salūbris, salūbre - здрав, корав, крепък, благотворен
 pedester, pedestris, pedestre - пеши, пешеходен, пехотински, обикновен
 equester, equestris, equeste - коннически, кавалерийски
 sequester, sequestris, sequestre - посреднически

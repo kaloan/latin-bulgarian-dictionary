@@ -12,6 +12,7 @@ immemor, -is - забравил, с лоша памет, пренебрежит�
 concolor, -is (cum + dat) - съцветен на, със същия цвят като
 
 dīves/dīs, dīvitis/dītis, dīvitior/dītior, dīvitissimus/dītissimus - богат, богаташ
+praedīves, praedīvitis - най-богат
 āles, alitis - крилат
 hebes, hebetis - тъп (неостър), тъп (глупав), глупав, малоумен, бунак
 dēses, dēsidis - бездеен, мързелив
