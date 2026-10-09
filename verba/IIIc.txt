@@ -55,7 +55,7 @@ clangere - боботя, шумя, вия, лая
 plectere, plexisse, plexum - наказвам
 lacessere, lacessīvisse, lacessitum - подстрекавам, предизвиквам, насъсквам, нападам
 exārdēscere, exārsisse - разпалвам се, запалвам се
-polluere, polluisse, pollūtum - мърся
+polluere, polluisse, pollūtum - мърся (физически), мърся (морално)
 frondēscere, fronduisse - разклонявам се, разлиствам се, озеленявам, покълвам
 cōntremēscere, cōntremuisse - разтреса се
 conticēscere, conticuisse - млъквам, замлъквам
@@ -143,12 +143,14 @@ legere, lēgisse, lēctum - чета, бера, избирам, събирам
   dīligere, dīlēgisse, dīlēctum - оценявам, тача, обичам, любя, отбирам, пробирам, набирам войска
   ēligere, ēlēgisse, ēlēctum - избирам, отбирам, откъсвам
   intellegere, intellēxisse, intellēctum - разбирам
-  perlegere - прочитам
+  perlegere, perlēgisse, perlēctum - прочитам, разглеждам,
   neglegere, neglēxisse, neglēctum - отнасям се небрежно, пренебрегвам, нехая, немаря, презирам, бездействам
   sēligere, sēligisse, sēlēctum - избирам, отбирам
+  sublegere, sublēgisse, sublēctum - събирам от земята, избирам/попълвам със заместик, подслушвам
 spargere, sparsisse, sparsum - ръся, сипя, сея, пилея
   adspargere/adspergere/aspargere/aspergere, adsparsisse/adspersisse/asparsisse/aspersisse, adsparsum/adspersum/asparsum/aspersum - поръся, пръскам, посипя, обсипя, цапам
-  cōnspergere, cōnspergere, cōnspersum - поръся, разпръсвам
+  cōnspergere, cōnspersisse, cōnspersum - поръся, разпръсвам
+  dispergere, dispersisse, dispersum - разсипвам, разпръсвам, разсейвам
   respergere, respersisse, respersum - поръся, пръсвам, осейвам, обсипвам
 colere, coluisse, cultum - грижа се, поддържам, развивам, стопанисвам, закрилям, гледам, тача, почитам
   accolere, accoluisse, accultum - пребивавам в близост, съсед съм на

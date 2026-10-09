@@ -27,6 +27,10 @@ analysis, -ī, n - анализ
 digitus, -ī, n - цифра
 numerus, -ī, m - число
 dīmidium, -ī, n - половина
+triēns, trientis, m - трета
+quadrāns, quadrantins, m - четвърт
+quīntāns, quīntantis, m - пета
+sextāns, sextantis, m - шеста
 ūniō, ūniōnis, f - единица
 monas, monadis, f - монада, единица, единство
 bīniō, bīniōnis, m - двойка, двоица, две
