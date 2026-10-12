@@ -94,6 +94,9 @@ bōs, bovis, m/f - говедо
 iuvencus, -ī, m - зряло говедо
 taurus, -ī, m - бик
 vacca, -ae, f - крава
+būcula, -ae, f - юница
+iuvenca, -ae, f - юница
+iūnīx, iūnīcis, f - юница
 vitulus, -ī, m - теле
 vitellus, -ī, m - теленце
 ariēs, arietis, m - овен, коч

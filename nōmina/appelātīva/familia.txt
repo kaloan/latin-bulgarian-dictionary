@@ -97,6 +97,7 @@ marīta, -ae, f - съпруга
 coniūnx, coniugis, m/f - съпруг, съпруга
 subnuba, -ae, f - наложница
 paelex, paelicis, f - наложница
+concubīna, -ae, f - наложница
 glōs, glōris, f - сестра на съпруг
 lēvir, lēvirī, m - брат на съпруг
 mātrōna, -ae, f - госпожа, омъжена жена, мадам, матрона
