@@ -450,7 +450,12 @@ animō agitāre - обмислям
 animō valēre - с всичкия съм си
 cum/in animō habēre - имам си наум, планирам
 aliquem prōmissīs onerāre - обещавам много на някого
-
+(mūneribus) explēre - подарявам
+matellam praestāre alicui - върша слугински труд за някого
+verba ante facta pōnere - тача думите повече от делата
+victoriam exercēre - възползвам се от победа
+ōrnātus/exōrnātus (+abl) - с, имащ
+ex imprōvīsō - неочаквано, внезапно, рязко
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
