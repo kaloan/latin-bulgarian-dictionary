@@ -108,6 +108,7 @@ grāvāstellus, -ī, m - прегърбен старец
 iuvenis, -is, m/f - млад мъж, млада жена (??според едната книга около 30-ка??)
 adulēscēns, adulēscentis, m/f - юноша
 adulēscentulus, -ī, m - младок
+adulēscentia, -ae, f - юношество
 īnfantia, -ae, f - пеленачество
 vetustās, -ātis, f - старост, старчество, старина, древност
 senectūs, -ūtis, f - старчество

@@ -118,6 +118,7 @@ hinc et inde - отсам и оттам
 rādīx montis - полите на планиата
 necī dare - сея смърт
 lūdibrium habēre - вземам на присмех
+lūdibriō habēre - вземам на присмех
 plūs aequō - повече от необходимото/правилното
 manum cōnserere - водя битка (сключвам ръце???)
 prōmissīs stāre - изпълнявам обещанието си
@@ -456,9 +457,15 @@ verba ante facta pōnere - тача думите повече от делата
 victoriam exercēre - възползвам се от победа
 ōrnātus/exōrnātus (+abl) - с, имащ
 ex imprōvīsō - неочаквано, внезапно, рязко
+(mīlitēs) scrībere - набирам войска
+in rē spēs sita est - има надежда в нещо
+insidiās tendere - чакам в засада
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
+ex aequō - ???
+ex dēstinātō - ???
+ex dīversō - ???
 
 (diem suprēmum) obīre - умирам (преминавам последния си ден)
 mortem obīre - умирам
@@ -744,4 +751,4 @@ Prō dī immortālēs - За Бога!
 Ȳ, ȳ
 а̀ ѐ ѝ о̀ у̀ ъ̀
 а́ е́ и́ о́ у́ ъ́
-ā̆ ī̆
+ā̆ ī̆ ō̆

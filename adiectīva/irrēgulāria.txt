@@ -1,7 +1,9 @@
 bonus, melior, optimus - добър
 malus, pēior, pessinus - лош
 magnus, māior, māximus - голям, велик
+permagnus, -(!), -(!) - възголям, огромен
 magnificus, magnificentior, magnificentissimus - величествен
+permagnificus, -(!), -(!) - възвеличествен
 parvus, minor, minimus - малък
 multī, plūrēs/plūra, plūrimī pl - многобройни
 complūrēs, -ēs - изобилни, несчетни
@@ -38,6 +40,7 @@ necesse, indecl - необходимо, задължително
 prior, prīmus - преден, предишен, предходен
 īnferior, -is - долен, по-долен, по-млад, по-дребен
 adulēscentior, -ōris - по-млад
+ōcior, ōcissimus - по-бърз, по-пъргав, по-ранен; най-бърз, най-пъргав, най-ранен
 
 superus/supernus, superior, suprēmus/summus - горен, висок; по-горен, по-висок, по-многоброен, предишен, преден, по-възрастен, по-силен, по-добър, превъзхождащ, победител; пръв, висш, небесен, божествен
 medius, medior, medioximus - среден
