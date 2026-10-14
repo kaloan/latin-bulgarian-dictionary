@@ -748,6 +748,16 @@ fore ut - че ще [позлва се за бъдеще време в акто�
 
 Prō dī immortālēs - За Бога!
 
+diēs Lūnae - понеделник
+diēs Mārtis - вторник
+diēs Mercuriī - сряда
+diēs Iovis - четвъртък
+diēs Veneris - петък
+diēs Sāturnī - събота
+diēs Sōlis - неделя
+diēs Sabbatī - събота
+diēs Dominicus - неделя
+
 Ȳ, ȳ
 а̀ ѐ ѝ о̀ у̀ ъ̀
 а́ е́ и́ о́ у́ ъ́

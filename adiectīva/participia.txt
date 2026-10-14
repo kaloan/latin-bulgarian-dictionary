@@ -13,7 +13,8 @@ impatiēns, impatientis - нетърпелив
 dīligēns, dīligentis - усърден
 absēns, absentis - отсъстващ, липсващ
 praesēns, praesentis - присъстващ, наличен, сегашен, текущ, настоящ, благоприятен
-sapiēns, -ntis - умен, мъдър, разумен
+sapiēns, sapientis - умен, мъдър, разумен
+  īnsipiēns, insipientis - глупав, тъп, слабоумен, малоумен, плиткоумен, безразсъден
 fervēns, -entis - кипящ, пламенен, жарък, въодушевен
 obstināns, -antis - инатлив
 permanēns - постоянен

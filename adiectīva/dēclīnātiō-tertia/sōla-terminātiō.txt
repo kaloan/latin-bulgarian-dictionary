@@ -20,6 +20,8 @@ locuplēs, -ētis - богат, богаташ
 concors, concordis - съгласен, единогласиен, единен, единодушен, споделен, задружен, съвместен, мирен
 discors, discordis - разногласие, разединен, разнодушен, размирен, противоречив
 excors, excordis - глупав, тъп, лекомислен (действащ от сърцето/чувствата си)
+sōcors/socors, sōcors/socordis - глупав, мързелив, бездеен
+sōcors/socors (+gen) - незаинтерсован (от)
 misericors, misericordis - съчувствен, състрадателен
 immisericors, immisericordis - безчувствен, безмилостен, безпощаден
 inops, inopis - невещ, неможещ, жалък

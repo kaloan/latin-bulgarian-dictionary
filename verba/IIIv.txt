@@ -1,6 +1,8 @@
 facere -iō, fēcisse, fаctum - правя, върша
+facere (+gen) (+acc) - придавам (стойност) (на нещо)
   abolēfacere, abolēfēcisse, abolēfactum - заличавам, унищожавам, премахвам, отстранявам
   aedificāre (!!!), aedificāvisse, aedificātum - съграждам, изграждам, строя, създавам
+    exaedificāre (!!!), exaedificāvisse, exaedificātum - доизграждам, завършвам строеж
   amplificāre (!!!), amplificāvisse, amplificātum - уголемявам, усилвам, разраствам, възхвалявам, величая
   beātificāre (!!!), beātificāvisse, beātificātum - ощастливявам, зарадвам, възрадвам, правя блажен, благославям, беатифицирам
   benefacere -iō (+dat) - правя добро

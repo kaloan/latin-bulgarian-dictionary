@@ -22,6 +22,7 @@ rectā (viā) - пряко
 turpiter - противно, отвратително, безсрамно, грозновато
 lentē - бавно, мързеливо, мудно
 cōpiōsē - изобилно
+abundē - изобилно, предостатъчно
 occultē - тайно, скрито, прикрито
 apertē - известно, ясно, открито
 ūnicē - особено
@@ -147,6 +148,7 @@ hospitāliter - гостоприемно
 zēlanter - ревниво
 participiāliter - (граматически) като причастие
 contumāciter - твърдоглавo, опърничаво, непреклонно
+sōcorditer/socorditer - глупаво, безразсъдно, небрежно, мудно
 
 facile/faciliter - лесно
 difficile/difficiliter/difficulter - трудно
