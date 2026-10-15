@@ -31,7 +31,8 @@ mūla, -ae, f - женско муле
 hinnus, -ī, m - катър
 hinnulus, -ī, m - катърче
 onager, onagrī, m - азиатско диво магаре
-camēlis, -is, m - камила
+camēlis, -is, m - камила (съществува ли и тази форма???)
+camēlus, -ī, m - камила
 camēlopardalis, -is, m - жираф
 camēlopardalus, -ī, m - жираф
 camēlopardus, -ī, m - жираф
@@ -90,6 +91,7 @@ porcētra, -ae, f - свиня, която е раждала
 sūs, sūis, m/f - свиня, прасе
 sucula, -ae, f - свинче
 scrōfa, -ae, f - свиня за разплод
+sūmen, sūminis, n - свиня
 bōs, bovis, m/f - говедо
 iuvencus, -ī, m - зряло говедо
 taurus, -ī, m - бик
@@ -147,6 +149,8 @@ sōrex, sōricis, m - полска мишка
 rattus, -ī, m - плъх
 viverra, -ae, f - фретка, пор
 fūrunculus, -ī, m - фретка, пор, хермелин
+vesperūgō, -inis, f - прилеп
+vespertīliō, -ōnis, f - прилеп
 canis, -is, m/f - куче/кучка, хрът, хрътка, пес, псе, помияр
 canīcula, -ae, f - кученце, малка кучка
 catulus, -ī, m - паленце, кученце, вълче
@@ -254,6 +258,8 @@ echīnus, -ī, m - таралеж, морски таралеж
 lumbricus, -ī, m - червей (дъждовен), червей (паразит)
 vermis, -is, m - червей
   taenia, -ae, f - тения
+  hirūdō, -inis, f - пиявица
+  sanguisūga, -ae, f - пиявица
 timea, -ae, f - личинка, ларва
 cossus, -ī, m - дървояд
 mūrex, mūricis, m - морски охлюв, от който се прави Тирското пурпурно
@@ -276,6 +282,7 @@ gigās, gigantis, m - гигант
 pix, picis, f - сфинкс
 striga, -ae, f - зъл женски дух причиняващ кошмари, кошмар, вампир, вещица
 lamia, -ae, f - зъл женски дух пиещ кръвта на децата, (обобщено) вещица
+sanguisūga, -ae, f - вампир
 
 corallium, -ī, n - корал
 

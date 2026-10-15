@@ -102,6 +102,7 @@ morbus, -ī, m - болест, заболяване
   fīcus, -ūs, m/f - хемороид
   glaucōma, -ae, f - глаукома
   līvor, līvōris, m - синина (рана)
+  sūgillāta, -ōrum, n pl - синини (рана)
   constīpātiō, -ōnis, f - (Медицински латински) запек
   prōcidentia, -ae, f - пропадане/смъкване на орган
   cocles, coclitis, m - полуслепец, сляп с едното око

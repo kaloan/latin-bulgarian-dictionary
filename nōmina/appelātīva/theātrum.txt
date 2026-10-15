@@ -12,3 +12,4 @@ poēsis, -is, f - поезия
   mystica, -ae, f - мистика
   gnomica, -ae, f - гномика
   confessionalis, -is, f - конфеционализъм
+pulpitum, -ī, n - театрална сцена

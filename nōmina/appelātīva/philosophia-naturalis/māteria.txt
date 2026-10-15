@@ -29,6 +29,8 @@ metallum, -ī, n - метал
   kalium, -ī, n - калий
   hydrargyrus, -ī, m - живак
   hydrargyrum, -ī, n - (Нов латински) живак
+  aerūgō, -inis, f - патина, алчност, завист
+  ferrūgō, -inis, f - ръжда
 carbō, -ōnis, m - въглен, въглища
 carbunculus, -ī, m - въгленче
 thūs/tūs, thūris/tūris, n - тамян

@@ -98,7 +98,9 @@ pectus, pectoris, n - гръд, гърди, сърце (в смисъл на м�
   āxilla, -ae, f - подмишница
   ascella, -ae, f - подмишница
   costae, -ārum, f pl - ребра
-  mamma, -ae, f - гърда, виме
+  mamma, -ae, f - гърда
+  sūmen, sūminis, n - гърда
+  ūber, -is, n - гърда
 bracchium/brāchium, -ī, n - ръка, предмишница, животински крайник, клон
 bracchiolum, -ī, n - ръчица, ръчичка
   sinistra, -ae, f - левица, лява ръка

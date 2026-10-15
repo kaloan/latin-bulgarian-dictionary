@@ -18,8 +18,8 @@ senex, senior/māior nātū, māximus nātū - възрастен
 iuvenis, iuvenior/iūnior/minor nātū, minimis nātū - млад (~в детеродна възраст)
 vetus, veterior, veterrimus - вехт, стар
 
-facilis, facilior, facillimus - лесен
-difficilis, difficilior, difficillimus - труден
+facilis, facilior, facillimus - лесен, лесно подвижен, сръчен, бърз, благ, мил, с когото лесно се общува/живее, благоприятен
+difficilis, difficilior, difficillimus - труден, сложен, с когото трудно се общува/живее, придирчив, взискателен
 gracilis, gracilior, gracillimus - грациозен, слаб, изпит
 humilis, humilior, humillimus - нисък, низък, неизвестен
 similis, similior, simillimus (+dat/gen) - подобен, сходен

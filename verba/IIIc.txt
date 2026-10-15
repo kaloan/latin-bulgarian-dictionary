@@ -10,6 +10,7 @@ pluere, pluisse - вали
 compescere, compescuisse - въздържам се, преграждам, утолявам
 bibere, bibisse, bibitum - пия
 arcessere, arcessiisse/arcessīvisse, arcessītum - извиквам, каня, призовавам
+accersere, accersīvisse, accersītum - извиквам, каня, призовавам
 dīvidere, divīsisse, divīsum - деля, разделям, различавам
 metuere, metuisse, metutum - боя се, страхувам се
 frīgescere, frixiisse - изстивам
@@ -49,7 +50,6 @@ colluere - измивам
 intumēscere - набъбвам, издувам се
 percellere, perculisse, perculsum - налагам, бия, удрям, лупам, тупам, цапвам, халосвам, разстройвам, огорчавам
 recellere - отскачам
-perstrepere - кънтя, буча, еча
 concupīscere - копнея, жадувам, бленувам
 clangere - боботя, шумя, вия, лая
 plectere, plexisse, plexum - наказвам
@@ -110,6 +110,7 @@ patescere, patuisse - отварям се, разтварям се, открех
 frigere, -(!) - цивря
 scalpere, scalpsisse, scalptum - дера, чеша, гравирам, издълбавам
 augēscere, -(!), -(!) - започвам да раста
+fatīscere - правя пролука/цепнатина, карам да зее, изморявам се, изтощавам се, уморявам се
 
 -cumbere, -cubuisse, -cubitum [лежа]
   accumbere - сядам на масата (използва се глагола за лягам, т.к. римляните яли в прилегнало положение)
@@ -122,7 +123,7 @@ augēscere, -(!), -(!) - започвам да раста
 
 -uere, -uisse, -ūtum [-блека]
   induere, induisse, indūtum - обличам, навличам, (за дрехи) слагам
-  exuere,  exuisse, exutum - събличам, свалям, снемам, отказвам, отнемам, махам, премахвам, отстранявам
+  exuere,  exuisse, exutum - събличам, свалям, снемам, отказвам, отнемам, махам, премахвам, отстранявам, (военно) карам да влезе в бягство с оставено оръжие
 
 -nuere, -nuī, -nūtum (+dat) [кимам] (на български кимам е само за потвърждение???)
   abnuere - кимам в отказ
@@ -195,7 +196,7 @@ mittere, mīsisse, missum - пращам, освобождавам, мятам
   prōmittere - пращам напред, обещавам
     comprōmittere - съобещавам, обещаваме си взаимно
     reprōmittere - обещавам като отклик на обещание, гарантирам
-  remittere - връщам, мятам обратно
+  remittere - връщам, мятам обратно, отказвам се, поддавам, приключвам, позволявам, отпускам, (юридически) подавам молба за развод или разваляне на годеж
   submittere - поставям под друго, поднасям, понижавам, възпирам, подчинявам
   trānsmittere - препращам през, прехвърлям (преминавам), превалям, (за време) отминавам, преминавам на вража страна, пренебрегвам, нехая
 sistere, stitisse/stetisse, statum - спирам, проверявам
@@ -309,6 +310,7 @@ fīgere, fīxisse, fīxum/fictum - стягам, закачам, захваща�
   crucifīgere - разпъвам на кръст
   dēfīgere - забивам, буча, изявявам се категорично, втренчвам се, изумявам
   īnfīgere - мушкам, убождам, вмъквам
+  suffīgere - закрепям, прикрепям, разпна на кръст,
   trānsfīgere - промуша, пробивам
 sīdere, sēdisse/sīdisse, sessum - сядам, потъвам
   cōnsīdere - възсядам, утаявам
@@ -610,6 +612,7 @@ gerere, gessisse, gestum - нося (дрехи и т.н.), извършвам
     exaggerere - трупам, издигам, величая, превъзнасям, увеличавам, преувеличавам
   congerere - събирам, нося заедно
   oggerere - поставям голямо количество от нещо, предлагам
+  suggerere - нося под, поставям под, нахвърлям, издигам, снабдявам, предлагам, съветвам
 gemere, gemuisse, gemitum - тъжа, стена, въздишам
   ingemere - въздишам
 lūdere, lūsisse, lusum - играя
@@ -845,3 +848,13 @@ canere, cecinisse, cantum - пея
   concinere - пригласям, пея в хор, музикално съпровождам, довеждам до съзвучие
 latēscere, latuisse - крия се
   dēlitēscere, dēlituisse - прикривам се
+sūgere, sūxisse, sūctum - смуча, суча, изтощтавам почва
+  exsūgere - изсмуча
+strepere, strepuisse, strepitum - вдигам шум/врява, кънтя, тътна, буча, еча
+  adstrepere/astrepere - шумя
+  adstrepere/astrepere (+dat) - ръкопляскам/викам в нечия чест (на)
+  circumstrepere - шумя около, обливам с шум
+  instrepere - шумя, тракам, тропам, скърцам
+  obstrepere - буча, кънтя, вдигам олелия, досаждам, дразня
+  obstrepere (+dat) - овиквам
+  perstrepere - кънтя, буча, еча

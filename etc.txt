@@ -456,10 +456,13 @@ matellam praestāre alicui - върша слугински труд за няк�
 verba ante facta pōnere - тача думите повече от делата
 victoriam exercēre - възползвам се от победа
 ōrnātus/exōrnātus (+abl) - с, имащ
-ex imprōvīsō - неочаквано, внезапно, рязко
+dē/ex imprōvīsō - неочаквано, внезапно, рязко
 (mīlitēs) scrībere - набирам войска
 in rē spēs sita est - има надежда в нещо
 insidiās tendere - чакам в засада
+signum canere - тръбя за начало или друг знак на битка
+in prōmptū esse/habēre - лесно, в готовност
+(sēcum) agitāre - обмислям, премислям
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
@@ -628,6 +631,7 @@ grātiās agere - (обикн. за хора) отдавам благодарн�
 grātēs agere - (обикн. за богове) отдавам благодарности, благодаря
 grātiam referre - отплащам се за сторено добро, ставам квит
 grātiam repetere - поисквам услуга да ми бъде върната
+(dēlictī) grātiam facere - прощавам провинение
 
 versūs - стих
 ōrātiō solūta - проза (букв. свободна реч)
@@ -648,6 +652,8 @@ eā tempestāte - по онова време
 brevī tempore - малко след това
 id temporis - по това/такова време
 simul atque - веднага
+simul cum - заедно с, едновременно
+pariter cum - заедно с, едновременно
 ut (+perf) - след като
 ut (+imperf ind) - след като
 
