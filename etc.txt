@@ -463,6 +463,15 @@ insidiās tendere - чакам в засада
 signum canere - тръбя за начало или друг знак на битка
 in prōmptū esse/habēre - лесно, в готовност
 (sēcum) agitāre - обмислям, премислям
+hōc sōlāciō fruī/utī - имам за утеха, утешавам се чрез
+hōc/illō sōlāciō sē cōnsōlārī - имам за утеха
+sōlācium praebēre - утешавам се ???
+in servitūtem asserere - поробвам
+in lībertātem (manū) asserere - освобождавам
+līberālī causā (manū) asserere - освобождавам
+verbō/nōmine tenus - тъй да се каже, по име
+satura lanx - плодова салата
+per saturam - безредно, на вси страни
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
@@ -540,6 +549,8 @@ bellum indīcere - обявявам война
 bellum fīnīre - приключвам война
 bellum pōnere/compōnere/omittere - приключвам война
 bellum tollere - приключвам война
+bellum sociāle - междусъюзническа война
+bellum cīvīle - гражданска война
 spolia opīma - военен трофей от убит в битка вражески главнокомандващ отдаван в чест на Юпитер, има 3 такива трофея, един от Ромул, един от Авъл Корнелий Кос и един от Марк Клавдий Марцел
 arma cōnferre (inter sē) -  воюваме помежду си
 dīlēctūs agere - извършвам мобилизация, мобилизирам

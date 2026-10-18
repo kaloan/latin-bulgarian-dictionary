@@ -1,5 +1,6 @@
 corpus, corporis, n - тяло
 sexus, -ūs, m - пол
+secus, indecl, n - пол
 sēnsōrium, -ī, n - сетивен орган, сетиво
 sēnsuālitās, -ātis, f - сетивност
 membrum, -ī, n - крайник, полов член
@@ -60,6 +61,7 @@ capitulum, -ī, n - главичка
   maxilla, -ae, f - долна челюст
   rictus, -ūs, m - челюст
   mandibula, -ae, f - челюстна кост
+  mandibulum, -ī, n - челюстна кост
   ōs, ōris, n - уста
     labrum, -ī, n - устна
     labellum, -ī, n - устничка
@@ -144,6 +146,7 @@ pūga, -ae, f - дупе
 pȳga, -ae, f - дупе
   pōdex, -icis, m - анус
   sphinctēr, -is, m - (първоначално) аналния сфинктер, сфинктер
+sexus, -ūs, m - полови органи
 pudenda, -ōrum, n pl - срамни части, срамота
 veretrum, -ī, n - външната част на гениталиите
 lumbī, -ōrum, m pl - слабини, гениталии

@@ -6,6 +6,7 @@ poēsis, -is, f - поезия
     activa, -ae, f - пърформанс поезия
     elegiaca, -ae, f - елегия
     lyrica, -ae, f - лирика
+    satura, -ae, f - сатира
   epica, -ae, f - епика
   dramatica, -ae, f - драма
   didactica, -ae, f - дидактика
@@ -13,3 +14,4 @@ poēsis, -is, f - поезия
   gnomica, -ae, f - гномика
   confessionalis, -is, f - конфеционализъм
 pulpitum, -ī, n - театрална сцена
+mandūcus, -ī, m - комична роля на маскиран дъвчещ човек

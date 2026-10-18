@@ -319,6 +319,10 @@ caelebs, -is - (за мъж) неженен, (за предмет) обвърз�
 triumvirālis, -is - триумвирски
 vēnālis, -is - за продан, продажен
 negōtiālis, -is - търговски
+satiābilis, -is - утолим
+īnsatiābilis, -is - неутолим
+saturābilis, -is - утолим
+īnsaturābilis, -is - неутолим, ненаситен
 
 orientālis, -is - източен
 occidentālis, -is - западен
