@@ -71,6 +71,7 @@ equestris, -is - конен
 puerīlis, -is - момчешки, детински
 caelestis, -is - небесен
 iuvenālis, -is - младежки
+iuvenīlis, -is - младежки
 populāris, -is - народен, популярен
 immedicābilis, -is - неизлечим
 locālis, -is - местен, локален
@@ -323,6 +324,7 @@ satiābilis, -is - утолим
 īnsatiābilis, -is - неутолим
 saturābilis, -is - утолим
 īnsaturābilis, -is - неутолим, ненаситен
+gregālis, -is - стаден, от същото стадо, типичен
 
 orientālis, -is - източен
 occidentālis, -is - западен

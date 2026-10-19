@@ -10,7 +10,7 @@ pecū, indecl, n - стадо
 pecua, pecuum, n pl - добитък, добичета, пасища
 pecus, pecoris, n - добитък (буквално), добитък (обидно), стадо, добиче (обикновено едро като крава, кон, муле)
 pecus, pecudis, f - добиче (обикновено дребно като овца, коза, свиня), скот
-grex, gregis, m - стадо
+grex, gregis, m - стадо, тълпа, сбирщина
 exāmen, exāminis, n - рояк
 equus, -ī, m - кон, жребец
 equa, -ae, f - жребица
@@ -247,6 +247,7 @@ serpēns, -entis, m/f - змия, влечуго
   natrīx, natrīcis, f - водна змя
 lacerta, -ae, f - гущер
 lacertus, -ī, m - гущер
+stēlliō, -ōnis, m - вид малък гущер или дъждовник
 testūdō, -inis, f - костенурка, коруба на костенурка
 delphinus, -ī, m - делфин
   porcus marīnus - тъпонос делфин
