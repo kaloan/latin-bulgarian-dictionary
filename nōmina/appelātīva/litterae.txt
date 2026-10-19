@@ -38,7 +38,9 @@ liber, librī, m - книга, свитък
   diurnum, -ī, n - часослов, дневник, отчетна книга, протокол
   ephēmeris, -idis, f - дневник
   synodicon, -ī, n - (Църковен латински) синодик
+  kalendārium/calendārium, -ī, n - счетоводна книга
 thema, thematis, n - тема
+āctiō, āctiōnis, f - сюжет
 titulus, -ī, m - заглавие, надпис, епитаф
 īnscrīptiō, -ōnis, f - надпис, заглавие, наслов
 praefātiō, -ōnis, f - предговор

@@ -1,5 +1,7 @@
 tragoedia, -ae, f - трагедия
 cōmoedia, -ae, f - комедия
+  statāria, -ae, f - тиха комедия
+  motoria, -ae, f - шумна и гръмка комедия
 satira, -ae, f - сатира
 poēsis, -is, f - поезия
   cantata, -ae, f - кантата
@@ -16,3 +18,4 @@ poēsis, -is, f - поезия
 pulpitum, -ī, n - театрална сцена
 mandūcus, -ī, m - комична роля на маскиран дъвчещ човек
 grex, gregis, m - актьорска трупа, отбор колесничари
+āctor, -ōris, m - актьор
