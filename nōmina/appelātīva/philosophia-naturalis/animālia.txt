@@ -169,6 +169,7 @@ homullus, -ī, m - човече
 homunculus, -ī, m - човече
 homunciō, -ōnis, m - човече
 sēmihomō, sēmihominis, m - получовек
+aquātilia, -ium, n pl - водни животни
 piscis, -is, m - риба
   apua, -ae, f - малка риба (обобщено понятие, не точен вид)
   sardīna, -ae, f - сардина

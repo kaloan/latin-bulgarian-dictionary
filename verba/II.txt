@@ -139,7 +139,7 @@ sedēre, sēdisse, sessum - седя, мирен съм (не мърдам)
   persedēre, persēdisse - заседявам се, уседявам
   possidēre, possēdisse, possessum - притежавам, имам, държа
   praesidēre, praesēdisse, praesessum - седя пред/отпред, председателствам, защитавам, браня, вардя
-  residēre, resēdisse, resessum - седя, отсядам, седя изправен, бездействам, изоставам
+  residēre, resēdisse, resessum - седя, кацнал съм, отсядам, седя изправен, бездействам, отсядам, помещавам се, лагерувам, утаявам се, устоявам, устоявам, оставам, изоставам, чезна, отмалявам, вехна
   supersedēre, supersēdisse, supersessum - възсядам, възпирам, въздържам, пропускам
   supersedēre (+dat) - председателствам
   supersedēre (+abl/dat/acc + īnf) - бавя, пренебрегвам, изоставям, спирам
