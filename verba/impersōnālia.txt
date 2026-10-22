@@ -3,6 +3,7 @@ libēre, libuisse (imp) (+dat) - харесва се на, обича се от
   collibēre, collibuisse (imp) (+dat) - харесва се на, обича се от
 oportēre, opportuisse (imp) - редно е да, правилно е да
 decēre, decuisse (imp) (+acc) - пристойно е, подходящо е
+convenīre, vēnisse (imp) - удачно е, сходно е, подходящо е, пасва, сполучливо е
 pudēre, puduisse, puditum (imp) (+acc) (+gen, īnf) - срам (го) е (от), срамува
 pigēre, piguisse (imp) (+acc) (+gen, īnf) - (някой) се отвращава (от нещо)
 paenitēre, paenituisse (imp) (+acc) (+gen, īnf) - (някой) съжалява (за действието си)

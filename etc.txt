@@ -473,6 +473,8 @@ verbō/nōmine tenus - тъй да се каже, по име
 satura lanx - плодова салата
 per saturam - безредно, на вси страни
 nervōs contendere - бъхтя се, зоря се
+rem cōnferre - използвам нещо
+(vectigālia) exercēre - управлявам
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
@@ -608,10 +610,17 @@ diēs tertius - другиден (???)
 nōn commitam ut - не допускам
 in eō esse ut - редовно правя, отвреме на време правя
 
+et ..., et ... - и ..., и ...
 vel ..., vel ... - дали ..., или ...
+utrum ..., an ... - дали ..., или ...
 cum ... tum ... - като ... и ...; както ... така и ...
 quō ... eō ... - толкова .. колкото???
 pars ... pars ... - едни ..., други ...
+
+haud sciō an - хич не знам дали, може и да, вероятно
+nesciō an - не знам дали, може и да, вероятно
+dubitō an - съмнявам се, че
+
 inter haec - по това време
 
 certum (+dat) est - (някой) разсъждава сигурно/решително
@@ -662,6 +671,7 @@ eō tempore - тогава, по онова време
 illō tempore - тогава
 eā tempestāte - по онова време
 brevī tempore - малко след това
+perbrevī tempore - веднага след това
 id temporis - по това/такова време
 simul atque - веднага
 simul cum - заедно с, едновременно

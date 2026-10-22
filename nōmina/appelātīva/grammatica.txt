@@ -68,6 +68,7 @@ coniūnctiō, con. - съюз
 interiectiō, int. - междуметие
 
 dactylus, ‑ī, m - дактил
+brevis, -is, m - дактил
 dipthongus, ‑ī, m - дифтонга
 epigramma, epigrammatis, n - епиграма
 hendecasyllabus, ‑ī, m - стих от единайсет срички

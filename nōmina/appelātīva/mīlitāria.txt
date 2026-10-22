@@ -6,8 +6,10 @@ bellum, -ī, n - война, бран
   pugna, -ae, f - бой, битка
   certāmen, -inis, n - бой, битка
   proelium, -ī, n - битка, схватка
+  irruptiō, -ōnis, f - набег, нахлуване, нахълтвам, пробив, щурм
   oppugnātiō, -ōnis, f - нападение, атака
   incursiō, -ōnis, f - набег, нашествие, нахлуване
+  excursiō, -ōnis, f - нахлуване, нападение
   expugnātiō, -ōnis, f - превземане
   obses, -idis, m/f - заложник, залог
   obsessor, -ōris, m - обсадител
