@@ -337,7 +337,8 @@ hostem cònficere - требя враг
 admirātiōne tenerī (+gen) - имам почит (към)
 in fidem accipere - приемам предадено
 in catēnās conicere - турям вериги/окови
-coniectūram facere - допускам, правя заключение, правя връзка
+coniectūram facere - допускам, правя заключение, правя връзка, виждам връзка
+coniectūrā perspicere - правя заключение, правя връзка, виждам връзка
 inter omnēs constāre - съгласувам се с всички
 memoriae trādere/mandāre/prōdere - оставям сведения
 praecipitem dare - мятам, хвърлям (с главата напред)
@@ -475,6 +476,7 @@ per saturam - безредно, на вси страни
 nervōs contendere - бъхтя се, зоря се
 rem cōnferre - използвам нещо
 (vectigālia) exercēre - управлявам
+ratiōnem habēre alicuius - искам чуждо мнение
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
