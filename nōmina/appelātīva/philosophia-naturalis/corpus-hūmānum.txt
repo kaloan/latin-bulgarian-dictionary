@@ -256,3 +256,5 @@ potentia, -ae, f - възможност, сила
 impotentia, -ae, f - невъзможност, безсилие
 
 cellula, -ae, f - клетка (биологическа)
+
+gravitās, -ātis, f - бременност
