@@ -31,7 +31,7 @@ facere (+gen) (+acc) - придавам (стойност) (на нещо)
   pavefacere -iō, pavefēcisse, pavefactum - плаша, уплаша, изплаша, смущавам, тревожа
   perficere -iō, perfēcisse, perfectum - завършвам, довършвам
   praeficere -iō, praefēcisse, praefectum - поставям начело
-  prōficere -iō, prōfēcisse, prōfectum - напредвам, подобрявам, доправя, довършвам, постигам
+  prōficere -iō, prōfēcisse, prōfectum - напредвам, подобрявам, доправя, довършвам, постигам, успявам
   reficere -iō, refēcisse, refectum - преправям, преустройвам, преустроявам
   rubefacere -iō, rubefēcisse, rubefactum - червя, правя червено
   satisfacere -iō, satisfēcisse, satisfаctum (+dat) - задоволявам, извинявам се, обезщетявам
