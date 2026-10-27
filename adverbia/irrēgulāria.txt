@@ -1,6 +1,7 @@
 bene, melius, optimē - добре
 male, pēius, pessimē - зле
 paulum, minus, minimum - малко
+  paululum - малкичко
 parvum, minus, minimē - малко
 magnopere/valdē, magis, māximē - силно, здраво
 multum, plūs, plūrimum - много

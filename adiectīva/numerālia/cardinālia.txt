@@ -26,7 +26,7 @@ nōnnūllum, nōnnūllum, nōnnūllīus, nōnnūllī, nōnnūllō, nōnnūlla, n
 ūna, ūnam, ūnīus, ūnī, ūnā, ūnae, ūnās, ūnārum, ūnīs, ūnīs - една
 ūnum, ūnum, ūnīus, ūnī, ūnō, ūna, ūna, ūnōrum, ūnīs, ūnīs - едно
 sēsquiplex, sēsquiplicis - един и половина пъти зает/запълнен
-duo, duōs, duōrum/duum, duōbus, duōbus - два
+duo, duōs/duo, duōrum/duum, duōbus, duōbus - два
 duae, duās, duārum, duābus, duābus - две (женски род)
 dua/duo, dua/duo, duōrum/duum, duōbus, duōbus - две (среден род)
 ambō, ambōs, ambōrum, ambōbus, ambōbus - и двата
