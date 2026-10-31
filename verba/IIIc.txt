@@ -211,6 +211,8 @@ sistere, stitisse/stetisse, statum - спирам, проверявам
   circumsistere, circumstitisse - обикалям, обкръжавам, от всички страни съм
   cōnsistere, cōnstitisse - спирам, прекъсвам, заставам на място
   dēsistere, dēstitisse, destitum - възпирам, прекратявам
+  exsistere/existere, exstitisse/existere - явявам се, появявам се, (военно) нападам из засада, бивам, съществувам
+    coexsistere, coexstitisse - съществуваме заедно
   īnsistere, institisse - настоявам
   obsistere, obstitisse - съпротивлявам се
   resistere, restitisse - не помръдвам, спирам да се движа, противя се, удържам
@@ -223,7 +225,7 @@ cadere, cecidisse, cāsum - падам, изпадам, отпадам, губя
   accidere, accidisse - падам, спускам се, смъквам се, свличам се, дочувам се
   concidere, concidisse - падам, припадам, прималявам, сривам се, убиват ме, отслабвам, разпадам се
   dēcidere, dēcidisse - падам надолу, тупвам, потъвам, умирам
-  excidere, excidisse - падам от, отпадам, губя се, изчезвам, избягвам (от ума)
+  excidere, excidisse - падам от, отпадам, губя се, изчезвам, избягвам (от ума), припадам
   excidere (+abl) - лишен съм (от), липсва ми (нещо), не получавам (нещо)
   incidere, incidisse (+dat/+in+acc) - падам връз, попадам на, нападам, попадам под нечия власт
   occidere, occidisse, occāsum - падам, залязвам, загивам, умирам, загубен съм, унищожен съм
@@ -330,9 +332,11 @@ vīsere, vīsisse - виждам, посещавам
   revīsere - посещавам повторно
 tinguere, tinxisse, tinctum - намокрям, топвам
   extinguere - убивам, угасвам, разрушавам
-stinguere, stinxisse, stinctum  - гася, унищожавам
-  exstinguere, еxstinxisse, exstinctum - угасявам, убивам, унищожавам
-  restinguere, restinxisse, restinctum - изгасявам, убивам, унищожавам
+stinguere, stīnxisse, stīnctum  - гася, унищожавам
+  distinguere, distīnxisse, distīnctum - различавам, (поетично) отделям/разделям, разкрасявам, (реторически) правя пауза между изречения
+  exstinguere, еxstīnxisse, exstīnctum - угасявам, убивам, унищожавам
+    coexstinguere, coеxstīnxisse, coexstīnctum - умирам заедно с
+  restinguere, restīnxisse, restīnctum - изгасявам, убивам, унищожавам
 tendere, tetendisse, tentum/tēnsum - опъвам, опвам, дърпам, напрягам, насочвам оръжие (от опъвам тетивата), пъна се, напрягам се, зоря се, запътя се
   attendere, attendisse, attentum - насочвам внимание, внимавам, грижа се
   contendere, contendisse, contentum - натягам, настройвам струнен музикален инструмент, (топографски) шири се, пътувам, боря се, придвижвам се, опъвам (лък), напрягам се, изстрелвам метателно оръжие
@@ -667,7 +671,7 @@ stringere, strīnxisse, strictum - стържа, рендосвам, привъ�
   praestringere - стягам, затягам, засягам (докосвам/закачам), засягам (въпрос/тема), отслабвам, притъпявам, заслепявам, обърквам
 cernere, crēvisse, crētum - откроявам, очертавам, забелязвам, различавам, отличавам, определям, зървам
   concernere - смесвам,
-  dēcernere - отсъждам, присъждам, гласувам, разпореждам, решавам чрез битка, сраважам се
+  dēcernere - отсъждам, присъждам, решавам, гласувам, разпореждам, решавам чрез битка, сраважам се
   discernere - разпознавам, различавам, отличавам
   sēcernere - разделям, разединявам, откъсвам, отделям, правя разлика между
 suēscere, suēvisse, suētum - свиквам, приучвам, приучвам се

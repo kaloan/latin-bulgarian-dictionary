@@ -8,6 +8,7 @@ multum, plūs, plūrimum - много
 nēquiter, nēquius, nēquissimē - подло, отвратително, низко, безполезно
 saepe, saepius, saepissimē - често
   saepiculē - честичко
+  persaepe - много често
 rārō, rārius, rārissimē - рядко
 mātūrē, mātūrius, māturrimē - навреме, навременно
 praemātūrē, praemātūrius, praemāturrimē - предвременно, твърде рано

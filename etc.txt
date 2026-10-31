@@ -138,7 +138,6 @@ nōn/nec ultrā - никога насетне
 caedēs prōmiscua - всевъзможна сеч
 lētō dare - убивам
 lētō darī - умирам
-quō (+ coni) (+comp) - че да стане по-
 grātiā valēre - благодарствам
 prō nihilō dūcere - омаловажавам, обезценявам, пренебрегвам
 poenās dare - наказвам
@@ -484,6 +483,8 @@ lēge commitere - нарушавам закона
 (pecūniam) in quaestū relinquere - давам пари с лихва
 sūmptum facere in aliquem - давам пари на някого, правя разходи за нечия полза
 feriās habēre - почивам от работа, взимам си почивен ден
+quid mihi - защо?
+aliquid alicui approbāre - правя нещо задоволително за някого
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
