@@ -152,6 +152,7 @@ habēre, habuisse, habitum - имам, притежавам, задържам, �
   cohibēre, cohibuisse, cohibitum - сдържам, задържам
   exhibēre, exhibuisse, exhibitum - показвам, излагам, представям, доставям, зареждам
   inhibēre, inhibuisse, inhibitum - удържам, ограничавам, налагам наказание
+  perhibēre, perhibuisse, perhibitum - предоставям, отпущам, назовавам, казвам
   praebēre, praebuisse, praebitum - предоставям, снабдявам, предавам
   prohibēre, prohibuisse, prohibitum - задържам, възпрепятствам, предотвратявам, опропастявам
 suādēre, suāsisse - убеждавам, увещавам, уверявам

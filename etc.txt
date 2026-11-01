@@ -485,6 +485,10 @@ sūmptum facere in aliquem - давам пари на някого, правя �
 feriās habēre - почивам от работа, взимам си почивен ден
 quid mihi - защо?
 aliquid alicui approbāre - правя нещо задоволително за някого
+in mātrimōnium dare - давам за брак
+in mātrimōnium collocāre - давам за брак
+nuncupāre hēredem - обявявам за наследник
+nuncupāre testāmentum - произнасям своето завещание
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно

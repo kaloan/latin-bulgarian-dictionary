@@ -5,6 +5,7 @@ obitus, -ūs, m - отиване, отпътуване, заминаване, з
 orcus, -ī, m - смърт
 dēfunctus, -ūs, m - смърт
 dēfūnctiō, -ōnis, m - довършване, приключване, смърт
+interitus, -ūs, m - смърт
 mortālitās, -ātis, f - смъртност
 immortālitās, -ātis, f - безсмъртие, безсмъртност
 fūnus, fūneris, n - погребение, смърт, труп
