@@ -506,7 +506,7 @@ caedere, cecīdisse, caesum - разрязвам, порязвам, поразя
   accīdere, accīdisse, accīsum - порязвам, използвам, намалявам, отслабвам, намалявам, унищожавам
   accīdere sē - разпадам се
   circumcīdere, circumcīdisse, circumcīssum - режа около, отрязвам, обрязвам, скъсявам, премахвам
-  concīdere, concīdisse, concīsum - прорязвам, пробивам, пребивам, посичам, убивам, унищожавам, измамвам
+  concīdere, concīdisse, concīsum - прорязвам, пробивам, пребивам, посичам, убивам, унищожавам, довеждам до края на нещо, измамвам
   dēcīdere, dēcīdisse, dēcīssum - отрязвам, намалявам, пребивам, решавам
   discīdere, discīdisse, discīsum - разсичам, разрязвам
   excīdere, excīdisse, excīsum - изрязвам, отрязвам, отсичам, разрушавам, унищожавам, пращам в изгнание
@@ -561,7 +561,7 @@ quaerere (+īnf) - желая
   requīrere, requīsiisse/requīsivisse, requīsitum - търся, питам, изисквам
 flectere, flexisse, flexum - вия, свивам
   dēflectere - отбивам
-  īnflectere - свивам, скланям (граматически), спрягам (граматически)
+  īnflectere - свивам, скланям (граматически), спрягам (граматически), преобръщам се (преносно), изменям се
   reflectere - обръщам, отразявам
 nectere, nexuisse, nexum - плета, връзвам, мотая, обвързвам
   adnectere - вплитам, заплитам

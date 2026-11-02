@@ -1,5 +1,6 @@
 bonus, melior, optimus - добър
 malus, pēior, pessinus - лош
+dēterior, dēterrimus - по-лош; най-лош
 magnus, māior, māximus - голям, велик
 permagnus, -(!), -(!) - възголям, огромен
 magnificus, magnificentior, magnificentissimus - величествен
@@ -49,7 +50,7 @@ exterus/externus, exterior, extrēmus - външен, по-краен, крае�
 
 interior/interiius, intimus - по-вътрешен
 anterior/anterius - преден, по-раншен, предишен, бивш
-posterior/posterius - заден, по-
+posterior/posterius - заден, по- (???)
 ulterior/ulterius, ultimus - (в компаратив) по-далечен; (в суберлатив) най-далечен, последен
   paenultimus/pēnultimus - предпоследен
   antepaenultimus/antepēnultimus - предпредпоследен

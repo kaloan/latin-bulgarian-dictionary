@@ -489,6 +489,10 @@ in mātrimōnium dare - давам за брак
 in mātrimōnium collocāre - давам за брак
 nuncupāre hēredem - обявявам за наследник
 nuncupāre testāmentum - произнасям своето завещание
+in auspiciīs esse - вещая чрез наблюдаване на птици
+abitrātū suō - по свое усмотрение, по своя воля
+fidem arbitrārī (+dat) - доверявам се (на)
+ex īnstitūtō - според закона, следвайки закона
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
