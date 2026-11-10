@@ -49,6 +49,7 @@ iners, inertis - недодялан, непохватен, сакат (прен�
 longipēs, longipedis - с голямо стъпало, дългокрак
 ālipēs, ālipedis - с крила на стъпалата/глезените, възбърз
 sōspes, sōspitis - читав, запазен, жив и здрав, здрав и читав
+caeles, caelitis - небесен
 
 vehemēns, vehementis - насилващ, буен
 recēns, recentis - пресен, скорошен, нов, млад

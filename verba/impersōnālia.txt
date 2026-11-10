@@ -6,7 +6,7 @@ decēre, decuisse (imp) (+acc) - пристойно е, подходящо е
 convenīre, vēnisse (imp) - удачно е, сходно е, подходящо е, пасва, сполучливо е
 pudēre, puduisse, puditum (imp) (+acc) (+gen, īnf) - срам (го) е (от), срамува
 pigēre, piguisse (imp) (+acc) (+gen, īnf) - (някой) се отвращава (от нещо)
-paenitēre, paenituisse (imp) (+acc) (+gen, īnf) - (някой) съжалява (за действието си)
+paenitēre, paenituisse (imp) (+acc) (+gen, īnf) - (някой) съжалява (за действието си), (някой) се дразни (от), (някой) недоволства/негодува (заради)
 miserēre, miseruisse (imp) (+acc) (+gen, īnf) - (някой) съжалява/съчувсвтва/състрадава (някого/нещо)
 taedēre, taesum esse (imp) (+acc) (+gen, īnf) - (на някого му) доскучава (от), (някой се) отегчава (от), (някой) се измъчва (от), (някой) се отвращава (от)
 pertaedere, pertaesum/pertisum esse (imp) (+acc) (+gen, īnf) - (на някой му) доскучава (от), (някой) го гнети (нещо)

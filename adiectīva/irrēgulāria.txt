@@ -8,7 +8,7 @@ permagnificus, -(!), -(!) - възвеличествен
 parvus, minor, minimus - малък
 multī, plūrēs/plūra, plūrimī pl - многобройни
 complūrēs, -ēs - изобилни, несчетни
-multus, plūs plūris, plūrimus - много
+multus, plūs/plūris, plūrimus - прекомерен, късен, прекомерно приказващ; (приложено към друго прилагателно) по-, (в генетив) по-скъп/по-мил/по-драг [съкратена форма на plūris pretiī]; (в генетив) най-скъп/най-мил/най-драг [съкратена форма на plūrimī pretiī]
 nēquam (indecl), nēquior, nēquissimus - подъл, отвратителен, низък, безполезен, нищо и никакъв, никаквец
 propinquus, propior, proximus - близък, близолежащ, сроден
 mātūrus, mātūrior, mātūrrimus/mātūrissimus - зрял, съзрял, навременен
@@ -46,7 +46,7 @@ adulēscentior, -ōris - по-млад
 superus/supernus, superior, suprēmus/summus - горен, висок; по-горен, по-висок, по-многоброен, предишен, преден, по-възрастен, по-силен, по-добър, превъзхождащ, победител; пръв, висш, небесен, божествен
 medius, medior, medioximus - среден
 īnferus/īnfernus, īnferior, īnfimus/īmus - долен, нисък, последен (в суперлатив), низш, адски, пъклен
-exterus/externus, exterior, extrēmus - външен, по-краен, краен/последен
+exterus/externus, exterior, extrēmus/extimus - външен, по-краен, краен/последен
 
 interior/interiius, intimus - по-вътрешен
 anterior/anterius - преден, по-раншен, предишен, бивш
