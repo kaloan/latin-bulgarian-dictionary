@@ -43,9 +43,11 @@ capitulum, -ī, n - главичка
     cora, -ae, f - зеница
     pūpula, -ae, f - зеница
     pūpilla, -ae, f - зеница
+    aciēs, aciēī, f - зеница
     rētīna, -ae, f - ретина
     album, -ī, n - склера
   vīsus, -ūs, m - зрение
+  aciēs, aciēī, f - зрение, острота на сетиво
   nāsus, -ī, m - нос
   odōrātus, -ūs, m - обоняние
   auris, -is, f - ухо

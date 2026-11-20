@@ -37,6 +37,7 @@ mūsa, -ae, f - песен, поема
 melos, indecl, n - песен
 cantus, -ūs, m - песен
 carmen, -inis, n - песен, поема
+concentus, -ūs, m - съзвучие
 ōda, ōdae, f - ода
 cantilēna, -ae, f - стара песен, поговорка, клюка, бръщолевене, брътвеж
 cantiō, -ōnis, f - пеене
