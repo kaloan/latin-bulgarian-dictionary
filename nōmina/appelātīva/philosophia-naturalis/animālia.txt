@@ -6,6 +6,7 @@ bēlua, -ae, f - зверище, чудовище
 hibrida, -ae, f - мелез, хибрид
 domitūra, -ae, f - опитомяване
 domitor, -ōris, m - дресьор, звероукротител, покорител, завоевател
+bisulca, -ōrum, n pl - чифтокопитни
 pecū, indecl, n - стадо
 pecua, pecuum, n pl - добитък, добичета, пасища
 pecus, pecoris, n - добитък (буквално), добитък (обидно), стадо, добиче (обикновено едро като крава, кон, муле)
@@ -37,6 +38,7 @@ camēlopardalis, -is, m - жираф
 camēlopardalus, -ī, m - жираф
 camēlopardus, -ī, m - жираф
 rhīnoceros, -ōtis, m - носорог, човек с дълъг нос
+oryx, orygis, m - антилопа, газела, дива коза
 aquila, -ae, f - орел
 accipiter, accipitris, m - ястреб, чучулигар, (преносно) граблив човек
 astur, -is, m - ястреб
