@@ -430,6 +430,8 @@ conventus cīvium Rōmānōrum - римско малцинство/общнос�
 vulgō ferre - разпространявам новини
 cōntiōnem dare - разрешавам събиране
 auxiliō esse - на помощ съм, помагам
+auxiliō mittere - пращам на помощ
+auxiliō venīre - идвам на помощ
 prō ratā (parte) - пропорционално
 (in tabulās) referre - надписвам
 per vicem - съвместно, един другиго
@@ -503,6 +505,9 @@ sermōnibus sē dare (+gen) - отдавам внимание на словат�
 vestīgiīs ingredī (+gen) - вървя по стъпките (на), подражавам (на)
 pulsus (vēnārum) - пулс
 ad/in integrum stātum - към предишното състояние
+latus apertum - оголен фланг
+ad pinnās bibere - [Средновековен латински] изпивам много, натрясквам се
+nulla cōpia (+gen) - пълна липса (на)
 
 nihilō minus/sētius - обаче
 dē/ex compositō - по договаряне, според договореното, съвместно
@@ -648,6 +653,10 @@ ita ..., ut ... - така ..., както ...
 quidem ..., vērō/sed ... - и да ..., пък ...
 aliō ..., aliō ... - по един начин ..., а по друг ...
 nōn aliās quam - никак освен; заради нищо освен
+īdem atque/ac - също както, по същия начин като
+pār/aequus atque/ac - наравно с, колкото и
+contrā atque/ac - противно на, против
+aliter atque/ac - по друг начин спрямо/от
 
 alius atque/post/deinde alius - и едни, и други [т.е. разнороден характер]
 aliud ex aliō - едно от друго

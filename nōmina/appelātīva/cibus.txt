@@ -31,6 +31,8 @@ salārium, -ī, n - ястие
   pulmentum, -ī, n - яхния, разядка
   pulmentārium, -ī, n - яхния
   iūs, iūris, n - сос, супа, сок
+  gustus, -ūs, m - предястие, предвкусване
+  gustātiō, -ōnis, f - предястие
   caput, capitis, n - основно ястие
   tragēmata, -um, n pl - сушени плодове за десерт, бонбони, дражета
   simila, -ae, f - брашно

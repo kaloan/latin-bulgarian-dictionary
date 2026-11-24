@@ -4,6 +4,7 @@ facere (+gen) (+acc) - придавам (стойност) (на нещо)
   aedificāre (!!!), aedificāvisse, aedificātum - съграждам, изграждам, строя, създавам
     exaedificāre (!!!), exaedificāvisse, exaedificātum - доизграждам, завършвам строеж
   amplificāre (!!!), amplificāvisse, amplificātum - уголемявам, усилвам, разраствам, възхвалявам, величая
+  assuēfacere, assuēfēcisse, assuēfactum (+abl) - свиквам (с)
   beātificāre (!!!), beātificāvisse, beātificātum - ощастливявам, зарадвам, възрадвам, правя блажен, благославям, беатифицирам
   benefacere -iō (+dat) - правя добро
   calefacere -iō - стоплям, загрявам
@@ -57,6 +58,7 @@ iacere -iō, iēcisse, iactum - хвърлям, мятам, поставям, и
   inicere -iō, iniēcisse, iniēctum - захвърлям, нахвърлям, вмятам, подмятам (намек), намеквам, споменавам, причинявам, придавам
   intericere -iō, interiēcisse, interiēctum - хвърлям между, вмъквам, вмествам
   obicere -iō, obiēcisse, obiēctum - противопоставям, опълчвам, срещуполагам
+  porricere -iō, porrēcisse, porrēctum - принасям в жертва
   prōicere -iō, prōiēcisse, prōiēctum - хвърлям напред, падам пред
   rēicere -iō, rēiēcisse, rēiēctum - отхвърлям, отричам
   subicere -iō, subiēcisse, subiēctum - подлагам, хвърлям под, поставям под, подхвърлям, разкривам, допълвам текст
