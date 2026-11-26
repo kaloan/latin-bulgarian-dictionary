@@ -159,6 +159,7 @@ aedicula, -ae, f - параклис,  къщичка, къщурка
   refectōrium, -ī, n - трапезария, столова
 forum, -ī, n - форум, мегдан
 mercātus, -ūs, m - пазар
+loculus, -ī, m - сергия
 statua, -ae, f - статуя
 staticulum, -ī, n - статуйка, статуетка
 statunculum, -ī, n - статуйка, статуетка

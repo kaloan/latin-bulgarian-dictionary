@@ -252,6 +252,7 @@ lacerta, -ae, f - гущер
 lacertus, -ī, m - гущер
 stēlliō, -ōnis, m - вид малък гущер или дъждовник
 testūdō, -inis, f - костенурка, коруба на костенурка
+crocodīlus/crocodillus/corcodīlus/corcodillus/cocodrillus, -ī, m - крокодил
 delphinus, -ī, m - делфин
   porcus marīnus - тъпонос делфин
 vitulus marīnus - тюлен

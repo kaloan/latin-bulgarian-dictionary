@@ -2,7 +2,9 @@ galliciniō - по първи петли
 māne - сутрин
 antemerīdiem - сутрин, предобедно
 merīdiē - по обед, обедно, по пладне
+prīmā lūce - по развиделяване, заран
 postmerīdiem/pōmerīdiem - следобед, следобедно
+multō diē - късно през деня
 vesperi - вечер
 hodiē - днес
 cotīdiē/cottīdiē/quotīdiē - всеки ден
